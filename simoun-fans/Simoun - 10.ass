@@ -5,8 +5,8 @@ Title:
 Original Script:
 ScriptType: v4.00+
 Collisions: Normal
-PlayResY: 600
-PlayResX: 800
+PlayResY: 464
+PlayResX: 832
 PlayDepth: 0
 Timer: 100.0000
 Last Style Storage: Default
