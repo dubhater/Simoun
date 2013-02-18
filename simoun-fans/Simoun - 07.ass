@@ -22,7 +22,7 @@ Video Position: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
-Style: Series,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
+Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
@@ -63,7 +63,7 @@ Dialogue: 0,0:03:07.59,0:03:08.26,Default,,0,0,0,,Vyura!
 Dialogue: 0,0:03:09.47,0:03:11.51,Default,,0,0,0,,I left some snacks on my desk.
 Dialogue: 0,0:03:11.52,0:03:12.77,Default,,0,0,0,,Go ahead and eat them, if you want.
 Dialogue: 0,0:03:13.98,0:03:15.73,Default,,0,0,0,,Don't wake me up when you get back.
-Dialogue: 0,0:03:16.19,0:03:22.19,Series,,0,0,0,,Over International Waters
+Dialogue: 0,0:03:16.19,0:03:22.19,Titles,,0,0,0,,Over International Waters
 Dialogue: 0,0:03:44.76,0:03:46.47,Default,,0,0,0,,Hey, they've fixed her up beautifully!
 Dialogue: 0,0:03:50.97,0:03:52.85,Default,,0,0,0,,These kids really worked hard at it.
 Dialogue: 0,0:03:53.06,0:03:56.89,Default,,0,0,0,,She's a real antique, but it looks like they did a good job.
@@ -329,8 +329,8 @@ Dialogue: 0,0:23:53.60,0:23:59.50,END,,0,0,0,,
 Dialogue: 0,0:23:59.50,0:24:02.50,END,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,END,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,END,,0,0,0,,
-Dialogue: 0,0:24:20.00,0:24:21.70,Series,,0,0,0,,Next Episode
+Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.28,0:24:26.85,Default,,0,0,0,,Chor Tempest will play host to the Highland Priestess Angulas for a little while.
 Dialogue: 0,0:24:29.83,0:24:31.83,Default,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:31.87,0:24:33.23,Default,,0,0,0,,Prayer.
-Dialogue: 0,0:24:30.47,0:24:34.77,Series,,0,0,0,,Prayer
+Dialogue: 0,0:24:30.47,0:24:34.77,Titles,,0,0,0,,Prayer

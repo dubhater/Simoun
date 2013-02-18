@@ -22,7 +22,7 @@ Video Position: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
-Style: Series,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
+Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
@@ -50,7 +50,7 @@ Dialogue: 0,0:02:03.17,0:02:06.23,Default,,0,0,0,,Why is their prayer having no 
 Dialogue: 0,0:02:06.76,0:02:07.02,Default,,0,0,0,,Kaimu!
 Dialogue: 0,0:02:07.81,0:02:08.65,Default,,0,0,0,,Nee-san!
 Dialogue: 0,0:02:09.17,0:02:12.07,Default,,0,0,0,,Don't call me that!
-Dialogue: 0,0:02:12.40,0:02:18.18,Series,,0,0,0,,Reason
+Dialogue: 0,0:02:12.40,0:02:18.18,Titles,,0,0,0,,Reason
 Dialogue: 0,0:02:36.13,0:02:37.59,Default,,0,0,0,,Prayer?
 Dialogue: 0,0:02:38.07,0:02:42.52,Default,,0,0,0,,Yes, the chariots of the gods are activated by the prayers of the Simoun sibyllae.
 Dialogue: 0,0:02:43.17,0:02:46.64,Default,,0,0,0,,Two priestesses unite their hearts in praise of Tempus Spatium.
@@ -259,8 +259,8 @@ Dialogue: 0,0:23:53.60,0:23:59.50,END,,0,0,0,,
 Dialogue: 0,0:23:59.50,0:24:02.50,END,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,END,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,END,,0,0,0,,
-Dialogue: 0,0:24:20.00,0:24:21.70,Series,,0,0,0,,Next Episode
+Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.68,0:24:26.85,Default,,0,0,0,,Are you ordering me to dismantle a Simoun, Sibylla Dominura?
 Dialogue: 0,0:24:29.33,0:24:31.33,Default,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:31.67,0:24:33.23,Default,,0,0,0,,That Which Must Not Be Violated.
-Dialogue: 0,0:24:30.47,0:24:34.77,Series,,0,0,0,,That Which Must Not Be Violated
+Dialogue: 0,0:24:30.47,0:24:34.77,Titles,,0,0,0,,That Which Must Not Be Violated

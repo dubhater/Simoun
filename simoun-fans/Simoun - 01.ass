@@ -22,7 +22,7 @@ Video Position: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
-Style: Series,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
+Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
@@ -39,7 +39,7 @@ Dialogue: 0,0:01:09.70,0:01:16.78,OP,,0,0,0,,mirai to yubikiri suru no o yameta 
 Dialogue: 0,0:01:16.84,0:01:23.93,OP,,0,0,0,,itami kara tooku nogareyou to shite mo\NEven though I ran far away from the pain,
 Dialogue: 0,0:01:24.23,0:01:30.55,OP,,0,0,0,,hieta kaze ga, hora, kami o yurasu yo\NLook! A chill wind blows through my hair.
 Dialogue: 0,0:01:30.94,0:01:38.21,OP,,0,0,0,,doko de kotae o sagaseba ii?\NWhere should I search for answers?
-Dialogue: 0,0:02:05.11,0:02:08.60,Series,,0,0,0,,The Argentum Archipelago
+Dialogue: 0,0:02:05.11,0:02:08.60,Titles,,0,0,0,,The Argentum Archipelago
 Dialogue: 0,0:02:41.40,0:02:45.78,Default,,0,0,0,,Our Archipelago has the best science and technology on Daikuuriku.
 Dialogue: 0,0:02:47.12,0:02:50.83,Default,,0,0,0,,However, we have been unable to develop an airship that can fly above the clouds.
 Dialogue: 0,0:02:51.67,0:02:56.04,Default,,0,0,0,,A single lightning strike would incinerate one in an instant.
@@ -49,8 +49,8 @@ Dialogue: 0,0:03:30.45,0:03:36.08,Default,,0,0,0,,Our country has tried repeated
 Dialogue: 0,0:03:36.88,0:03:39.50,Default,,0,0,0,,But every time we've tried, they've stopped us.
 Dialogue: 0,0:03:54.90,0:03:58.81,Default,,0,0,0,,This is the Holy Land's secret: demons. Simoun.
 Dialogue: 0,0:03:59.90,0:04:04.75,Default,,0,0,0,,Nothing else on Daikuuriku can fly that freely in the sky.
-Dialogue: 0,0:04:04.38,0:04:10.12,Series,,0,0,0,,Fallen Wings
-Dialogue: 0,0:04:10.62,0:04:13.30,Series,,0,0,0,,The Holy Land of Simulacrum
+Dialogue: 0,0:04:04.38,0:04:10.12,Titles,,0,0,0,,Fallen Wings
+Dialogue: 0,0:04:10.62,0:04:13.30,Titles,,0,0,0,,The Holy Land of Simulacrum
 Dialogue: 0,0:04:39.40,0:04:45.15,Default,,0,0,0,,It's only a routine deterrence patrol.
 Dialogue: 0,0:05:05.17,0:05:06.01,Default,,0,0,0,,Neviril-sama!
 Dialogue: 0,0:05:06.68,0:05:08.30,Default,,0,0,0,,You should address her as "Sibylla Aurea!"
@@ -232,8 +232,8 @@ Dialogue: 0,0:23:58.60,0:24:04.50,END,,0,0,0,,sora e maiagare inori no uta\NDanc
 Dialogue: 0,0:24:04.50,0:24:07.50,END,,0,0,0,,ososugiru omoi o nosete\NCarries my thoughts of you, far too late.
 Dialogue: 0,0:24:07.50,0:24:13.00,END,,0,0,0,,ashita o kaeru tame nani ga dekiru?\NWhat can I do to change tomorrow,
 Dialogue: 0,0:24:13.00,0:24:19.20,END,,0,0,0,,ari no mama no "ima" kakaete\NWhen I still bear the burden of today?
-Dialogue: 0,0:24:25.00,0:24:26.70,Series,,0,0,0,,Next Episode
+Dialogue: 0,0:24:25.00,0:24:26.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:28.68,0:24:31.55,Default,,0,0,0,,The Simoun should never have fallen, but they did.
 Dialogue: 0,0:24:35.33,0:24:37.33,Default,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:37.33,0:24:39.13,Default,,0,0,0,,The Blue Spring.
-Dialogue: 0,0:24:35.47,0:24:39.77,Series,,0,0,0,,The Blue Spring
+Dialogue: 0,0:24:35.47,0:24:39.77,Titles,,0,0,0,,The Blue Spring

@@ -22,7 +22,7 @@ Video Position: 5
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
-Style: Series,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
+Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
@@ -52,7 +52,7 @@ Dialogue: 0,0:02:48.04,0:02:54.13,Default,,0,0,0,,I know how bad the situation i
 Dialogue: 0,0:02:54.14,0:02:56.82,Default,,0,0,0,,They've been through a lot of painful things lately.
 Dialogue: 0,0:02:59.38,0:02:59.98,Default,,0,0,0,,Right.
 Dialogue: 0,0:03:01.29,0:03:02.91,Default,,0,0,0,,And there will probably be more.
-Dialogue: 0,0:03:03.55,0:03:09.00,Series,,0,0,0,,That Which Must Not Be Violated
+Dialogue: 0,0:03:03.55,0:03:09.00,Titles,,0,0,0,,That Which Must Not Be Violated
 Dialogue: 0,0:03:32.29,0:03:34.12,Default,,0,0,0,,Oh, there's someone in here.
 Dialogue: 0,0:03:34.24,0:03:37.49,Default,,0,0,0,,Sibylla Morinas!
 Dialogue: 0,0:03:38.81,0:03:42.37,Default,,0,0,0,,Don't worry about it—I'm planning to become a man.
@@ -242,8 +242,8 @@ Dialogue: 0,0:23:53.60,0:23:59.50,END,,0,0,0,,
 Dialogue: 0,0:23:59.50,0:24:02.50,END,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,END,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,END,,0,0,0,,
-Dialogue: 0,0:24:20.00,0:24:21.70,Series,,0,0,0,,Next Episode
+Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.38,0:24:26.85,Default,,0,0,0,,The Archipelago's new fighters are everywhere, and our forces are being pushed back.
 Dialogue: 0,0:24:29.33,0:24:31.23,Default,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:31.27,0:24:33.03,Default,,0,0,0,,One By One.
-Dialogue: 0,0:24:30.47,0:24:34.77,Series,,0,0,0,,One By One
+Dialogue: 0,0:24:30.47,0:24:34.77,Titles,,0,0,0,,One By One
