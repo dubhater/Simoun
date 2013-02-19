@@ -30,17 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:50.21,0:01:54.38,Regular,,0,0,0,,My name is Wauf, and I'm the captain of the {\i1}Messis{\i0}.
 Dialogue: 0,0:01:54.38,0:01:59.88,Regular,,0,0,0,,The enemy base ship that Chor Tempest discovered in Plumbish airspace...
 Dialogue: 0,0:01:59.88,0:02:02.48,Regular,,0,0,0,,...is still missing.
@@ -314,19 +303,6 @@ Dialogue: 0,0:22:26.47,0:22:28.40,Regular,,0,0,0,,We have managed to survive...
 Dialogue: 0,0:22:29.62,0:22:34.77,Regular,,0,0,0,,...thanks to the Arcus Prima and the returning Simoun from Chor Tempest.
 Dialogue: 0,0:22:37.15,0:22:42.67,Regular,,0,0,0,,However, as for Sibylla Dominura and Sibylla Limone's Simoun... 
 Dialogue: 0,0:22:43.07,0:22:47.06,Regular,,0,0,0,,...we were unable to find any trace of it.
-Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:22.28,0:24:26.85,Regular,,0,0,0,,Chor Tempest are sent to a forbidden place, and they learn its secrets.
 Dialogue: 0,0:24:29.33,0:24:30.63,Regular,,0,0,0,,Next time, on Simoun:

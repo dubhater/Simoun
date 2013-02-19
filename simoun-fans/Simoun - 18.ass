@@ -30,17 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:21:14.20,0:21:26.70,Lullaby,,0,0,0,,And on they echo, the swirls of light.
 Dialogue: 0,0:21:28.10,0:21:39.90,Lullaby,,0,0,0,,Such blessed happiness they give to us.
 Dialogue: 0,0:21:43.20,0:21:50.00,Lullaby,,0,0,0,,Proof of a world that will never be destroyed.
@@ -304,19 +293,6 @@ Dialogue: 0,0:22:15.90,0:22:17.50,Regular,,0,0,0,,That's a wise decision.
 Dialogue: 0,0:22:18.18,0:22:21.68,Regular,,0,0,0,,Promises are meant to be kept.
 Dialogue: 0,0:22:34.74,0:22:37.09,Regular,,0,0,0,,I have to go.
 Dialogue: 0,0:22:37.37,0:22:38.57,Regular,,0,0,0,,So do I.
-Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:22.28,0:24:22.85,Regular,,0,0,0,,Neviril is shot down,
 Dialogue: 0,0:24:23.08,0:24:26.65,Regular,,0,0,0,,and forced to make an emergency landing

@@ -30,17 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:14:12.08,0:14:18.45,Lullaby,,0,0,0,,The clouds still shine white
 Dialogue: 0,0:14:22.79,0:14:27.13,Lullaby,,0,0,0,,In the blackness of the shadows.
 Dialogue: 0,0:14:30.12,0:14:35.25,Lullaby,,0,0,0,,The red light of the fires...
@@ -271,19 +260,6 @@ Dialogue: 0,0:22:25.44,0:22:27.32,Regular,,0,0,0,,and you chose me.
 Dialogue: 0,0:22:28.90,0:22:32.19,Regular,,0,0,0,,That connection is what creates the Ri Maajon.
 Dialogue: 0,0:22:33.76,0:22:36.70,Regular,,0,0,0,,Just for you, I want to draw...
 Dialogue: 0,0:22:44.94,0:22:47.22,Regular,,0,0,0,,...the Emerald Ri Maajon.
-Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.38,0:24:26.85,Regular,,0,0,0,,The {\i1}Messis{\i0} comes under an all-out attack from the Archipelago's fighters.
 Dialogue: 0,0:24:29.33,0:24:31.33,Regular,,0,0,0,,Next time, on Simoun:

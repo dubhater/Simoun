@@ -30,17 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:57.07,0:01:59.34,Regular,,0,0,0,,With the death of Sibylla Mamiina,
 Dialogue: 0,0:01:59.76,0:02:02.42,Regular,,0,0,0,,and the ancient Simoun having fallen into the hands of the Islanders,
 Dialogue: 0,0:02:02.42,0:02:04.46,Regular,,0,0,0,,they're now on an equal footing with us.
@@ -323,19 +312,6 @@ Dialogue: 0,0:22:24.46,0:22:28.10,Regular,,0,0,0,,and for the yesterdays which h
 Dialogue: 0,0:22:34.83,0:22:35.69,Regular,,0,0,0,,Sibyllae...
 Dialogue: 0,0:22:37.84,0:22:39.26,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:22:39.75,0:22:41.02,Regular,,0,0,0,,We are!
-Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.88,0:24:26.85,Regular,,0,0,0,,Tempus Spatium grants us another possibility.
 Dialogue: 0,0:24:28.33,0:24:30.33,Regular,,0,0,0,,Next time, on Simoun:

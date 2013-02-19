@@ -30,17 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:02:10.96,0:02:14.16,Regular,,0,0,0,,They say "home is where the heart is."
 Dialogue: 0,0:02:14.22,0:02:16.26,Regular,,0,0,0,,Well, everyone certainly seems at home here.
 Dialogue: 0,0:02:16.30,0:02:19.30,Regular,,0,0,0,,Looks like it's taking some people a little longer, though.
@@ -333,19 +322,6 @@ Dialogue: 0,0:22:24.59,0:22:26.79,Regular,,0,0,0,,The Simoun are demons!
 Dialogue: 0,0:22:28.26,0:22:30.35,Regular,,0,0,0,,Mastif, what are you doing?
 Dialogue: 0,0:22:30.35,0:22:33.20,Regular,,0,0,0,,Don't make those kids fight any more.
 Dialogue: 0,0:22:34.57,0:22:37.84,Regular,,0,0,0,,This is our war!
-Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:21.68,0:24:26.85,Regular,,0,0,0,,Kaimu and Alti fly as a pair and go on a scouting mission.
 Dialogue: 0,0:24:29.33,0:24:31.33,Regular,,0,0,0,,Next time, on Simoun:
