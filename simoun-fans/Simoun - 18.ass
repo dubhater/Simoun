@@ -23,7 +23,7 @@ Video Position: 0
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Lyrics bottom,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
-Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
+Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 Style: Lullaby,Arial Rounded MT Bold,40,&H00B1FFFD,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 
 [Events]
@@ -46,262 +46,262 @@ Dialogue: 0,0:21:51.60,0:21:57.30,Lullaby,,0,0,0,,The priestesses of Tempus Spat
 Dialogue: 0,0:21:59.00,0:22:06.00,Lullaby,,0,0,0,,Will rock the cradle until the morning wakes you.
 Dialogue: 0,0:22:07.00,0:22:13.10,Lullaby,,0,0,0,,Under the Great Mother's care,
 Dialogue: 0,0:22:15.00,0:22:19.70,Lullaby,,0,0,0,,Under white wings.
-Dialogue: 0,0:01:45.57,0:01:50.99,Default,,0,0,0,,We will proceed as planned. Chor Tempest will enter at low altitude, with our speaker cables attached. 
-Dialogue: 0,0:01:50.99,0:01:55.23,Default,,0,0,0,,Our mission objective is to protect the Ruins from the Alliance between Plumbum and Argentum!
-Dialogue: 0,0:02:03.08,0:02:04.10,Default,,0,0,0,,It's the enemy!
+Dialogue: 0,0:01:45.57,0:01:50.99,Regular,,0,0,0,,We will proceed as planned. Chor Tempest will enter at low altitude, with our speaker cables attached. 
+Dialogue: 0,0:01:50.99,0:01:55.23,Regular,,0,0,0,,Our mission objective is to protect the Ruins from the Alliance between Plumbum and Argentum!
+Dialogue: 0,0:02:03.08,0:02:04.10,Regular,,0,0,0,,It's the enemy!
 Dialogue: 0,0:02:04.26,0:02:10.14,Titles,,0,0,0,,Funeral Procession
-Dialogue: 0,0:02:16.85,0:02:20.10,Default,,0,0,0,,Her soul was bound by sin. 
-Dialogue: 0,0:02:20.53,0:02:23.66,Default,,0,0,0,,However, through the compassion of Tempus Spatium,
-Dialogue: 0,0:02:23.72,0:02:28.24,Default,,0,0,0,,and the benevolence of the Holy Land, we forgive and receive her. 
-Dialogue: 0,0:02:48.81,0:02:52.21,Default,,0,0,0,,Why was Angulas's body inside that ancient Simoun?
-Dialogue: 0,0:02:52.58,0:02:54.75,Default,,0,0,0,,She was definitely...
-Dialogue: 0,0:02:57.50,0:03:00.53,Default,,0,0,0,,AA - E - RU ! ! !
-Dialogue: 0,0:03:07.03,0:03:11.52,Default,,0,0,0,,They were unable to find so much as a single splinter of bone. 
-Dialogue: 0,0:03:18.94,0:03:23.00,Default,,0,0,0,,She has received the protection of Tempus Spatium.
-Dialogue: 0,0:03:23.12,0:03:26.92,Default,,0,0,0,,For the one departing upon a new journey, we offer a prayer. 
-Dialogue: 0,0:03:53.99,0:03:57.86,Default,,0,0,0,,A Highland priestess who acted as a covert operative! 
-Dialogue: 0,0:03:57.86,0:04:00.09,Default,,0,0,0,,I'm surprised they would allow her funeral to be held here on the {\i1}Arcus Prima{\i0}.
-Dialogue: 0,0:04:00.09,0:04:02.13,Default,,0,0,0,,That was what Her Eminence wanted.
-Dialogue: 0,0:04:02.25,0:04:04.05,Default,,0,0,0,,And the Defence Minister?
-Dialogue: 0,0:04:04.17,0:04:10.08,Default,,0,0,0,,Because of Plumbum and Argentum's new alliance, the Ministry claims that they cannot even risk returning her body. 
-Dialogue: 0,0:04:10.30,0:04:12.90,Default,,0,0,0,,Despite their apparent hostility towards each other?
-Dialogue: 0,0:04:12.96,0:04:15.90,Default,,0,0,0,,I certainly didn't expect the two of them to agree about this.
-Dialogue: 0,0:04:16.58,0:04:19.02,Default,,0,0,0,,That's what worries me.
-Dialogue: 0,0:04:31.58,0:04:33.78,Default,,0,0,0,,The wind won't blow in here.
-Dialogue: 0,0:04:36.78,0:04:38.14,Default,,0,0,0,,Neviril!
-Dialogue: 0,0:04:38.36,0:04:42.94,Default,,0,0,0,,Who'd have thought that you'd start a conversation with me?
-Dialogue: 0,0:04:47.64,0:04:49.37,Default,,0,0,0,,What happened at the Ruins...
-Dialogue: 0,0:04:51.51,0:04:53.18,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:04:58.28,0:05:00.42,Default,,0,0,0,,Huh? What?
-Dialogue: 0,0:05:02.89,0:05:04.19,Default,,0,0,0,,The Spring?
-Dialogue: 0,0:05:08.18,0:05:13.72,Default,,0,0,0,,The Spring was inside the Ruins, and Onashia was there as well. 
-Dialogue: 0,0:05:15.33,0:05:19.85,Default,,0,0,0,,This place... this place {\i1}is{\i0} the Spring!
-Dialogue: 0,0:05:19.88,0:05:21.80,Default,,0,0,0,,It's just like Grandpa said!
-Dialogue: 0,0:05:27.43,0:05:33.15,Default,,0,0,0,,And Angulas, who we thought had been blown up in the explosion, was inside the ancient Simoun. 
-Dialogue: 0,0:05:33.37,0:05:36.43,Default,,0,0,0,,I think Angulas went somewhere.
-Dialogue: 0,0:05:36.43,0:05:37.26,Default,,0,0,0,,What?
-Dialogue: 0,0:05:37.39,0:05:38.59,Default,,0,0,0,,You know, back then...
-Dialogue: 0,0:05:38.59,0:05:41.01,Default,,0,0,0,,At the instant the Simoun exploded,
-Dialogue: 0,0:05:42.21,0:05:43.79,Default,,0,0,0,,she went to another world.
-Dialogue: 0,0:05:43.79,0:05:46.70,Default,,0,0,0,,Another... world? 
-Dialogue: 0,0:05:48.99,0:05:54.22,Default,,0,0,0,,We finally get back to the Arcus Prima,\Nand now all this weird stuff keeps happening! 
-Dialogue: 0,0:05:54.22,0:05:56.97,Default,,0,0,0,,I know. Can't we even relax for a second?
-Dialogue: 0,0:05:58.73,0:06:00.28,Default,,0,0,0,,No, there's no time to relax.
-Dialogue: 0,0:06:00.28,0:06:03.53,Default,,0,0,0,,I heard that we're supposed to meet at the Maaju Pool right after this.
-Dialogue: 0,0:06:03.68,0:06:07.61,Default,,0,0,0,,I like doing Maaju, but it sucks to do it just 'cause we're ordered to. 
-Dialogue: 0,0:06:07.74,0:06:10.37,Default,,0,0,0,,Hey, isn't that Neviril and Aaeru?
-Dialogue: 0,0:06:14.74,0:06:16.80,Default,,0,0,0,,Oh? I guess they got over their differences.
-Dialogue: 0,0:06:16.86,0:06:18.26,Default,,0,0,0,,What do you mean, "got over?"
-Dialogue: 0,0:06:18.26,0:06:20.82,Default,,0,0,0,,It was just Neviril being an idiot!
-Dialogue: 0,0:06:34.37,0:06:38.18,Default,,0,0,0,,W-Wait, Aaeru. What's...?
-Dialogue: 0,0:06:39.26,0:06:41.52,Default,,0,0,0,,It's like Grandpa always said.
-Dialogue: 0,0:06:46.78,0:06:49.16,Default,,0,0,0,,Come on! Over here!
-Dialogue: 0,0:06:49.66,0:06:51.89,Default,,0,0,0,,Come on, Grandpa! Hurry up!
-Dialogue: 0,0:06:51.89,0:06:53.59,Default,,0,0,0,,Aaeru.
-Dialogue: 0,0:06:54.14,0:06:56.62,Default,,0,0,0,,This is as far as I can go.
-Dialogue: 0,0:06:56.62,0:06:57.30,Default,,0,0,0,,Huh?
-Dialogue: 0,0:06:57.30,0:06:59.77,Default,,0,0,0,,But you, you have to keep going.
-Dialogue: 0,0:06:59.84,0:07:04.48,Default,,0,0,0,,You see, growing old means that you have to make a few decisions along the way. 
-Dialogue: 0,0:07:04.69,0:07:10.91,Default,,0,0,0,,And once you've made those decisions, those possibilities are gone forever. 
-Dialogue: 0,0:07:10.91,0:07:12.98,Default,,0,0,0,,I don't understand!
-Dialogue: 0,0:07:13.26,0:07:16.91,Default,,0,0,0,,A Simoun lets you see what's to come.
-Dialogue: 0,0:07:17.41,0:07:19.08,Default,,0,0,0,,"What's to come?"
-Dialogue: 0,0:07:21.71,0:07:24.37,Default,,0,0,0,,Another world!
-Dialogue: 0,0:07:26.66,0:07:29.91,Default,,0,0,0,,I don't know what he meant by that.
-Dialogue: 0,0:07:30.00,0:07:33.34,Default,,0,0,0,,But Grandpa always longed to go there.
-Dialogue: 0,0:07:33.34,0:07:37.61,Default,,0,0,0,,Aaeru, is that the reason you didn't want to choose your sex?
-Dialogue: 0,0:07:41.32,0:07:43.27,Default,,0,0,0,,The helical motors...
-Dialogue: 0,0:07:43.27,0:07:46.64,Default,,0,0,0,,It is said that they manipulate time and space.
-Dialogue: 0,0:07:46.74,0:07:52.49,Default,,0,0,0,,But I always thought that was just a fairy tale,\Ntold to make the Simoun seem sacred. 
-Dialogue: 0,0:07:52.77,0:07:56.14,Default,,0,0,0,,"I am everywhere, and I am nowhere."
-Dialogue: 0,0:07:58.49,0:08:00.41,Default,,0,0,0,,If Onashia is like that,
-Dialogue: 0,0:08:00.94,0:08:02.67,Default,,0,0,0,,and Angulas was like that,
-Dialogue: 0,0:08:03.04,0:08:05.05,Default,,0,0,0,,and the Simoun are like that...
-Dialogue: 0,0:08:05.89,0:08:07.22,Default,,0,0,0,,Then...
-Dialogue: 0,0:08:07.34,0:08:09.38,Default,,0,0,0,,...Limone and Dominura might be too?
-Dialogue: 0,0:08:15.39,0:08:16.81,Default,,0,0,0,,What we've just discussed...
-Dialogue: 0,0:08:16.81,0:08:18.91,Default,,0,0,0,,It must remain a secret between us.
-Dialogue: 0,0:08:18.91,0:08:20.95,Default,,0,0,0,,We'll keep it a secret, then?
-Dialogue: 0,0:08:22.19,0:08:23.68,Default,,0,0,0,,Just the two of us.
-Dialogue: 0,0:08:24.88,0:08:25.94,Default,,0,0,0,,Yes.
-Dialogue: 0,0:08:30.79,0:08:33.55,Default,,0,0,0,,Why didn't you go to Angulas's funeral?
-Dialogue: 0,0:08:33.55,0:08:34.75,Default,,0,0,0,,That was the decision.
-Dialogue: 0,0:08:34.75,0:08:39.92,Default,,0,0,0,,"No one from a low-born family like yours can be permitted to attend such a holy ceremony." 
-Dialogue: 0,0:08:39.92,0:08:42.05,Default,,0,0,0,,Wh-Why? Until now, we've always...
-Dialogue: 0,0:08:42.05,0:08:43.35,Default,,0,0,0,,Things change.
-Dialogue: 0,0:08:43.35,0:08:45.43,Default,,0,0,0,,Besides, Central Command is all screwed up.
-Dialogue: 0,0:08:45.43,0:08:49.08,Default,,0,0,0,,But they even approved the funeral of an enemy priestess, so...
-Dialogue: 0,0:08:49.14,0:08:51.49,Default,,0,0,0,,Hey, that's not the sort of thing I'd expect you to say.
-Dialogue: 0,0:08:51.64,0:08:53.78,Default,,0,0,0,,Didn't you like Angulas?
-Dialogue: 0,0:08:55.36,0:08:57.37,Default,,0,0,0,,But... but...
-Dialogue: 0,0:08:59.87,0:09:02.29,Default,,0,0,0,,I expected at least this much discrimination.
-Dialogue: 0,0:09:02.29,0:09:03.09,Default,,0,0,0,,What?
-Dialogue: 0,0:09:03.37,0:09:09.65,Default,,0,0,0,,It was only because of the Vice-Chairman's influence that I was able to remain a Simoun sibylla. 
-Dialogue: 0,0:09:09.93,0:09:11.44,Default,,0,0,0,,Mamiina...
-Dialogue: 0,0:09:12.12,0:09:14.54,Default,,0,0,0,,The Vice-Chairman has changed.
-Dialogue: 0,0:09:17.07,0:09:19.27,Default,,0,0,0,,Now he's just a regular old geezer!
-Dialogue: 0,0:09:19.27,0:09:21.28,Default,,0,0,0,,Oh! Mamiina, please!
-Dialogue: 0,0:09:21.28,0:09:23.17,Default,,0,0,0,,Living on the {\i1}Messis{\i0} was so much fun!
-Dialogue: 0,0:09:23.17,0:09:24.93,Default,,0,0,0,,Especially the mouse stew!
-Dialogue: 0,0:09:24.93,0:09:25.61,Default,,0,0,0,,What?
-Dialogue: 0,0:09:25.61,0:09:28.40,Default,,0,0,0,,All the noble priestesses were happily feasting on it,
-Dialogue: 0,0:09:28.40,0:09:31.00,Default,,0,0,0,,and I thought, "Hah! We're all the same!"
-Dialogue: 0,0:09:31.12,0:09:32.85,Default,,0,0,0,,Yes, we are!
-Dialogue: 0,0:09:34.89,0:09:37.83,Default,,0,0,0,,No. We really are different. 
-Dialogue: 0,0:09:43.77,0:09:45.23,Default,,0,0,0,,Mamiina...
-Dialogue: 0,0:09:51.08,0:09:52.65,Default,,0,0,0,,Wait, please!
-Dialogue: 0,0:09:52.65,0:09:55.28,Default,,0,0,0,,The Maaju Pool is under the jurisdiction of the Interior Ministry.
-Dialogue: 0,0:09:55.28,0:09:57.85,Default,,0,0,0,,If the military authorities set foot here,
-Dialogue: 0,0:09:57.85,0:09:58.53,Default,,0,0,0,,Her Eminence will—
-Dialogue: 0,0:09:58.59,0:09:59.58,Default,,0,0,0,,I don't care.
-Dialogue: 0,0:10:14.12,0:10:17.87,Default,,0,0,0,,Please accept my apologies, Minister, 
-Dialogue: 0,0:10:17.87,0:10:22.23,Default,,0,0,0,,but such a large audience will disturb our prayers. 
-Dialogue: 0,0:10:22.23,0:10:24.15,Default,,0,0,0,,Maaju are not prayers.
-Dialogue: 0,0:10:24.15,0:10:24.95,Default,,0,0,0,,What?
-Dialogue: 0,0:10:24.95,0:10:28.29,Default,,0,0,0,,They're military training, Sibylla Aurea.
-Dialogue: 0,0:10:30.03,0:10:35.07,Default,,0,0,0,,We would like to see you perform the most powerful Ri Maajon... 
-Dialogue: 0,0:10:35.07,0:10:38.63,Default,,0,0,0,,...that Chor Tempest is capable of drawing.
-Dialogue: 0,0:10:55.39,0:10:58.05,Default,,0,0,0,,What beautiful lines!
-Dialogue: 0,0:11:01.21,0:11:03.41,Default,,0,0,0,,The Dandelion Ri Maajon?
-Dialogue: 0,0:11:04.12,0:11:05.85,Default,,0,0,0,,It doesn't hurt anyone.
-Dialogue: 0,0:11:06.25,0:11:07.95,Default,,0,0,0,,It doesn't deceive anyone.
-Dialogue: 0,0:11:08.39,0:11:10.62,Default,,0,0,0,,It's purely for the sake of ceremony.
-Dialogue: 0,0:11:24.57,0:11:26.42,Default,,0,0,0,,Everything has gone well.
-Dialogue: 0,0:11:26.58,0:11:29.83,Default,,0,0,0,,I made the right decision...
-Dialogue: 0,0:11:30.60,0:11:33.82,Default,,0,0,0,,...to entrust Neviril to Aaeru as her pair.
-Dialogue: 0,0:11:34.38,0:11:37.72,Default,,0,0,0,,Yes! Everything went well!
-Dialogue: 0,0:11:38.68,0:11:40.87,Default,,0,0,0,,You don't understand a thing!
-Dialogue: 0,0:11:41.52,0:11:47.34,Default,,0,0,0,,Is your judgement so unreliable that you'd rather listen to someone who's been asleep? 
-Dialogue: 0,0:11:47.34,0:11:50.22,Default,,0,0,0,,Thinking that she needs a nobody like you to protect her...
-Dialogue: 0,0:11:50.22,0:11:52.07,Default,,0,0,0,,That's damned arrogant of you!
-Dialogue: 0,0:11:54.39,0:11:57.45,Default,,0,0,0,,I... Neviril... 
-Dialogue: 0,0:12:00.05,0:12:03.74,Default,,0,0,0,,I think... I've made a big mistake.
-Dialogue: 0,0:12:07.63,0:12:08.72,Default,,0,0,0,,If I were with you—
-Dialogue: 0,0:12:08.72,0:12:09.83,Default,,0,0,0,,Stop!
-Dialogue: 0,0:12:14.75,0:12:18.71,Default,,0,0,0,,I think... I've made a big mistake.
-Dialogue: 0,0:12:23.23,0:12:25.76,Default,,0,0,0,,I want to be your pair.
-Dialogue: 0,0:12:26.16,0:12:27.53,Default,,0,0,0,,Yes.
-Dialogue: 0,0:12:27.53,0:12:30.50,Default,,0,0,0,,I'll be the one to protect you.
-Dialogue: 0,0:13:04.37,0:13:06.75,Default,,0,0,0,,"Dismantle a Simoun."
-Dialogue: 0,0:13:08.27,0:13:12.14,Default,,0,0,0,,I never thought I'd hear those words from anyone else,
-Dialogue: 0,0:13:12.14,0:13:13.78,Default,,0,0,0,,Sibylla Dominura...
-Dialogue: 0,0:13:15.32,0:13:18.70,Default,,0,0,0,,Wapourif, forget about that day.
-Dialogue: 0,0:13:20.52,0:13:24.11,Default,,0,0,0,,That is my final word.
-Dialogue: 0,0:13:24.92,0:13:27.11,Default,,0,0,0,,I cannot forget.
-Dialogue: 0,0:13:27.36,0:13:31.91,Default,,0,0,0,,"Someone who has nothing to believe in has no firm ground to stand on." 
-Dialogue: 0,0:13:32.12,0:13:33.79,Default,,0,0,0,,That's what you told me.
-Dialogue: 0,0:13:34.38,0:13:36.55,Default,,0,0,0,,Have you found it?
-Dialogue: 0,0:13:38.19,0:13:40.54,Default,,0,0,0,,What should I do? 
-Dialogue: 0,0:13:48.33,0:13:50.53,Default,,0,0,0,,The thing that {\i1}I{\i0} believe in...
-Dialogue: 0,0:14:03.65,0:14:08.88,Default,,0,0,0,,I have assigned my maintenance crew to dismantle the ancient Simoun, as you instructed. 
-Dialogue: 0,0:14:08.88,0:14:10.92,Default,,0,0,0,,Dismantling a chariot of the gods?
-Dialogue: 0,0:14:10.92,0:14:12.99,Default,,0,0,0,,That is a mortal sin!
-Dialogue: 0,0:14:13.18,0:14:18.56,Default,,0,0,0,,{\i1}We're{\i0} sinful? We're not the ones who defiled the temple of Tempus Spatium with a foreigner's body. 
-Dialogue: 0,0:14:20.29,0:14:25.52,Default,,0,0,0,,Today's agenda is to decide what to do about the enemy's airborne base ship. 
-Dialogue: 0,0:14:25.61,0:14:29.54,Default,,0,0,0,,Most of the ancient Simoun have fallen into the hands of the Highlanders. 
-Dialogue: 0,0:14:29.54,0:14:32.88,Default,,0,0,0,,It would be too dangerous to send Chor Tempest on a reconnaissance mission...
-Dialogue: 0,0:14:32.88,0:14:35.89,Default,,0,0,0,,When, might I ask, will it be safe to give them such a mission?
-Dialogue: 0,0:14:36.13,0:14:39.29,Default,,0,0,0,,I understand your concern for the well-being of your daughter.
-Dialogue: 0,0:14:39.29,0:14:41.70,Default,,0,0,0,,However, if another problem arises,
-Dialogue: 0,0:14:41.89,0:14:46.50,Default,,0,0,0,,You will be forced to consider your position, Mr. Vice-Chairman. 
-Dialogue: 0,0:14:48.01,0:14:50.64,Default,,0,0,0,,Who is Sibylla Neviril's pair?
-Dialogue: 0,0:14:50.64,0:14:52.68,Default,,0,0,0,,That would be Sibylla Aaeru, sir.
-Dialogue: 0,0:14:52.68,0:14:57.70,Default,,0,0,0,,Her skills as an auriga are outstanding even among the members of Chor Tempest. 
-Dialogue: 0,0:14:57.70,0:14:59.43,Default,,0,0,0,,Sibylla Aaeru?
-Dialogue: 0,0:14:59.52,0:15:01.81,Default,,0,0,0,,Wasn't her grandfather...?
-Dialogue: 0,0:15:03.39,0:15:05.12,Default,,0,0,0,,Yes, but she...
-Dialogue: 0,0:15:05.12,0:15:07.01,Default,,0,0,0,,What is going on here?
-Dialogue: 0,0:15:07.01,0:15:09.11,Default,,0,0,0,,Um, my apologies, ma'am.
-Dialogue: 0,0:15:17.25,0:15:18.86,Default,,0,0,0,,Where are you taking her?
-Dialogue: 0,0:15:18.86,0:15:20.22,Default,,0,0,0,,Sibylla Yun.
-Dialogue: 0,0:15:20.22,0:15:22.42,Default,,0,0,0,,Angulas's funeral is over.
-Dialogue: 0,0:15:22.42,0:15:25.29,Default,,0,0,0,,Shouldn't she be buried without delay?
-Dialogue: 0,0:15:25.29,0:15:28.14,Default,,0,0,0,,These are the Defence Minister's orders.
-Dialogue: 0,0:15:28.14,0:15:29.56,Default,,0,0,0,,The Defence Minister?
-Dialogue: 0,0:15:30.77,0:15:33.80,Default,,0,0,0,,Mocking the souls of the dead like this is unforgivable!
-Dialogue: 0,0:15:44.01,0:15:48.00,Default,,0,0,0,,Without your Simoun, you girls are powerless. 
-Dialogue: 0,0:16:00.13,0:16:05.11,Default,,0,0,0,,It would be dangerous to ignore the airborne base ship.
-Dialogue: 0,0:16:05.26,0:16:08.91,Default,,0,0,0,,Chor Tempest will fly reconnaissance in order to locate it.
-Dialogue: 0,0:16:09.16,0:16:11.58,Default,,0,0,0,,The {\i1}Messis{\i0} will serve as your relay station.
-Dialogue: 0,0:16:11.58,0:16:15.72,Default,,0,0,0,,Aw, come on! I thought we finally got away from that mouldy dump!
-Dialogue: 0,0:16:15.72,0:16:18.69,Default,,0,0,0,,I will do my best to accomodate you again, Sibylla-sama.
-Dialogue: 0,0:16:18.88,0:16:20.24,Default,,0,0,0,,Eww...
-Dialogue: 0,0:16:20.33,0:16:22.65,Default,,0,0,0,,And what should we do if we find the base ship?
-Dialogue: 0,0:16:22.87,0:16:24.91,Default,,0,0,0,,If you judge that the circumstances—
-Dialogue: 0,0:16:24.91,0:16:30.32,Default,,0,0,0,,Given the circumstances, we should completely annihilate it! 
-Dialogue: 0,0:16:31.65,0:16:35.46,Default,,0,0,0,,With the whereabouts of Sibylla Dominura and Sibylla Limone unknown,
-Dialogue: 0,0:16:35.55,0:16:38.74,Default,,0,0,0,,we feel it necessary to reorganize the current pairs.
-Dialogue: 0,0:16:39.45,0:16:41.09,Default,,0,0,0,,Sibylla Paraietta,
-Dialogue: 0,0:16:41.09,0:16:42.64,Default,,0,0,0,,Sibylla Kaimu.
-Dialogue: 0,0:16:44.43,0:16:45.89,Default,,0,0,0,,Sibylla Alti,
-Dialogue: 0,0:16:45.89,0:16:47.06,Default,,0,0,0,,Sibylla Floe.
-Dialogue: 0,0:16:47.06,0:16:48.64,Default,,0,0,0,,Sibylla Rodoreamon,
-Dialogue: 0,0:16:48.64,0:16:49.94,Default,,0,0,0,,Sibylla Morinas.
-Dialogue: 0,0:16:50.31,0:16:52.04,Default,,0,0,0,,Sibylla Neviril,
-Dialogue: 0,0:16:52.78,0:16:54.21,Default,,0,0,0,,Sibylla Mamiina.
-Dialogue: 0,0:16:54.36,0:16:55.26,Default,,0,0,0,,What?\NWhat?
-Dialogue: 0,0:16:55.85,0:16:58.38,Default,,0,0,0,,Sibylla Yun, Sibylla Aaeru.
-Dialogue: 0,0:16:58.85,0:17:02.31,Default,,0,0,0,,The two of you will not be participating in this mission.
-Dialogue: 0,0:17:03.77,0:17:07.08,Default,,0,0,0,,What the—! Why the hell do I have to stay behind?
-Dialogue: 0,0:17:09.00,0:17:10.94,Default,,0,0,0,,{\i1}She{\i0} is my pair.
-Dialogue: 0,0:17:11.38,0:17:13.85,Default,,0,0,0,,I demand a satisfactory explanation.
-Dialogue: 0,0:17:16.95,0:17:18.56,Default,,0,0,0,,Neviril...
-Dialogue: 0,0:17:19.20,0:17:22.48,Default,,0,0,0,,Please, do not cause more trouble for me.
-Dialogue: 0,0:17:39.41,0:17:40.80,Default,,0,0,0,,Having trouble sleeping?
-Dialogue: 0,0:17:40.80,0:17:42.04,Default,,0,0,0,,Neviril.
-Dialogue: 0,0:17:42.04,0:17:43.09,Default,,0,0,0,,Yes.
-Dialogue: 0,0:17:43.46,0:17:46.37,Default,,0,0,0,,Your Maaju this afternoon was remarkable. 
-Dialogue: 0,0:17:47.20,0:17:48.72,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:17:52.96,0:17:55.74,Default,,0,0,0,,Will you dance with me? Just one song?
-Dialogue: 0,0:17:55.74,0:17:58.68,Default,,0,0,0,,I'm sorry, but right now I...
-Dialogue: 0,0:18:02.92,0:18:03.72,Default,,0,0,0,,What?
-Dialogue: 0,0:18:20.43,0:18:23.80,Default,,0,0,0,,I never expected to see you stand up for Aaeru.
-Dialogue: 0,0:18:24.17,0:18:26.52,Default,,0,0,0,,It isn't as if I've opened my heart to her.
-Dialogue: 0,0:18:27.08,0:18:31.66,Default,,0,0,0,,But facing Aaeru is like facing Amuria, 
-Dialogue: 0,0:18:31.66,0:18:35.00,Default,,0,0,0,,and doing that has forced me to face myself.
-Dialogue: 0,0:18:37.60,0:18:40.88,Default,,0,0,0,,I think that's what I was afraid of.
-Dialogue: 0,0:18:43.54,0:18:45.52,Default,,0,0,0,,I was just running away.
-Dialogue: 0,0:18:46.29,0:18:49.76,Default,,0,0,0,,I was relying too much on everyone else.
-Dialogue: 0,0:18:50.66,0:18:51.96,Default,,0,0,0,,Why not let yourself?
-Dialogue: 0,0:18:51.96,0:18:52.73,Default,,0,0,0,,What?
-Dialogue: 0,0:18:54.34,0:18:55.73,Default,,0,0,0,,Paraietta?
-Dialogue: 0,0:18:56.69,0:18:59.29,Default,,0,0,0,,Rely on me.
-Dialogue: 0,0:19:01.73,0:19:04.64,Default,,0,0,0,,But if I keep going, there's a whole other world...
-Dialogue: 0,0:19:06.09,0:19:08.01,Default,,0,0,0,,I'm sorry. It's nothing.
-Dialogue: 0,0:19:15.00,0:19:17.57,Default,,0,0,0,,Another world?
-Dialogue: 0,0:19:17.73,0:19:21.53,Default,,0,0,0,,If you want to see another world, I'll show it to you. 
-Dialogue: 0,0:20:15.86,0:20:16.54,Default,,0,0,0,,What is it?
-Dialogue: 0,0:20:17.56,0:20:18.77,Default,,0,0,0,,You're awake?
-Dialogue: 0,0:20:18.77,0:20:20.68,Default,,0,0,0,,I think Yun is asleep.
-Dialogue: 0,0:20:21.09,0:20:24.09,Default,,0,0,0,,I thought you might be too nervous to sleep.
-Dialogue: 0,0:20:24.83,0:20:27.00,Default,,0,0,0,,To be the pair of the Sibylla Aurea...
-Dialogue: 0,0:20:27.00,0:20:32.32,Default,,0,0,0,,I always saw that as the quickest way to reach my goal.
-Dialogue: 0,0:20:33.68,0:20:35.84,Default,,0,0,0,,But don't get the wrong idea.
-Dialogue: 0,0:20:35.84,0:20:36.34,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:36.93,0:20:40.30,Default,,0,0,0,,I honestly want to be on the same level as the rest of you,
-Dialogue: 0,0:20:40.30,0:20:43.52,Default,,0,0,0,,but my reasons are different now. 
-Dialogue: 0,0:20:44.91,0:20:50.66,Default,,0,0,0,,I truly want to be friends with everyone. 
-Dialogue: 0,0:20:54.10,0:20:55.46,Default,,0,0,0,,Mamiina!
-Dialogue: 0,0:20:56.29,0:20:58.55,Default,,0,0,0,,So please stop saying "but we {\i1}are{\i0} friends!" and stuff like that.
-Dialogue: 0,0:20:58.55,0:21:00.44,Default,,0,0,0,,I'm a little sensitive about it, okay?
-Dialogue: 0,0:21:02.17,0:21:03.22,Default,,0,0,0,,I understand.
-Dialogue: 0,0:21:04.83,0:21:08.67,Default,,0,0,0,,Mamiina, would you like me to sing you a lullaby?
-Dialogue: 0,0:21:09.07,0:21:11.55,Default,,0,0,0,,The one you were singing for Limone?
-Dialogue: 0,0:21:11.82,0:21:14.27,Default,,0,0,0,,Aw, don't. I'm not a child.
-Dialogue: 0,0:21:20.02,0:21:22.16,Default,,0,0,0,,Of course, she's not listening.
-Dialogue: 0,0:22:01.20,0:22:03.15,Default,,0,0,0,,Why do you think you were taken off the mission?
-Dialogue: 0,0:22:03.46,0:22:05.38,Default,,0,0,0,,I have an idea.
-Dialogue: 0,0:22:05.69,0:22:06.61,Default,,0,0,0,,I see.
-Dialogue: 0,0:22:06.83,0:22:07.70,Default,,0,0,0,,And you?
-Dialogue: 0,0:22:07.98,0:22:09.49,Default,,0,0,0,,There's something that might be the reason.
-Dialogue: 0,0:22:09.49,0:22:10.73,Default,,0,0,0,,And that is?
-Dialogue: 0,0:22:11.35,0:22:12.55,Default,,0,0,0,,I can't say.
-Dialogue: 0,0:22:13.20,0:22:14.60,Default,,0,0,0,,I promised not to.
-Dialogue: 0,0:22:14.69,0:22:15.90,Default,,0,0,0,,I see.
-Dialogue: 0,0:22:15.90,0:22:17.50,Default,,0,0,0,,That's a wise decision.
-Dialogue: 0,0:22:18.18,0:22:21.68,Default,,0,0,0,,Promises are meant to be kept.
-Dialogue: 0,0:22:34.74,0:22:37.09,Default,,0,0,0,,I have to go.
-Dialogue: 0,0:22:37.37,0:22:38.57,Default,,0,0,0,,So do I.
+Dialogue: 0,0:02:16.85,0:02:20.10,Regular,,0,0,0,,Her soul was bound by sin. 
+Dialogue: 0,0:02:20.53,0:02:23.66,Regular,,0,0,0,,However, through the compassion of Tempus Spatium,
+Dialogue: 0,0:02:23.72,0:02:28.24,Regular,,0,0,0,,and the benevolence of the Holy Land, we forgive and receive her. 
+Dialogue: 0,0:02:48.81,0:02:52.21,Regular,,0,0,0,,Why was Angulas's body inside that ancient Simoun?
+Dialogue: 0,0:02:52.58,0:02:54.75,Regular,,0,0,0,,She was definitely...
+Dialogue: 0,0:02:57.50,0:03:00.53,Regular,,0,0,0,,AA - E - RU ! ! !
+Dialogue: 0,0:03:07.03,0:03:11.52,Regular,,0,0,0,,They were unable to find so much as a single splinter of bone. 
+Dialogue: 0,0:03:18.94,0:03:23.00,Regular,,0,0,0,,She has received the protection of Tempus Spatium.
+Dialogue: 0,0:03:23.12,0:03:26.92,Regular,,0,0,0,,For the one departing upon a new journey, we offer a prayer. 
+Dialogue: 0,0:03:53.99,0:03:57.86,Regular,,0,0,0,,A Highland priestess who acted as a covert operative! 
+Dialogue: 0,0:03:57.86,0:04:00.09,Regular,,0,0,0,,I'm surprised they would allow her funeral to be held here on the {\i1}Arcus Prima{\i0}.
+Dialogue: 0,0:04:00.09,0:04:02.13,Regular,,0,0,0,,That was what Her Eminence wanted.
+Dialogue: 0,0:04:02.25,0:04:04.05,Regular,,0,0,0,,And the Defence Minister?
+Dialogue: 0,0:04:04.17,0:04:10.08,Regular,,0,0,0,,Because of Plumbum and Argentum's new alliance, the Ministry claims that they cannot even risk returning her body. 
+Dialogue: 0,0:04:10.30,0:04:12.90,Regular,,0,0,0,,Despite their apparent hostility towards each other?
+Dialogue: 0,0:04:12.96,0:04:15.90,Regular,,0,0,0,,I certainly didn't expect the two of them to agree about this.
+Dialogue: 0,0:04:16.58,0:04:19.02,Regular,,0,0,0,,That's what worries me.
+Dialogue: 0,0:04:31.58,0:04:33.78,Regular,,0,0,0,,The wind won't blow in here.
+Dialogue: 0,0:04:36.78,0:04:38.14,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:04:38.36,0:04:42.94,Regular,,0,0,0,,Who'd have thought that you'd start a conversation with me?
+Dialogue: 0,0:04:47.64,0:04:49.37,Regular,,0,0,0,,What happened at the Ruins...
+Dialogue: 0,0:04:51.51,0:04:53.18,Regular,,0,0,0,,Yeah.
+Dialogue: 0,0:04:58.28,0:05:00.42,Regular,,0,0,0,,Huh? What?
+Dialogue: 0,0:05:02.89,0:05:04.19,Regular,,0,0,0,,The Spring?
+Dialogue: 0,0:05:08.18,0:05:13.72,Regular,,0,0,0,,The Spring was inside the Ruins, and Onashia was there as well. 
+Dialogue: 0,0:05:15.33,0:05:19.85,Regular,,0,0,0,,This place... this place {\i1}is{\i0} the Spring!
+Dialogue: 0,0:05:19.88,0:05:21.80,Regular,,0,0,0,,It's just like Grandpa said!
+Dialogue: 0,0:05:27.43,0:05:33.15,Regular,,0,0,0,,And Angulas, who we thought had been blown up in the explosion, was inside the ancient Simoun. 
+Dialogue: 0,0:05:33.37,0:05:36.43,Regular,,0,0,0,,I think Angulas went somewhere.
+Dialogue: 0,0:05:36.43,0:05:37.26,Regular,,0,0,0,,What?
+Dialogue: 0,0:05:37.39,0:05:38.59,Regular,,0,0,0,,You know, back then...
+Dialogue: 0,0:05:38.59,0:05:41.01,Regular,,0,0,0,,At the instant the Simoun exploded,
+Dialogue: 0,0:05:42.21,0:05:43.79,Regular,,0,0,0,,she went to another world.
+Dialogue: 0,0:05:43.79,0:05:46.70,Regular,,0,0,0,,Another... world? 
+Dialogue: 0,0:05:48.99,0:05:54.22,Regular,,0,0,0,,We finally get back to the Arcus Prima,\Nand now all this weird stuff keeps happening! 
+Dialogue: 0,0:05:54.22,0:05:56.97,Regular,,0,0,0,,I know. Can't we even relax for a second?
+Dialogue: 0,0:05:58.73,0:06:00.28,Regular,,0,0,0,,No, there's no time to relax.
+Dialogue: 0,0:06:00.28,0:06:03.53,Regular,,0,0,0,,I heard that we're supposed to meet at the Maaju Pool right after this.
+Dialogue: 0,0:06:03.68,0:06:07.61,Regular,,0,0,0,,I like doing Maaju, but it sucks to do it just 'cause we're ordered to. 
+Dialogue: 0,0:06:07.74,0:06:10.37,Regular,,0,0,0,,Hey, isn't that Neviril and Aaeru?
+Dialogue: 0,0:06:14.74,0:06:16.80,Regular,,0,0,0,,Oh? I guess they got over their differences.
+Dialogue: 0,0:06:16.86,0:06:18.26,Regular,,0,0,0,,What do you mean, "got over?"
+Dialogue: 0,0:06:18.26,0:06:20.82,Regular,,0,0,0,,It was just Neviril being an idiot!
+Dialogue: 0,0:06:34.37,0:06:38.18,Regular,,0,0,0,,W-Wait, Aaeru. What's...?
+Dialogue: 0,0:06:39.26,0:06:41.52,Regular,,0,0,0,,It's like Grandpa always said.
+Dialogue: 0,0:06:46.78,0:06:49.16,Regular,,0,0,0,,Come on! Over here!
+Dialogue: 0,0:06:49.66,0:06:51.89,Regular,,0,0,0,,Come on, Grandpa! Hurry up!
+Dialogue: 0,0:06:51.89,0:06:53.59,Regular,,0,0,0,,Aaeru.
+Dialogue: 0,0:06:54.14,0:06:56.62,Regular,,0,0,0,,This is as far as I can go.
+Dialogue: 0,0:06:56.62,0:06:57.30,Regular,,0,0,0,,Huh?
+Dialogue: 0,0:06:57.30,0:06:59.77,Regular,,0,0,0,,But you, you have to keep going.
+Dialogue: 0,0:06:59.84,0:07:04.48,Regular,,0,0,0,,You see, growing old means that you have to make a few decisions along the way. 
+Dialogue: 0,0:07:04.69,0:07:10.91,Regular,,0,0,0,,And once you've made those decisions, those possibilities are gone forever. 
+Dialogue: 0,0:07:10.91,0:07:12.98,Regular,,0,0,0,,I don't understand!
+Dialogue: 0,0:07:13.26,0:07:16.91,Regular,,0,0,0,,A Simoun lets you see what's to come.
+Dialogue: 0,0:07:17.41,0:07:19.08,Regular,,0,0,0,,"What's to come?"
+Dialogue: 0,0:07:21.71,0:07:24.37,Regular,,0,0,0,,Another world!
+Dialogue: 0,0:07:26.66,0:07:29.91,Regular,,0,0,0,,I don't know what he meant by that.
+Dialogue: 0,0:07:30.00,0:07:33.34,Regular,,0,0,0,,But Grandpa always longed to go there.
+Dialogue: 0,0:07:33.34,0:07:37.61,Regular,,0,0,0,,Aaeru, is that the reason you didn't want to choose your sex?
+Dialogue: 0,0:07:41.32,0:07:43.27,Regular,,0,0,0,,The helical motors...
+Dialogue: 0,0:07:43.27,0:07:46.64,Regular,,0,0,0,,It is said that they manipulate time and space.
+Dialogue: 0,0:07:46.74,0:07:52.49,Regular,,0,0,0,,But I always thought that was just a fairy tale,\Ntold to make the Simoun seem sacred. 
+Dialogue: 0,0:07:52.77,0:07:56.14,Regular,,0,0,0,,"I am everywhere, and I am nowhere."
+Dialogue: 0,0:07:58.49,0:08:00.41,Regular,,0,0,0,,If Onashia is like that,
+Dialogue: 0,0:08:00.94,0:08:02.67,Regular,,0,0,0,,and Angulas was like that,
+Dialogue: 0,0:08:03.04,0:08:05.05,Regular,,0,0,0,,and the Simoun are like that...
+Dialogue: 0,0:08:05.89,0:08:07.22,Regular,,0,0,0,,Then...
+Dialogue: 0,0:08:07.34,0:08:09.38,Regular,,0,0,0,,...Limone and Dominura might be too?
+Dialogue: 0,0:08:15.39,0:08:16.81,Regular,,0,0,0,,What we've just discussed...
+Dialogue: 0,0:08:16.81,0:08:18.91,Regular,,0,0,0,,It must remain a secret between us.
+Dialogue: 0,0:08:18.91,0:08:20.95,Regular,,0,0,0,,We'll keep it a secret, then?
+Dialogue: 0,0:08:22.19,0:08:23.68,Regular,,0,0,0,,Just the two of us.
+Dialogue: 0,0:08:24.88,0:08:25.94,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:08:30.79,0:08:33.55,Regular,,0,0,0,,Why didn't you go to Angulas's funeral?
+Dialogue: 0,0:08:33.55,0:08:34.75,Regular,,0,0,0,,That was the decision.
+Dialogue: 0,0:08:34.75,0:08:39.92,Regular,,0,0,0,,"No one from a low-born family like yours can be permitted to attend such a holy ceremony." 
+Dialogue: 0,0:08:39.92,0:08:42.05,Regular,,0,0,0,,Wh-Why? Until now, we've always...
+Dialogue: 0,0:08:42.05,0:08:43.35,Regular,,0,0,0,,Things change.
+Dialogue: 0,0:08:43.35,0:08:45.43,Regular,,0,0,0,,Besides, Central Command is all screwed up.
+Dialogue: 0,0:08:45.43,0:08:49.08,Regular,,0,0,0,,But they even approved the funeral of an enemy priestess, so...
+Dialogue: 0,0:08:49.14,0:08:51.49,Regular,,0,0,0,,Hey, that's not the sort of thing I'd expect you to say.
+Dialogue: 0,0:08:51.64,0:08:53.78,Regular,,0,0,0,,Didn't you like Angulas?
+Dialogue: 0,0:08:55.36,0:08:57.37,Regular,,0,0,0,,But... but...
+Dialogue: 0,0:08:59.87,0:09:02.29,Regular,,0,0,0,,I expected at least this much discrimination.
+Dialogue: 0,0:09:02.29,0:09:03.09,Regular,,0,0,0,,What?
+Dialogue: 0,0:09:03.37,0:09:09.65,Regular,,0,0,0,,It was only because of the Vice-Chairman's influence that I was able to remain a Simoun sibylla. 
+Dialogue: 0,0:09:09.93,0:09:11.44,Regular,,0,0,0,,Mamiina...
+Dialogue: 0,0:09:12.12,0:09:14.54,Regular,,0,0,0,,The Vice-Chairman has changed.
+Dialogue: 0,0:09:17.07,0:09:19.27,Regular,,0,0,0,,Now he's just a regular old geezer!
+Dialogue: 0,0:09:19.27,0:09:21.28,Regular,,0,0,0,,Oh! Mamiina, please!
+Dialogue: 0,0:09:21.28,0:09:23.17,Regular,,0,0,0,,Living on the {\i1}Messis{\i0} was so much fun!
+Dialogue: 0,0:09:23.17,0:09:24.93,Regular,,0,0,0,,Especially the mouse stew!
+Dialogue: 0,0:09:24.93,0:09:25.61,Regular,,0,0,0,,What?
+Dialogue: 0,0:09:25.61,0:09:28.40,Regular,,0,0,0,,All the noble priestesses were happily feasting on it,
+Dialogue: 0,0:09:28.40,0:09:31.00,Regular,,0,0,0,,and I thought, "Hah! We're all the same!"
+Dialogue: 0,0:09:31.12,0:09:32.85,Regular,,0,0,0,,Yes, we are!
+Dialogue: 0,0:09:34.89,0:09:37.83,Regular,,0,0,0,,No. We really are different. 
+Dialogue: 0,0:09:43.77,0:09:45.23,Regular,,0,0,0,,Mamiina...
+Dialogue: 0,0:09:51.08,0:09:52.65,Regular,,0,0,0,,Wait, please!
+Dialogue: 0,0:09:52.65,0:09:55.28,Regular,,0,0,0,,The Maaju Pool is under the jurisdiction of the Interior Ministry.
+Dialogue: 0,0:09:55.28,0:09:57.85,Regular,,0,0,0,,If the military authorities set foot here,
+Dialogue: 0,0:09:57.85,0:09:58.53,Regular,,0,0,0,,Her Eminence will—
+Dialogue: 0,0:09:58.59,0:09:59.58,Regular,,0,0,0,,I don't care.
+Dialogue: 0,0:10:14.12,0:10:17.87,Regular,,0,0,0,,Please accept my apologies, Minister, 
+Dialogue: 0,0:10:17.87,0:10:22.23,Regular,,0,0,0,,but such a large audience will disturb our prayers. 
+Dialogue: 0,0:10:22.23,0:10:24.15,Regular,,0,0,0,,Maaju are not prayers.
+Dialogue: 0,0:10:24.15,0:10:24.95,Regular,,0,0,0,,What?
+Dialogue: 0,0:10:24.95,0:10:28.29,Regular,,0,0,0,,They're military training, Sibylla Aurea.
+Dialogue: 0,0:10:30.03,0:10:35.07,Regular,,0,0,0,,We would like to see you perform the most powerful Ri Maajon... 
+Dialogue: 0,0:10:35.07,0:10:38.63,Regular,,0,0,0,,...that Chor Tempest is capable of drawing.
+Dialogue: 0,0:10:55.39,0:10:58.05,Regular,,0,0,0,,What beautiful lines!
+Dialogue: 0,0:11:01.21,0:11:03.41,Regular,,0,0,0,,The Dandelion Ri Maajon?
+Dialogue: 0,0:11:04.12,0:11:05.85,Regular,,0,0,0,,It doesn't hurt anyone.
+Dialogue: 0,0:11:06.25,0:11:07.95,Regular,,0,0,0,,It doesn't deceive anyone.
+Dialogue: 0,0:11:08.39,0:11:10.62,Regular,,0,0,0,,It's purely for the sake of ceremony.
+Dialogue: 0,0:11:24.57,0:11:26.42,Regular,,0,0,0,,Everything has gone well.
+Dialogue: 0,0:11:26.58,0:11:29.83,Regular,,0,0,0,,I made the right decision...
+Dialogue: 0,0:11:30.60,0:11:33.82,Regular,,0,0,0,,...to entrust Neviril to Aaeru as her pair.
+Dialogue: 0,0:11:34.38,0:11:37.72,Regular,,0,0,0,,Yes! Everything went well!
+Dialogue: 0,0:11:38.68,0:11:40.87,Regular,,0,0,0,,You don't understand a thing!
+Dialogue: 0,0:11:41.52,0:11:47.34,Regular,,0,0,0,,Is your judgement so unreliable that you'd rather listen to someone who's been asleep? 
+Dialogue: 0,0:11:47.34,0:11:50.22,Regular,,0,0,0,,Thinking that she needs a nobody like you to protect her...
+Dialogue: 0,0:11:50.22,0:11:52.07,Regular,,0,0,0,,That's damned arrogant of you!
+Dialogue: 0,0:11:54.39,0:11:57.45,Regular,,0,0,0,,I... Neviril... 
+Dialogue: 0,0:12:00.05,0:12:03.74,Regular,,0,0,0,,I think... I've made a big mistake.
+Dialogue: 0,0:12:07.63,0:12:08.72,Regular,,0,0,0,,If I were with you—
+Dialogue: 0,0:12:08.72,0:12:09.83,Regular,,0,0,0,,Stop!
+Dialogue: 0,0:12:14.75,0:12:18.71,Regular,,0,0,0,,I think... I've made a big mistake.
+Dialogue: 0,0:12:23.23,0:12:25.76,Regular,,0,0,0,,I want to be your pair.
+Dialogue: 0,0:12:26.16,0:12:27.53,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:12:27.53,0:12:30.50,Regular,,0,0,0,,I'll be the one to protect you.
+Dialogue: 0,0:13:04.37,0:13:06.75,Regular,,0,0,0,,"Dismantle a Simoun."
+Dialogue: 0,0:13:08.27,0:13:12.14,Regular,,0,0,0,,I never thought I'd hear those words from anyone else,
+Dialogue: 0,0:13:12.14,0:13:13.78,Regular,,0,0,0,,Sibylla Dominura...
+Dialogue: 0,0:13:15.32,0:13:18.70,Regular,,0,0,0,,Wapourif, forget about that day.
+Dialogue: 0,0:13:20.52,0:13:24.11,Regular,,0,0,0,,That is my final word.
+Dialogue: 0,0:13:24.92,0:13:27.11,Regular,,0,0,0,,I cannot forget.
+Dialogue: 0,0:13:27.36,0:13:31.91,Regular,,0,0,0,,"Someone who has nothing to believe in has no firm ground to stand on." 
+Dialogue: 0,0:13:32.12,0:13:33.79,Regular,,0,0,0,,That's what you told me.
+Dialogue: 0,0:13:34.38,0:13:36.55,Regular,,0,0,0,,Have you found it?
+Dialogue: 0,0:13:38.19,0:13:40.54,Regular,,0,0,0,,What should I do? 
+Dialogue: 0,0:13:48.33,0:13:50.53,Regular,,0,0,0,,The thing that {\i1}I{\i0} believe in...
+Dialogue: 0,0:14:03.65,0:14:08.88,Regular,,0,0,0,,I have assigned my maintenance crew to dismantle the ancient Simoun, as you instructed. 
+Dialogue: 0,0:14:08.88,0:14:10.92,Regular,,0,0,0,,Dismantling a chariot of the gods?
+Dialogue: 0,0:14:10.92,0:14:12.99,Regular,,0,0,0,,That is a mortal sin!
+Dialogue: 0,0:14:13.18,0:14:18.56,Regular,,0,0,0,,{\i1}We're{\i0} sinful? We're not the ones who defiled the temple of Tempus Spatium with a foreigner's body. 
+Dialogue: 0,0:14:20.29,0:14:25.52,Regular,,0,0,0,,Today's agenda is to decide what to do about the enemy's airborne base ship. 
+Dialogue: 0,0:14:25.61,0:14:29.54,Regular,,0,0,0,,Most of the ancient Simoun have fallen into the hands of the Highlanders. 
+Dialogue: 0,0:14:29.54,0:14:32.88,Regular,,0,0,0,,It would be too dangerous to send Chor Tempest on a reconnaissance mission...
+Dialogue: 0,0:14:32.88,0:14:35.89,Regular,,0,0,0,,When, might I ask, will it be safe to give them such a mission?
+Dialogue: 0,0:14:36.13,0:14:39.29,Regular,,0,0,0,,I understand your concern for the well-being of your daughter.
+Dialogue: 0,0:14:39.29,0:14:41.70,Regular,,0,0,0,,However, if another problem arises,
+Dialogue: 0,0:14:41.89,0:14:46.50,Regular,,0,0,0,,You will be forced to consider your position, Mr. Vice-Chairman. 
+Dialogue: 0,0:14:48.01,0:14:50.64,Regular,,0,0,0,,Who is Sibylla Neviril's pair?
+Dialogue: 0,0:14:50.64,0:14:52.68,Regular,,0,0,0,,That would be Sibylla Aaeru, sir.
+Dialogue: 0,0:14:52.68,0:14:57.70,Regular,,0,0,0,,Her skills as an auriga are outstanding even among the members of Chor Tempest. 
+Dialogue: 0,0:14:57.70,0:14:59.43,Regular,,0,0,0,,Sibylla Aaeru?
+Dialogue: 0,0:14:59.52,0:15:01.81,Regular,,0,0,0,,Wasn't her grandfather...?
+Dialogue: 0,0:15:03.39,0:15:05.12,Regular,,0,0,0,,Yes, but she...
+Dialogue: 0,0:15:05.12,0:15:07.01,Regular,,0,0,0,,What is going on here?
+Dialogue: 0,0:15:07.01,0:15:09.11,Regular,,0,0,0,,Um, my apologies, ma'am.
+Dialogue: 0,0:15:17.25,0:15:18.86,Regular,,0,0,0,,Where are you taking her?
+Dialogue: 0,0:15:18.86,0:15:20.22,Regular,,0,0,0,,Sibylla Yun.
+Dialogue: 0,0:15:20.22,0:15:22.42,Regular,,0,0,0,,Angulas's funeral is over.
+Dialogue: 0,0:15:22.42,0:15:25.29,Regular,,0,0,0,,Shouldn't she be buried without delay?
+Dialogue: 0,0:15:25.29,0:15:28.14,Regular,,0,0,0,,These are the Defence Minister's orders.
+Dialogue: 0,0:15:28.14,0:15:29.56,Regular,,0,0,0,,The Defence Minister?
+Dialogue: 0,0:15:30.77,0:15:33.80,Regular,,0,0,0,,Mocking the souls of the dead like this is unforgivable!
+Dialogue: 0,0:15:44.01,0:15:48.00,Regular,,0,0,0,,Without your Simoun, you girls are powerless. 
+Dialogue: 0,0:16:00.13,0:16:05.11,Regular,,0,0,0,,It would be dangerous to ignore the airborne base ship.
+Dialogue: 0,0:16:05.26,0:16:08.91,Regular,,0,0,0,,Chor Tempest will fly reconnaissance in order to locate it.
+Dialogue: 0,0:16:09.16,0:16:11.58,Regular,,0,0,0,,The {\i1}Messis{\i0} will serve as your relay station.
+Dialogue: 0,0:16:11.58,0:16:15.72,Regular,,0,0,0,,Aw, come on! I thought we finally got away from that mouldy dump!
+Dialogue: 0,0:16:15.72,0:16:18.69,Regular,,0,0,0,,I will do my best to accomodate you again, Sibylla-sama.
+Dialogue: 0,0:16:18.88,0:16:20.24,Regular,,0,0,0,,Eww...
+Dialogue: 0,0:16:20.33,0:16:22.65,Regular,,0,0,0,,And what should we do if we find the base ship?
+Dialogue: 0,0:16:22.87,0:16:24.91,Regular,,0,0,0,,If you judge that the circumstances—
+Dialogue: 0,0:16:24.91,0:16:30.32,Regular,,0,0,0,,Given the circumstances, we should completely annihilate it! 
+Dialogue: 0,0:16:31.65,0:16:35.46,Regular,,0,0,0,,With the whereabouts of Sibylla Dominura and Sibylla Limone unknown,
+Dialogue: 0,0:16:35.55,0:16:38.74,Regular,,0,0,0,,we feel it necessary to reorganize the current pairs.
+Dialogue: 0,0:16:39.45,0:16:41.09,Regular,,0,0,0,,Sibylla Paraietta,
+Dialogue: 0,0:16:41.09,0:16:42.64,Regular,,0,0,0,,Sibylla Kaimu.
+Dialogue: 0,0:16:44.43,0:16:45.89,Regular,,0,0,0,,Sibylla Alti,
+Dialogue: 0,0:16:45.89,0:16:47.06,Regular,,0,0,0,,Sibylla Floe.
+Dialogue: 0,0:16:47.06,0:16:48.64,Regular,,0,0,0,,Sibylla Rodoreamon,
+Dialogue: 0,0:16:48.64,0:16:49.94,Regular,,0,0,0,,Sibylla Morinas.
+Dialogue: 0,0:16:50.31,0:16:52.04,Regular,,0,0,0,,Sibylla Neviril,
+Dialogue: 0,0:16:52.78,0:16:54.21,Regular,,0,0,0,,Sibylla Mamiina.
+Dialogue: 0,0:16:54.36,0:16:55.26,Regular,,0,0,0,,What?\NWhat?
+Dialogue: 0,0:16:55.85,0:16:58.38,Regular,,0,0,0,,Sibylla Yun, Sibylla Aaeru.
+Dialogue: 0,0:16:58.85,0:17:02.31,Regular,,0,0,0,,The two of you will not be participating in this mission.
+Dialogue: 0,0:17:03.77,0:17:07.08,Regular,,0,0,0,,What the—! Why the hell do I have to stay behind?
+Dialogue: 0,0:17:09.00,0:17:10.94,Regular,,0,0,0,,{\i1}She{\i0} is my pair.
+Dialogue: 0,0:17:11.38,0:17:13.85,Regular,,0,0,0,,I demand a satisfactory explanation.
+Dialogue: 0,0:17:16.95,0:17:18.56,Regular,,0,0,0,,Neviril...
+Dialogue: 0,0:17:19.20,0:17:22.48,Regular,,0,0,0,,Please, do not cause more trouble for me.
+Dialogue: 0,0:17:39.41,0:17:40.80,Regular,,0,0,0,,Having trouble sleeping?
+Dialogue: 0,0:17:40.80,0:17:42.04,Regular,,0,0,0,,Neviril.
+Dialogue: 0,0:17:42.04,0:17:43.09,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:17:43.46,0:17:46.37,Regular,,0,0,0,,Your Maaju this afternoon was remarkable. 
+Dialogue: 0,0:17:47.20,0:17:48.72,Regular,,0,0,0,,Thank you.
+Dialogue: 0,0:17:52.96,0:17:55.74,Regular,,0,0,0,,Will you dance with me? Just one song?
+Dialogue: 0,0:17:55.74,0:17:58.68,Regular,,0,0,0,,I'm sorry, but right now I...
+Dialogue: 0,0:18:02.92,0:18:03.72,Regular,,0,0,0,,What?
+Dialogue: 0,0:18:20.43,0:18:23.80,Regular,,0,0,0,,I never expected to see you stand up for Aaeru.
+Dialogue: 0,0:18:24.17,0:18:26.52,Regular,,0,0,0,,It isn't as if I've opened my heart to her.
+Dialogue: 0,0:18:27.08,0:18:31.66,Regular,,0,0,0,,But facing Aaeru is like facing Amuria, 
+Dialogue: 0,0:18:31.66,0:18:35.00,Regular,,0,0,0,,and doing that has forced me to face myself.
+Dialogue: 0,0:18:37.60,0:18:40.88,Regular,,0,0,0,,I think that's what I was afraid of.
+Dialogue: 0,0:18:43.54,0:18:45.52,Regular,,0,0,0,,I was just running away.
+Dialogue: 0,0:18:46.29,0:18:49.76,Regular,,0,0,0,,I was relying too much on everyone else.
+Dialogue: 0,0:18:50.66,0:18:51.96,Regular,,0,0,0,,Why not let yourself?
+Dialogue: 0,0:18:51.96,0:18:52.73,Regular,,0,0,0,,What?
+Dialogue: 0,0:18:54.34,0:18:55.73,Regular,,0,0,0,,Paraietta?
+Dialogue: 0,0:18:56.69,0:18:59.29,Regular,,0,0,0,,Rely on me.
+Dialogue: 0,0:19:01.73,0:19:04.64,Regular,,0,0,0,,But if I keep going, there's a whole other world...
+Dialogue: 0,0:19:06.09,0:19:08.01,Regular,,0,0,0,,I'm sorry. It's nothing.
+Dialogue: 0,0:19:15.00,0:19:17.57,Regular,,0,0,0,,Another world?
+Dialogue: 0,0:19:17.73,0:19:21.53,Regular,,0,0,0,,If you want to see another world, I'll show it to you. 
+Dialogue: 0,0:20:15.86,0:20:16.54,Regular,,0,0,0,,What is it?
+Dialogue: 0,0:20:17.56,0:20:18.77,Regular,,0,0,0,,You're awake?
+Dialogue: 0,0:20:18.77,0:20:20.68,Regular,,0,0,0,,I think Yun is asleep.
+Dialogue: 0,0:20:21.09,0:20:24.09,Regular,,0,0,0,,I thought you might be too nervous to sleep.
+Dialogue: 0,0:20:24.83,0:20:27.00,Regular,,0,0,0,,To be the pair of the Sibylla Aurea...
+Dialogue: 0,0:20:27.00,0:20:32.32,Regular,,0,0,0,,I always saw that as the quickest way to reach my goal.
+Dialogue: 0,0:20:33.68,0:20:35.84,Regular,,0,0,0,,But don't get the wrong idea.
+Dialogue: 0,0:20:35.84,0:20:36.34,Regular,,0,0,0,,Huh?
+Dialogue: 0,0:20:36.93,0:20:40.30,Regular,,0,0,0,,I honestly want to be on the same level as the rest of you,
+Dialogue: 0,0:20:40.30,0:20:43.52,Regular,,0,0,0,,but my reasons are different now. 
+Dialogue: 0,0:20:44.91,0:20:50.66,Regular,,0,0,0,,I truly want to be friends with everyone. 
+Dialogue: 0,0:20:54.10,0:20:55.46,Regular,,0,0,0,,Mamiina!
+Dialogue: 0,0:20:56.29,0:20:58.55,Regular,,0,0,0,,So please stop saying "but we {\i1}are{\i0} friends!" and stuff like that.
+Dialogue: 0,0:20:58.55,0:21:00.44,Regular,,0,0,0,,I'm a little sensitive about it, okay?
+Dialogue: 0,0:21:02.17,0:21:03.22,Regular,,0,0,0,,I understand.
+Dialogue: 0,0:21:04.83,0:21:08.67,Regular,,0,0,0,,Mamiina, would you like me to sing you a lullaby?
+Dialogue: 0,0:21:09.07,0:21:11.55,Regular,,0,0,0,,The one you were singing for Limone?
+Dialogue: 0,0:21:11.82,0:21:14.27,Regular,,0,0,0,,Aw, don't. I'm not a child.
+Dialogue: 0,0:21:20.02,0:21:22.16,Regular,,0,0,0,,Of course, she's not listening.
+Dialogue: 0,0:22:01.20,0:22:03.15,Regular,,0,0,0,,Why do you think you were taken off the mission?
+Dialogue: 0,0:22:03.46,0:22:05.38,Regular,,0,0,0,,I have an idea.
+Dialogue: 0,0:22:05.69,0:22:06.61,Regular,,0,0,0,,I see.
+Dialogue: 0,0:22:06.83,0:22:07.70,Regular,,0,0,0,,And you?
+Dialogue: 0,0:22:07.98,0:22:09.49,Regular,,0,0,0,,There's something that might be the reason.
+Dialogue: 0,0:22:09.49,0:22:10.73,Regular,,0,0,0,,And that is?
+Dialogue: 0,0:22:11.35,0:22:12.55,Regular,,0,0,0,,I can't say.
+Dialogue: 0,0:22:13.20,0:22:14.60,Regular,,0,0,0,,I promised not to.
+Dialogue: 0,0:22:14.69,0:22:15.90,Regular,,0,0,0,,I see.
+Dialogue: 0,0:22:15.90,0:22:17.50,Regular,,0,0,0,,That's a wise decision.
+Dialogue: 0,0:22:18.18,0:22:21.68,Regular,,0,0,0,,Promises are meant to be kept.
+Dialogue: 0,0:22:34.74,0:22:37.09,Regular,,0,0,0,,I have to go.
+Dialogue: 0,0:22:37.37,0:22:38.57,Regular,,0,0,0,,So do I.
 Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
@@ -316,9 +316,9 @@ Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
-Dialogue: 0,0:24:22.28,0:24:22.85,Default,,0,0,0,,Neviril is shot down,
-Dialogue: 0,0:24:23.08,0:24:26.65,Default,,0,0,0,,and forced to make an emergency landing
-Dialogue: 0,0:24:26.68,0:24:27.85,Default,,0,0,0,,on the Argentine base ship.
-Dialogue: 0,0:24:29.03,0:24:31.23,Default,,0,0,0,,Next time, on Simoun:
-Dialogue: 0,0:24:31.37,0:24:33.03,Default,,0,0,0,,Sibylla.
+Dialogue: 0,0:24:22.28,0:24:22.85,Regular,,0,0,0,,Neviril is shot down,
+Dialogue: 0,0:24:23.08,0:24:26.65,Regular,,0,0,0,,and forced to make an emergency landing
+Dialogue: 0,0:24:26.68,0:24:27.85,Regular,,0,0,0,,on the Argentine base ship.
+Dialogue: 0,0:24:29.03,0:24:31.23,Regular,,0,0,0,,Next time, on Simoun:
+Dialogue: 0,0:24:31.37,0:24:33.03,Regular,,0,0,0,,Sibylla.
 Dialogue: 0,0:24:30.47,0:24:34.77,Titles,,0,0,0,,Sibylla

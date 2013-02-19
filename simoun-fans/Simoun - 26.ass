@@ -23,7 +23,7 @@ Video Position: 0
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Lyrics bottom,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
-Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
+Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -38,260 +38,260 @@ Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:02:08.60,0:02:09.35,Default,,0,0,0,,Limone!
-Dialogue: 0,0:02:12.99,0:02:15.21,Default,,0,0,0,,Limone, the Elder is calling for you.
-Dialogue: 0,0:02:15.28,0:02:15.86,Default,,0,0,0,,Okay.
-Dialogue: 0,0:02:16.03,0:02:19.30,Default,,0,0,0,,Aira and Hanna are going to try it today.
-Dialogue: 0,0:02:40.53,0:02:41.97,Default,,0,0,0,,She has come.
-Dialogue: 0,0:02:47.59,0:02:48.63,Default,,0,0,0,,Limone!
-Dialogue: 0,0:02:50.05,0:02:50.87,Default,,0,0,0,,Aira.
-Dialogue: 0,0:02:51.18,0:02:52.00,Default,,0,0,0,,Hanna.
-Dialogue: 0,0:02:52.87,0:02:54.04,Default,,0,0,0,,Are you sure about this?
-Dialogue: 0,0:02:53.89,0:02:55.13,Default,,0,0,0,,Of course!
-Dialogue: 0,0:02:55.37,0:02:58.43,Default,,0,0,0,,We've been practicing for this day for so long!
-Dialogue: 0,0:02:58.52,0:03:00.08,Default,,0,0,0,,I'm so glad I was chosen!
-Dialogue: 0,0:03:00.48,0:03:07.75,Default,,0,0,0,,I've always admired you and Dominura... and the Emerald Ri Maajon!  
-Dialogue: 0,0:03:08.91,0:03:12.68,Default,,0,0,0,,Sibylla Dominura and Sibylla Limone.
-Dialogue: 0,0:03:12.86,0:03:18.40,Default,,0,0,0,,The two of them offered the Emerald Ri Maajon unto us,
-Dialogue: 0,0:03:19.02,0:03:21.95,Default,,0,0,0,,and our young girls have taken flight.
-Dialogue: 0,0:03:22.55,0:03:25.19,Default,,0,0,0,,Flowers which had never grown before have begun to bloom,
-Dialogue: 0,0:03:25.30,0:03:28.61,Default,,0,0,0,,and our blighted crops now bear fruit.
-Dialogue: 0,0:03:28.81,0:03:32.78,Default,,0,0,0,,Today, another two girls will begin their journey.
-Dialogue: 0,0:03:32.98,0:03:38.04,Default,,0,0,0,,Perhaps they too will bring to us even greater happiness!
+Dialogue: 0,0:02:08.60,0:02:09.35,Regular,,0,0,0,,Limone!
+Dialogue: 0,0:02:12.99,0:02:15.21,Regular,,0,0,0,,Limone, the Elder is calling for you.
+Dialogue: 0,0:02:15.28,0:02:15.86,Regular,,0,0,0,,Okay.
+Dialogue: 0,0:02:16.03,0:02:19.30,Regular,,0,0,0,,Aira and Hanna are going to try it today.
+Dialogue: 0,0:02:40.53,0:02:41.97,Regular,,0,0,0,,She has come.
+Dialogue: 0,0:02:47.59,0:02:48.63,Regular,,0,0,0,,Limone!
+Dialogue: 0,0:02:50.05,0:02:50.87,Regular,,0,0,0,,Aira.
+Dialogue: 0,0:02:51.18,0:02:52.00,Regular,,0,0,0,,Hanna.
+Dialogue: 0,0:02:52.87,0:02:54.04,Regular,,0,0,0,,Are you sure about this?
+Dialogue: 0,0:02:53.89,0:02:55.13,Regular,,0,0,0,,Of course!
+Dialogue: 0,0:02:55.37,0:02:58.43,Regular,,0,0,0,,We've been practicing for this day for so long!
+Dialogue: 0,0:02:58.52,0:03:00.08,Regular,,0,0,0,,I'm so glad I was chosen!
+Dialogue: 0,0:03:00.48,0:03:07.75,Regular,,0,0,0,,I've always admired you and Dominura... and the Emerald Ri Maajon!  
+Dialogue: 0,0:03:08.91,0:03:12.68,Regular,,0,0,0,,Sibylla Dominura and Sibylla Limone.
+Dialogue: 0,0:03:12.86,0:03:18.40,Regular,,0,0,0,,The two of them offered the Emerald Ri Maajon unto us,
+Dialogue: 0,0:03:19.02,0:03:21.95,Regular,,0,0,0,,and our young girls have taken flight.
+Dialogue: 0,0:03:22.55,0:03:25.19,Regular,,0,0,0,,Flowers which had never grown before have begun to bloom,
+Dialogue: 0,0:03:25.30,0:03:28.61,Regular,,0,0,0,,and our blighted crops now bear fruit.
+Dialogue: 0,0:03:28.81,0:03:32.78,Regular,,0,0,0,,Today, another two girls will begin their journey.
+Dialogue: 0,0:03:32.98,0:03:38.04,Regular,,0,0,0,,Perhaps they too will bring to us even greater happiness!
 Dialogue: 0,0:04:00.23,0:04:06.13,Titles,,0,0,0,,Their Portrait
-Dialogue: 0,0:04:15.25,0:04:19.75,Default,,0,0,0,,Hurry it up! How long are you planning to keep our client waiting?
-Dialogue: 0,0:04:21.24,0:04:22.35,Default,,0,0,0,,Morinas.
-Dialogue: 0,0:04:22.92,0:04:24.52,Default,,0,0,0,,What do you want, Wauf?
-Dialogue: 0,0:04:24.97,0:04:25.90,Default,,0,0,0,,Listen here.
-Dialogue: 0,0:04:26.28,0:04:31.44,Default,,0,0,0,,I don't care if you're a man or a woman, or even a former sibylla priesstess! 
-Dialogue: 0,0:04:31.60,0:04:33.84,Default,,0,0,0,,You're my employee now.
-Dialogue: 0,0:04:34.02,0:04:35.48,Default,,0,0,0,,I'm not gonna go easy on you!
-Dialogue: 0,0:04:35.64,0:04:37.64,Default,,0,0,0,,Yeah, yeah. So?
-Dialogue: 0,0:04:37.86,0:04:40.54,Default,,0,0,0,,You're saying I need to move more efficiently or something?
-Dialogue: 0,0:04:40.99,0:04:43.12,Default,,0,0,0,,You've got to take it easy.
-Dialogue: 0,0:04:43.20,0:04:43.60,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:04:44.09,0:04:45.29,Default,,0,0,0,,Daddy!
-Dialogue: 0,0:04:45.02,0:04:46.78,Default,,0,0,0,,Oh ho! What is it?
-Dialogue: 0,0:04:46.49,0:04:50.75,Default,,0,0,0,,Mommy, you know, she said "what does Daddy want to have for dinner?"
-Dialogue: 0,0:04:51.72,0:04:54.72,Default,,0,0,0,,Hmm, I don't know. Everything Mommy makes is delicious!
-Dialogue: 0,0:04:54.14,0:04:56.61,Default,,0,0,0,,She said you can't say "anything is fine!"
-Dialogue: 0,0:04:56.54,0:04:59.40,Default,,0,0,0,,Oh, really? Now that's a problem, isn't it?
-Dialogue: 0,0:05:04.10,0:05:07.26,Default,,0,0,0,,Anyway! This is a very important time!
-Dialogue: 0,0:05:07.52,0:05:10.78,Default,,0,0,0,,I don't want Wapourif to be mad if you push yourself too hard.
-Dialogue: 0,0:05:10.87,0:05:14.95,Default,,0,0,0,,They say if you keep moving your body, the baby just pops right out like BAM!
-Dialogue: 0,0:05:15.07,0:05:16.66,Default,,0,0,0,,R-Really?
-Dialogue: 0,0:05:18.30,0:05:19.26,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:05:19.33,0:05:22.83,Default,,0,0,0,,So what should we have for lunch, Daddy?
-Dialogue: 0,0:05:22.61,0:05:25.14,Default,,0,0,0,,Hmm, let's see now...
-Dialogue: 0,0:05:27.27,0:05:28.18,Default,,0,0,0,,Morinas!
-Dialogue: 0,0:05:28.44,0:05:29.75,Default,,0,0,0,,Hey, good work.
-Dialogue: 0,0:05:30.04,0:05:33.21,Default,,0,0,0,,Wait a sec, didn't you just finish your night shift?
-Dialogue: 0,0:05:33.35,0:05:34.63,Default,,0,0,0,,We don't have much choice.
-Dialogue: 0,0:05:34.75,0:05:37.83,Default,,0,0,0,,Plumbum and Argentum are already at each other's throats.
-Dialogue: 0,0:05:38.32,0:05:42.58,Default,,0,0,0,,Who knows when the treaty's going to be dissolved and we'll be shipped out?
-Dialogue: 0,0:05:43.31,0:05:45.24,Default,,0,0,0,,Another war, eh?
-Dialogue: 0,0:05:45.68,0:05:47.04,Default,,0,0,0,,Erif! Let's go.
-Dialogue: 0,0:05:47.15,0:05:47.97,Default,,0,0,0,,Right.
-Dialogue: 0,0:05:48.55,0:05:49.23,Default,,0,0,0,,Later!
-Dialogue: 0,0:06:14.31,0:06:16.61,Default,,0,0,0,,They really saved our butts back there.
-Dialogue: 0,0:06:16.75,0:06:17.37,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:18.61,0:06:19.94,Default,,0,0,0,,Floe was crying.
-Dialogue: 0,0:06:20.67,0:06:21.41,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:22.65,0:06:24.31,Default,,0,0,0,,You think it's gonna work?
-Dialogue: 0,0:06:24.78,0:06:26.44,Default,,0,0,0,,The Emerald Ri Maajon?
-Dialogue: 0,0:06:27.86,0:06:28.42,Default,,0,0,0,,Yes.
-Dialogue: 0,0:06:42.11,0:06:45.17,Default,,0,0,0,,You have stolen a Simoun, and allowed the sibyllae to escape.
-Dialogue: 0,0:06:45.55,0:06:48.03,Default,,0,0,0,,Do you realize the gravity of this crime?
-Dialogue: 0,0:06:51.58,0:06:54.91,Default,,0,0,0,,If they should rise up against our country—
-Dialogue: 0,0:06:54.64,0:06:55.44,Default,,0,0,0,,No.
-Dialogue: 0,0:06:55.73,0:06:59.66,Default,,0,0,0,,They will merely be carried away...
-Dialogue: 0,0:07:00.81,0:07:02.23,Default,,0,0,0,,...to the Land of Hope.
-Dialogue: 0,0:07:18.61,0:07:19.76,Default,,0,0,0,,Paraietta!
-Dialogue: 0,0:07:19.85,0:07:21.38,Default,,0,0,0,,Let's play!
-Dialogue: 0,0:07:22.16,0:07:25.08,Default,,0,0,0,,I have a guest right now, so I'm afraid we'll have to wait until later.
-Dialogue: 0,0:07:25.37,0:07:27.30,Default,,0,0,0,,Everyone play nicely now, okay?
-Dialogue: 0,0:07:26.86,0:07:28.75,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:07:32.07,0:07:33.91,Default,,0,0,0,,Such energetic children!
-Dialogue: 0,0:07:34.00,0:07:36.53,Default,,0,0,0,,Yes. I can barely keep up with them!
-Dialogue: 0,0:07:36.69,0:07:39.26,Default,,0,0,0,,Paraietta, I'm very sorry.
-Dialogue: 0,0:07:39.64,0:07:41.53,Default,,0,0,0,,I've tried to negotiate with the delegates, but...
-Dialogue: 0,0:07:41.75,0:07:43.12,Default,,0,0,0,,I don't think that there's much more I can do.
-Dialogue: 0,0:07:43.28,0:07:49.22,Default,,0,0,0,,Rodoreamon, this place exists because of your help. I'm very grateful. 
-Dialogue: 0,0:07:49.42,0:07:52.80,Default,,0,0,0,,Please, no. I will find another way.
-Dialogue: 0,0:07:52.95,0:07:59.19,Default,,0,0,0,,Once the war begins in earnest, it will only create more victims like these children.
-Dialogue: 0,0:08:00.47,0:08:02.96,Default,,0,0,0,,But they're not victims.
-Dialogue: 0,0:08:03.22,0:08:06.18,Default,,0,0,0,,Yes, the war has taken things from them.
-Dialogue: 0,0:08:06.31,0:08:09.81,Default,,0,0,0,,But they still have so much to live for!
-Dialogue: 0,0:08:10.06,0:08:11.94,Default,,0,0,0,,They are the seeds of hope.
-Dialogue: 0,0:08:12.81,0:08:16.87,Default,,0,0,0,,Their footsteps will help to create the Land of Hope.
-Dialogue: 0,0:08:17.45,0:08:18.78,Default,,0,0,0,,"Hope."
-Dialogue: 0,0:08:26.48,0:08:28.03,Default,,0,0,0,,"The Land of Hope."
-Dialogue: 0,0:08:29.07,0:08:34.33,Default,,0,0,0,,Long ago, I was a priestess. Those words bring back memories...
-Dialogue: 0,0:08:34.95,0:08:37.42,Default,,0,0,0,,I thought it was only a legend.
-Dialogue: 0,0:08:40.77,0:08:44.65,Default,,0,0,0,,However, even if the legend is true,
-Dialogue: 0,0:08:46.38,0:08:51.24,Default,,0,0,0,,what meaning is there in performing the Emerald Ri Maajon now?
-Dialogue: 0,0:08:51.44,0:08:55.61,Default,,0,0,0,,It's pointless to speak of any "meaning."
-Dialogue: 0,0:08:55.85,0:08:57.18,Default,,0,0,0,,Anubituf?
-Dialogue: 0,0:08:58.18,0:09:02.09,Default,,0,0,0,,If we cared to look, we might find a meaning,
-Dialogue: 0,0:09:02.18,0:09:07.50,Default,,0,0,0,,but even if we did, those girls would not have chosen it for themselves.
-Dialogue: 0,0:09:12.74,0:09:13.38,Default,,0,0,0,,What did he say?
-Dialogue: 0,0:09:14.20,0:09:15.58,Default,,0,0,0,,To take our Simoun...
-Dialogue: 0,0:09:17.40,0:09:21.52,Default,,0,0,0,,And pursue the Sibylla Aurea's Simoun!
-Dialogue: 0,0:09:21.59,0:09:24.65,Default,,0,0,0,,This is madness! Do you mean to shoot them down?
-Dialogue: 0,0:09:49.66,0:09:50.43,Default,,0,0,0,,Chief!
-Dialogue: 0,0:09:51.08,0:09:55.18,Default,,0,0,0,,There is nothing more that we can do for them.
-Dialogue: 0,0:09:55.64,0:09:57.91,Default,,0,0,0,,We will return to our duties.
-Dialogue: 0,0:09:57.80,0:09:58.53,Default,,0,0,0,,Yes, sir!
-Dialogue: 0,0:10:06.48,0:10:08.56,Default,,0,0,0,,It will be all right, Floe.
-Dialogue: 0,0:10:08.65,0:10:09.80,Default,,0,0,0,,It will be all right.
-Dialogue: 0,0:10:10.20,0:10:12.31,Default,,0,0,0,,They cannot do anything to them, even if they leave right now.
-Dialogue: 0,0:10:11.98,0:10:14.20,Default,,0,0,0,,But...! But...!
-Dialogue: 0,0:10:15.00,0:10:17.97,Default,,0,0,0,,I'm sure that Aaeru and Neviril will make it.
-Dialogue: 0,0:10:18.70,0:10:20.01,Default,,0,0,0,,Everything will be all right.
-Dialogue: 0,0:10:20.28,0:10:22.23,Default,,0,0,0,,Here, your nose is running.
-Dialogue: 0,0:10:24.00,0:10:28.15,Default,,0,0,0,,Jeez, since when were you such a crybaby, Floe?
-Dialogue: 0,0:10:27.64,0:10:29.82,Default,,0,0,0,,But...! But...!
-Dialogue: 0,0:10:30.06,0:10:32.72,Default,,0,0,0,,Floe, don't worry.
-Dialogue: 0,0:10:33.03,0:10:33.90,Default,,0,0,0,,Don't cry.
-Dialogue: 0,0:10:34.01,0:10:34.99,Default,,0,0,0,,Yeah, come on.
-Dialogue: 0,0:10:35.16,0:10:37.54,Default,,0,0,0,,Aaeru and Neviril, they'll—
-Dialogue: 0,0:10:36.90,0:10:37.72,Default,,0,0,0,,Ah!
-Dialogue: 0,0:10:37.74,0:10:38.85,Default,,0,0,0,,Huh? What?
-Dialogue: 0,0:10:38.94,0:10:40.58,Default,,0,0,0,,Para-sama, your breath tickles!
-Dialogue: 0,0:10:40.27,0:10:41.84,Default,,0,0,0,,What? Oh no!
-Dialogue: 0,0:10:41.64,0:10:43.93,Default,,0,0,0,,I'm gonna get snuggly, too!
-Dialogue: 0,0:10:44.04,0:10:46.28,Default,,0,0,0,,Oh? Then I will, too.
-Dialogue: 0,0:10:45.55,0:10:47.83,Default,,0,0,0,,Oh, Para-sama!
-Dialogue: 0,0:10:47.26,0:10:48.34,Default,,0,0,0,,Me too!
-Dialogue: 0,0:10:47.83,0:10:50.56,Default,,0,0,0,,Oh, please! Alti, stop it!
-Dialogue: 0,0:11:09.07,0:11:10.89,Default,,0,0,0,,Nee-san, was that...?
-Dialogue: 0,0:11:11.93,0:11:12.57,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:11:18.21,0:11:19.94,Default,,0,0,0,,Nee-san! Hurry! Hurry!
-Dialogue: 0,0:11:20.16,0:11:23.16,Default,,0,0,0,,Dad's—! Alti! Get that!
-Dialogue: 0,0:11:23.47,0:11:27.24,Default,,0,0,0,,Aw man! All that time we spent on laundry...
-Dialogue: 0,0:11:26.97,0:11:28.51,Default,,0,0,0,,What weird weather.
-Dialogue: 0,0:11:28.48,0:11:30.63,Default,,0,0,0,,Guess we're just gonna have to wash it again, huh?
-Dialogue: 0,0:11:30.88,0:11:33.36,Default,,0,0,0,,Nee-san, all you ever do is just sit and watch!
-Dialogue: 0,0:11:33.10,0:11:35.34,Default,,0,0,0,,That's my job!
-Dialogue: 0,0:11:34.94,0:11:35.98,Default,,0,0,0,,Dummy.
-Dialogue: 0,0:12:04.49,0:12:06.04,Default,,0,0,0,,Dominura...
-Dialogue: 0,0:12:26.66,0:12:28.28,Default,,0,0,0,,How are you feeling?
-Dialogue: 0,0:12:30.36,0:12:33.42,Default,,0,0,0,,My fever has gone down. Thank you.
-Dialogue: 0,0:12:33.53,0:12:34.47,Default,,0,0,0,,I'm glad.
-Dialogue: 0,0:12:35.18,0:12:36.77,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:12:36.89,0:12:38.66,Default,,0,0,0,,After all this time...
-Dialogue: 0,0:12:39.68,0:12:41.70,Default,,0,0,0,,...I think I finally understand how you felt.
-Dialogue: 0,0:12:41.59,0:12:42.14,Default,,0,0,0,,
-Dialogue: 0,0:12:43.30,0:12:45.69,Default,,0,0,0,,Those girls are going to fly away...
-Dialogue: 0,0:12:46.31,0:12:49.55,Default,,0,0,0,,...into an uncertain sky.
-Dialogue: 0,0:12:49.69,0:12:52.68,Default,,0,0,0,,They're flying towards an elusive hope.
-Dialogue: 0,0:12:53.08,0:12:55.99,Default,,0,0,0,,I forced everyone to learn the Emerald Ri Maajon.
-Dialogue: 0,0:12:56.68,0:12:58.84,Default,,0,0,0,,but I don't even fly myself.
-Dialogue: 0,0:12:59.67,0:13:00.38,Default,,0,0,0,,I...
-Dialogue: 0,0:13:02.13,0:13:03.09,Default,,0,0,0,,Limone.
-Dialogue: 0,0:13:03.91,0:13:05.37,Default,,0,0,0,,Do you want to fly again?
-Dialogue: 0,0:13:06.06,0:13:06.64,Default,,0,0,0,,Yes.
-Dialogue: 0,0:13:07.42,0:13:10.01,Default,,0,0,0,,But if you don't want to...
-Dialogue: 0,0:13:11.61,0:13:13.29,Default,,0,0,0,,The only one I'll have as my pair...
-Dialogue: 0,0:13:14.23,0:13:15.91,Default,,0,0,0,,...is you, Dominura, so...
-Dialogue: 0,0:13:26.43,0:13:30.33,Default,,0,0,0,,Just for you, I want to draw...
-Dialogue: 0,0:13:34.40,0:13:36.77,Default,,0,0,0,,...the Emerald Ri Maajon.
-Dialogue: 0,0:13:38.54,0:13:39.61,Default,,0,0,0,,Simoun!
-Dialogue: 0,0:13:40.12,0:13:42.01,Default,,0,0,0,,They're coming after us!
-Dialogue: 0,0:13:42.32,0:13:43.09,Default,,0,0,0,,Neviril!
-Dialogue: 0,0:13:43.18,0:13:43.69,Default,,0,0,0,,Yes.
-Dialogue: 0,0:13:44.16,0:13:45.84,Default,,0,0,0,,We've gotta hurry! They're gonna catch us!
-Dialogue: 0,0:13:45.91,0:13:46.66,Default,,0,0,0,,Wait!
-Dialogue: 0,0:13:46.86,0:13:47.40,Default,,0,0,0,,Huh?
-Dialogue: 0,0:13:50.44,0:13:52.43,Default,,0,0,0,,They're gonna do a Ri Maajon!
-Dialogue: 0,0:13:52.50,0:13:53.70,Default,,0,0,0,,We have to hurry!
-Dialogue: 0,0:13:53.74,0:13:56.09,Default,,0,0,0,,No. That's...!
-Dialogue: 0,0:13:57.54,0:13:59.22,Default,,0,0,0,,What is that?
-Dialogue: 0,0:13:59.38,0:14:01.31,Default,,0,0,0,,I've never seen that Ri Maajon before.
-Dialogue: 0,0:14:01.55,0:14:04.06,Default,,0,0,0,,The Morning Calm Ri Maajon.
-Dialogue: 0,0:14:04.90,0:14:06.41,Default,,0,0,0,,The Morning Calm?
-Dialogue: 0,0:14:07.32,0:14:09.45,Default,,0,0,0,,I read about it once, in an old book.
-Dialogue: 0,0:14:10.07,0:14:12.89,Default,,0,0,0,,It is performed to bid farewell to a comrade about to depart on a journey.
-Dialogue: 0,0:14:13.20,0:14:16.35,Default,,0,0,0,,Farewell to a comrade departing on a journey...
-Dialogue: 0,0:14:26.20,0:14:27.47,Default,,0,0,0,,That's...
-Dialogue: 0,0:14:28.20,0:14:29.97,Default,,0,0,0,,The Morning Calm Ri Maajon?
-Dialogue: 0,0:14:37.47,0:14:40.74,Default,,0,0,0,,This reminds me of my youth...
-Dialogue: 0,0:14:43.64,0:14:46.44,Default,,0,0,0,,We were all maidens once.
-Dialogue: 0,0:15:09.27,0:15:10.11,Default,,0,0,0,,Let's do it.
-Dialogue: 0,0:15:10.44,0:15:11.09,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:11.89,0:15:13.06,Default,,0,0,0,,We shall.
-Dialogue: 0,0:15:22.63,0:15:24.33,Default,,0,0,0,,Let us go forth, Aaeru.
-Dialogue: 0,0:15:24.71,0:15:26.64,Default,,0,0,0,,To the place where we can be free.
-Dialogue: 0,0:15:27.77,0:15:30.68,Default,,0,0,0,,Yeah. Let's go, Neviril!
-Dialogue: 0,0:15:39.71,0:15:42.02,Default,,0,0,0,,I'm sorry for calling you out here, Limone.
-Dialogue: 0,0:15:42.73,0:15:43.93,Default,,0,0,0,,What is it?
-Dialogue: 0,0:15:44.64,0:15:48.39,Default,,0,0,0,,Well... I want you to be my pair.
-Dialogue: 0,0:15:49.58,0:15:52.07,Default,,0,0,0,,I've already told you no.
-Dialogue: 0,0:15:52.18,0:15:53.42,Default,,0,0,0,,For me...
-Dialogue: 0,0:15:53.53,0:15:55.09,Default,,0,0,0,,I know.
-Dialogue: 0,0:15:55.29,0:16:01.54,Default,,0,0,0,,But Dominura... does she have any intention of ever flying again?
-Dialogue: 0,0:16:06.62,0:16:07.60,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:16:08.11,0:16:09.11,Default,,0,0,0,,But!
-Dialogue: 0,0:16:26.73,0:16:29.25,Default,,0,0,0,,Wasn't that a Simoun...?
-Dialogue: 0,0:16:29.39,0:16:30.52,Default,,0,0,0,,Aaeru!
-Dialogue: 0,0:16:30.59,0:16:32.41,Default,,0,0,0,,Huh? What's that?
-Dialogue: 0,0:16:32.80,0:16:34.03,Default,,0,0,0,,Is that someone's name?
-Dialogue: 0,0:16:34.27,0:16:37.11,Default,,0,0,0,,The highest form... of love.
-Dialogue: 0,0:16:39.13,0:16:39.64,Default,,0,0,0,,Love?
-Dialogue: 0,0:16:40.30,0:16:41.13,Default,,0,0,0,,Yes.
-Dialogue: 0,0:16:43.45,0:16:44.63,Default,,0,0,0,,Dominura!
-Dialogue: 0,0:16:44.85,0:16:47.25,Default,,0,0,0,,The highest form of love.
-Dialogue: 0,0:16:47.91,0:16:50.42,Default,,0,0,0,,Which sky shall we travel to next?
-Dialogue: 0,0:16:51.44,0:16:52.73,Default,,0,0,0,,Dominura!
-Dialogue: 0,0:17:23.95,0:17:26.37,Default,,0,0,0,,Hey! You're early, Vyura!
-Dialogue: 0,0:17:26.74,0:17:28.41,Default,,0,0,0,,Oh, wait, I mean Vyuraf.
-Dialogue: 0,0:17:28.70,0:17:29.92,Default,,0,0,0,,Hard to say, isn't it?
-Dialogue: 0,0:17:30.40,0:17:31.51,Default,,0,0,0,,Vyura's fine.
-Dialogue: 0,0:17:31.60,0:17:34.09,Default,,0,0,0,,Okay, Vyura. Anyway, come in.
-Dialogue: 0,0:17:34.51,0:17:35.09,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:17:40.85,0:17:42.27,Default,,0,0,0,,You got one, too?
-Dialogue: 0,0:17:42.52,0:17:43.03,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:17:43.69,0:17:46.42,Default,,0,0,0,,Sheesh, and the war hasn't even started yet.
-Dialogue: 0,0:17:46.71,0:17:51.57,Default,,0,0,0,,I guess former sibyllae get to be sent out first, at times like this.
-Dialogue: 0,0:17:51.66,0:17:52.41,Default,,0,0,0,,Which side?
-Dialogue: 0,0:17:53.10,0:17:57.98,Default,,0,0,0,,I was born on the other side of the border. It'll be Argentum for me.
-Dialogue: 0,0:17:59.11,0:18:00.69,Default,,0,0,0,,So we're gonna be enemies, huh?
-Dialogue: 0,0:18:00.96,0:18:01.44,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:18:03.53,0:18:07.19,Default,,0,0,0,,Well, whatever. Here, take some of these vegetables that I grew! They're a new variety.
-Dialogue: 0,0:18:07.59,0:18:09.28,Default,,0,0,0,,I'm aiming to hit the jackpot with these.
-Dialogue: 0,0:18:09.68,0:18:13.54,Default,,0,0,0,,I can't die till I get myself a cute bride!
-Dialogue: 0,0:18:14.60,0:18:17.97,Default,,0,0,0,,Becoming male hasn't changed you one bit, Floef!
-Dialogue: 0,0:18:18.51,0:18:21.68,Default,,0,0,0,,Hard to say, right? You can call me Floe too.
-Dialogue: 0,0:18:30.20,0:18:31.93,Default,,0,0,0,,The {\i1}Arcus Prima{\i0}?
-Dialogue: 0,0:18:32.40,0:18:37.61,Default,,0,0,0,,Yeah. I just thought I might as well live in a place where I can see her.
-Dialogue: 0,0:18:37.85,0:18:39.94,Default,,0,0,0,,A sunken luxury liner?
-Dialogue: 0,0:18:41.03,0:18:42.65,Default,,0,0,0,,She does have a kind of elegance about her.
-Dialogue: 0,0:18:43.89,0:18:44.64,Default,,0,0,0,,Well, later!
-Dialogue: 0,0:18:44.86,0:18:48.17,Default,,0,0,0,,Yeah, see you later... well, I guess that's an ominous thing to say.
-Dialogue: 0,0:18:48.64,0:18:51.23,Default,,0,0,0,,I really don't want to see you on the battlefield.
-Dialogue: 0,0:18:52.05,0:18:54.18,Default,,0,0,0,,Okay. "Farewell," then?
-Dialogue: 0,0:18:54.41,0:18:56.36,Default,,0,0,0,,Yeah. Farewell.
-Dialogue: 0,0:18:56.87,0:18:57.69,Default,,0,0,0,,Farewell.
-Dialogue: 0,0:19:19.81,0:19:24.67,Default,,0,0,0,,I wonder why we were all so insistent about it?
-Dialogue: 0,0:19:25.53,0:19:29.68,Default,,0,0,0,,About sending Aaeru and Neviril to another world.
-Dialogue: 0,0:19:29.84,0:19:35.45,Default,,0,0,0,,Was it because we wanted to fight against the flow of time?
-Dialogue: 0,0:19:35.79,0:19:37.72,Default,,0,0,0,,We were frightened about becoming adults.
-Dialogue: 0,0:19:38.09,0:19:39.78,Default,,0,0,0,,We wanted to stay as we were, as girls...
-Dialogue: 0,0:19:40.24,0:19:43.40,Default,,0,0,0,,Was it because we projected those thoughts onto them?
-Dialogue: 0,0:19:44.26,0:19:46.59,Default,,0,0,0,,No, I don't think that's it.
-Dialogue: 0,0:19:46.90,0:19:49.94,Default,,0,0,0,,We just wanted to carve out our names.
-Dialogue: 0,0:19:50.65,0:19:54.29,Default,,0,0,0,,To show that we were really here.
-Dialogue: 0,0:19:54.82,0:19:56.97,Default,,0,0,0,,We wanted to shout that to the world.
-Dialogue: 0,0:19:58.17,0:20:02.79,Default,,0,0,0,,That we really were there.
-Dialogue: 0,0:20:03.50,0:20:05.05,Default,,0,0,0,,We wanted a memorial.
-Dialogue: 0,0:20:06.07,0:20:07.89,Default,,0,0,0,,We wanted to make a stand.
-Dialogue: 0,0:20:16.90,0:20:18.19,Default,,0,0,0,,Aaeru...
-Dialogue: 0,0:20:18.52,0:20:19.83,Default,,0,0,0,,Neviril...
-Dialogue: 0,0:20:20.03,0:20:23.53,Default,,0,0,0,,Where are you now?
-Dialogue: 0,0:20:28.79,0:20:32.01,Default,,0,0,0,,Our Eternal Maidens.
-Dialogue: 0,0:20:46.85,0:20:48.27,Default,,0,0,0,,What a lovely breeze.
-Dialogue: 0,0:20:48.63,0:20:49.45,Default,,0,0,0,,Yes.
-Dialogue: 0,0:20:50.05,0:20:51.49,Default,,0,0,0,,It is a nice breeze.
+Dialogue: 0,0:04:15.25,0:04:19.75,Regular,,0,0,0,,Hurry it up! How long are you planning to keep our client waiting?
+Dialogue: 0,0:04:21.24,0:04:22.35,Regular,,0,0,0,,Morinas.
+Dialogue: 0,0:04:22.92,0:04:24.52,Regular,,0,0,0,,What do you want, Wauf?
+Dialogue: 0,0:04:24.97,0:04:25.90,Regular,,0,0,0,,Listen here.
+Dialogue: 0,0:04:26.28,0:04:31.44,Regular,,0,0,0,,I don't care if you're a man or a woman, or even a former sibylla priesstess! 
+Dialogue: 0,0:04:31.60,0:04:33.84,Regular,,0,0,0,,You're my employee now.
+Dialogue: 0,0:04:34.02,0:04:35.48,Regular,,0,0,0,,I'm not gonna go easy on you!
+Dialogue: 0,0:04:35.64,0:04:37.64,Regular,,0,0,0,,Yeah, yeah. So?
+Dialogue: 0,0:04:37.86,0:04:40.54,Regular,,0,0,0,,You're saying I need to move more efficiently or something?
+Dialogue: 0,0:04:40.99,0:04:43.12,Regular,,0,0,0,,You've got to take it easy.
+Dialogue: 0,0:04:43.20,0:04:43.60,Regular,,0,0,0,,Hmm?
+Dialogue: 0,0:04:44.09,0:04:45.29,Regular,,0,0,0,,Daddy!
+Dialogue: 0,0:04:45.02,0:04:46.78,Regular,,0,0,0,,Oh ho! What is it?
+Dialogue: 0,0:04:46.49,0:04:50.75,Regular,,0,0,0,,Mommy, you know, she said "what does Daddy want to have for dinner?"
+Dialogue: 0,0:04:51.72,0:04:54.72,Regular,,0,0,0,,Hmm, I don't know. Everything Mommy makes is delicious!
+Dialogue: 0,0:04:54.14,0:04:56.61,Regular,,0,0,0,,She said you can't say "anything is fine!"
+Dialogue: 0,0:04:56.54,0:04:59.40,Regular,,0,0,0,,Oh, really? Now that's a problem, isn't it?
+Dialogue: 0,0:05:04.10,0:05:07.26,Regular,,0,0,0,,Anyway! This is a very important time!
+Dialogue: 0,0:05:07.52,0:05:10.78,Regular,,0,0,0,,I don't want Wapourif to be mad if you push yourself too hard.
+Dialogue: 0,0:05:10.87,0:05:14.95,Regular,,0,0,0,,They say if you keep moving your body, the baby just pops right out like BAM!
+Dialogue: 0,0:05:15.07,0:05:16.66,Regular,,0,0,0,,R-Really?
+Dialogue: 0,0:05:18.30,0:05:19.26,Regular,,0,0,0,,Thanks.
+Dialogue: 0,0:05:19.33,0:05:22.83,Regular,,0,0,0,,So what should we have for lunch, Daddy?
+Dialogue: 0,0:05:22.61,0:05:25.14,Regular,,0,0,0,,Hmm, let's see now...
+Dialogue: 0,0:05:27.27,0:05:28.18,Regular,,0,0,0,,Morinas!
+Dialogue: 0,0:05:28.44,0:05:29.75,Regular,,0,0,0,,Hey, good work.
+Dialogue: 0,0:05:30.04,0:05:33.21,Regular,,0,0,0,,Wait a sec, didn't you just finish your night shift?
+Dialogue: 0,0:05:33.35,0:05:34.63,Regular,,0,0,0,,We don't have much choice.
+Dialogue: 0,0:05:34.75,0:05:37.83,Regular,,0,0,0,,Plumbum and Argentum are already at each other's throats.
+Dialogue: 0,0:05:38.32,0:05:42.58,Regular,,0,0,0,,Who knows when the treaty's going to be dissolved and we'll be shipped out?
+Dialogue: 0,0:05:43.31,0:05:45.24,Regular,,0,0,0,,Another war, eh?
+Dialogue: 0,0:05:45.68,0:05:47.04,Regular,,0,0,0,,Erif! Let's go.
+Dialogue: 0,0:05:47.15,0:05:47.97,Regular,,0,0,0,,Right.
+Dialogue: 0,0:05:48.55,0:05:49.23,Regular,,0,0,0,,Later!
+Dialogue: 0,0:06:14.31,0:06:16.61,Regular,,0,0,0,,They really saved our butts back there.
+Dialogue: 0,0:06:16.75,0:06:17.37,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:06:18.61,0:06:19.94,Regular,,0,0,0,,Floe was crying.
+Dialogue: 0,0:06:20.67,0:06:21.41,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:06:22.65,0:06:24.31,Regular,,0,0,0,,You think it's gonna work?
+Dialogue: 0,0:06:24.78,0:06:26.44,Regular,,0,0,0,,The Emerald Ri Maajon?
+Dialogue: 0,0:06:27.86,0:06:28.42,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:06:42.11,0:06:45.17,Regular,,0,0,0,,You have stolen a Simoun, and allowed the sibyllae to escape.
+Dialogue: 0,0:06:45.55,0:06:48.03,Regular,,0,0,0,,Do you realize the gravity of this crime?
+Dialogue: 0,0:06:51.58,0:06:54.91,Regular,,0,0,0,,If they should rise up against our country—
+Dialogue: 0,0:06:54.64,0:06:55.44,Regular,,0,0,0,,No.
+Dialogue: 0,0:06:55.73,0:06:59.66,Regular,,0,0,0,,They will merely be carried away...
+Dialogue: 0,0:07:00.81,0:07:02.23,Regular,,0,0,0,,...to the Land of Hope.
+Dialogue: 0,0:07:18.61,0:07:19.76,Regular,,0,0,0,,Paraietta!
+Dialogue: 0,0:07:19.85,0:07:21.38,Regular,,0,0,0,,Let's play!
+Dialogue: 0,0:07:22.16,0:07:25.08,Regular,,0,0,0,,I have a guest right now, so I'm afraid we'll have to wait until later.
+Dialogue: 0,0:07:25.37,0:07:27.30,Regular,,0,0,0,,Everyone play nicely now, okay?
+Dialogue: 0,0:07:26.86,0:07:28.75,Regular,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:07:32.07,0:07:33.91,Regular,,0,0,0,,Such energetic children!
+Dialogue: 0,0:07:34.00,0:07:36.53,Regular,,0,0,0,,Yes. I can barely keep up with them!
+Dialogue: 0,0:07:36.69,0:07:39.26,Regular,,0,0,0,,Paraietta, I'm very sorry.
+Dialogue: 0,0:07:39.64,0:07:41.53,Regular,,0,0,0,,I've tried to negotiate with the delegates, but...
+Dialogue: 0,0:07:41.75,0:07:43.12,Regular,,0,0,0,,I don't think that there's much more I can do.
+Dialogue: 0,0:07:43.28,0:07:49.22,Regular,,0,0,0,,Rodoreamon, this place exists because of your help. I'm very grateful. 
+Dialogue: 0,0:07:49.42,0:07:52.80,Regular,,0,0,0,,Please, no. I will find another way.
+Dialogue: 0,0:07:52.95,0:07:59.19,Regular,,0,0,0,,Once the war begins in earnest, it will only create more victims like these children.
+Dialogue: 0,0:08:00.47,0:08:02.96,Regular,,0,0,0,,But they're not victims.
+Dialogue: 0,0:08:03.22,0:08:06.18,Regular,,0,0,0,,Yes, the war has taken things from them.
+Dialogue: 0,0:08:06.31,0:08:09.81,Regular,,0,0,0,,But they still have so much to live for!
+Dialogue: 0,0:08:10.06,0:08:11.94,Regular,,0,0,0,,They are the seeds of hope.
+Dialogue: 0,0:08:12.81,0:08:16.87,Regular,,0,0,0,,Their footsteps will help to create the Land of Hope.
+Dialogue: 0,0:08:17.45,0:08:18.78,Regular,,0,0,0,,"Hope."
+Dialogue: 0,0:08:26.48,0:08:28.03,Regular,,0,0,0,,"The Land of Hope."
+Dialogue: 0,0:08:29.07,0:08:34.33,Regular,,0,0,0,,Long ago, I was a priestess. Those words bring back memories...
+Dialogue: 0,0:08:34.95,0:08:37.42,Regular,,0,0,0,,I thought it was only a legend.
+Dialogue: 0,0:08:40.77,0:08:44.65,Regular,,0,0,0,,However, even if the legend is true,
+Dialogue: 0,0:08:46.38,0:08:51.24,Regular,,0,0,0,,what meaning is there in performing the Emerald Ri Maajon now?
+Dialogue: 0,0:08:51.44,0:08:55.61,Regular,,0,0,0,,It's pointless to speak of any "meaning."
+Dialogue: 0,0:08:55.85,0:08:57.18,Regular,,0,0,0,,Anubituf?
+Dialogue: 0,0:08:58.18,0:09:02.09,Regular,,0,0,0,,If we cared to look, we might find a meaning,
+Dialogue: 0,0:09:02.18,0:09:07.50,Regular,,0,0,0,,but even if we did, those girls would not have chosen it for themselves.
+Dialogue: 0,0:09:12.74,0:09:13.38,Regular,,0,0,0,,What did he say?
+Dialogue: 0,0:09:14.20,0:09:15.58,Regular,,0,0,0,,To take our Simoun...
+Dialogue: 0,0:09:17.40,0:09:21.52,Regular,,0,0,0,,And pursue the Sibylla Aurea's Simoun!
+Dialogue: 0,0:09:21.59,0:09:24.65,Regular,,0,0,0,,This is madness! Do you mean to shoot them down?
+Dialogue: 0,0:09:49.66,0:09:50.43,Regular,,0,0,0,,Chief!
+Dialogue: 0,0:09:51.08,0:09:55.18,Regular,,0,0,0,,There is nothing more that we can do for them.
+Dialogue: 0,0:09:55.64,0:09:57.91,Regular,,0,0,0,,We will return to our duties.
+Dialogue: 0,0:09:57.80,0:09:58.53,Regular,,0,0,0,,Yes, sir!
+Dialogue: 0,0:10:06.48,0:10:08.56,Regular,,0,0,0,,It will be all right, Floe.
+Dialogue: 0,0:10:08.65,0:10:09.80,Regular,,0,0,0,,It will be all right.
+Dialogue: 0,0:10:10.20,0:10:12.31,Regular,,0,0,0,,They cannot do anything to them, even if they leave right now.
+Dialogue: 0,0:10:11.98,0:10:14.20,Regular,,0,0,0,,But...! But...!
+Dialogue: 0,0:10:15.00,0:10:17.97,Regular,,0,0,0,,I'm sure that Aaeru and Neviril will make it.
+Dialogue: 0,0:10:18.70,0:10:20.01,Regular,,0,0,0,,Everything will be all right.
+Dialogue: 0,0:10:20.28,0:10:22.23,Regular,,0,0,0,,Here, your nose is running.
+Dialogue: 0,0:10:24.00,0:10:28.15,Regular,,0,0,0,,Jeez, since when were you such a crybaby, Floe?
+Dialogue: 0,0:10:27.64,0:10:29.82,Regular,,0,0,0,,But...! But...!
+Dialogue: 0,0:10:30.06,0:10:32.72,Regular,,0,0,0,,Floe, don't worry.
+Dialogue: 0,0:10:33.03,0:10:33.90,Regular,,0,0,0,,Don't cry.
+Dialogue: 0,0:10:34.01,0:10:34.99,Regular,,0,0,0,,Yeah, come on.
+Dialogue: 0,0:10:35.16,0:10:37.54,Regular,,0,0,0,,Aaeru and Neviril, they'll—
+Dialogue: 0,0:10:36.90,0:10:37.72,Regular,,0,0,0,,Ah!
+Dialogue: 0,0:10:37.74,0:10:38.85,Regular,,0,0,0,,Huh? What?
+Dialogue: 0,0:10:38.94,0:10:40.58,Regular,,0,0,0,,Para-sama, your breath tickles!
+Dialogue: 0,0:10:40.27,0:10:41.84,Regular,,0,0,0,,What? Oh no!
+Dialogue: 0,0:10:41.64,0:10:43.93,Regular,,0,0,0,,I'm gonna get snuggly, too!
+Dialogue: 0,0:10:44.04,0:10:46.28,Regular,,0,0,0,,Oh? Then I will, too.
+Dialogue: 0,0:10:45.55,0:10:47.83,Regular,,0,0,0,,Oh, Para-sama!
+Dialogue: 0,0:10:47.26,0:10:48.34,Regular,,0,0,0,,Me too!
+Dialogue: 0,0:10:47.83,0:10:50.56,Regular,,0,0,0,,Oh, please! Alti, stop it!
+Dialogue: 0,0:11:09.07,0:11:10.89,Regular,,0,0,0,,Nee-san, was that...?
+Dialogue: 0,0:11:11.93,0:11:12.57,Regular,,0,0,0,,Yeah.
+Dialogue: 0,0:11:18.21,0:11:19.94,Regular,,0,0,0,,Nee-san! Hurry! Hurry!
+Dialogue: 0,0:11:20.16,0:11:23.16,Regular,,0,0,0,,Dad's—! Alti! Get that!
+Dialogue: 0,0:11:23.47,0:11:27.24,Regular,,0,0,0,,Aw man! All that time we spent on laundry...
+Dialogue: 0,0:11:26.97,0:11:28.51,Regular,,0,0,0,,What weird weather.
+Dialogue: 0,0:11:28.48,0:11:30.63,Regular,,0,0,0,,Guess we're just gonna have to wash it again, huh?
+Dialogue: 0,0:11:30.88,0:11:33.36,Regular,,0,0,0,,Nee-san, all you ever do is just sit and watch!
+Dialogue: 0,0:11:33.10,0:11:35.34,Regular,,0,0,0,,That's my job!
+Dialogue: 0,0:11:34.94,0:11:35.98,Regular,,0,0,0,,Dummy.
+Dialogue: 0,0:12:04.49,0:12:06.04,Regular,,0,0,0,,Dominura...
+Dialogue: 0,0:12:26.66,0:12:28.28,Regular,,0,0,0,,How are you feeling?
+Dialogue: 0,0:12:30.36,0:12:33.42,Regular,,0,0,0,,My fever has gone down. Thank you.
+Dialogue: 0,0:12:33.53,0:12:34.47,Regular,,0,0,0,,I'm glad.
+Dialogue: 0,0:12:35.18,0:12:36.77,Regular,,0,0,0,,Did something happen?
+Dialogue: 0,0:12:36.89,0:12:38.66,Regular,,0,0,0,,After all this time...
+Dialogue: 0,0:12:39.68,0:12:41.70,Regular,,0,0,0,,...I think I finally understand how you felt.
+Dialogue: 0,0:12:41.59,0:12:42.14,Regular,,0,0,0,,
+Dialogue: 0,0:12:43.30,0:12:45.69,Regular,,0,0,0,,Those girls are going to fly away...
+Dialogue: 0,0:12:46.31,0:12:49.55,Regular,,0,0,0,,...into an uncertain sky.
+Dialogue: 0,0:12:49.69,0:12:52.68,Regular,,0,0,0,,They're flying towards an elusive hope.
+Dialogue: 0,0:12:53.08,0:12:55.99,Regular,,0,0,0,,I forced everyone to learn the Emerald Ri Maajon.
+Dialogue: 0,0:12:56.68,0:12:58.84,Regular,,0,0,0,,but I don't even fly myself.
+Dialogue: 0,0:12:59.67,0:13:00.38,Regular,,0,0,0,,I...
+Dialogue: 0,0:13:02.13,0:13:03.09,Regular,,0,0,0,,Limone.
+Dialogue: 0,0:13:03.91,0:13:05.37,Regular,,0,0,0,,Do you want to fly again?
+Dialogue: 0,0:13:06.06,0:13:06.64,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:13:07.42,0:13:10.01,Regular,,0,0,0,,But if you don't want to...
+Dialogue: 0,0:13:11.61,0:13:13.29,Regular,,0,0,0,,The only one I'll have as my pair...
+Dialogue: 0,0:13:14.23,0:13:15.91,Regular,,0,0,0,,...is you, Dominura, so...
+Dialogue: 0,0:13:26.43,0:13:30.33,Regular,,0,0,0,,Just for you, I want to draw...
+Dialogue: 0,0:13:34.40,0:13:36.77,Regular,,0,0,0,,...the Emerald Ri Maajon.
+Dialogue: 0,0:13:38.54,0:13:39.61,Regular,,0,0,0,,Simoun!
+Dialogue: 0,0:13:40.12,0:13:42.01,Regular,,0,0,0,,They're coming after us!
+Dialogue: 0,0:13:42.32,0:13:43.09,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:13:43.18,0:13:43.69,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:13:44.16,0:13:45.84,Regular,,0,0,0,,We've gotta hurry! They're gonna catch us!
+Dialogue: 0,0:13:45.91,0:13:46.66,Regular,,0,0,0,,Wait!
+Dialogue: 0,0:13:46.86,0:13:47.40,Regular,,0,0,0,,Huh?
+Dialogue: 0,0:13:50.44,0:13:52.43,Regular,,0,0,0,,They're gonna do a Ri Maajon!
+Dialogue: 0,0:13:52.50,0:13:53.70,Regular,,0,0,0,,We have to hurry!
+Dialogue: 0,0:13:53.74,0:13:56.09,Regular,,0,0,0,,No. That's...!
+Dialogue: 0,0:13:57.54,0:13:59.22,Regular,,0,0,0,,What is that?
+Dialogue: 0,0:13:59.38,0:14:01.31,Regular,,0,0,0,,I've never seen that Ri Maajon before.
+Dialogue: 0,0:14:01.55,0:14:04.06,Regular,,0,0,0,,The Morning Calm Ri Maajon.
+Dialogue: 0,0:14:04.90,0:14:06.41,Regular,,0,0,0,,The Morning Calm?
+Dialogue: 0,0:14:07.32,0:14:09.45,Regular,,0,0,0,,I read about it once, in an old book.
+Dialogue: 0,0:14:10.07,0:14:12.89,Regular,,0,0,0,,It is performed to bid farewell to a comrade about to depart on a journey.
+Dialogue: 0,0:14:13.20,0:14:16.35,Regular,,0,0,0,,Farewell to a comrade departing on a journey...
+Dialogue: 0,0:14:26.20,0:14:27.47,Regular,,0,0,0,,That's...
+Dialogue: 0,0:14:28.20,0:14:29.97,Regular,,0,0,0,,The Morning Calm Ri Maajon?
+Dialogue: 0,0:14:37.47,0:14:40.74,Regular,,0,0,0,,This reminds me of my youth...
+Dialogue: 0,0:14:43.64,0:14:46.44,Regular,,0,0,0,,We were all maidens once.
+Dialogue: 0,0:15:09.27,0:15:10.11,Regular,,0,0,0,,Let's do it.
+Dialogue: 0,0:15:10.44,0:15:11.09,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:15:11.89,0:15:13.06,Regular,,0,0,0,,We shall.
+Dialogue: 0,0:15:22.63,0:15:24.33,Regular,,0,0,0,,Let us go forth, Aaeru.
+Dialogue: 0,0:15:24.71,0:15:26.64,Regular,,0,0,0,,To the place where we can be free.
+Dialogue: 0,0:15:27.77,0:15:30.68,Regular,,0,0,0,,Yeah. Let's go, Neviril!
+Dialogue: 0,0:15:39.71,0:15:42.02,Regular,,0,0,0,,I'm sorry for calling you out here, Limone.
+Dialogue: 0,0:15:42.73,0:15:43.93,Regular,,0,0,0,,What is it?
+Dialogue: 0,0:15:44.64,0:15:48.39,Regular,,0,0,0,,Well... I want you to be my pair.
+Dialogue: 0,0:15:49.58,0:15:52.07,Regular,,0,0,0,,I've already told you no.
+Dialogue: 0,0:15:52.18,0:15:53.42,Regular,,0,0,0,,For me...
+Dialogue: 0,0:15:53.53,0:15:55.09,Regular,,0,0,0,,I know.
+Dialogue: 0,0:15:55.29,0:16:01.54,Regular,,0,0,0,,But Dominura... does she have any intention of ever flying again?
+Dialogue: 0,0:16:06.62,0:16:07.60,Regular,,0,0,0,,Sorry.
+Dialogue: 0,0:16:08.11,0:16:09.11,Regular,,0,0,0,,But!
+Dialogue: 0,0:16:26.73,0:16:29.25,Regular,,0,0,0,,Wasn't that a Simoun...?
+Dialogue: 0,0:16:29.39,0:16:30.52,Regular,,0,0,0,,Aaeru!
+Dialogue: 0,0:16:30.59,0:16:32.41,Regular,,0,0,0,,Huh? What's that?
+Dialogue: 0,0:16:32.80,0:16:34.03,Regular,,0,0,0,,Is that someone's name?
+Dialogue: 0,0:16:34.27,0:16:37.11,Regular,,0,0,0,,The highest form... of love.
+Dialogue: 0,0:16:39.13,0:16:39.64,Regular,,0,0,0,,Love?
+Dialogue: 0,0:16:40.30,0:16:41.13,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:16:43.45,0:16:44.63,Regular,,0,0,0,,Dominura!
+Dialogue: 0,0:16:44.85,0:16:47.25,Regular,,0,0,0,,The highest form of love.
+Dialogue: 0,0:16:47.91,0:16:50.42,Regular,,0,0,0,,Which sky shall we travel to next?
+Dialogue: 0,0:16:51.44,0:16:52.73,Regular,,0,0,0,,Dominura!
+Dialogue: 0,0:17:23.95,0:17:26.37,Regular,,0,0,0,,Hey! You're early, Vyura!
+Dialogue: 0,0:17:26.74,0:17:28.41,Regular,,0,0,0,,Oh, wait, I mean Vyuraf.
+Dialogue: 0,0:17:28.70,0:17:29.92,Regular,,0,0,0,,Hard to say, isn't it?
+Dialogue: 0,0:17:30.40,0:17:31.51,Regular,,0,0,0,,Vyura's fine.
+Dialogue: 0,0:17:31.60,0:17:34.09,Regular,,0,0,0,,Okay, Vyura. Anyway, come in.
+Dialogue: 0,0:17:34.51,0:17:35.09,Regular,,0,0,0,,Yeah.
+Dialogue: 0,0:17:40.85,0:17:42.27,Regular,,0,0,0,,You got one, too?
+Dialogue: 0,0:17:42.52,0:17:43.03,Regular,,0,0,0,,Yeah.
+Dialogue: 0,0:17:43.69,0:17:46.42,Regular,,0,0,0,,Sheesh, and the war hasn't even started yet.
+Dialogue: 0,0:17:46.71,0:17:51.57,Regular,,0,0,0,,I guess former sibyllae get to be sent out first, at times like this.
+Dialogue: 0,0:17:51.66,0:17:52.41,Regular,,0,0,0,,Which side?
+Dialogue: 0,0:17:53.10,0:17:57.98,Regular,,0,0,0,,I was born on the other side of the border. It'll be Argentum for me.
+Dialogue: 0,0:17:59.11,0:18:00.69,Regular,,0,0,0,,So we're gonna be enemies, huh?
+Dialogue: 0,0:18:00.96,0:18:01.44,Regular,,0,0,0,,Yeah.
+Dialogue: 0,0:18:03.53,0:18:07.19,Regular,,0,0,0,,Well, whatever. Here, take some of these vegetables that I grew! They're a new variety.
+Dialogue: 0,0:18:07.59,0:18:09.28,Regular,,0,0,0,,I'm aiming to hit the jackpot with these.
+Dialogue: 0,0:18:09.68,0:18:13.54,Regular,,0,0,0,,I can't die till I get myself a cute bride!
+Dialogue: 0,0:18:14.60,0:18:17.97,Regular,,0,0,0,,Becoming male hasn't changed you one bit, Floef!
+Dialogue: 0,0:18:18.51,0:18:21.68,Regular,,0,0,0,,Hard to say, right? You can call me Floe too.
+Dialogue: 0,0:18:30.20,0:18:31.93,Regular,,0,0,0,,The {\i1}Arcus Prima{\i0}?
+Dialogue: 0,0:18:32.40,0:18:37.61,Regular,,0,0,0,,Yeah. I just thought I might as well live in a place where I can see her.
+Dialogue: 0,0:18:37.85,0:18:39.94,Regular,,0,0,0,,A sunken luxury liner?
+Dialogue: 0,0:18:41.03,0:18:42.65,Regular,,0,0,0,,She does have a kind of elegance about her.
+Dialogue: 0,0:18:43.89,0:18:44.64,Regular,,0,0,0,,Well, later!
+Dialogue: 0,0:18:44.86,0:18:48.17,Regular,,0,0,0,,Yeah, see you later... well, I guess that's an ominous thing to say.
+Dialogue: 0,0:18:48.64,0:18:51.23,Regular,,0,0,0,,I really don't want to see you on the battlefield.
+Dialogue: 0,0:18:52.05,0:18:54.18,Regular,,0,0,0,,Okay. "Farewell," then?
+Dialogue: 0,0:18:54.41,0:18:56.36,Regular,,0,0,0,,Yeah. Farewell.
+Dialogue: 0,0:18:56.87,0:18:57.69,Regular,,0,0,0,,Farewell.
+Dialogue: 0,0:19:19.81,0:19:24.67,Regular,,0,0,0,,I wonder why we were all so insistent about it?
+Dialogue: 0,0:19:25.53,0:19:29.68,Regular,,0,0,0,,About sending Aaeru and Neviril to another world.
+Dialogue: 0,0:19:29.84,0:19:35.45,Regular,,0,0,0,,Was it because we wanted to fight against the flow of time?
+Dialogue: 0,0:19:35.79,0:19:37.72,Regular,,0,0,0,,We were frightened about becoming adults.
+Dialogue: 0,0:19:38.09,0:19:39.78,Regular,,0,0,0,,We wanted to stay as we were, as girls...
+Dialogue: 0,0:19:40.24,0:19:43.40,Regular,,0,0,0,,Was it because we projected those thoughts onto them?
+Dialogue: 0,0:19:44.26,0:19:46.59,Regular,,0,0,0,,No, I don't think that's it.
+Dialogue: 0,0:19:46.90,0:19:49.94,Regular,,0,0,0,,We just wanted to carve out our names.
+Dialogue: 0,0:19:50.65,0:19:54.29,Regular,,0,0,0,,To show that we were really here.
+Dialogue: 0,0:19:54.82,0:19:56.97,Regular,,0,0,0,,We wanted to shout that to the world.
+Dialogue: 0,0:19:58.17,0:20:02.79,Regular,,0,0,0,,That we really were there.
+Dialogue: 0,0:20:03.50,0:20:05.05,Regular,,0,0,0,,We wanted a memorial.
+Dialogue: 0,0:20:06.07,0:20:07.89,Regular,,0,0,0,,We wanted to make a stand.
+Dialogue: 0,0:20:16.90,0:20:18.19,Regular,,0,0,0,,Aaeru...
+Dialogue: 0,0:20:18.52,0:20:19.83,Regular,,0,0,0,,Neviril...
+Dialogue: 0,0:20:20.03,0:20:23.53,Regular,,0,0,0,,Where are you now?
+Dialogue: 0,0:20:28.79,0:20:32.01,Regular,,0,0,0,,Our Eternal Maidens.
+Dialogue: 0,0:20:46.85,0:20:48.27,Regular,,0,0,0,,What a lovely breeze.
+Dialogue: 0,0:20:48.63,0:20:49.45,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:20:50.05,0:20:51.49,Regular,,0,0,0,,It is a nice breeze.
 Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
@@ -306,4 +306,4 @@ Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:29.49,0:24:34.49,Title,,0,450,450,,The End
-Dialogue: 0,0:24:34.99,0:24:44.49,Default,,0,0,0,,
+Dialogue: 0,0:24:34.99,0:24:44.49,Regular,,0,0,0,,

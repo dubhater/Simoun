@@ -23,7 +23,7 @@ Video Position: 0
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Lyrics bottom,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
-Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
+Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -38,298 +38,298 @@ Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
-Dialogue: 0,0:02:10.96,0:02:14.16,Default,,0,0,0,,They say "home is where the heart is."
-Dialogue: 0,0:02:14.22,0:02:16.26,Default,,0,0,0,,Well, everyone certainly seems at home here.
-Dialogue: 0,0:02:16.30,0:02:19.30,Default,,0,0,0,,Looks like it's taking some people a little longer, though.
-Dialogue: 0,0:02:21.87,0:02:24.88,Default,,0,0,0,,Ah! The girl with the spiffy new hairstyle.
-Dialogue: 0,0:02:37.69,0:02:39.89,Default,,0,0,0,,What's up, Rodoreamon?
-Dialogue: 0,0:02:41.32,0:02:44.40,Default,,0,0,0,,My bed seems rather wobbly.
-Dialogue: 0,0:02:46.02,0:02:48.31,Default,,0,0,0,,Might it be Milady's imagination?
-Dialogue: 0,0:02:49.28,0:02:52.20,Default,,0,0,0,,It's old! You'll just have to put up with it.
-Dialogue: 0,0:02:52.28,0:02:54.43,Default,,0,0,0,,Still, though, it's a bother.
-Dialogue: 0,0:02:56.49,0:02:59.71,Default,,0,0,0,,Every time I move even a little, it makes a noise.
-Dialogue: 0,0:03:00.85,0:03:02.38,Default,,0,0,0,,Hold this.
-Dialogue: 0,0:03:07.12,0:03:09.56,Default,,0,0,0,,How does it look?
-Dialogue: 0,0:03:13.28,0:03:14.67,Default,,0,0,0,,Here goes!
-Dialogue: 0,0:03:18.89,0:03:20.35,Default,,0,0,0,,Hurry!
-Dialogue: 0,0:03:24.65,0:03:26.18,Default,,0,0,0,,How's that?
-Dialogue: 0,0:03:26.18,0:03:27.79,Default,,0,0,0,,You fixed it!
-Dialogue: 0,0:03:27.79,0:03:29.79,Default,,0,0,0,,Thank you, Mamiina!
-Dialogue: 0,0:03:29.84,0:03:32.12,Default,,0,0,0,,Don't thank me for a thing like that!
-Dialogue: 0,0:03:32.54,0:03:34.39,Default,,0,0,0,,What's up with those two?
-Dialogue: 0,0:03:34.39,0:03:35.36,Default,,0,0,0,,I wonder.
-Dialogue: 0,0:03:35.36,0:03:37.61,Default,,0,0,0,,Does her new haircut have anything to do with it?
-Dialogue: 0,0:03:46.04,0:03:47.44,Default,,0,0,0,,We're descending.
-Dialogue: 0,0:03:47.44,0:03:49.21,Default,,0,0,0,,So this is where we're headed?
-Dialogue: 0,0:04:08.38,0:04:09.56,Default,,0,0,0,,We've landed.
+Dialogue: 0,0:02:10.96,0:02:14.16,Regular,,0,0,0,,They say "home is where the heart is."
+Dialogue: 0,0:02:14.22,0:02:16.26,Regular,,0,0,0,,Well, everyone certainly seems at home here.
+Dialogue: 0,0:02:16.30,0:02:19.30,Regular,,0,0,0,,Looks like it's taking some people a little longer, though.
+Dialogue: 0,0:02:21.87,0:02:24.88,Regular,,0,0,0,,Ah! The girl with the spiffy new hairstyle.
+Dialogue: 0,0:02:37.69,0:02:39.89,Regular,,0,0,0,,What's up, Rodoreamon?
+Dialogue: 0,0:02:41.32,0:02:44.40,Regular,,0,0,0,,My bed seems rather wobbly.
+Dialogue: 0,0:02:46.02,0:02:48.31,Regular,,0,0,0,,Might it be Milady's imagination?
+Dialogue: 0,0:02:49.28,0:02:52.20,Regular,,0,0,0,,It's old! You'll just have to put up with it.
+Dialogue: 0,0:02:52.28,0:02:54.43,Regular,,0,0,0,,Still, though, it's a bother.
+Dialogue: 0,0:02:56.49,0:02:59.71,Regular,,0,0,0,,Every time I move even a little, it makes a noise.
+Dialogue: 0,0:03:00.85,0:03:02.38,Regular,,0,0,0,,Hold this.
+Dialogue: 0,0:03:07.12,0:03:09.56,Regular,,0,0,0,,How does it look?
+Dialogue: 0,0:03:13.28,0:03:14.67,Regular,,0,0,0,,Here goes!
+Dialogue: 0,0:03:18.89,0:03:20.35,Regular,,0,0,0,,Hurry!
+Dialogue: 0,0:03:24.65,0:03:26.18,Regular,,0,0,0,,How's that?
+Dialogue: 0,0:03:26.18,0:03:27.79,Regular,,0,0,0,,You fixed it!
+Dialogue: 0,0:03:27.79,0:03:29.79,Regular,,0,0,0,,Thank you, Mamiina!
+Dialogue: 0,0:03:29.84,0:03:32.12,Regular,,0,0,0,,Don't thank me for a thing like that!
+Dialogue: 0,0:03:32.54,0:03:34.39,Regular,,0,0,0,,What's up with those two?
+Dialogue: 0,0:03:34.39,0:03:35.36,Regular,,0,0,0,,I wonder.
+Dialogue: 0,0:03:35.36,0:03:37.61,Regular,,0,0,0,,Does her new haircut have anything to do with it?
+Dialogue: 0,0:03:46.04,0:03:47.44,Regular,,0,0,0,,We're descending.
+Dialogue: 0,0:03:47.44,0:03:49.21,Regular,,0,0,0,,So this is where we're headed?
+Dialogue: 0,0:04:08.38,0:04:09.56,Regular,,0,0,0,,We've landed.
 Dialogue: 0,0:04:18.67,0:04:24.67,Titles,,0,0,0,,United Front
-Dialogue: 0,0:04:35.00,0:04:38.11,Default,,0,0,0,,This ship is a piece of crap! Where's the bridge?
-Dialogue: 0,0:04:38.34,0:04:40.24,Default,,0,0,0,,Can this really be the priestesses' ship?
-Dialogue: 0,0:04:40.33,0:04:42.96,Default,,0,0,0,,I imagined something better.
-Dialogue: 0,0:04:43.01,0:04:44.97,Default,,0,0,0,,Some kind of secret garden?
-Dialogue: 0,0:04:52.17,0:04:53.71,Default,,0,0,0,,Those are the sibyllae!
-Dialogue: 0,0:04:53.71,0:04:55.40,Default,,0,0,0,,I've never seen one before.
-Dialogue: 0,0:04:55.40,0:04:58.16,Default,,0,0,0,,Shut up, you maggots!
-Dialogue: 0,0:04:58.51,0:05:00.25,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:05:02.37,0:05:04.38,Default,,0,0,0,,What business do you have here?
-Dialogue: 0,0:05:04.77,0:05:07.46,Default,,0,0,0,,This is the Simoun sibyllae's ship.
-Dialogue: 0,0:05:07.46,0:05:08.72,Default,,0,0,0,,Yeah, I know.
-Dialogue: 0,0:05:08.85,0:05:11.43,Default,,0,0,0,,We made a special trip out here just for you.
-Dialogue: 0,0:05:11.55,0:05:12.87,Default,,0,0,0,,A special trip?
-Dialogue: 0,0:05:12.87,0:05:16.90,Default,,0,0,0,,Yeah. And you're just in time to take me to the bridge, sweet cheeks. 
-Dialogue: 0,0:05:17.99,0:05:19.95,Default,,0,0,0,,I won't stand for such impertinence!
-Dialogue: 0,0:05:19.99,0:05:20.82,Default,,0,0,0,,We—
-Dialogue: 0,0:05:20.82,0:05:22.90,Default,,0,0,0,,Please, everyone. This way.
-Dialogue: 0,0:05:22.90,0:05:23.74,Default,,0,0,0,,Yun!
-Dialogue: 0,0:05:23.74,0:05:25.37,Default,,0,0,0,,Just a moment, please.
-Dialogue: 0,0:05:25.51,0:05:27.51,Default,,0,0,0,,I shall serve as your escort.
-Dialogue: 0,0:05:27.68,0:05:28.60,Default,,0,0,0,,If you would come this way?
-Dialogue: 0,0:05:28.63,0:05:30.00,Default,,0,0,0,,Neviril...
-Dialogue: 0,0:05:30.00,0:05:31.55,Default,,0,0,0,,You apes wait here.
-Dialogue: 0,0:05:31.55,0:05:32.69,Default,,0,0,0,,Yes, sir.
-Dialogue: 0,0:05:39.61,0:05:41.86,Default,,0,0,0,,Neviril's really something, isn't she?
-Dialogue: 0,0:05:44.37,0:05:46.36,Default,,0,0,0,,Welcome aboard the {\i1}Messis{\i0}.
-Dialogue: 0,0:05:46.50,0:05:48.58,Default,,0,0,0,,Please make yourselves at home.
-Dialogue: 0,0:05:48.68,0:05:50.66,Default,,0,0,0,,Thanks a lot, Captain.
-Dialogue: 0,0:05:50.76,0:05:53.27,Default,,0,0,0,,But is this really a good idea?
-Dialogue: 0,0:05:53.35,0:05:55.62,Default,,0,0,0,,These kids on your ship
-Dialogue: 0,0:05:55.72,0:05:59.04,Default,,0,0,0,,don't look like any kind of fighting unit that I've ever seen.
-Dialogue: 0,0:05:59.49,0:06:04.59,Default,,0,0,0,,If courage in battle were a matter of appearances, you might be right. 
-Dialogue: 0,0:06:04.73,0:06:09.54,Default,,0,0,0,,But the Simoun sibyllae are our country's primary defence. 
-Dialogue: 0,0:06:09.54,0:06:11.83,Default,,0,0,0,,Those are the facts.
-Dialogue: 0,0:06:11.93,0:06:15.85,Default,,0,0,0,,Every command is paying attention to this historic operation. 
-Dialogue: 0,0:06:15.99,0:06:18.02,Default,,0,0,0,,It cannot be permitted to fail.
-Dialogue: 0,0:06:18.81,0:06:22.62,Default,,0,0,0,,Our confidence in one another is of paramount importance.
-Dialogue: 0,0:06:24.63,0:06:26.53,Default,,0,0,0,,Yes. That's true.
-Dialogue: 0,0:06:26.70,0:06:30.07,Default,,0,0,0,,So  I can expect the plan to move forward smoothly, then?
-Dialogue: 0,0:06:30.33,0:06:33.00,Default,,0,0,0,,Of course. I want this, too, you know. 
-Dialogue: 0,0:06:33.00,0:06:34.77,Default,,0,0,0,,It is agreed, then.
-Dialogue: 0,0:06:36.40,0:06:38.15,Default,,0,0,0,,Dominura, explain yourself!
-Dialogue: 0,0:06:38.27,0:06:41.55,Default,,0,0,0,,We will be conducting a combined operation with these gentlemen.
-Dialogue: 0,0:06:44.62,0:06:47.27,Default,,0,0,0,,I hope we will work well together, Sibylla...
-Dialogue: 0,0:06:47.35,0:06:49.07,Default,,0,0,0,,Neviril.
-Dialogue: 0,0:06:49.07,0:06:51.07,Default,,0,0,0,,Sibylla Neviril.
-Dialogue: 0,0:06:56.25,0:06:58.15,Default,,0,0,0,,A combined operation?
-Dialogue: 0,0:06:58.22,0:07:02.19,Default,,0,0,0,,Yes. There's some kind of plan for us to work with them.
-Dialogue: 0,0:07:02.26,0:07:04.34,Default,,0,0,0,,What? Us?
-Dialogue: 0,0:07:04.58,0:07:06.50,Default,,0,0,0,,With them?
-Dialogue: 0,0:07:10.20,0:07:12.31,Default,,0,0,0,,Hey, Sibylla-sama! You're a cutie!
-Dialogue: 0,0:07:13.79,0:07:16.70,Default,,0,0,0,,We just keep getting more and more defiled, don't we?
-Dialogue: 0,0:07:17.55,0:07:19.53,Default,,0,0,0,,What's going to happen now?
-Dialogue: 0,0:07:19.53,0:07:24.49,Default,,0,0,0,,The problem is just that those guys are making a small ship even smaller. 
-Dialogue: 0,0:07:24.49,0:07:27.01,Default,,0,0,0,,Well, it looks like someone's enjoying this.
-Dialogue: 0,0:07:28.86,0:07:30.40,Default,,0,0,0,,What, for real?
-Dialogue: 0,0:07:30.45,0:07:32.33,Default,,0,0,0,,So you're from around here, eh?
-Dialogue: 0,0:07:32.39,0:07:35.68,Default,,0,0,0,,Yes. When the war started, I enlisted right away.
-Dialogue: 0,0:07:35.84,0:07:38.76,Default,,0,0,0,,How cool. A real defender of justice!
-Dialogue: 0,0:07:38.82,0:07:41.72,Default,,0,0,0,,As your reward, I'll show you around the ship.
-Dialogue: 0,0:07:44.10,0:07:45.50,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:07:46.77,0:07:48.62,Default,,0,0,0,,Uh... to be touched by a sibylla...
-Dialogue: 0,0:07:48.66,0:07:50.64,Default,,0,0,0,,Nothing's going to happen.
-Dialogue: 0,0:07:51.28,0:07:54.12,Default,,0,0,0,,I just haven't gone to the Spring.
-Dialogue: 0,0:07:54.29,0:07:56.21,Default,,0,0,0,,That's all.
-Dialogue: 0,0:07:57.20,0:07:58.51,Default,,0,0,0,,It's okay.
-Dialogue: 0,0:07:58.56,0:08:00.79,Default,,0,0,0,,I'm going to become a woman.
-Dialogue: 0,0:08:01.59,0:08:03.82,Default,,0,0,0,,That—that wasn't what I meant.
-Dialogue: 0,0:08:04.09,0:08:05.92,Default,,0,0,0,,It's not really proper...
-Dialogue: 0,0:08:05.92,0:08:10.50,Default,,0,0,0,,A common soldier like me isn't even supposed to speak to a sibylla! 
-Dialogue: 0,0:08:10.50,0:08:11.98,Default,,0,0,0,,Come on!
-Dialogue: 0,0:08:11.98,0:08:14.59,Default,,0,0,0,,Stop trying to make things complicated!
-Dialogue: 0,0:08:14.59,0:08:16.59,Default,,0,0,0,,Let's go, okay?
-Dialogue: 0,0:08:19.57,0:08:22.90,Default,,0,0,0,,In the last few weeks, the enemy has been on the offensive,
-Dialogue: 0,0:08:22.99,0:08:26.23,Default,,0,0,0,,and our main line of resistance has been forced back.
-Dialogue: 0,0:08:27.06,0:08:29.54,Default,,0,0,0,,We're going to stop their advance by taking out the enemy headquarters.
-Dialogue: 0,0:08:29.54,0:08:33.75,Default,,0,0,0,,They're based here in this town. 
-Dialogue: 0,0:08:34.55,0:08:37.17,Default,,0,0,0,,It's called Ubel, and we're going to launch an operation to take it back.
-Dialogue: 0,0:08:38.39,0:08:40.22,Default,,0,0,0,,This is our battle plan.
-Dialogue: 0,0:08:40.22,0:08:44.08,Default,,0,0,0,,First, the Simoun will transport our assault force into position.
-Dialogue: 0,0:08:44.08,0:08:46.08,Default,,0,0,0,,Transport? Us?
-Dialogue: 0,0:08:46.33,0:08:51.25,Default,,0,0,0,,Yes. Preparations are being made to install special personnel containers. 
-Dialogue: 0,0:08:51.25,0:08:53.53,Default,,0,0,0,,You're going to use the Simoun to transport soldiers?
-Dialogue: 0,0:08:53.53,0:08:56.30,Default,,0,0,0,,If there were any other way, we would use it.
-Dialogue: 0,0:08:56.49,0:08:58.92,Default,,0,0,0,,You do understand that, don't you?
-Dialogue: 0,0:09:02.91,0:09:08.24,Default,,0,0,0,,The soldiers aboard the Simoun will be secretly dropped in various places around the town. 
-Dialogue: 0,0:09:10.91,0:09:14.63,Default,,0,0,0,,When that's done, they'll signal the main force to attack, 
-Dialogue: 0,0:09:15.45,0:09:17.28,Default,,0,0,0,,take the enemy in a pincer movement,
-Dialogue: 0,0:09:17.28,0:09:19.06,Default,,0,0,0,,and wipe them all out.
-Dialogue: 0,0:09:19.91,0:09:22.23,Default,,0,0,0,,What else are we to do?
-Dialogue: 0,0:09:22.80,0:09:24.54,Default,,0,0,0,,Everything after that is our job.
-Dialogue: 0,0:09:24.54,0:09:28.52,Default,,0,0,0,,Once you've delivered us to the battlefield, your part is over. 
-Dialogue: 0,0:09:29.41,0:09:31.70,Default,,0,0,0,,The operation is scheduled for the night of the new moon.
-Dialogue: 0,0:09:31.70,0:09:34.11,Default,,0,0,0,,We'll go tomorrow at 2300 hours.
-Dialogue: 0,0:09:34.11,0:09:37.35,Default,,0,0,0,,Each of you, please make all necessary preparations. 
-Dialogue: 0,0:09:37.54,0:09:38.97,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:09:39.62,0:09:40.89,Default,,0,0,0,,Hey!
-Dialogue: 0,0:09:40.89,0:09:44.23,Default,,0,0,0,,Why in the world are you doing that to the Simoun?
-Dialogue: 0,0:09:44.94,0:09:46.36,Default,,0,0,0,,I feel the same way.
-Dialogue: 0,0:09:46.36,0:09:48.36,Default,,0,0,0,,These are the sacred chariots of the gods.
-Dialogue: 0,0:09:48.36,0:09:50.19,Default,,0,0,0,,I don't want to have to do this to them.
-Dialogue: 0,0:09:50.19,0:09:54.62,Default,,0,0,0,,No way! Oh, those poor Simoun!
-Dialogue: 0,0:09:55.57,0:09:58.00,Default,,0,0,0,,And with those...
-Dialogue: 0,0:09:58.81,0:10:02.04,Default,,0,0,0,,they look just {\i1}sooo{\i0} uncool!
-Dialogue: 0,0:10:06.17,0:10:08.65,Default,,0,0,0,,We were flying over the ocean the other day,
-Dialogue: 0,0:10:08.72,0:10:10.91,Default,,0,0,0,,and there were these ginormous fish there.
-Dialogue: 0,0:10:10.91,0:10:13.75,Default,,0,0,0,,I thought to myself, "Gee, those look yummy!" and...
-Dialogue: 0,0:10:13.75,0:10:17.35,Default,,0,0,0,,She's paying no attention to what's happening over here.
-Dialogue: 0,0:10:17.48,0:10:20.76,Default,,0,0,0,,She just yammers on, wrapped up in her own little world.
-Dialogue: 0,0:10:20.83,0:10:24.25,Default,,0,0,0,,Well, maybe we're just like her.
-Dialogue: 0,0:10:25.21,0:10:28.99,Default,,0,0,0,,We don't even have time to think about ourselves, let alone anyone else.
-Dialogue: 0,0:10:30.33,0:10:35.89,Default,,0,0,0,,I wish that everyone could understand and care for each other, as those two seem to. 
-Dialogue: 0,0:10:37.98,0:10:39.33,Default,,0,0,0,,Tasty?
-Dialogue: 0,0:10:39.39,0:10:41.54,Default,,0,0,0,,Yes, it's a real delicacy!
-Dialogue: 0,0:10:41.78,0:10:43.45,Default,,0,0,0,,A delicacy?
-Dialogue: 0,0:10:43.45,0:10:45.45,Default,,0,0,0,,Right. I'm glad!
-Dialogue: 0,0:10:53.92,0:10:58.05,Default,,0,0,0,,Somehow, I guess I misunderstood what a sibylla was. 
-Dialogue: 0,0:10:58.14,0:10:59.26,Default,,0,0,0,,Misunderstood?
-Dialogue: 0,0:10:59.26,0:11:00.32,Default,,0,0,0,,Yes.
-Dialogue: 0,0:11:00.32,0:11:05.02,Default,,0,0,0,,I thought sibyllae were untouchably sacred figures who must not be viol... uh... 
-Dialogue: 0,0:11:08.22,0:11:10.30,Default,,0,0,0,,I thought they would be quieter.
-Dialogue: 0,0:11:10.30,0:11:11.43,Default,,0,0,0,,Are you disappointed?
-Dialogue: 0,0:11:11.43,0:11:13.43,Default,,0,0,0,,No. Just the opposite!
-Dialogue: 0,0:11:13.80,0:11:16.88,Default,,0,0,0,,It means that I've been able to talk with you.
-Dialogue: 0,0:11:17.93,0:11:19.78,Default,,0,0,0,,Yeah, I think things are great, too.
-Dialogue: 0,0:11:28.48,0:11:30.00,Default,,0,0,0,,Floe!
-Dialogue: 0,0:11:30.51,0:11:31.92,Default,,0,0,0,,What is it?
-Dialogue: 0,0:11:31.98,0:11:34.06,Default,,0,0,0,,Have you been getting close to one of the soldiers?
-Dialogue: 0,0:11:34.28,0:11:36.29,Default,,0,0,0,,Uh-huh. His name is Mastif.
-Dialogue: 0,0:11:36.45,0:11:38.62,Default,,0,0,0,,You need to think about your position.
-Dialogue: 0,0:11:38.78,0:11:40.08,Default,,0,0,0,,My position?
-Dialogue: 0,0:11:40.08,0:11:42.94,Default,,0,0,0,,We are priestesses serving Tempus Spatium.
-Dialogue: 0,0:11:43.32,0:11:45.53,Default,,0,0,0,,We must refrain from unseemly behaviour.
-Dialogue: 0,0:11:45.60,0:11:47.74,Default,,0,0,0,,That sort of thinking is just {\i1}so{\i0} out of date.
-Dialogue: 0,0:11:49.04,0:11:51.66,Default,,0,0,0,,I can't help it. I really like him!
-Dialogue: 0,0:11:51.72,0:11:55.10,Default,,0,0,0,,Floe, saying shameless things like that is— 
-Dialogue: 0,0:11:55.10,0:11:57.80,Default,,0,0,0,,Someday we're going to go to the Spring.
-Dialogue: 0,0:11:57.97,0:12:00.54,Default,,0,0,0,,Then it won't matter if you're a sibylla or a soldier.
-Dialogue: 0,0:12:00.54,0:12:02.31,Default,,0,0,0,,Um, Floe...
-Dialogue: 0,0:12:02.31,0:12:05.01,Default,,0,0,0,,With stupid rules like that, maybe I should just quit being a sibylla!
-Dialogue: 0,0:12:05.23,0:12:07.10,Default,,0,0,0,,Then you wouldn't be able to complain any more!
-Dialogue: 0,0:12:07.18,0:12:09.10,Default,,0,0,0,,Oh! Floe!
-Dialogue: 0,0:12:16.24,0:12:17.97,Default,,0,0,0,,My head hurts...
-Dialogue: 0,0:12:37.66,0:12:39.65,Default,,0,0,0,,Sorry to keep you waiting!
-Dialogue: 0,0:12:42.97,0:12:45.15,Default,,0,0,0,,Um... is this really okay?
-Dialogue: 0,0:12:45.15,0:12:46.72,Default,,0,0,0,,We're fine!
-Dialogue: 0,0:12:46.72,0:12:47.70,Default,,0,0,0,,Were you waiting long?
-Dialogue: 0,0:12:47.70,0:12:48.43,Default,,0,0,0,,Not at all.
-Dialogue: 0,0:12:48.43,0:12:51.63,Default,,0,0,0,,Oh, Mastif! You're so sweet!
-Dialogue: 0,0:12:52.20,0:12:54.03,Default,,0,0,0,,Don't you like me being snuggly?
-Dialogue: 0,0:12:54.13,0:12:55.54,Default,,0,0,0,,That's not it.
-Dialogue: 0,0:12:55.54,0:12:56.88,Default,,0,0,0,,What's up?
-Dialogue: 0,0:13:02.97,0:13:07.31,Default,,0,0,0,,Sibylla Floe, you priestesses all serve Tempus Spatium. 
-Dialogue: 0,0:13:07.62,0:13:09.75,Default,,0,0,0,,As sibyllae, you lead sacred lives.
-Dialogue: 0,0:13:09.75,0:13:10.87,Default,,0,0,0,,Sure.
-Dialogue: 0,0:13:10.87,0:13:12.87,Default,,0,0,0,,What's with you, all of a sudden?
-Dialogue: 0,0:13:12.87,0:13:15.76,Default,,0,0,0,,We soldiers are strong believers.
-Dialogue: 0,0:13:15.90,0:13:21.10,Default,,0,0,0,,But more importantly than love and respect for Tempus Spatium, 
-Dialogue: 0,0:13:21.15,0:13:23.28,Default,,0,0,0,,if I didn't have my faith, I couldn't go on.
-Dialogue: 0,0:13:26.97,0:13:29.62,Default,,0,0,0,,So... how do you feel about the war?
-Dialogue: 0,0:13:29.62,0:13:31.01,Default,,0,0,0,,I hate it.
-Dialogue: 0,0:13:31.26,0:13:33.23,Default,,0,0,0,,But we'd all die if we didn't fight.
-Dialogue: 0,0:13:33.62,0:13:35.63,Default,,0,0,0,,What about killing people, though?
-Dialogue: 0,0:13:45.60,0:13:48.76,Default,,0,0,0,,If that's how you feel, then why'd you volunteer?
-Dialogue: 0,0:13:50.60,0:13:52.66,Default,,0,0,0,,It's hard to put into words.
-Dialogue: 0,0:13:52.66,0:13:54.66,Default,,0,0,0,,All my friends were enlisting.
-Dialogue: 0,0:13:56.06,0:13:59.75,Default,,0,0,0,,Tomorrow's operation... is to take back the town where I was born.
-Dialogue: 0,0:14:03.56,0:14:04.82,Default,,0,0,0,,Ubel.
-Dialogue: 0,0:14:04.82,0:14:07.38,Default,,0,0,0,,In the morning light, it's so beautiful!
-Dialogue: 0,0:14:08.59,0:14:14.20,Default,,0,0,0,,Especially the view from the top of the tower in the central square. 
-Dialogue: 0,0:14:14.37,0:14:15.91,Default,,0,0,0,,It's the best!
-Dialogue: 0,0:14:17.95,0:14:19.94,Default,,0,0,0,,So, I...
-Dialogue: 0,0:14:28.87,0:14:30.97,Default,,0,0,0,,It's all right, Mastif.
-Dialogue: 0,0:14:31.57,0:14:34.31,Default,,0,0,0,,I'll protect you.
-Dialogue: 0,0:15:01.15,0:15:02.93,Default,,0,0,0,,Commence the operation!
-Dialogue: 0,0:15:02.93,0:15:04.41,Default,,0,0,0,,Let's go, you apes!
-Dialogue: 0,0:15:04.47,0:15:06.63,Default,,0,0,0,,For the glory of Tempus Spatium!
-Dialogue: 0,0:15:06.68,0:15:08.53,Default,,0,0,0,,Glory!
-Dialogue: 0,0:15:31.95,0:15:37.44,Default,,0,0,0,,Make your approach at low altitude so the enemy won't see you. 
-Dialogue: 0,0:15:37.85,0:15:42.59,Default,,0,0,0,,In order to avoid damage to the town, Ri Maajons are prohibited without special orders. 
-Dialogue: 0,0:15:43.34,0:15:47.81,Default,,0,0,0,,When the troops are off, drop the containers and disengage to the northwest. 
-Dialogue: 0,0:15:47.81,0:15:49.41,Default,,0,0,0,,Is that understood?
-Dialogue: 0,0:15:49.48,0:15:50.70,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:15:57.38,0:16:00.91,Default,,0,0,0,,Come home safely, Simoun sibyllae. 
-Dialogue: 0,0:16:10.40,0:16:13.75,Default,,0,0,0,,These things really make us look awkward.
-Dialogue: 0,0:16:13.75,0:16:16.03,Default,,0,0,0,,I just want to get this over and done with.
-Dialogue: 0,0:16:17.44,0:16:20.45,Default,,0,0,0,,Flying so that they don't fall off is a real chore.
-Dialogue: 0,0:16:21.22,0:16:24.59,Default,,0,0,0,,I hope Mastif doesn't get hurt.
-Dialogue: 0,0:16:24.59,0:16:27.59,Default,,0,0,0,,Rodoreamoon, your hair looks great!
-Dialogue: 0,0:16:27.70,0:16:30.01,Default,,0,0,0,,Thank you, Morinas!
-Dialogue: 0,0:16:30.59,0:16:32.75,Default,,0,0,0,,From now on, there will be more operations like this.
-Dialogue: 0,0:16:32.75,0:16:36.59,Default,,0,0,0,,Limone, today's mission is the key to our future operations.
-Dialogue: 0,0:16:38.38,0:16:41.38,Default,,0,0,0,,But I know you don't need me to explain that to you.
-Dialogue: 0,0:16:43.16,0:16:45.70,Default,,0,0,0,,So this is duty on the front lines.
-Dialogue: 0,0:16:48.60,0:16:51.28,Default,,0,0,0,,We're coming up on the separation point, Paraietta.
-Dialogue: 0,0:17:36.76,0:17:38.72,Default,,0,0,0,,Is that it?
-Dialogue: 0,0:17:38.79,0:17:41.16,Default,,0,0,0,,That was an awfully simple operation.
-Dialogue: 0,0:17:41.53,0:17:43.70,Default,,0,0,0,,Shall we get rid of the containers?
-Dialogue: 0,0:17:43.82,0:17:46.60,Default,,0,0,0,,I knew it! Those were bugging you too, Neviril, weren't they?
-Dialogue: 0,0:17:47.06,0:17:48.35,Default,,0,0,0,,They were.
-Dialogue: 0,0:17:48.35,0:17:49.95,Default,,0,0,0,,They make us look so unsightly.
-Dialogue: 0,0:17:49.95,0:17:51.95,Default,,0,0,0,,Who in their right mind could say that it didn't bother—
-Dialogue: 0,0:17:55.72,0:17:58.23,Default,,0,0,0,,Wait, those are...
-Dialogue: 0,0:17:58.45,0:17:59.32,Default,,0,0,0,,Have they found us?
-Dialogue: 0,0:17:59.32,0:18:03.51,Default,,0,0,0,,No, with this many flares, it must have been an ambush from the start. 
-Dialogue: 0,0:18:04.12,0:18:05.37,Default,,0,0,0,,Oh, crap!
-Dialogue: 0,0:18:05.37,0:18:07.91,Default,,0,0,0,,Those guys are gonna get slaughtered!
-Dialogue: 0,0:18:08.37,0:18:09.91,Default,,0,0,0,,We're on our way.
-Dialogue: 0,0:18:09.94,0:18:10.97,Default,,0,0,0,,Okay, Aaeru?
-Dialogue: 0,0:18:25.93,0:18:27.82,Default,,0,0,0,,They were waiting for us.
-Dialogue: 0,0:18:43.10,0:18:44.56,Default,,0,0,0,,Everybody fall back!
-Dialogue: 0,0:19:01.93,0:19:04.88,Default,,0,0,0,,Hey, those ugly things really came in handy!
-Dialogue: 0,0:19:05.10,0:19:06.94,Default,,0,0,0,,We'll continue to give them air support.
-Dialogue: 0,0:19:06.94,0:19:08.54,Default,,0,0,0,,Okay!
-Dialogue: 0,0:19:09.29,0:19:12.53,Default,,0,0,0,,Look! The priestesses followed us in.
-Dialogue: 0,0:19:12.78,0:19:15.43,Default,,0,0,0,,What are you apes waiting for?
-Dialogue: 0,0:19:23.40,0:19:25.66,Default,,0,0,0,,Good, Limone. Keep going just like this.
-Dialogue: 0,0:19:26.06,0:19:27.53,Default,,0,0,0,,Just like this!
-Dialogue: 0,0:19:27.75,0:19:29.26,Default,,0,0,0,,Just like this.
-Dialogue: 0,0:19:31.75,0:19:34.73,Default,,0,0,0,,What are you doing? Floe, open fire!
-Dialogue: 0,0:19:34.73,0:19:36.81,Default,,0,0,0,,Mastif! Where's Mastif?
-Dialogue: 0,0:19:37.10,0:19:38.07,Default,,0,0,0,,Floe!
-Dialogue: 0,0:19:38.07,0:19:39.43,Default,,0,0,0,,Please, Alti.
-Dialogue: 0,0:19:39.43,0:19:40.79,Default,,0,0,0,,Look for him!
-Dialogue: 0,0:19:40.79,0:19:42.35,Default,,0,0,0,,There just isn't time for that.
-Dialogue: 0,0:19:42.35,0:19:43.90,Default,,0,0,0,,Please!
-Dialogue: 0,0:19:53.79,0:19:56.06,Default,,0,0,0,,What's wrong, Kaimu? Fire!
-Dialogue: 0,0:19:56.94,0:19:58.04,Default,,0,0,0,,Kaimu!
-Dialogue: 0,0:19:58.12,0:19:59.59,Default,,0,0,0,,But, Para-sama...
-Dialogue: 0,0:19:59.68,0:20:01.98,Default,,0,0,0,,They're people! I can see people down there!
-Dialogue: 0,0:20:03.72,0:20:04.78,Default,,0,0,0,,You bastards!
-Dialogue: 0,0:20:04.82,0:20:08.34,Default,,0,0,0,,Leave our priestesses out of this!
-Dialogue: 0,0:20:16.45,0:20:19.32,Default,,0,0,0,,Neviril! Unless we do something, those guys...
-Dialogue: 0,0:20:19.32,0:20:22.20,Default,,0,0,0,,Ri Maajon. We have to do a Ri Maajon!
-Dialogue: 0,0:20:22.35,0:20:23.87,Default,,0,0,0,,I know.
-Dialogue: 0,0:20:23.97,0:20:26.68,Default,,0,0,0,,But a Ri Maajon would be too powerful!
-Dialogue: 0,0:20:26.75,0:20:28.76,Default,,0,0,0,,Are we going to just watch them all get slaughtered?
-Dialogue: 0,0:20:28.98,0:20:30.53,Default,,0,0,0,,Neviril!
-Dialogue: 0,0:20:43.59,0:20:45.82,Default,,0,0,0,,Ri Maajon... we're cleared to do Ri Maajon.
-Dialogue: 0,0:20:48.28,0:20:50.37,Default,,0,0,0,,Floe! Iron Ri Maajon!
-Dialogue: 0,0:20:50.37,0:20:51.68,Default,,0,0,0,,No!
-Dialogue: 0,0:20:51.68,0:20:55.35,Default,,0,0,0,,If we do that... it's Mastif's town! 
-Dialogue: 0,0:20:55.35,0:20:57.65,Default,,0,0,0,,He'll die if we don't!
-Dialogue: 0,0:21:00.51,0:21:01.70,Default,,0,0,0,,Floe!
-Dialogue: 0,0:21:07.29,0:21:08.50,Default,,0,0,0,,Let's do it!
-Dialogue: 0,0:21:08.50,0:21:10.50,Default,,0,0,0,,So that's the power of the Ri Maajon!
-Dialogue: 0,0:21:10.68,0:21:13.44,Default,,0,0,0,,Amazing! That's better than a whole company of tanks!
-Dialogue: 0,0:21:13.69,0:21:16.43,Default,,0,0,0,,We're gonna win this one!
-Dialogue: 0,0:21:20.35,0:21:23.30,Default,,0,0,0,,Target the enemy command post in the central square.
-Dialogue: 0,0:21:23.32,0:21:25.45,Default,,0,0,0,,Iron Ri Maajon!
-Dialogue: 0,0:21:25.75,0:21:27.26,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:21:27.26,0:21:28.66,Default,,0,0,0,,I...
-Dialogue: 0,0:21:30.63,0:21:33.03,Default,,0,0,0,,I want to protect Mastif!
-Dialogue: 0,0:21:34.00,0:21:35.97,Default,,0,0,0,,Mastif!
-Dialogue: 0,0:21:44.82,0:21:46.13,Default,,0,0,0,,Got 'em!
-Dialogue: 0,0:21:54.90,0:21:59.26,Default,,0,0,0,,Those are Tempus Spatium's sibyllae... and Simoun.
-Dialogue: 0,0:22:01.10,0:22:03.88,Default,,0,0,0,,That's... Floe.
-Dialogue: 0,0:22:03.98,0:22:07.63,Default,,0,0,0,,Okay, the priestesses have cleared the way.
-Dialogue: 0,0:22:07.85,0:22:10.01,Default,,0,0,0,,Let's go win this one, you slugs!
-Dialogue: 0,0:22:13.78,0:22:16.26,Default,,0,0,0,,Fighting this way is wrong.
-Dialogue: 0,0:22:16.26,0:22:19.63,Default,,0,0,0,,Those are not "the chariots of the gods."
-Dialogue: 0,0:22:20.94,0:22:22.29,Default,,0,0,0,,They are...
-Dialogue: 0,0:22:22.29,0:22:24.29,Default,,0,0,0,,The Simoun are...
-Dialogue: 0,0:22:24.59,0:22:26.79,Default,,0,0,0,,The Simoun are demons!
-Dialogue: 0,0:22:28.26,0:22:30.35,Default,,0,0,0,,Mastif, what are you doing?
-Dialogue: 0,0:22:30.35,0:22:33.20,Default,,0,0,0,,Don't make those kids fight any more.
-Dialogue: 0,0:22:34.57,0:22:37.84,Default,,0,0,0,,This is our war!
+Dialogue: 0,0:04:35.00,0:04:38.11,Regular,,0,0,0,,This ship is a piece of crap! Where's the bridge?
+Dialogue: 0,0:04:38.34,0:04:40.24,Regular,,0,0,0,,Can this really be the priestesses' ship?
+Dialogue: 0,0:04:40.33,0:04:42.96,Regular,,0,0,0,,I imagined something better.
+Dialogue: 0,0:04:43.01,0:04:44.97,Regular,,0,0,0,,Some kind of secret garden?
+Dialogue: 0,0:04:52.17,0:04:53.71,Regular,,0,0,0,,Those are the sibyllae!
+Dialogue: 0,0:04:53.71,0:04:55.40,Regular,,0,0,0,,I've never seen one before.
+Dialogue: 0,0:04:55.40,0:04:58.16,Regular,,0,0,0,,Shut up, you maggots!
+Dialogue: 0,0:04:58.51,0:05:00.25,Regular,,0,0,0,,Let's go.
+Dialogue: 0,0:05:02.37,0:05:04.38,Regular,,0,0,0,,What business do you have here?
+Dialogue: 0,0:05:04.77,0:05:07.46,Regular,,0,0,0,,This is the Simoun sibyllae's ship.
+Dialogue: 0,0:05:07.46,0:05:08.72,Regular,,0,0,0,,Yeah, I know.
+Dialogue: 0,0:05:08.85,0:05:11.43,Regular,,0,0,0,,We made a special trip out here just for you.
+Dialogue: 0,0:05:11.55,0:05:12.87,Regular,,0,0,0,,A special trip?
+Dialogue: 0,0:05:12.87,0:05:16.90,Regular,,0,0,0,,Yeah. And you're just in time to take me to the bridge, sweet cheeks. 
+Dialogue: 0,0:05:17.99,0:05:19.95,Regular,,0,0,0,,I won't stand for such impertinence!
+Dialogue: 0,0:05:19.99,0:05:20.82,Regular,,0,0,0,,We—
+Dialogue: 0,0:05:20.82,0:05:22.90,Regular,,0,0,0,,Please, everyone. This way.
+Dialogue: 0,0:05:22.90,0:05:23.74,Regular,,0,0,0,,Yun!
+Dialogue: 0,0:05:23.74,0:05:25.37,Regular,,0,0,0,,Just a moment, please.
+Dialogue: 0,0:05:25.51,0:05:27.51,Regular,,0,0,0,,I shall serve as your escort.
+Dialogue: 0,0:05:27.68,0:05:28.60,Regular,,0,0,0,,If you would come this way?
+Dialogue: 0,0:05:28.63,0:05:30.00,Regular,,0,0,0,,Neviril...
+Dialogue: 0,0:05:30.00,0:05:31.55,Regular,,0,0,0,,You apes wait here.
+Dialogue: 0,0:05:31.55,0:05:32.69,Regular,,0,0,0,,Yes, sir.
+Dialogue: 0,0:05:39.61,0:05:41.86,Regular,,0,0,0,,Neviril's really something, isn't she?
+Dialogue: 0,0:05:44.37,0:05:46.36,Regular,,0,0,0,,Welcome aboard the {\i1}Messis{\i0}.
+Dialogue: 0,0:05:46.50,0:05:48.58,Regular,,0,0,0,,Please make yourselves at home.
+Dialogue: 0,0:05:48.68,0:05:50.66,Regular,,0,0,0,,Thanks a lot, Captain.
+Dialogue: 0,0:05:50.76,0:05:53.27,Regular,,0,0,0,,But is this really a good idea?
+Dialogue: 0,0:05:53.35,0:05:55.62,Regular,,0,0,0,,These kids on your ship
+Dialogue: 0,0:05:55.72,0:05:59.04,Regular,,0,0,0,,don't look like any kind of fighting unit that I've ever seen.
+Dialogue: 0,0:05:59.49,0:06:04.59,Regular,,0,0,0,,If courage in battle were a matter of appearances, you might be right. 
+Dialogue: 0,0:06:04.73,0:06:09.54,Regular,,0,0,0,,But the Simoun sibyllae are our country's primary defence. 
+Dialogue: 0,0:06:09.54,0:06:11.83,Regular,,0,0,0,,Those are the facts.
+Dialogue: 0,0:06:11.93,0:06:15.85,Regular,,0,0,0,,Every command is paying attention to this historic operation. 
+Dialogue: 0,0:06:15.99,0:06:18.02,Regular,,0,0,0,,It cannot be permitted to fail.
+Dialogue: 0,0:06:18.81,0:06:22.62,Regular,,0,0,0,,Our confidence in one another is of paramount importance.
+Dialogue: 0,0:06:24.63,0:06:26.53,Regular,,0,0,0,,Yes. That's true.
+Dialogue: 0,0:06:26.70,0:06:30.07,Regular,,0,0,0,,So  I can expect the plan to move forward smoothly, then?
+Dialogue: 0,0:06:30.33,0:06:33.00,Regular,,0,0,0,,Of course. I want this, too, you know. 
+Dialogue: 0,0:06:33.00,0:06:34.77,Regular,,0,0,0,,It is agreed, then.
+Dialogue: 0,0:06:36.40,0:06:38.15,Regular,,0,0,0,,Dominura, explain yourself!
+Dialogue: 0,0:06:38.27,0:06:41.55,Regular,,0,0,0,,We will be conducting a combined operation with these gentlemen.
+Dialogue: 0,0:06:44.62,0:06:47.27,Regular,,0,0,0,,I hope we will work well together, Sibylla...
+Dialogue: 0,0:06:47.35,0:06:49.07,Regular,,0,0,0,,Neviril.
+Dialogue: 0,0:06:49.07,0:06:51.07,Regular,,0,0,0,,Sibylla Neviril.
+Dialogue: 0,0:06:56.25,0:06:58.15,Regular,,0,0,0,,A combined operation?
+Dialogue: 0,0:06:58.22,0:07:02.19,Regular,,0,0,0,,Yes. There's some kind of plan for us to work with them.
+Dialogue: 0,0:07:02.26,0:07:04.34,Regular,,0,0,0,,What? Us?
+Dialogue: 0,0:07:04.58,0:07:06.50,Regular,,0,0,0,,With them?
+Dialogue: 0,0:07:10.20,0:07:12.31,Regular,,0,0,0,,Hey, Sibylla-sama! You're a cutie!
+Dialogue: 0,0:07:13.79,0:07:16.70,Regular,,0,0,0,,We just keep getting more and more defiled, don't we?
+Dialogue: 0,0:07:17.55,0:07:19.53,Regular,,0,0,0,,What's going to happen now?
+Dialogue: 0,0:07:19.53,0:07:24.49,Regular,,0,0,0,,The problem is just that those guys are making a small ship even smaller. 
+Dialogue: 0,0:07:24.49,0:07:27.01,Regular,,0,0,0,,Well, it looks like someone's enjoying this.
+Dialogue: 0,0:07:28.86,0:07:30.40,Regular,,0,0,0,,What, for real?
+Dialogue: 0,0:07:30.45,0:07:32.33,Regular,,0,0,0,,So you're from around here, eh?
+Dialogue: 0,0:07:32.39,0:07:35.68,Regular,,0,0,0,,Yes. When the war started, I enlisted right away.
+Dialogue: 0,0:07:35.84,0:07:38.76,Regular,,0,0,0,,How cool. A real defender of justice!
+Dialogue: 0,0:07:38.82,0:07:41.72,Regular,,0,0,0,,As your reward, I'll show you around the ship.
+Dialogue: 0,0:07:44.10,0:07:45.50,Regular,,0,0,0,,What's wrong?
+Dialogue: 0,0:07:46.77,0:07:48.62,Regular,,0,0,0,,Uh... to be touched by a sibylla...
+Dialogue: 0,0:07:48.66,0:07:50.64,Regular,,0,0,0,,Nothing's going to happen.
+Dialogue: 0,0:07:51.28,0:07:54.12,Regular,,0,0,0,,I just haven't gone to the Spring.
+Dialogue: 0,0:07:54.29,0:07:56.21,Regular,,0,0,0,,That's all.
+Dialogue: 0,0:07:57.20,0:07:58.51,Regular,,0,0,0,,It's okay.
+Dialogue: 0,0:07:58.56,0:08:00.79,Regular,,0,0,0,,I'm going to become a woman.
+Dialogue: 0,0:08:01.59,0:08:03.82,Regular,,0,0,0,,That—that wasn't what I meant.
+Dialogue: 0,0:08:04.09,0:08:05.92,Regular,,0,0,0,,It's not really proper...
+Dialogue: 0,0:08:05.92,0:08:10.50,Regular,,0,0,0,,A common soldier like me isn't even supposed to speak to a sibylla! 
+Dialogue: 0,0:08:10.50,0:08:11.98,Regular,,0,0,0,,Come on!
+Dialogue: 0,0:08:11.98,0:08:14.59,Regular,,0,0,0,,Stop trying to make things complicated!
+Dialogue: 0,0:08:14.59,0:08:16.59,Regular,,0,0,0,,Let's go, okay?
+Dialogue: 0,0:08:19.57,0:08:22.90,Regular,,0,0,0,,In the last few weeks, the enemy has been on the offensive,
+Dialogue: 0,0:08:22.99,0:08:26.23,Regular,,0,0,0,,and our main line of resistance has been forced back.
+Dialogue: 0,0:08:27.06,0:08:29.54,Regular,,0,0,0,,We're going to stop their advance by taking out the enemy headquarters.
+Dialogue: 0,0:08:29.54,0:08:33.75,Regular,,0,0,0,,They're based here in this town. 
+Dialogue: 0,0:08:34.55,0:08:37.17,Regular,,0,0,0,,It's called Ubel, and we're going to launch an operation to take it back.
+Dialogue: 0,0:08:38.39,0:08:40.22,Regular,,0,0,0,,This is our battle plan.
+Dialogue: 0,0:08:40.22,0:08:44.08,Regular,,0,0,0,,First, the Simoun will transport our assault force into position.
+Dialogue: 0,0:08:44.08,0:08:46.08,Regular,,0,0,0,,Transport? Us?
+Dialogue: 0,0:08:46.33,0:08:51.25,Regular,,0,0,0,,Yes. Preparations are being made to install special personnel containers. 
+Dialogue: 0,0:08:51.25,0:08:53.53,Regular,,0,0,0,,You're going to use the Simoun to transport soldiers?
+Dialogue: 0,0:08:53.53,0:08:56.30,Regular,,0,0,0,,If there were any other way, we would use it.
+Dialogue: 0,0:08:56.49,0:08:58.92,Regular,,0,0,0,,You do understand that, don't you?
+Dialogue: 0,0:09:02.91,0:09:08.24,Regular,,0,0,0,,The soldiers aboard the Simoun will be secretly dropped in various places around the town. 
+Dialogue: 0,0:09:10.91,0:09:14.63,Regular,,0,0,0,,When that's done, they'll signal the main force to attack, 
+Dialogue: 0,0:09:15.45,0:09:17.28,Regular,,0,0,0,,take the enemy in a pincer movement,
+Dialogue: 0,0:09:17.28,0:09:19.06,Regular,,0,0,0,,and wipe them all out.
+Dialogue: 0,0:09:19.91,0:09:22.23,Regular,,0,0,0,,What else are we to do?
+Dialogue: 0,0:09:22.80,0:09:24.54,Regular,,0,0,0,,Everything after that is our job.
+Dialogue: 0,0:09:24.54,0:09:28.52,Regular,,0,0,0,,Once you've delivered us to the battlefield, your part is over. 
+Dialogue: 0,0:09:29.41,0:09:31.70,Regular,,0,0,0,,The operation is scheduled for the night of the new moon.
+Dialogue: 0,0:09:31.70,0:09:34.11,Regular,,0,0,0,,We'll go tomorrow at 2300 hours.
+Dialogue: 0,0:09:34.11,0:09:37.35,Regular,,0,0,0,,Each of you, please make all necessary preparations. 
+Dialogue: 0,0:09:37.54,0:09:38.97,Regular,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:09:39.62,0:09:40.89,Regular,,0,0,0,,Hey!
+Dialogue: 0,0:09:40.89,0:09:44.23,Regular,,0,0,0,,Why in the world are you doing that to the Simoun?
+Dialogue: 0,0:09:44.94,0:09:46.36,Regular,,0,0,0,,I feel the same way.
+Dialogue: 0,0:09:46.36,0:09:48.36,Regular,,0,0,0,,These are the sacred chariots of the gods.
+Dialogue: 0,0:09:48.36,0:09:50.19,Regular,,0,0,0,,I don't want to have to do this to them.
+Dialogue: 0,0:09:50.19,0:09:54.62,Regular,,0,0,0,,No way! Oh, those poor Simoun!
+Dialogue: 0,0:09:55.57,0:09:58.00,Regular,,0,0,0,,And with those...
+Dialogue: 0,0:09:58.81,0:10:02.04,Regular,,0,0,0,,they look just {\i1}sooo{\i0} uncool!
+Dialogue: 0,0:10:06.17,0:10:08.65,Regular,,0,0,0,,We were flying over the ocean the other day,
+Dialogue: 0,0:10:08.72,0:10:10.91,Regular,,0,0,0,,and there were these ginormous fish there.
+Dialogue: 0,0:10:10.91,0:10:13.75,Regular,,0,0,0,,I thought to myself, "Gee, those look yummy!" and...
+Dialogue: 0,0:10:13.75,0:10:17.35,Regular,,0,0,0,,She's paying no attention to what's happening over here.
+Dialogue: 0,0:10:17.48,0:10:20.76,Regular,,0,0,0,,She just yammers on, wrapped up in her own little world.
+Dialogue: 0,0:10:20.83,0:10:24.25,Regular,,0,0,0,,Well, maybe we're just like her.
+Dialogue: 0,0:10:25.21,0:10:28.99,Regular,,0,0,0,,We don't even have time to think about ourselves, let alone anyone else.
+Dialogue: 0,0:10:30.33,0:10:35.89,Regular,,0,0,0,,I wish that everyone could understand and care for each other, as those two seem to. 
+Dialogue: 0,0:10:37.98,0:10:39.33,Regular,,0,0,0,,Tasty?
+Dialogue: 0,0:10:39.39,0:10:41.54,Regular,,0,0,0,,Yes, it's a real delicacy!
+Dialogue: 0,0:10:41.78,0:10:43.45,Regular,,0,0,0,,A delicacy?
+Dialogue: 0,0:10:43.45,0:10:45.45,Regular,,0,0,0,,Right. I'm glad!
+Dialogue: 0,0:10:53.92,0:10:58.05,Regular,,0,0,0,,Somehow, I guess I misunderstood what a sibylla was. 
+Dialogue: 0,0:10:58.14,0:10:59.26,Regular,,0,0,0,,Misunderstood?
+Dialogue: 0,0:10:59.26,0:11:00.32,Regular,,0,0,0,,Yes.
+Dialogue: 0,0:11:00.32,0:11:05.02,Regular,,0,0,0,,I thought sibyllae were untouchably sacred figures who must not be viol... uh... 
+Dialogue: 0,0:11:08.22,0:11:10.30,Regular,,0,0,0,,I thought they would be quieter.
+Dialogue: 0,0:11:10.30,0:11:11.43,Regular,,0,0,0,,Are you disappointed?
+Dialogue: 0,0:11:11.43,0:11:13.43,Regular,,0,0,0,,No. Just the opposite!
+Dialogue: 0,0:11:13.80,0:11:16.88,Regular,,0,0,0,,It means that I've been able to talk with you.
+Dialogue: 0,0:11:17.93,0:11:19.78,Regular,,0,0,0,,Yeah, I think things are great, too.
+Dialogue: 0,0:11:28.48,0:11:30.00,Regular,,0,0,0,,Floe!
+Dialogue: 0,0:11:30.51,0:11:31.92,Regular,,0,0,0,,What is it?
+Dialogue: 0,0:11:31.98,0:11:34.06,Regular,,0,0,0,,Have you been getting close to one of the soldiers?
+Dialogue: 0,0:11:34.28,0:11:36.29,Regular,,0,0,0,,Uh-huh. His name is Mastif.
+Dialogue: 0,0:11:36.45,0:11:38.62,Regular,,0,0,0,,You need to think about your position.
+Dialogue: 0,0:11:38.78,0:11:40.08,Regular,,0,0,0,,My position?
+Dialogue: 0,0:11:40.08,0:11:42.94,Regular,,0,0,0,,We are priestesses serving Tempus Spatium.
+Dialogue: 0,0:11:43.32,0:11:45.53,Regular,,0,0,0,,We must refrain from unseemly behaviour.
+Dialogue: 0,0:11:45.60,0:11:47.74,Regular,,0,0,0,,That sort of thinking is just {\i1}so{\i0} out of date.
+Dialogue: 0,0:11:49.04,0:11:51.66,Regular,,0,0,0,,I can't help it. I really like him!
+Dialogue: 0,0:11:51.72,0:11:55.10,Regular,,0,0,0,,Floe, saying shameless things like that is— 
+Dialogue: 0,0:11:55.10,0:11:57.80,Regular,,0,0,0,,Someday we're going to go to the Spring.
+Dialogue: 0,0:11:57.97,0:12:00.54,Regular,,0,0,0,,Then it won't matter if you're a sibylla or a soldier.
+Dialogue: 0,0:12:00.54,0:12:02.31,Regular,,0,0,0,,Um, Floe...
+Dialogue: 0,0:12:02.31,0:12:05.01,Regular,,0,0,0,,With stupid rules like that, maybe I should just quit being a sibylla!
+Dialogue: 0,0:12:05.23,0:12:07.10,Regular,,0,0,0,,Then you wouldn't be able to complain any more!
+Dialogue: 0,0:12:07.18,0:12:09.10,Regular,,0,0,0,,Oh! Floe!
+Dialogue: 0,0:12:16.24,0:12:17.97,Regular,,0,0,0,,My head hurts...
+Dialogue: 0,0:12:37.66,0:12:39.65,Regular,,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:12:42.97,0:12:45.15,Regular,,0,0,0,,Um... is this really okay?
+Dialogue: 0,0:12:45.15,0:12:46.72,Regular,,0,0,0,,We're fine!
+Dialogue: 0,0:12:46.72,0:12:47.70,Regular,,0,0,0,,Were you waiting long?
+Dialogue: 0,0:12:47.70,0:12:48.43,Regular,,0,0,0,,Not at all.
+Dialogue: 0,0:12:48.43,0:12:51.63,Regular,,0,0,0,,Oh, Mastif! You're so sweet!
+Dialogue: 0,0:12:52.20,0:12:54.03,Regular,,0,0,0,,Don't you like me being snuggly?
+Dialogue: 0,0:12:54.13,0:12:55.54,Regular,,0,0,0,,That's not it.
+Dialogue: 0,0:12:55.54,0:12:56.88,Regular,,0,0,0,,What's up?
+Dialogue: 0,0:13:02.97,0:13:07.31,Regular,,0,0,0,,Sibylla Floe, you priestesses all serve Tempus Spatium. 
+Dialogue: 0,0:13:07.62,0:13:09.75,Regular,,0,0,0,,As sibyllae, you lead sacred lives.
+Dialogue: 0,0:13:09.75,0:13:10.87,Regular,,0,0,0,,Sure.
+Dialogue: 0,0:13:10.87,0:13:12.87,Regular,,0,0,0,,What's with you, all of a sudden?
+Dialogue: 0,0:13:12.87,0:13:15.76,Regular,,0,0,0,,We soldiers are strong believers.
+Dialogue: 0,0:13:15.90,0:13:21.10,Regular,,0,0,0,,But more importantly than love and respect for Tempus Spatium, 
+Dialogue: 0,0:13:21.15,0:13:23.28,Regular,,0,0,0,,if I didn't have my faith, I couldn't go on.
+Dialogue: 0,0:13:26.97,0:13:29.62,Regular,,0,0,0,,So... how do you feel about the war?
+Dialogue: 0,0:13:29.62,0:13:31.01,Regular,,0,0,0,,I hate it.
+Dialogue: 0,0:13:31.26,0:13:33.23,Regular,,0,0,0,,But we'd all die if we didn't fight.
+Dialogue: 0,0:13:33.62,0:13:35.63,Regular,,0,0,0,,What about killing people, though?
+Dialogue: 0,0:13:45.60,0:13:48.76,Regular,,0,0,0,,If that's how you feel, then why'd you volunteer?
+Dialogue: 0,0:13:50.60,0:13:52.66,Regular,,0,0,0,,It's hard to put into words.
+Dialogue: 0,0:13:52.66,0:13:54.66,Regular,,0,0,0,,All my friends were enlisting.
+Dialogue: 0,0:13:56.06,0:13:59.75,Regular,,0,0,0,,Tomorrow's operation... is to take back the town where I was born.
+Dialogue: 0,0:14:03.56,0:14:04.82,Regular,,0,0,0,,Ubel.
+Dialogue: 0,0:14:04.82,0:14:07.38,Regular,,0,0,0,,In the morning light, it's so beautiful!
+Dialogue: 0,0:14:08.59,0:14:14.20,Regular,,0,0,0,,Especially the view from the top of the tower in the central square. 
+Dialogue: 0,0:14:14.37,0:14:15.91,Regular,,0,0,0,,It's the best!
+Dialogue: 0,0:14:17.95,0:14:19.94,Regular,,0,0,0,,So, I...
+Dialogue: 0,0:14:28.87,0:14:30.97,Regular,,0,0,0,,It's all right, Mastif.
+Dialogue: 0,0:14:31.57,0:14:34.31,Regular,,0,0,0,,I'll protect you.
+Dialogue: 0,0:15:01.15,0:15:02.93,Regular,,0,0,0,,Commence the operation!
+Dialogue: 0,0:15:02.93,0:15:04.41,Regular,,0,0,0,,Let's go, you apes!
+Dialogue: 0,0:15:04.47,0:15:06.63,Regular,,0,0,0,,For the glory of Tempus Spatium!
+Dialogue: 0,0:15:06.68,0:15:08.53,Regular,,0,0,0,,Glory!
+Dialogue: 0,0:15:31.95,0:15:37.44,Regular,,0,0,0,,Make your approach at low altitude so the enemy won't see you. 
+Dialogue: 0,0:15:37.85,0:15:42.59,Regular,,0,0,0,,In order to avoid damage to the town, Ri Maajons are prohibited without special orders. 
+Dialogue: 0,0:15:43.34,0:15:47.81,Regular,,0,0,0,,When the troops are off, drop the containers and disengage to the northwest. 
+Dialogue: 0,0:15:47.81,0:15:49.41,Regular,,0,0,0,,Is that understood?
+Dialogue: 0,0:15:49.48,0:15:50.70,Regular,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:15:57.38,0:16:00.91,Regular,,0,0,0,,Come home safely, Simoun sibyllae. 
+Dialogue: 0,0:16:10.40,0:16:13.75,Regular,,0,0,0,,These things really make us look awkward.
+Dialogue: 0,0:16:13.75,0:16:16.03,Regular,,0,0,0,,I just want to get this over and done with.
+Dialogue: 0,0:16:17.44,0:16:20.45,Regular,,0,0,0,,Flying so that they don't fall off is a real chore.
+Dialogue: 0,0:16:21.22,0:16:24.59,Regular,,0,0,0,,I hope Mastif doesn't get hurt.
+Dialogue: 0,0:16:24.59,0:16:27.59,Regular,,0,0,0,,Rodoreamoon, your hair looks great!
+Dialogue: 0,0:16:27.70,0:16:30.01,Regular,,0,0,0,,Thank you, Morinas!
+Dialogue: 0,0:16:30.59,0:16:32.75,Regular,,0,0,0,,From now on, there will be more operations like this.
+Dialogue: 0,0:16:32.75,0:16:36.59,Regular,,0,0,0,,Limone, today's mission is the key to our future operations.
+Dialogue: 0,0:16:38.38,0:16:41.38,Regular,,0,0,0,,But I know you don't need me to explain that to you.
+Dialogue: 0,0:16:43.16,0:16:45.70,Regular,,0,0,0,,So this is duty on the front lines.
+Dialogue: 0,0:16:48.60,0:16:51.28,Regular,,0,0,0,,We're coming up on the separation point, Paraietta.
+Dialogue: 0,0:17:36.76,0:17:38.72,Regular,,0,0,0,,Is that it?
+Dialogue: 0,0:17:38.79,0:17:41.16,Regular,,0,0,0,,That was an awfully simple operation.
+Dialogue: 0,0:17:41.53,0:17:43.70,Regular,,0,0,0,,Shall we get rid of the containers?
+Dialogue: 0,0:17:43.82,0:17:46.60,Regular,,0,0,0,,I knew it! Those were bugging you too, Neviril, weren't they?
+Dialogue: 0,0:17:47.06,0:17:48.35,Regular,,0,0,0,,They were.
+Dialogue: 0,0:17:48.35,0:17:49.95,Regular,,0,0,0,,They make us look so unsightly.
+Dialogue: 0,0:17:49.95,0:17:51.95,Regular,,0,0,0,,Who in their right mind could say that it didn't bother—
+Dialogue: 0,0:17:55.72,0:17:58.23,Regular,,0,0,0,,Wait, those are...
+Dialogue: 0,0:17:58.45,0:17:59.32,Regular,,0,0,0,,Have they found us?
+Dialogue: 0,0:17:59.32,0:18:03.51,Regular,,0,0,0,,No, with this many flares, it must have been an ambush from the start. 
+Dialogue: 0,0:18:04.12,0:18:05.37,Regular,,0,0,0,,Oh, crap!
+Dialogue: 0,0:18:05.37,0:18:07.91,Regular,,0,0,0,,Those guys are gonna get slaughtered!
+Dialogue: 0,0:18:08.37,0:18:09.91,Regular,,0,0,0,,We're on our way.
+Dialogue: 0,0:18:09.94,0:18:10.97,Regular,,0,0,0,,Okay, Aaeru?
+Dialogue: 0,0:18:25.93,0:18:27.82,Regular,,0,0,0,,They were waiting for us.
+Dialogue: 0,0:18:43.10,0:18:44.56,Regular,,0,0,0,,Everybody fall back!
+Dialogue: 0,0:19:01.93,0:19:04.88,Regular,,0,0,0,,Hey, those ugly things really came in handy!
+Dialogue: 0,0:19:05.10,0:19:06.94,Regular,,0,0,0,,We'll continue to give them air support.
+Dialogue: 0,0:19:06.94,0:19:08.54,Regular,,0,0,0,,Okay!
+Dialogue: 0,0:19:09.29,0:19:12.53,Regular,,0,0,0,,Look! The priestesses followed us in.
+Dialogue: 0,0:19:12.78,0:19:15.43,Regular,,0,0,0,,What are you apes waiting for?
+Dialogue: 0,0:19:23.40,0:19:25.66,Regular,,0,0,0,,Good, Limone. Keep going just like this.
+Dialogue: 0,0:19:26.06,0:19:27.53,Regular,,0,0,0,,Just like this!
+Dialogue: 0,0:19:27.75,0:19:29.26,Regular,,0,0,0,,Just like this.
+Dialogue: 0,0:19:31.75,0:19:34.73,Regular,,0,0,0,,What are you doing? Floe, open fire!
+Dialogue: 0,0:19:34.73,0:19:36.81,Regular,,0,0,0,,Mastif! Where's Mastif?
+Dialogue: 0,0:19:37.10,0:19:38.07,Regular,,0,0,0,,Floe!
+Dialogue: 0,0:19:38.07,0:19:39.43,Regular,,0,0,0,,Please, Alti.
+Dialogue: 0,0:19:39.43,0:19:40.79,Regular,,0,0,0,,Look for him!
+Dialogue: 0,0:19:40.79,0:19:42.35,Regular,,0,0,0,,There just isn't time for that.
+Dialogue: 0,0:19:42.35,0:19:43.90,Regular,,0,0,0,,Please!
+Dialogue: 0,0:19:53.79,0:19:56.06,Regular,,0,0,0,,What's wrong, Kaimu? Fire!
+Dialogue: 0,0:19:56.94,0:19:58.04,Regular,,0,0,0,,Kaimu!
+Dialogue: 0,0:19:58.12,0:19:59.59,Regular,,0,0,0,,But, Para-sama...
+Dialogue: 0,0:19:59.68,0:20:01.98,Regular,,0,0,0,,They're people! I can see people down there!
+Dialogue: 0,0:20:03.72,0:20:04.78,Regular,,0,0,0,,You bastards!
+Dialogue: 0,0:20:04.82,0:20:08.34,Regular,,0,0,0,,Leave our priestesses out of this!
+Dialogue: 0,0:20:16.45,0:20:19.32,Regular,,0,0,0,,Neviril! Unless we do something, those guys...
+Dialogue: 0,0:20:19.32,0:20:22.20,Regular,,0,0,0,,Ri Maajon. We have to do a Ri Maajon!
+Dialogue: 0,0:20:22.35,0:20:23.87,Regular,,0,0,0,,I know.
+Dialogue: 0,0:20:23.97,0:20:26.68,Regular,,0,0,0,,But a Ri Maajon would be too powerful!
+Dialogue: 0,0:20:26.75,0:20:28.76,Regular,,0,0,0,,Are we going to just watch them all get slaughtered?
+Dialogue: 0,0:20:28.98,0:20:30.53,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:20:43.59,0:20:45.82,Regular,,0,0,0,,Ri Maajon... we're cleared to do Ri Maajon.
+Dialogue: 0,0:20:48.28,0:20:50.37,Regular,,0,0,0,,Floe! Iron Ri Maajon!
+Dialogue: 0,0:20:50.37,0:20:51.68,Regular,,0,0,0,,No!
+Dialogue: 0,0:20:51.68,0:20:55.35,Regular,,0,0,0,,If we do that... it's Mastif's town! 
+Dialogue: 0,0:20:55.35,0:20:57.65,Regular,,0,0,0,,He'll die if we don't!
+Dialogue: 0,0:21:00.51,0:21:01.70,Regular,,0,0,0,,Floe!
+Dialogue: 0,0:21:07.29,0:21:08.50,Regular,,0,0,0,,Let's do it!
+Dialogue: 0,0:21:08.50,0:21:10.50,Regular,,0,0,0,,So that's the power of the Ri Maajon!
+Dialogue: 0,0:21:10.68,0:21:13.44,Regular,,0,0,0,,Amazing! That's better than a whole company of tanks!
+Dialogue: 0,0:21:13.69,0:21:16.43,Regular,,0,0,0,,We're gonna win this one!
+Dialogue: 0,0:21:20.35,0:21:23.30,Regular,,0,0,0,,Target the enemy command post in the central square.
+Dialogue: 0,0:21:23.32,0:21:25.45,Regular,,0,0,0,,Iron Ri Maajon!
+Dialogue: 0,0:21:25.75,0:21:27.26,Regular,,0,0,0,,Stop it!
+Dialogue: 0,0:21:27.26,0:21:28.66,Regular,,0,0,0,,I...
+Dialogue: 0,0:21:30.63,0:21:33.03,Regular,,0,0,0,,I want to protect Mastif!
+Dialogue: 0,0:21:34.00,0:21:35.97,Regular,,0,0,0,,Mastif!
+Dialogue: 0,0:21:44.82,0:21:46.13,Regular,,0,0,0,,Got 'em!
+Dialogue: 0,0:21:54.90,0:21:59.26,Regular,,0,0,0,,Those are Tempus Spatium's sibyllae... and Simoun.
+Dialogue: 0,0:22:01.10,0:22:03.88,Regular,,0,0,0,,That's... Floe.
+Dialogue: 0,0:22:03.98,0:22:07.63,Regular,,0,0,0,,Okay, the priestesses have cleared the way.
+Dialogue: 0,0:22:07.85,0:22:10.01,Regular,,0,0,0,,Let's go win this one, you slugs!
+Dialogue: 0,0:22:13.78,0:22:16.26,Regular,,0,0,0,,Fighting this way is wrong.
+Dialogue: 0,0:22:16.26,0:22:19.63,Regular,,0,0,0,,Those are not "the chariots of the gods."
+Dialogue: 0,0:22:20.94,0:22:22.29,Regular,,0,0,0,,They are...
+Dialogue: 0,0:22:22.29,0:22:24.29,Regular,,0,0,0,,The Simoun are...
+Dialogue: 0,0:22:24.59,0:22:26.79,Regular,,0,0,0,,The Simoun are demons!
+Dialogue: 0,0:22:28.26,0:22:30.35,Regular,,0,0,0,,Mastif, what are you doing?
+Dialogue: 0,0:22:30.35,0:22:33.20,Regular,,0,0,0,,Don't make those kids fight any more.
+Dialogue: 0,0:22:34.57,0:22:37.84,Regular,,0,0,0,,This is our war!
 Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
@@ -344,7 +344,7 @@ Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
-Dialogue: 0,0:24:21.68,0:24:26.85,Default,,0,0,0,,Kaimu and Alti fly as a pair and go on a scouting mission.
-Dialogue: 0,0:24:29.33,0:24:31.33,Default,,0,0,0,,Next time, on Simoun:
-Dialogue: 0,0:24:31.67,0:24:33.23,Default,,0,0,0,,Sisters.
+Dialogue: 0,0:24:21.68,0:24:26.85,Regular,,0,0,0,,Kaimu and Alti fly as a pair and go on a scouting mission.
+Dialogue: 0,0:24:29.33,0:24:31.33,Regular,,0,0,0,,Next time, on Simoun:
+Dialogue: 0,0:24:31.67,0:24:33.23,Regular,,0,0,0,,Sisters.
 Dialogue: 0,0:24:30.47,0:24:34.77,Titles,,0,0,0,,Sisters
