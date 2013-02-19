@@ -21,24 +21,23 @@ Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
+Style: Lyrics bottom,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
-Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.86,0:00:19.51,OP,,0,0,0,,hikari ni tsutsumare musuu no hanatachi wa\NBathed in light, the countless flowers
-Dialogue: 0,0:00:19.71,0:00:29.79,OP,,0,0,0,,mayoi no nai me de ashita o mitsumeteru\NFace tomorrow with no doubt in their eyes.
-Dialogue: 0,0:00:42.45,0:00:49.67,OP,,0,0,0,,dare mo ga junsuisa o watashi ni nozomu kedo\NEveryone wants me to stay pure,
-Dialogue: 0,0:00:49.74,0:00:56.70,OP,,0,0,0,,surikiresou na sora ni motteikeru mono nado\NBuy what can I carry with me into the worn-out sky?
-Dialogue: 0,0:00:56.77,0:01:00.13,OP,,0,0,0,,saiteru hana o otte\NI could pick these blooming flowers,
-Dialogue: 0,0:01:00.13,0:01:04.14,OP,,0,0,0,,jibun no mono ni suru you na\NAnd take them with me,
-Dialogue: 0,0:01:04.14,0:01:08.96,OP,,0,0,0,,tsumibukai mono bakari\NBut that would be a sin.
-Dialogue: 0,0:01:09.70,0:01:16.78,OP,,0,0,0,,mirai to yubikiri suru no o yameta no wa\NI stopped making promises with the future, and
-Dialogue: 0,0:01:16.84,0:01:23.93,OP,,0,0,0,,itami kara tooku nogareyou to shite mo\NEven though I ran far away from the pain,
-Dialogue: 0,0:01:24.23,0:01:30.55,OP,,0,0,0,,hieta kaze ga, hora, kami o yurasu yo\NLook! A chill wind blows through my hair.
-Dialogue: 0,0:01:30.94,0:01:38.21,OP,,0,0,0,,doko de kotae o sagaseba ii?\NWhere should I search for answers?
+Dialogue: 0,0:00:10.86,0:00:19.51,Lyrics bottom,,0,0,0,,hikari ni tsutsumare musuu no hanatachi wa\NBathed in light, the countless flowers
+Dialogue: 0,0:00:19.71,0:00:29.79,Lyrics bottom,,0,0,0,,mayoi no nai me de ashita o mitsumeteru\NFace tomorrow with no doubt in their eyes.
+Dialogue: 0,0:00:42.45,0:00:49.67,Lyrics bottom,,0,0,0,,dare mo ga junsuisa o watashi ni nozomu kedo\NEveryone wants me to stay pure,
+Dialogue: 0,0:00:49.74,0:00:56.70,Lyrics bottom,,0,0,0,,surikiresou na sora ni motteikeru mono nado\NBuy what can I carry with me into the worn-out sky?
+Dialogue: 0,0:00:56.77,0:01:00.13,Lyrics bottom,,0,0,0,,saiteru hana o otte\NI could pick these blooming flowers,
+Dialogue: 0,0:01:00.13,0:01:04.14,Lyrics bottom,,0,0,0,,jibun no mono ni suru you na\NAnd take them with me,
+Dialogue: 0,0:01:04.14,0:01:08.96,Lyrics bottom,,0,0,0,,tsumibukai mono bakari\NBut that would be a sin.
+Dialogue: 0,0:01:09.70,0:01:16.78,Lyrics bottom,,0,0,0,,mirai to yubikiri suru no o yameta no wa\NI stopped making promises with the future, and
+Dialogue: 0,0:01:16.84,0:01:23.93,Lyrics bottom,,0,0,0,,itami kara tooku nogareyou to shite mo\NEven though I ran far away from the pain,
+Dialogue: 0,0:01:24.23,0:01:30.55,Lyrics bottom,,0,0,0,,hieta kaze ga, hora, kami o yurasu yo\NLook! A chill wind blows through my hair.
+Dialogue: 0,0:01:30.94,0:01:38.21,Lyrics bottom,,0,0,0,,doko de kotae o sagaseba ii?\NWhere should I search for answers?
 Dialogue: 0,0:02:05.11,0:02:08.60,Titles,,0,0,0,,The Argentum Archipelago
 Dialogue: 0,0:02:41.40,0:02:45.78,Default,,0,0,0,,Our Archipelago has the best science and technology on Daikuuriku.
 Dialogue: 0,0:02:47.12,0:02:50.83,Default,,0,0,0,,However, we have been unable to develop an airship that can fly above the clouds.
@@ -219,19 +218,19 @@ Dialogue: 0,0:22:12.03,0:22:13.95,Default,,0,0,0,,There's no way she's a prieste
 Dialogue: 0,0:22:31.93,0:22:34.14,Default,,0,0,0,,That's one of the practice Simile, isn't it?
 Dialogue: 0,0:22:34.64,0:22:36.72,Default,,0,0,0,,She can't perform Ri Maajons with that!
 Dialogue: 0,0:22:47.15,0:22:52.66,Default,,0,0,0,,You guys can stay behind and pray. I came here to fight!
-Dialogue: 0,0:23:01.20,0:23:07.90,END,,0,0,0,,kizu ga kanadedasu inori no uta\NBearing my pain, my song of prayer
-Dialogue: 0,0:23:07.90,0:23:11.85,END,,0,0,0,,kanashimi no sekai ni hibike\NEchoes through a world of sadness.
-Dialogue: 0,0:23:11.85,0:23:16.30,END,,0,0,0,,ashita wa kaerareru?\NCan I change tomorrow?
-Dialogue: 0,0:23:16.30,0:23:27.20,END,,0,0,0,,kowagara naide afureru kokoro o tsutaetai\NI want to pour out my heart to you without being afraid.
-Dialogue: 0,0:23:35.20,0:23:39.30,END,,0,0,0,,"motto soba ni itai", "kodou okanjitai"\N"I want to be near you." "I want to feel your heartbeat."
-Dialogue: 0,0:23:39.40,0:23:44.70,END,,0,0,0,,tsuyogari ga sugite, toomawari shita yo\NWe took the long way home as I tried to work up my courage.
-Dialogue: 0,0:23:44.80,0:23:48.50,END,,0,0,0,,aoi tsuki ga shizuka ni yureteru\NThe blue moon is quietly shimmering,
-Dialogue: 0,0:23:48.70,0:23:52.10,END,,0,0,0,,hontou ni hoshii no wa anata\NAnd all I really want is you.
-Dialogue: 0,0:23:52.40,0:23:58.30,END,,0,0,0,,todokanai setsunaku ochiru namida\NBut my tears painfully fall, and I fail to reach you.
-Dialogue: 0,0:23:58.60,0:24:04.50,END,,0,0,0,,sora e maiagare inori no uta\NDancing into the sky, my song of prayer
-Dialogue: 0,0:24:04.50,0:24:07.50,END,,0,0,0,,ososugiru omoi o nosete\NCarries my thoughts of you, far too late.
-Dialogue: 0,0:24:07.50,0:24:13.00,END,,0,0,0,,ashita o kaeru tame nani ga dekiru?\NWhat can I do to change tomorrow,
-Dialogue: 0,0:24:13.00,0:24:19.20,END,,0,0,0,,ari no mama no "ima" kakaete\NWhen I still bear the burden of today?
+Dialogue: 0,0:23:01.20,0:23:07.90,Lyrics bottom,,0,0,0,,kizu ga kanadedasu inori no uta\NBearing my pain, my song of prayer
+Dialogue: 0,0:23:07.90,0:23:11.85,Lyrics bottom,,0,0,0,,kanashimi no sekai ni hibike\NEchoes through a world of sadness.
+Dialogue: 0,0:23:11.85,0:23:16.30,Lyrics bottom,,0,0,0,,ashita wa kaerareru?\NCan I change tomorrow?
+Dialogue: 0,0:23:16.30,0:23:27.20,Lyrics bottom,,0,0,0,,kowagara naide afureru kokoro o tsutaetai\NI want to pour out my heart to you without being afraid.
+Dialogue: 0,0:23:35.20,0:23:39.30,Lyrics bottom,,0,0,0,,"motto soba ni itai", "kodou okanjitai"\N"I want to be near you." "I want to feel your heartbeat."
+Dialogue: 0,0:23:39.40,0:23:44.70,Lyrics bottom,,0,0,0,,tsuyogari ga sugite, toomawari shita yo\NWe took the long way home as I tried to work up my courage.
+Dialogue: 0,0:23:44.80,0:23:48.50,Lyrics bottom,,0,0,0,,aoi tsuki ga shizuka ni yureteru\NThe blue moon is quietly shimmering,
+Dialogue: 0,0:23:48.70,0:23:52.10,Lyrics bottom,,0,0,0,,hontou ni hoshii no wa anata\NAnd all I really want is you.
+Dialogue: 0,0:23:52.40,0:23:58.30,Lyrics bottom,,0,0,0,,todokanai setsunaku ochiru namida\NBut my tears painfully fall, and I fail to reach you.
+Dialogue: 0,0:23:58.60,0:24:04.50,Lyrics bottom,,0,0,0,,sora e maiagare inori no uta\NDancing into the sky, my song of prayer
+Dialogue: 0,0:24:04.50,0:24:07.50,Lyrics bottom,,0,0,0,,ososugiru omoi o nosete\NCarries my thoughts of you, far too late.
+Dialogue: 0,0:24:07.50,0:24:13.00,Lyrics bottom,,0,0,0,,ashita o kaeru tame nani ga dekiru?\NWhat can I do to change tomorrow,
+Dialogue: 0,0:24:13.00,0:24:19.20,Lyrics bottom,,0,0,0,,ari no mama no "ima" kakaete\NWhen I still bear the burden of today?
 Dialogue: 0,0:24:25.00,0:24:26.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:28.68,0:24:31.55,Default,,0,0,0,,The Simoun should never have fallen, but they did.
 Dialogue: 0,0:24:35.33,0:24:37.33,Default,,0,0,0,,Next time, on Simoun:

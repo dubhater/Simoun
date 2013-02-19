@@ -21,24 +21,23 @@ Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
+Style: Lyrics bottom,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 Style: Titles,DS Coptic,60,&H00000000,&H0000FFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,90,90,40,1
 Style: Default,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,80,1
-Style: END,MetaPro-BoldItalic,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,5,90,90,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.86,0:00:14.51,OP,,0,0,0,,
-Dialogue: 0,0:00:14.71,0:00:24.79,OP,,0,0,0,,
-Dialogue: 0,0:00:37.45,0:00:44.67,OP,,0,0,0,,
-Dialogue: 0,0:00:44.74,0:00:51.70,OP,,0,0,0,,
-Dialogue: 0,0:00:51.77,0:00:55.13,OP,,0,0,0,,
-Dialogue: 0,0:00:55.13,0:00:59.14,OP,,0,0,0,,
-Dialogue: 0,0:00:59.14,0:01:03.96,OP,,0,0,0,,
-Dialogue: 0,0:01:04.70,0:01:11.78,OP,,0,0,0,,
-Dialogue: 0,0:01:11.84,0:01:18.93,OP,,0,0,0,,
-Dialogue: 0,0:01:19.23,0:01:25.55,OP,,0,0,0,,
-Dialogue: 0,0:01:25.94,0:01:33.21,OP,,0,0,0,,
+Dialogue: 0,0:00:05.86,0:00:14.51,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:14.71,0:00:24.79,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:37.45,0:00:44.67,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:44.74,0:00:51.70,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:51.77,0:00:55.13,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:55.13,0:00:59.14,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:00:59.14,0:01:03.96,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:01:04.70,0:01:11.78,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:01:11.84,0:01:18.93,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:01:19.23,0:01:25.55,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:01:25.94,0:01:33.21,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:01:46.42,0:01:48.10,Default,,0,0,0,,My name is Anubituf.
 Dialogue: 0,0:01:48.81,0:01:54.19,Default,,0,0,0,,I am the captain of one of the Simulacrum Theocracy's largest warships: the {\i1}Arcus Prima{\i0}.
 Dialogue: 0,0:01:54.86,0:01:59.57,Default,,0,0,0,,Three Simoun choirs are stationed on the {\i1}Arcus Prima{\i0}:
@@ -298,19 +297,19 @@ Dialogue: 0,0:22:05.82,0:22:07.78,Default,,0,0,0,,I am your pair.
 Dialogue: 0,0:22:22.17,0:22:25.29,Default,,0,0,0,,Try to level the ship off{** off?} for a moment! The Simoun are taking off!
 Dialogue: 0,0:22:25.96,0:22:27.84,Default,,0,0,0,,But Rubor and Caput are both destroyed!
 Dialogue: 0,0:22:28.26,0:22:30.30,Default,,0,0,0,,It's Chor Tempest that's launching!
-Dialogue: 0,0:22:56.20,0:23:02.90,END,,0,0,0,,
-Dialogue: 0,0:23:02.90,0:23:06.85,END,,0,0,0,,
-Dialogue: 0,0:23:06.85,0:23:11.30,END,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:22.20,END,,0,0,0,,
-Dialogue: 0,0:23:30.20,0:23:34.30,END,,0,0,0,,
-Dialogue: 0,0:23:34.40,0:23:39.70,END,,0,0,0,,
-Dialogue: 0,0:23:39.80,0:23:43.50,END,,0,0,0,,
-Dialogue: 0,0:23:43.70,0:23:47.10,END,,0,0,0,,
-Dialogue: 0,0:23:47.40,0:23:53.30,END,,0,0,0,,
-Dialogue: 0,0:23:53.60,0:23:59.50,END,,0,0,0,,
-Dialogue: 0,0:23:59.50,0:24:02.50,END,,0,0,0,,
-Dialogue: 0,0:24:02.50,0:24:08.00,END,,0,0,0,,
-Dialogue: 0,0:24:08.00,0:24:14.20,END,,0,0,0,,
+Dialogue: 0,0:22:56.20,0:23:02.90,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:02.90,0:23:06.85,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:06.85,0:23:11.30,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:11.30,0:23:22.20,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:30.20,0:23:34.30,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:34.40,0:23:39.70,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:39.80,0:23:43.50,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:43.70,0:23:47.10,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:47.40,0:23:53.30,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:53.60,0:23:59.50,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:23:59.50,0:24:02.50,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:24:02.50,0:24:08.00,Lyrics bottom,,0,0,0,,
+Dialogue: 0,0:24:08.00,0:24:14.20,Lyrics bottom,,0,0,0,,
 Dialogue: 0,0:24:20.00,0:24:21.70,Titles,,0,0,0,,Next Episode
 Dialogue: 0,0:24:22.68,0:24:26.85,Default,,0,0,0,,At the Grand Temple, we will perform our last Ri Maajon as Chor Tempest.
 Dialogue: 0,0:24:29.53,0:24:31.53,Default,,0,0,0,,Next time, on Simoun:
