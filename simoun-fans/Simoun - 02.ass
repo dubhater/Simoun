@@ -15,6 +15,9 @@ Scroll Position: 0
 Active Line: 0
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
+Video File: ../../raws/simoun-02.mkv
+Keyframes File: ../../scxvid/simoun-02-keyframes.txt
+Audio URI: ../../audio/simoun-02.flac
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

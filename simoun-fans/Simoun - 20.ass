@@ -15,7 +15,9 @@ Video Zoom: 6
 Scroll Position: 0
 Active Line: 0
 Video Zoom Percent: 1
-Video File: ../../[Simoun-Fans] Simoun 01 - 26 [x264]/[Simoun-Fans]_Simoun_-_20_[x264][AAC][8FCE5336].mkv
+Video File: ../../raws/simoun-20.mkv
+Keyframes File: ../../scxvid/simoun-20-keyframes.txt
+Audio URI: ../../audio/simoun-20.flac
 YCbCr Matrix: TV.601
 Video Position: 0
 
