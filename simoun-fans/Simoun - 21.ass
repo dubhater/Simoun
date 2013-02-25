@@ -30,13 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:20:07.36,0:20:11.88,Lullaby,,0,0,0,,Under the skies of blue,
-Dialogue: 0,0:20:12.95,0:20:17.92,Lullaby,,0,0,0,,Beyond the clouds of white,
-Dialogue: 0,0:20:18.56,0:20:23.31,Lullaby,,0,0,0,,You'll find the blue of tears
-Dialogue: 0,0:20:23.35,0:20:28.41,Lullaby,,0,0,0,,In the whiteness of the dragon's belly.
-Dialogue: 0,0:20:29.74,0:20:34.63,Lullaby,,0,0,0,,In the blackness of the shadows,
-Dialogue: 0,0:20:35.62,0:20:40.31,Lullaby,,0,0,0,,The red light of the fires
-Dialogue: 0,0:20:41.35,0:20:44.43,Lullaby,,0,0,0,,In the sky...
 Dialogue: 0,0:01:53.75,0:01:59.76,Titles,,0,0,0,,The Door to a New World
 Dialogue: 0,0:02:22.82,0:02:25.07,Regular,,0,0,0,,How dare they do that right in front of us?
 Dialogue: 0,0:02:25.07,0:02:28.71,Regular,,0,0,0,,This is {\i1}exactly{\i0} why I was against Chor Rubor and Chor Caput being disbanded!

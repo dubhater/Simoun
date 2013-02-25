@@ -30,9 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:13:57.08,0:14:03.45,Lullaby,,0,0,0,,The clouds still shine white
-Dialogue: 0,0:14:07.79,0:14:12.13,Lullaby,,0,0,0,,In the blackness of the shadows.
-Dialogue: 0,0:14:15.12,0:14:20.25,Lullaby,,0,0,0,,The red light of the fires...
 Dialogue: 0,0:01:31.94,0:01:36.49,Regular,,0,0,0,,You said it yourself that day: "Take apart a Simoun."
 Dialogue: 0,0:01:37.49,0:01:40.03,Regular,,0,0,0,,The only thing that's in there is a helix.
 Dialogue: 0,0:01:40.74,0:01:43.39,Regular,,0,0,0,,All we can understand about it is...

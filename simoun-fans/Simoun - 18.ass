@@ -30,13 +30,6 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:20:59.20,0:21:11.70,Lullaby,,0,0,0,,And on they echo, the swirls of light.
-Dialogue: 0,0:21:13.10,0:21:24.90,Lullaby,,0,0,0,,Such blessed happiness they give to us.
-Dialogue: 0,0:21:28.20,0:21:35.00,Lullaby,,0,0,0,,Proof of a world that will never be destroyed.
-Dialogue: 0,0:21:36.60,0:21:42.30,Lullaby,,0,0,0,,The priestesses of Tempus Spatium
-Dialogue: 0,0:21:44.00,0:21:51.00,Lullaby,,0,0,0,,Will rock the cradle until the morning wakes you.
-Dialogue: 0,0:21:52.00,0:21:58.10,Lullaby,,0,0,0,,Under the Great Mother's care,
-Dialogue: 0,0:22:00.00,0:22:04.70,Lullaby,,0,0,0,,Under white wings.
 Dialogue: 0,0:01:30.57,0:01:35.99,Regular,,0,0,0,,We will proceed as planned. Chor Tempest will enter at low altitude, with our speaker cables attached.
 Dialogue: 0,0:01:35.99,0:01:40.23,Regular,,0,0,0,,Our mission objective is to protect the Ruins from the Alliance between Plumbum and Argentum!
 Dialogue: 0,0:01:48.08,0:01:49.33,Regular,,0,0,0,,It's the enemy!
