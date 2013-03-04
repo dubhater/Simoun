@@ -9,10 +9,10 @@ Video Aspect Ratio: c1.8067
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-25.mkv
 Audio URI: ../../audio/simoun-25.flac
-Scroll Position: 256
-Active Line: 267
+Scroll Position: 0
+Active Line: 11
 YCbCr Matrix: TV.601
-Video Position: 35004
+Video Position: 2519
 Keyframes File: ../../scxvid/simoun-25-keyframes.txt
 
 [V4+ Styles]
@@ -24,18 +24,18 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.67,0:00:09.75,Regular,,0,0,0,,The countless flowers,\Nenveloped in light...
-Dialogue: 0,0:00:09.75,0:00:20.28,Regular,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
-Dialogue: 0,0:00:32.34,0:00:39.35,Regular,,0,0,0,,Everyone wishes for me to be pure...
-Dialogue: 0,0:00:39.35,0:00:46.81,Regular,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
-Dialogue: 0,0:00:46.81,0:00:53.90,Regular,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
-Dialogue: 0,0:00:53.90,0:00:59.47,Regular,,0,0,0,,All such sinful things...
-Dialogue: 0,0:00:59.47,0:01:06.95,Regular,,0,0,0,,Why did I stop making\Npromises with the future?
-Dialogue: 0,0:01:06.95,0:01:14.22,Regular,,0,0,0,,Because even if I try\Nto run far from all the pain...
-Dialogue: 0,0:01:14.22,0:01:20.95,Regular,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
-Dialogue: 0,0:01:20.95,0:01:28.39,Regular,,0,0,0,,Where can I ever find the answer?
+Dialogue: 0,0:00:00.67,0:00:09.75,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light...
+Dialogue: 0,0:00:09.75,0:00:20.28,Lyrics bottom,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
+Dialogue: 0,0:00:32.34,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure...
+Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
+Dialogue: 0,0:00:46.81,0:00:53.90,Lyrics bottom,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
+Dialogue: 0,0:00:53.90,0:00:59.47,Lyrics bottom,,0,0,0,,All such sinful things...
+Dialogue: 0,0:00:59.47,0:01:06.95,Lyrics bottom,,0,0,0,,Why did I stop making\Npromises with the future?
+Dialogue: 0,0:01:06.95,0:01:14.22,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain...
+Dialogue: 0,0:01:14.22,0:01:20.95,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
+Dialogue: 0,0:01:20.95,0:01:28.39,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
 Dialogue: 0,0:01:43.34,0:01:44.33,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:01:45.04,0:01:51.00,Regular,,0,0,0,,Pair
+Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,Pair
 Dialogue: 0,0:01:52.58,0:01:54.51,Regular,,0,0,0,,But that's Yun.
 Dialogue: 0,0:01:54.51,0:01:55.73,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:01:55.73,0:01:56.93,Regular,,0,0,0,,No way...
@@ -273,22 +273,22 @@ Dialogue: 0,0:22:00.85,0:22:01.88,Regular,,0,0,0,,Farewell.
 Dialogue: 0,0:22:02.84,0:22:05.92,Regular,,0,0,0,,I promise you, someday,\Nwe'll meet again...
 Dialogue: 0,0:22:11.83,0:22:13.51,Regular,,0,0,0,,Take care of yourselves.
 Dialogue: 0,0:22:13.51,0:22:16.39,Regular,,0,0,0,,Farewell, eternal priestesses.
-Dialogue: 0,0:22:41.03,0:22:47.74,Regular,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
-Dialogue: 0,0:22:47.74,0:22:51.98,Regular,,0,0,0,,Let it ring out over\Nthe grieving universe.
-Dialogue: 0,0:22:51.98,0:22:59.05,Regular,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
-Dialogue: 0,0:22:59.05,0:23:06.64,Regular,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
-Dialogue: 0,0:23:15.46,0:23:19.54,Regular,,0,0,0,,I want to get closer to you.\NI want to feel your pulse.
-Dialogue: 0,0:23:19.54,0:23:24.71,Regular,,0,0,0,,I was too defiant,\Nand I took the long way around.
-Dialogue: 0,0:23:24.71,0:23:28.69,Regular,,0,0,0,,The blue moon is swaying silently.
-Dialogue: 0,0:23:28.69,0:23:32.72,Regular,,0,0,0,,My true heart's desire is you.
-Dialogue: 0,0:23:32.72,0:23:38.59,Regular,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
-Dialogue: 0,0:23:38.59,0:23:44.14,Regular,,0,0,0,,Soar away into the sky, song of prayer.
-Dialogue: 0,0:23:44.14,0:23:47.57,Regular,,0,0,0,,Carrying my love that came too late.
-Dialogue: 0,0:23:47.57,0:23:53.24,Regular,,0,0,0,,What can I do to change tomorrow?
-Dialogue: 0,0:23:53.24,0:23:59.47,Regular,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.63,Regular,,0,0,0,,To Be Continued
+Dialogue: 0,0:22:41.03,0:22:47.74,Lyrics bottom,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
+Dialogue: 0,0:22:47.74,0:22:51.98,Lyrics bottom,,0,0,0,,Let it ring out over\Nthe grieving universe.
+Dialogue: 0,0:22:51.98,0:22:59.05,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
+Dialogue: 0,0:22:59.05,0:23:06.64,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
+Dialogue: 0,0:23:15.46,0:23:19.54,Lyrics bottom,,0,0,0,,I want to get closer to you.\NI want to feel your pulse.
+Dialogue: 0,0:23:19.54,0:23:24.71,Lyrics bottom,,0,0,0,,I was too defiant,\Nand I took the long way around.
+Dialogue: 0,0:23:24.71,0:23:28.69,Lyrics bottom,,0,0,0,,The blue moon is swaying silently.
+Dialogue: 0,0:23:28.69,0:23:32.72,Lyrics bottom,,0,0,0,,My true heart's desire is you.
+Dialogue: 0,0:23:32.72,0:23:38.59,Lyrics bottom,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
+Dialogue: 0,0:23:38.59,0:23:44.14,Lyrics bottom,,0,0,0,,Soar away into the sky, song of prayer.
+Dialogue: 0,0:23:44.14,0:23:47.57,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
+Dialogue: 0,0:23:47.57,0:23:53.24,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
+Dialogue: 0,0:23:53.24,0:23:59.47,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,To Be Continued
 Dialogue: 0,0:24:05.96,0:24:07.30,Regular,,0,0,0,,This is...
 Dialogue: 0,0:24:07.30,0:24:10.51,Regular,,0,0,0,,...the tale of the\Nsibyllae's "tomorrow."
 Dialogue: 0,0:24:12.68,0:24:15.47,Regular,,0,0,0,,Next time, on the final\Nepisode of Simoun...
 Dialogue: 0,0:24:16.29,0:24:18.18,Regular,,0,0,0,,Their Portraits.
-Dialogue: 0,0:24:15.47,0:24:19.97,Regular,,0,0,0,,Their Portraits
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,Their Portraits

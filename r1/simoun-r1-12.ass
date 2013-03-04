@@ -9,10 +9,10 @@ Video Aspect Ratio: c1.8067
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-12.mkv
 Audio URI: ../../audio/simoun-12.flac
-Scroll Position: 220
-Active Line: 230
+Scroll Position: 81
+Active Line: 90
 YCbCr Matrix: TV.601
-Video Position: 34935
+Video Position: 11576
 Keyframes File: ../../scxvid/simoun-12-keyframes.txt
 
 [V4+ Styles]
@@ -24,16 +24,16 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.73,0:00:09.81,Regular,,0,0,0,,The countless flowers,\Nenveloped in light...
-Dialogue: 0,0:00:09.81,0:00:20.34,Regular,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
-Dialogue: 0,0:00:32.33,0:00:39.35,Regular,,0,0,0,,Everyone wishes for me to be pure...
-Dialogue: 0,0:00:39.35,0:00:46.81,Regular,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
-Dialogue: 0,0:00:46.81,0:00:53.90,Regular,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
-Dialogue: 0,0:00:53.90,0:00:59.53,Regular,,0,0,0,,All such sinful things...
-Dialogue: 0,0:00:59.53,0:01:07.01,Regular,,0,0,0,,Why did I stop making\Npromises with the future?
-Dialogue: 0,0:01:07.01,0:01:14.28,Regular,,0,0,0,,Because even if I try\Nto run far from all the pain...
-Dialogue: 0,0:01:14.28,0:01:21.02,Regular,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
-Dialogue: 0,0:01:21.02,0:01:28.45,Regular,,0,0,0,,Where can I ever find the answer?
+Dialogue: 0,0:00:00.73,0:00:09.81,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light...
+Dialogue: 0,0:00:09.81,0:00:20.34,Lyrics bottom,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
+Dialogue: 0,0:00:32.33,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure...
+Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
+Dialogue: 0,0:00:46.81,0:00:53.90,Lyrics bottom,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
+Dialogue: 0,0:00:53.90,0:00:59.53,Lyrics bottom,,0,0,0,,All such sinful things...
+Dialogue: 0,0:00:59.53,0:01:07.01,Lyrics bottom,,0,0,0,,Why did I stop making\Npromises with the future?
+Dialogue: 0,0:01:07.01,0:01:14.28,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain...
+Dialogue: 0,0:01:14.28,0:01:21.02,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
+Dialogue: 0,0:01:21.02,0:01:28.45,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
 Dialogue: 0,0:01:37.46,0:01:38.51,Regular,,0,0,0,,Hold on!
 Dialogue: 0,0:01:38.51,0:01:39.54,Regular,,0,0,0,,Big Sister...
 Dialogue: 0,0:01:39.54,0:01:43.29,Regular,,0,0,0,,I'm Para-sama's pair! You can't\Njust tell me to team up with Alty now.
@@ -43,7 +43,7 @@ Dialogue: 0,0:01:53.02,0:01:57.57,Regular,,0,0,0,,The Ri Majon you inscribe will
 Dialogue: 0,0:01:58.58,0:01:59.97,Regular,,0,0,0,,Sisters?
 Dialogue: 0,0:01:59.97,0:02:04.93,Regular,,0,0,0,,This is all for the sake of restoring\NChor Tempest to its former prestige.
 Dialogue: 0,0:02:04.93,0:02:07.42,Regular,,0,0,0,,We simply can't\Nafford another fiasco.
-Dialogue: 0,0:02:11.96,0:02:17.95,Regular,,0,0,0,,Sisters
+Dialogue: 0,0:02:11.96,0:02:17.95,Titles,,90,0,0,,Sisters
 Dialogue: 0,0:02:18.80,0:02:19.95,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:02:20.57,0:02:23.70,Regular,,0,0,0,,I can't believe you're pushing away\Nsuch tiny bits of onion like that!
 Dialogue: 0,0:02:25.17,0:02:26.45,Regular,,0,0,0,,Leave me alone.
@@ -111,10 +111,10 @@ Dialogue: 0,0:07:15.90,0:07:17.07,Regular,,0,0,0,,I'm okay.
 Dialogue: 0,0:07:17.07,0:07:20.11,Regular,,0,0,0,,You don't have to be brave.\NAfter all, you're still little...
 Dialogue: 0,0:07:20.11,0:07:22.54,Regular,,0,0,0,,The truth is you're\Nthe one who's scared.
 Dialogue: 0,0:07:23.17,0:07:25.63,Regular,,0,0,0,,T-That's not true...
-Dialogue: 0,0:07:38.09,0:07:45.65,Regular,,0,0,0,,Proof that an eternal world exists...
-Dialogue: 0,0:07:46.19,0:07:53.20,Regular,,0,0,0,,...shall be revealed\Nby Tempus Spatium.
-Dialogue: 0,0:07:53.73,0:08:01.91,Regular,,0,0,0,,Rocking gently\Nuntil we awake tomorrow...
-Dialogue: 0,0:08:02.79,0:08:06.64,Regular,,0,0,0,,...protected by our mother.
+Dialogue: 0,0:07:38.09,0:07:45.65,Lyrics top,,0,0,0,,Proof that an eternal world exists...
+Dialogue: 0,0:07:46.19,0:07:53.20,Lyrics top,,0,0,0,,...shall be revealed\Nby Tempus Spatium.
+Dialogue: 0,0:07:53.73,0:08:01.91,Lyrics top,,0,0,0,,Rocking gently\Nuntil we awake tomorrow...
+Dialogue: 0,0:08:02.79,0:08:06.64,Lyrics top,,0,0,0,,...protected by our mother.
 Dialogue: 0,0:09:00.31,0:09:01.35,Regular,,0,0,0,,What's the matter?
 Dialogue: 0,0:09:01.95,0:09:03.20,Regular,,0,0,0,,Nothing.
 Dialogue: 0,0:09:55.07,0:09:59.07,Regular,,0,0,0,,This is the first time, isn't it?\NThat we've flown together.
@@ -238,21 +238,21 @@ Dialogue: 0,0:21:44.70,0:21:47.53,Regular,,0,0,0,,The person you're\Nlooking at 
 Dialogue: 0,0:21:48.53,0:21:52.37,Regular,,0,0,0,,...is someone who will never\Ngrow old, and it's you yourself.
 Dialogue: 0,0:21:55.38,0:21:56.79,Regular,,0,0,0,,It's not me.
 Dialogue: 0,0:22:33.21,0:22:34.33,Regular,,0,0,0,,The same taste.
-Dialogue: 0,0:22:41.12,0:22:47.83,Regular,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
-Dialogue: 0,0:22:47.83,0:22:52.07,Regular,,0,0,0,,Let it ring out over\Nthe grieving universe.
-Dialogue: 0,0:22:52.07,0:22:59.14,Regular,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
-Dialogue: 0,0:22:59.14,0:23:06.74,Regular,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
-Dialogue: 0,0:23:15.56,0:23:19.63,Regular,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
-Dialogue: 0,0:23:19.63,0:23:24.80,Regular,,0,0,0,,I was too defiant,\Nand I took the long way around.
-Dialogue: 0,0:23:24.80,0:23:28.78,Regular,,0,0,0,,The blue moon is swaying silently.
-Dialogue: 0,0:23:28.78,0:23:32.82,Regular,,0,0,0,,My true heart's desire is you.
-Dialogue: 0,0:23:32.82,0:23:38.69,Regular,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
-Dialogue: 0,0:23:38.69,0:23:44.23,Regular,,0,0,0,,Soar away into the sky, song of prayer.
-Dialogue: 0,0:23:44.23,0:23:47.66,Regular,,0,0,0,,Carrying my love that came too late.
-Dialogue: 0,0:23:47.66,0:23:53.33,Regular,,0,0,0,,What can I do to change tomorrow?
-Dialogue: 0,0:23:53.33,0:23:59.56,Regular,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.63,Regular,,0,0,0,,To Be Continued
+Dialogue: 0,0:22:41.12,0:22:47.83,Lyrics bottom,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
+Dialogue: 0,0:22:47.83,0:22:52.07,Lyrics bottom,,0,0,0,,Let it ring out over\Nthe grieving universe.
+Dialogue: 0,0:22:52.07,0:22:59.14,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
+Dialogue: 0,0:22:59.14,0:23:06.74,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
+Dialogue: 0,0:23:15.56,0:23:19.63,Lyrics bottom,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
+Dialogue: 0,0:23:19.63,0:23:24.80,Lyrics bottom,,0,0,0,,I was too defiant,\Nand I took the long way around.
+Dialogue: 0,0:23:24.80,0:23:28.78,Lyrics bottom,,0,0,0,,The blue moon is swaying silently.
+Dialogue: 0,0:23:28.78,0:23:32.82,Lyrics bottom,,0,0,0,,My true heart's desire is you.
+Dialogue: 0,0:23:32.82,0:23:38.69,Lyrics bottom,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
+Dialogue: 0,0:23:38.69,0:23:44.23,Lyrics bottom,,0,0,0,,Soar away into the sky, song of prayer.
+Dialogue: 0,0:23:44.23,0:23:47.66,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
+Dialogue: 0,0:23:47.66,0:23:53.33,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
+Dialogue: 0,0:23:53.33,0:23:59.56,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,To Be Continued
 Dialogue: 0,0:24:07.04,0:24:11.92,Regular,,0,0,0,,Neviril screams, losing her\Nhead over something Aer says.
 Dialogue: 0,0:24:14.51,0:24:16.10,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:17.05,0:24:18.69,Regular,,0,0,0,,Reason.
-Dialogue: 0,0:24:15.43,0:24:19.93,Regular,,0,0,0,,Reason
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,Reason

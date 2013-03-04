@@ -9,10 +9,10 @@ Video Aspect Ratio: c1.8067
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-04.mkv
 Audio URI: ../../audio/simoun-04.flac
-Scroll Position: 223
-Active Line: 234
+Scroll Position: 0
+Active Line: 10
 YCbCr Matrix: TV.601
-Video Position: 34898
+Video Position: 2866
 Keyframes File: ../../scxvid/simoun-04-keyframes.txt
 
 [V4+ Styles]
@@ -24,17 +24,17 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.68,0:00:09.69,Regular,,0,0,0,,The countless flowers,\Nenveloped in light...
-Dialogue: 0,0:00:09.69,0:00:19.89,Regular,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
-Dialogue: 0,0:00:32.34,0:00:39.35,Regular,,0,0,0,,Everyone wishes for me to be pure...
-Dialogue: 0,0:00:39.35,0:00:46.81,Regular,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
-Dialogue: 0,0:00:46.81,0:00:53.90,Regular,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
-Dialogue: 0,0:00:53.90,0:00:59.45,Regular,,0,0,0,,All such sinful things...
-Dialogue: 0,0:00:59.45,0:01:06.92,Regular,,0,0,0,,Why did I stop making\Npromises with the future?
-Dialogue: 0,0:01:06.92,0:01:14.19,Regular,,0,0,0,,Because even if I try\Nto run far from all the pain...
-Dialogue: 0,0:01:14.19,0:01:20.97,Regular,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
-Dialogue: 0,0:01:20.97,0:01:28.33,Regular,,0,0,0,,Where can I ever find the answer?
-Dialogue: 0,0:01:59.51,0:02:05.52,Regular,,0,0,0,,The Nearby War
+Dialogue: 0,0:00:00.68,0:00:09.69,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light...
+Dialogue: 0,0:00:09.69,0:00:19.89,Lyrics bottom,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
+Dialogue: 0,0:00:32.34,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure...
+Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
+Dialogue: 0,0:00:46.81,0:00:53.90,Lyrics bottom,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
+Dialogue: 0,0:00:53.90,0:00:59.45,Lyrics bottom,,0,0,0,,All such sinful things...
+Dialogue: 0,0:00:59.45,0:01:06.92,Lyrics bottom,,0,0,0,,Why did I stop making\Npromises with the future?
+Dialogue: 0,0:01:06.92,0:01:14.19,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain...
+Dialogue: 0,0:01:14.19,0:01:20.97,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
+Dialogue: 0,0:01:20.97,0:01:28.33,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
+Dialogue: 0,0:01:59.51,0:02:05.52,Titles,,0,0,0,,The Nearby War
 Dialogue: 0,0:02:18.22,0:02:21.55,Regular,,0,0,0,,That wraps up\Nthe patrol flight schedule.
 Dialogue: 0,0:02:24.82,0:02:28.96,Regular,,0,0,0,,Have you authorized\Nmobilization of Chor Tempest?
 Dialogue: 0,0:02:32.53,0:02:34.10,Regular,,0,0,0,,We're still flying?
@@ -241,21 +241,21 @@ Dialogue: 0,0:22:15.99,0:22:18.85,Regular,,0,0,0,,They're starting to recognize\
 Dialogue: 0,0:22:19.35,0:22:20.44,Regular,,0,0,0,,You think so?
 Dialogue: 0,0:22:25.92,0:22:27.05,Regular,,0,0,0,,I'm sorry.
 Dialogue: 0,0:22:27.76,0:22:29.99,Regular,,0,0,0,,For getting you so dirty.
-Dialogue: 0,0:22:41.11,0:22:47.82,Regular,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
-Dialogue: 0,0:22:47.82,0:22:52.06,Regular,,0,0,0,,Let it ring out over\Nthe grieving universe.
-Dialogue: 0,0:22:52.06,0:22:59.13,Regular,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
-Dialogue: 0,0:22:59.13,0:23:06.93,Regular,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
-Dialogue: 0,0:23:15.54,0:23:19.61,Regular,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
-Dialogue: 0,0:23:19.61,0:23:24.79,Regular,,0,0,0,,I was too defiant,\Nand I took the long way around.
-Dialogue: 0,0:23:24.79,0:23:28.80,Regular,,0,0,0,,The blue moon is swaying silently.
-Dialogue: 0,0:23:28.80,0:23:32.77,Regular,,0,0,0,,My true heart's desire is you.
-Dialogue: 0,0:23:32.77,0:23:38.06,Regular,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
-Dialogue: 0,0:23:38.70,0:23:44.22,Regular,,0,0,0,,Soar away into the sky, song of prayer.
-Dialogue: 0,0:23:44.22,0:23:47.68,Regular,,0,0,0,,Carrying my love that came too late.
-Dialogue: 0,0:23:47.68,0:23:53.32,Regular,,0,0,0,,What can I do to change tomorrow?
-Dialogue: 0,0:23:53.32,0:23:59.48,Regular,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.67,Regular,,0,0,0,,To Be Continued
+Dialogue: 0,0:22:41.11,0:22:47.82,Lyrics bottom,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
+Dialogue: 0,0:22:47.82,0:22:52.06,Lyrics bottom,,0,0,0,,Let it ring out over\Nthe grieving universe.
+Dialogue: 0,0:22:52.06,0:22:59.13,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
+Dialogue: 0,0:22:59.13,0:23:06.93,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
+Dialogue: 0,0:23:15.54,0:23:19.61,Lyrics bottom,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
+Dialogue: 0,0:23:19.61,0:23:24.79,Lyrics bottom,,0,0,0,,I was too defiant,\Nand I took the long way around.
+Dialogue: 0,0:23:24.79,0:23:28.80,Lyrics bottom,,0,0,0,,The blue moon is swaying silently.
+Dialogue: 0,0:23:28.80,0:23:32.77,Lyrics bottom,,0,0,0,,My true heart's desire is you.
+Dialogue: 0,0:23:32.77,0:23:38.06,Lyrics bottom,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
+Dialogue: 0,0:23:38.70,0:23:44.22,Lyrics bottom,,0,0,0,,Soar away into the sky, song of prayer.
+Dialogue: 0,0:23:44.22,0:23:47.68,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
+Dialogue: 0,0:23:47.68,0:23:53.32,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
+Dialogue: 0,0:23:53.32,0:23:59.48,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,To Be Continued
 Dialogue: 0,0:24:07.67,0:24:12.51,Regular,,0,0,0,,Will Dominüra be up\Nto the task of guiding Rimone?
 Dialogue: 0,0:24:14.67,0:24:16.43,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.43,0:24:17.93,Regular,,0,0,0,,White Loneliness.
-Dialogue: 0,0:24:15.51,0:24:20.02,Regular,,0,0,0,,White Loneliness
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,White Loneliness

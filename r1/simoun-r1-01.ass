@@ -10,9 +10,9 @@ Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-01.mkv
 Audio URI: ../../audio/simoun-01.flac
 Scroll Position: 210
-Active Line: 219
+Active Line: 204
 YCbCr Matrix: TV.601
-Video Position: 34898
+Video Position: 32639
 Keyframes File: ../../scxvid/simoun-01-keyframes.txt
 
 [V4+ Styles]
@@ -24,16 +24,16 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.80,0:00:09.82,Regular,,0,0,0,,The countless flowers,\Nenveloped in light...
-Dialogue: 0,0:00:09.82,0:00:20.48,Regular,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
-Dialogue: 0,0:00:32.34,0:00:39.35,Regular,,0,0,0,,Everyone wishes for me to be pure...
-Dialogue: 0,0:00:39.35,0:00:46.81,Regular,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
-Dialogue: 0,0:00:46.81,0:00:53.91,Regular,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
-Dialogue: 0,0:00:53.90,0:00:59.57,Regular,,0,0,0,,All such sinful things...
-Dialogue: 0,0:00:59.57,0:01:07.05,Regular,,0,0,0,,Why did I stop making\Npromises with the future?
-Dialogue: 0,0:01:07.05,0:01:14.35,Regular,,0,0,0,,Because even if I try\Nto run far from all the pain...
-Dialogue: 0,0:01:14.35,0:01:21.05,Regular,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
-Dialogue: 0,0:01:21.05,0:01:28.28,Regular,,0,0,0,,Where can I ever find the answer?
+Dialogue: 0,0:00:00.80,0:00:09.82,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light...
+Dialogue: 0,0:00:09.82,0:00:20.48,Lyrics bottom,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
+Dialogue: 0,0:00:32.34,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure...
+Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
+Dialogue: 0,0:00:46.81,0:00:53.91,Lyrics bottom,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
+Dialogue: 0,0:00:53.90,0:00:59.57,Lyrics bottom,,0,0,0,,All such sinful things...
+Dialogue: 0,0:00:59.57,0:01:07.05,Lyrics bottom,,0,0,0,,Why did I stop making\Npromises with the future?
+Dialogue: 0,0:01:07.05,0:01:14.35,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain...
+Dialogue: 0,0:01:14.35,0:01:21.05,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
+Dialogue: 0,0:01:21.05,0:01:28.28,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
 Dialogue: 0,0:02:21.48,0:02:24.16,Regular,,0,0,0,,The technology\Nin my country, Shoukoku...
 Dialogue: 0,0:02:24.16,0:02:27.03,Regular,,0,0,0,,...is the most\Ncutting edge in Daikuuriku.
 Dialogue: 0,0:02:27.03,0:02:31.73,Regular,,0,0,0,,Even so, we still can't build a plane\Nthat can fly above the clouds...
@@ -48,7 +48,7 @@ Dialogue: 0,0:03:34.88,0:03:36.96,Regular,,0,0,0,,Kyuukoku's secret.
 Dialogue: 0,0:03:36.96,0:03:39.24,Regular,,0,0,0,,The demonic Simoun.
 Dialogue: 0,0:03:39.95,0:03:44.32,Regular,,0,0,0,,No other vessel in Daikuuriku\Nis capable of flying so freely...
 Dialogue: 0,0:03:44.32,0:03:46.33,Regular,,0,0,0,,...throughout the skies.
-Dialogue: 0,0:03:44.32,0:03:50.29,Regular,,0,0,0,,Fallen Wings
+Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,Fallen Wings
 Dialogue: 0,0:04:19.43,0:04:21.68,Regular,,0,0,0,,It's a routine patrol flight.
 Dialogue: 0,0:04:21.68,0:04:25.66,Regular,,0,0,0,,The governors are observing today,\Nso they're making a show of it.
 Dialogue: 0,0:04:45.19,0:04:46.55,Regular,,0,0,0,,Neviril-sama...
@@ -228,21 +228,21 @@ Dialogue: 0,0:22:12.06,0:22:14.74,Regular,,0,0,0,,That's a Simile training craft
 Dialogue: 0,0:22:14.74,0:22:17.02,Regular,,0,0,0,,That can't achieve a Ri Majon...
 Dialogue: 0,0:22:27.35,0:22:30.16,Regular,,0,0,0,,The rest of you can go on praying.
 Dialogue: 0,0:22:30.16,0:22:33.81,Regular,,0,0,0,,I've come here to go into battle.
-Dialogue: 0,0:22:41.29,0:22:48.01,Regular,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
-Dialogue: 0,0:22:48.01,0:22:52.24,Regular,,0,0,0,,Let it ring out over\Nthe grieving universe.
-Dialogue: 0,0:22:52.24,0:22:59.28,Regular,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
-Dialogue: 0,0:22:59.28,0:23:07.15,Regular,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
-Dialogue: 0,0:23:15.70,0:23:19.77,Regular,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
-Dialogue: 0,0:23:19.77,0:23:24.98,Regular,,0,0,0,,I was too defiant,\Nand I took the long way around.
-Dialogue: 0,0:23:24.98,0:23:28.95,Regular,,0,0,0,,The blue moon is swaying silently.
-Dialogue: 0,0:23:28.95,0:23:32.89,Regular,,0,0,0,,My true heart's desire is you.
-Dialogue: 0,0:23:32.89,0:23:38.81,Regular,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
-Dialogue: 0,0:23:38.81,0:23:44.37,Regular,,0,0,0,,Soar away into the sky, song of prayer.
-Dialogue: 0,0:23:44.37,0:23:47.80,Regular,,0,0,0,,Carrying my love that came too late.
-Dialogue: 0,0:23:47.80,0:23:53.47,Regular,,0,0,0,,What can I do to change tomorrow?
-Dialogue: 0,0:23:53.47,0:23:59.87,Regular,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.59,Regular,,0,0,0,,To Be Continued
+Dialogue: 0,0:22:41.29,0:22:48.01,Lyrics bottom,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
+Dialogue: 0,0:22:48.01,0:22:52.24,Lyrics bottom,,0,0,0,,Let it ring out over\Nthe grieving universe.
+Dialogue: 0,0:22:52.24,0:22:59.28,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
+Dialogue: 0,0:22:59.28,0:23:07.15,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
+Dialogue: 0,0:23:15.70,0:23:19.77,Lyrics bottom,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
+Dialogue: 0,0:23:19.77,0:23:24.98,Lyrics bottom,,0,0,0,,I was too defiant,\Nand I took the long way around.
+Dialogue: 0,0:23:24.98,0:23:28.95,Lyrics bottom,,0,0,0,,The blue moon is swaying silently.
+Dialogue: 0,0:23:28.95,0:23:32.89,Lyrics bottom,,0,0,0,,My true heart's desire is you.
+Dialogue: 0,0:23:32.89,0:23:38.81,Lyrics bottom,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
+Dialogue: 0,0:23:38.81,0:23:44.37,Lyrics bottom,,0,0,0,,Soar away into the sky, song of prayer.
+Dialogue: 0,0:23:44.37,0:23:47.80,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
+Dialogue: 0,0:23:47.80,0:23:53.47,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
+Dialogue: 0,0:23:53.47,0:23:59.87,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
+Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,To Be Continued
 Dialogue: 0,0:24:09.05,0:24:12.47,Regular,,0,0,0,,Simouns can't\Npossibly fall, and yet they have.
 Dialogue: 0,0:24:15.51,0:24:17.62,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:17.62,0:24:20.02,Regular,,0,0,0,,The Blue Spring.
-Dialogue: 0,0:24:15.51,0:24:20.02,Regular,,0,0,0,,The Blue Spring
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,The Blue Spring
