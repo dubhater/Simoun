@@ -31,7 +31,7 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.37,0:01:44.41,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,Pair
+Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,{\blur0.6}Pair
 Dialogue: 0,0:01:52.60,0:01:54.51,Regular,,0,0,0,,Is that... Yun?
 Dialogue: 0,0:01:54.51,0:01:55.59,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:01:55.59,0:01:56.84,Regular,,0,0,0,,No way!
@@ -259,8 +259,8 @@ Dialogue: 0,0:22:00.80,0:22:01.88,Regular,,0,0,0,,Farewell.
 Dialogue: 0,0:22:02.73,0:22:05.92,Regular,,0,0,0,,We'll meet again... someday.
 Dialogue: 0,0:22:11.76,0:22:13.62,Regular,,0,0,0,,Please take care.
 Dialogue: 0,0:22:13.62,0:22:16.39,Regular,,0,0,0,,Farewell, Eternal Priestesses.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.00,0:24:10.51,Regular,,0,0,0,,This is the story of what happened to the girls thereafter.
 Dialogue: 0,0:24:12.68,0:24:15.47,Regular,,0,0,0,,Next time, on the final Simoun:
 Dialogue: 0,0:24:16.26,0:24:18.53,Regular,,0,0,0,,Their Portrait.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,Their Portrait
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,{\blur0.6}Their Portrait

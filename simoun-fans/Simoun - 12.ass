@@ -40,7 +40,7 @@ Dialogue: 0,0:01:52.99,0:01:57.34,Regular,,0,0,0,,The Ri Maajons you two draw to
 Dialogue: 0,0:01:58.51,0:01:59.97,Regular,,0,0,0,,Because we're sisters?
 Dialogue: 0,0:01:59.97,0:02:03.90,Regular,,0,0,0,,This is all for the sake of regaining Chor Tempest's honour.
 Dialogue: 0,0:02:04.89,0:02:07.43,Regular,,0,0,0,,From now on, no more disgraceful conduct will be permitted.
-Dialogue: 0,0:02:11.94,0:02:17.95,Titles,,90,0,0,,Sisters
+Dialogue: 0,0:02:11.94,0:02:17.95,Titles,,90,0,0,,{\blur0.6}Sisters
 Dialogue: 0,0:02:18.80,0:02:19.95,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:02:20.50,0:02:23.70,Regular,,0,0,0,,Are you picking out all of your onions?
 Dialogue: 0,0:02:25.24,0:02:26.45,Regular,,0,0,0,,Leave me alone.
@@ -239,8 +239,8 @@ Dialogue: 0,0:21:44.71,0:21:47.49,Regular,,0,0,0,,The reflection in your eyes...
 Dialogue: 0,0:21:48.55,0:21:52.46,Regular,,0,0,0,,...is an image of yourself, never growing older.
 Dialogue: 0,0:21:55.37,0:21:56.79,Regular,,0,0,0,,Not me.
 Dialogue: 0,0:22:33.19,0:22:34.91,Regular,,0,0,0,,It tastes just like hers.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.63,0:24:11.92,Regular,,0,0,0,,Aaeru's words make Neviril fall to pieces.
 Dialogue: 0,0:24:14.33,0:24:15.43,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.01,0:24:18.64,Regular,,0,0,0,,Reason.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,Reason
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,{\blur0.6}Reason

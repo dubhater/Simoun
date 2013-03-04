@@ -39,7 +39,7 @@ Dialogue: 0,0:01:44.87,0:01:46.21,Regular,,0,0,0,,...has gone down.
 Dialogue: 0,0:01:46.91,0:01:48.05,Regular,,0,0,0,,What?
 Dialogue: 0,0:01:48.90,0:01:51.96,Regular,,0,0,0,,Seven o'clock high! Five ancient Simoun, closing in fast!
 Dialogue: 0,0:01:51.96,0:01:53.17,Regular,,0,0,0,,What?
-Dialogue: 0,0:02:01.72,0:02:07.73,Titles,,0,0,0,,Sortie
+Dialogue: 0,0:02:01.72,0:02:07.73,Titles,,0,0,0,,{\blur0.6}Sortie
 Dialogue: 0,0:02:08.33,0:02:10.27,Regular,,0,0,0,,Four o'clock level! Aircraft silhouettes sighted!
 Dialogue: 0,0:02:10.27,0:02:11.23,Regular,,0,0,0,,Confirm that, quickly!
 Dialogue: 0,0:02:12.68,0:02:15.03,Regular,,0,0,0,,They appear to be Argentine cruise missiles!
@@ -347,9 +347,9 @@ Dialogue: 0,0:21:55.32,0:21:56.83,Regular,,0,0,0,,All hands, salute!
 Dialogue: 0,0:22:17.56,0:22:21.02,Regular,,0,0,0,,Despite Chor Tempest's actions,
 Dialogue: 0,0:22:21.02,0:22:25.57,Regular,,0,0,0,,Central Command concluded that the war was a lost cause...
 Dialogue: 0,0:22:25.57,0:22:33.66,Regular,,0,0,0,,...and accepted the peace treaty offered by Plumbum and Argentum a few days later.
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.67,0:24:10.51,Regular,,0,0,0,,As Alliance soldiers take control of the {\i1}Arcus Prima{\i0},
 Dialogue: 0,0:24:10.51,0:24:13.13,Regular,,0,0,0,,Chor Tempest is disbanded.
 Dialogue: 0,0:24:14.18,0:24:15.55,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.43,0:24:18.53,Regular,,0,0,0,,The Eternal Maiden.
-Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,0,0,0,,The Eternal Maiden
+Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,0,0,0,,{\blur0.6}The Eternal Maiden

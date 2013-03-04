@@ -42,7 +42,7 @@ Dialogue: 0,0:01:51.04,0:01:52.09,Regular,,0,0,0,,Kaimu!
 Dialogue: 0,0:01:52.84,0:01:53.84,Regular,,0,0,0,,Nee-san!
 Dialogue: 0,0:01:54.34,0:01:55.34,Regular,,0,0,0,,Don't call me that!
 Dialogue: 0,0:01:55.34,0:01:57.34,Regular,,0,0,0,,Do {\i1}not{\i0} call me that!
-Dialogue: 0,0:01:57.34,0:02:03.35,Titles,,0,0,0,,Reason
+Dialogue: 0,0:01:57.34,0:02:03.35,Titles,,0,0,0,,{\blur0.6}Reason
 Dialogue: 0,0:02:21.98,0:02:23.03,Regular,,0,0,0,,Prayer?
 Dialogue: 0,0:02:23.03,0:02:27.93,Regular,,0,0,0,,Yes, the chariots of the gods are activated by the prayers of the Simoun sibyllae.
 Dialogue: 0,0:02:27.93,0:02:31.79,Regular,,0,0,0,,Two priestesses unite their hearts in praise of Tempus Spatium.
@@ -251,8 +251,8 @@ Dialogue: 0,0:22:17.48,0:22:19.48,Regular,,0,0,0,,Anything is possible when you'
 Dialogue: 0,0:22:20.16,0:22:23.16,Regular,,0,0,0,,Do I want Aaeru?
 Dialogue: 0,0:22:23.88,0:22:28.49,Regular,,0,0,0,,No, it can't be. I'm... I'm...
 Dialogue: 0,0:22:30.60,0:22:34.91,Regular,,0,0,0,,I'm... afraid of Aaeru.
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.59,0:24:11.84,Regular,,0,0,0,,Are you ordering me to dismantle a Simoun, Sibylla Dominura?
 Dialogue: 0,0:24:14.09,0:24:15.47,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.00,0:24:18.96,Regular,,0,0,0,,That Which Must Not Be Violated.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,That Which Must Not Be Violated
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,{\blur0.6}That Which Must Not Be Violated

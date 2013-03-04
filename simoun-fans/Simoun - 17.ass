@@ -37,7 +37,7 @@ Dialogue: 0,0:01:44.61,0:01:46.37,Regular,,0,0,0,,Simoun are the chariots of the
 Dialogue: 0,0:01:46.91,0:01:47.96,Regular,,0,0,0,,They won't fail!
 Dialogue: 0,0:01:50.17,0:01:51.21,Regular,,0,0,0,,That's—!
 Dialogue: 0,0:01:51.84,0:01:53.96,Regular,,0,0,0,,The Emerald... Ri Maajon?
-Dialogue: 0,0:01:59.97,0:02:05.93,Titles,,90,0,0,,The Ruins
+Dialogue: 0,0:01:59.97,0:02:05.93,Titles,,90,0,0,,{\blur0.6}The Ruins
 Dialogue: 0,0:02:43.97,0:02:45.46,Regular,,0,0,0,,Hey, come and take a look at this!
 Dialogue: 0,0:02:45.46,0:02:48.28,Regular,,0,0,0,,Can you adjust the communicator valve pressure?
 Dialogue: 0,0:02:48.28,0:02:49.98,Regular,,0,0,0,,Hey, can someone help me pull this?
@@ -260,8 +260,8 @@ Dialogue: 0,0:21:56.60,0:22:00.26,Regular,,0,0,0,,This place... this place {\i1}
 Dialogue: 0,0:22:00.99,0:22:02.63,Regular,,0,0,0,,It's just like Grandpa said!
 Dialogue: 0,0:22:18.02,0:22:19.23,Regular,,0,0,0,,Angulas?
 Dialogue: 0,0:22:26.86,0:22:30.28,Regular,,0,0,0,,AA - E - RU !!!
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:07.17,0:24:12.72,Regular,,0,0,0,,Aaeru and Mamiina are both refused entry to Angulas' funeral.
 Dialogue: 0,0:24:13.55,0:24:15.55,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.85,0:24:18.39,Regular,,0,0,0,,Funeral Procession.
-Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,0,0,0,,Funeral Procession
+Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,0,0,0,,{\blur0.6}Funeral Procession

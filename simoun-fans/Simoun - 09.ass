@@ -43,7 +43,7 @@ Dialogue: 0,0:02:15.61,0:02:16.94,Regular,,0,0,0,,— Hurry!\N— Got it!
 Dialogue: 0,0:02:25.18,0:02:27.25,Regular,,0,0,0,,Mamiina, let's go!
 Dialogue: 0,0:02:27.25,0:02:30.40,Regular,,0,0,0,,Our Simoun is waiting.
 Dialogue: 0,0:02:30.40,0:02:32.71,Regular,,0,0,0,,That's what we're here for, isn't it?
-Dialogue: 0,0:02:38.76,0:02:44.76,Titles,,0,0,0,,The Hearing
+Dialogue: 0,0:02:38.76,0:02:44.76,Titles,,0,0,0,,{\blur0.6}The Hearing
 Dialogue: 0,0:02:47.43,0:02:49.31,Regular,,0,0,0,,They took my sister hostage.
 Dialogue: 0,0:02:49.31,0:02:51.44,Regular,,0,0,0,,I'll make them suffer for that!
 Dialogue: 0,0:02:54.25,0:02:58.03,Regular,,0,0,0,,I can't bear to see everyone's feelings torn apart again!
@@ -277,8 +277,8 @@ Dialogue: 0,0:22:12.47,0:22:16.42,Regular,,0,0,0,,Don't get greedy. We're lucky 
 Dialogue: 0,0:22:16.42,0:22:18.03,Regular,,0,0,0,,That's right!
 Dialogue: 0,0:22:18.03,0:22:19.98,Regular,,0,0,0,,It's great. Even the ship.
 Dialogue: 0,0:22:20.94,0:22:23.48,Regular,,0,0,0,,I'm not complaining at all!
-Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:05.92,0:24:11.97,Regular,,0,0,0,,Chor Tempest boards the old warship {\i1}Messis{\i0} and heads for the borderlands.
 Dialogue: 0,0:24:14.34,0:24:15.97,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.05,0:24:18.43,Regular,,0,0,0,,Birds in a Cage.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,Birds in a Cage
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,{\blur0.6}Birds in a Cage

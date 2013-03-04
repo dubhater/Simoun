@@ -30,7 +30,7 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:45.11,0:01:48.60,Titles,,0,0,0,,The Argentum Archipelago
+Dialogue: 0,0:01:45.11,0:01:48.60,Titles,,0,0,0,,{\blur0.6}The Argentum Archipelago
 Dialogue: 0,0:02:21.40,0:02:26.37,Regular,,0,0,0,,Our Archipelago has the best science and technology on Daikuuriku.
 Dialogue: 0,0:02:26.95,0:02:31.58,Regular,,0,0,0,,However, we have been unable to develop an airship that can fly above the clouds.
 Dialogue: 0,0:02:31.58,0:02:36.44,Regular,,0,0,0,,A single lightning strike would incinerate one in an instant.
@@ -40,8 +40,8 @@ Dialogue: 0,0:03:10.38,0:03:16.80,Regular,,0,0,0,,Our country has tried repeated
 Dialogue: 0,0:03:16.80,0:03:19.67,Regular,,0,0,0,,But every time we've tried, they've stopped us.
 Dialogue: 0,0:03:34.81,0:03:39.21,Regular,,0,0,0,,This is the Holy Land's secret: demons. Simoun.
 Dialogue: 0,0:03:39.90,0:03:45.15,Regular,,0,0,0,,Nothing else on Daikuuriku can fly that freely in the sky.
-Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,Fallen Wings
-Dialogue: 0,0:03:50.62,0:03:53.30,Titles,,0,0,0,,The Holy Land of Simulacrum
+Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,{\blur0.6}Fallen Wings
+Dialogue: 0,0:03:50.62,0:03:53.30,Titles,,0,0,0,,{\blur0.6}The Holy Land of Simulacrum
 Dialogue: 0,0:04:19.40,0:04:21.56,Regular,,0,0,0,,It's only a routine deterrence patrol.
 Dialogue: 0,0:04:21.56,0:04:25.66,Regular,,0,0,0,,But everyone in the government is here for an inspection, so we're showing off a little.
 Dialogue: 0,0:04:45.17,0:04:46.51,Regular,,0,0,0,,Neviril-sama!
@@ -222,8 +222,8 @@ Dialogue: 0,0:21:52.03,0:21:53.95,Regular,,0,0,0,,There's no way she's a prieste
 Dialogue: 0,0:22:11.93,0:22:14.62,Regular,,0,0,0,,That's one of the practice Simile, isn't it?
 Dialogue: 0,0:22:14.62,0:22:17.02,Regular,,0,0,0,,She can't perform Ri Maajons with that!
 Dialogue: 0,0:22:27.15,0:22:33.06,Regular,,0,0,0,,You guys can stay behind and pray. I came here to fight!
-Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:08.59,0:24:12.47,Regular,,0,0,0,,The Simoun should never have fallen, but they did.
 Dialogue: 0,0:24:15.51,0:24:17.33,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.33,0:24:19.53,Regular,,0,0,0,,The Blue Spring.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,The Blue Spring
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,{\blur0.6}The Blue Spring

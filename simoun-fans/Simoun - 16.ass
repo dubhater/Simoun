@@ -41,7 +41,7 @@ Dialogue: 0,0:02:05.27,0:02:06.52,Regular,,0,0,0,,Captain!
 Dialogue: 0,0:02:06.52,0:02:08.77,Regular,,0,0,0,,All sections are at general quarters!
 Dialogue: 0,0:02:09.28,0:02:11.44,Regular,,0,0,0,,Dismiss the kitchen staff and have them report for duty!
 Dialogue: 0,0:02:11.44,0:02:12.44,Regular,,0,0,0,,Aye, sir!
-Dialogue: 0,0:02:28.71,0:02:34.71,Titles,,90,0,0,,The Emerald Ri Maajon
+Dialogue: 0,0:02:28.71,0:02:34.71,Titles,,90,0,0,,{\blur0.6}The Emerald Ri Maajon
 Dialogue: 0,0:02:47.03,0:02:49.81,Regular,,0,0,0,,Just for you, I want to draw...
 Dialogue: 0,0:02:50.40,0:02:52.06,Regular,,0,0,0,,...the Emerald Ri Maajon.
 Dialogue: 0,0:02:53.72,0:02:55.82,Regular,,0,0,0,,What a funny-looking face!
@@ -302,8 +302,8 @@ Dialogue: 0,0:22:11.44,0:22:13.40,Regular,,0,0,0,,We have managed to survive...
 Dialogue: 0,0:22:14.62,0:22:19.73,Regular,,0,0,0,,...thanks to the Arcus Prima and the returning Simoun from Chor Tempest.
 Dialogue: 0,0:22:22.07,0:22:27.99,Regular,,0,0,0,,However, as for Sibylla Dominura and Sibylla Limone's Simoun...
 Dialogue: 0,0:22:27.99,0:22:32.06,Regular,,0,0,0,,...we were unable to find any trace of it.
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:07.04,0:24:12.34,Regular,,0,0,0,,Chor Tempest are sent to a forbidden place, and they learn its secrets.
 Dialogue: 0,0:24:13.38,0:24:15.51,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.64,0:24:17.85,Regular,,0,0,0,,The Ruins.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,The Ruins
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,{\blur0.6}The Ruins

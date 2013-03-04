@@ -30,7 +30,7 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:59.51,0:02:05.52,Titles,,90,0,0,,Nearby War
+Dialogue: 0,0:01:59.51,0:02:05.52,Titles,,90,0,0,,{\blur0.6}Nearby War
 Dialogue: 0,0:02:18.25,0:02:21.70,Regular,,0,0,0,,...and that concludes the patrol flight schedule.
 Dialogue: 0,0:02:24.88,0:02:26.47,Regular,,0,0,0,,Chor Tempest?
 Dialogue: 0,0:02:26.47,0:02:28.96,Regular,,0,0,0,,Did they have permission to take off?
@@ -256,8 +256,8 @@ Dialogue: 0,0:22:11.14,0:22:15.80,Regular,,0,0,0,,I see that they're cleaning of
 Dialogue: 0,0:22:15.80,0:22:18.85,Regular,,0,0,0,,It looks like they're starting to see themselves as priestesses.
 Dialogue: 0,0:22:19.40,0:22:20.44,Regular,,0,0,0,,Maybe...
 Dialogue: 0,0:22:25.88,0:22:29.99,Regular,,0,0,0,,I'm sorry for getting you so dirty.
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:07.67,0:24:12.51,Regular,,0,0,0,,Will Dominura really be able to guide Limone?
 Dialogue: 0,0:24:14.72,0:24:16.30,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.30,0:24:18.10,Regular,,0,0,0,,White Solitude.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,White Solitude
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,{\blur0.6}White Solitude

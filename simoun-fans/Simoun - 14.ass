@@ -43,7 +43,7 @@ Dialogue: 0,0:02:32.72,0:02:38.42,Regular,,0,0,0,,I know how bad the situation i
 Dialogue: 0,0:02:38.91,0:02:41.68,Regular,,0,0,0,,They've been through a lot of painful things lately.
 Dialogue: 0,0:02:44.16,0:02:45.18,Regular,,0,0,0,,Right.
 Dialogue: 0,0:02:46.07,0:02:48.18,Regular,,0,0,0,,And there will probably be more.
-Dialogue: 0,0:02:48.18,0:02:54.19,Titles,,0,0,0,,That Which Must Not Be Violated
+Dialogue: 0,0:02:48.18,0:02:54.19,Titles,,0,0,0,,{\blur0.6}That Which Must Not Be Violated
 Dialogue: 0,0:03:17.30,0:03:18.99,Regular,,0,0,0,,Oh, there's someone in here.
 Dialogue: 0,0:03:18.99,0:03:20.34,Regular,,0,0,0,,Sibylla Morinas!
 Dialogue: 0,0:03:21.09,0:03:22.64,Regular,,0,0,0,,Please excuse me! I'll leave at once.
@@ -221,8 +221,8 @@ Dialogue: 0,0:21:31.60,0:21:33.43,Regular,,0,0,0,,What happened? What's happened
 Dialogue: 0,0:21:33.43,0:21:36.56,Regular,,0,0,0,,She's fine. Sibyllae, please, stand aside...
 Dialogue: 0,0:21:36.56,0:21:38.94,Regular,,0,0,0,,Please, everybody, step out of the way.
 Dialogue: 0,0:22:21.60,0:22:27.40,Regular,,0,0,0,,Huh? I thought I heard someone crying just now.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.09,0:24:11.42,Regular,,0,0,0,,The Archipelago's new fighters are everywhere, and our forces are being pushed back.
 Dialogue: 0,0:24:13.34,0:24:14.89,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:15.43,0:24:17.81,Regular,,0,0,0,,One By One.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,One By One
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,{\blur0.6}One By One

@@ -54,7 +54,7 @@ Dialogue: 0,0:03:20.21,0:03:22.46,Regular,,0,0,0,,Does her new haircut have anyt
 Dialogue: 0,0:03:30.89,0:03:32.29,Regular,,0,0,0,,We're descending.
 Dialogue: 0,0:03:32.29,0:03:33.77,Regular,,0,0,0,,So this is where we're headed?
 Dialogue: 0,0:03:53.23,0:03:54.38,Regular,,0,0,0,,We've landed.
-Dialogue: 0,0:04:03.63,0:04:09.64,Titles,,0,0,0,,United Front
+Dialogue: 0,0:04:03.63,0:04:09.64,Titles,,0,0,0,,{\blur0.6}United Front
 Dialogue: 0,0:04:19.61,0:04:23.14,Regular,,0,0,0,,This ship is a piece of crap! Where's the bridge?
 Dialogue: 0,0:04:23.14,0:04:25.16,Regular,,0,0,0,,Can this really be the priestesses' ship?
 Dialogue: 0,0:04:25.16,0:04:27.85,Regular,,0,0,0,,I imagined something better.
@@ -320,8 +320,8 @@ Dialogue: 0,0:22:09.68,0:22:11.64,Regular,,0,0,0,,The Simoun are demons!
 Dialogue: 0,0:22:13.11,0:22:15.20,Regular,,0,0,0,,Mastif, what are you doing?
 Dialogue: 0,0:22:15.20,0:22:18.39,Regular,,0,0,0,,Don't make those kids fight any more.
 Dialogue: 0,0:22:19.48,0:22:22.69,Regular,,0,0,0,,This is our war!
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.59,0:24:10.84,Regular,,0,0,0,,Kaimu and Alti fly as a pair and go on a scouting mission.
 Dialogue: 0,0:24:14.01,0:24:15.43,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.60,0:24:18.14,Regular,,0,0,0,,Sisters.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,Sisters
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,{\blur0.6}Sisters

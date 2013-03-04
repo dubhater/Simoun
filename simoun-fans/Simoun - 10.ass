@@ -42,7 +42,7 @@ Dialogue: 0,0:02:07.76,0:02:11.74,Regular,,0,0,0,,Don't get greedy. We're lucky 
 Dialogue: 0,0:02:11.74,0:02:13.21,Regular,,0,0,0,,That's right!
 Dialogue: 0,0:02:13.21,0:02:15.28,Regular,,0,0,0,,It's great. Even the ship.
 Dialogue: 0,0:02:16.19,0:02:18.78,Regular,,0,0,0,,I'm not complaining at all!
-Dialogue: 0,0:02:28.29,0:02:34.30,Titles,,0,0,0,,Birds in a Cage
+Dialogue: 0,0:02:28.29,0:02:34.30,Titles,,0,0,0,,{\blur0.6}Birds in a Cage
 Dialogue: 0,0:03:01.33,0:03:04.64,Regular,,0,0,0,,Do we really have to all live in here?
 Dialogue: 0,0:03:05.18,0:03:09.70,Regular,,0,0,0,,Floe, instead of complaining, you should hurry up and choose your bunk.
 Dialogue: 0,0:03:09.70,0:03:11.84,Regular,,0,0,0,,The beds by the window are first-come, first-served.
@@ -306,8 +306,8 @@ Dialogue: 0,0:21:50.22,0:21:52.91,Regular,,0,0,0,,With this many of the enemy...
 Dialogue: 0,0:22:12.60,0:22:13.64,Regular,,0,0,0,,That meat we had...
 Dialogue: 0,0:22:14.68,0:22:16.64,Regular,,0,0,0,,It was delicious!
 Dialogue: 0,0:22:19.60,0:22:20.65,Regular,,0,0,0,,It was mouse.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.63,0:24:11.22,Regular,,0,0,0,,It's our job to take some soldiers up close to a town.
 Dialogue: 0,0:24:14.89,0:24:16.40,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.40,0:24:18.03,Regular,,0,0,0,,United Front.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,United Front
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,{\blur0.6}United Front

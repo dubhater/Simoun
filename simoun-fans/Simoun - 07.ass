@@ -54,7 +54,7 @@ Dialogue: 0,0:02:52.44,0:02:53.81,Regular,,0,0,0,,Vyura!
 Dialogue: 0,0:02:54.32,0:02:56.37,Regular,,0,0,0,,I left some snacks on my desk.
 Dialogue: 0,0:02:56.37,0:02:58.19,Regular,,0,0,0,,Go ahead and eat them, if you want.
 Dialogue: 0,0:02:58.83,0:03:01.24,Regular,,0,0,0,,Don't wake me up when you get back.
-Dialogue: 0,0:03:01.24,0:03:07.20,Titles,,0,0,0,,Over International Waters
+Dialogue: 0,0:03:01.24,0:03:07.20,Titles,,0,0,0,,{\blur0.6}Over International Waters
 Dialogue: 0,0:03:29.56,0:03:31.72,Regular,,0,0,0,,Hey, they've fixed her up beautifully!
 Dialogue: 0,0:03:35.82,0:03:37.91,Regular,,0,0,0,,These kids really worked hard at it.
 Dialogue: 0,0:03:37.91,0:03:41.36,Regular,,0,0,0,,She's a real antique, but it looks like they did a good job.
@@ -307,8 +307,8 @@ Dialogue: 0,0:21:27.48,0:21:30.34,Regular,,0,0,0,,No daughter of mine is going t
 Dialogue: 0,0:21:30.94,0:21:33.86,Regular,,0,0,0,,I'm sending her to the Spring before she gets hurt any further.
 Dialogue: 0,0:21:33.86,0:21:37.12,Regular,,0,0,0,,Um... but what about me?
 Dialogue: 0,0:21:37.12,0:21:39.18,Regular,,0,0,0,,I'm disappointed in you.
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:05.79,0:24:12.43,Regular,,0,0,0,,Chor Tempest will play host to the Highland Priestess Angulas for a little while.
 Dialogue: 0,0:24:15.22,0:24:16.72,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.72,0:24:18.48,Regular,,0,0,0,,Prayer.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,70,0,0,,Prayer
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,70,0,0,,{\blur0.6}Prayer

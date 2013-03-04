@@ -46,7 +46,7 @@ Dialogue: 0,0:02:18.67,0:02:24.12,Regular,,0,0,0,,It was announced that Chor Tem
 Dialogue: 0,0:02:24.72,0:02:31.11,Regular,,0,0,0,,For those who wished to keep flying Simoun for one reason or another, it was a bitter pill to swallow.
 Dialogue: 0,0:02:31.11,0:02:36.75,Regular,,0,0,0,,Those who had reached the age to go to the Spring would never fly Simoun again.
 Dialogue: 0,0:02:37.98,0:02:41.72,Regular,,0,0,0,,And so the peace conference began.
-Dialogue: 0,0:02:43.64,0:02:49.64,Titles,,0,0,0,,Prayer
+Dialogue: 0,0:02:43.64,0:02:49.64,Titles,,0,0,0,,{\blur0.6}Prayer
 Dialogue: 0,0:02:50.37,0:02:54.65,Regular,,0,0,0,,I understand that your priestesses understand our language.
 Dialogue: 0,0:02:55.01,0:02:59.15,Regular,,0,0,0,,But if you need a translator, wouldn't one priestess be enough?
 Dialogue: 0,0:03:03.13,0:03:05.30,Regular,,0,0,0,,We priestesses are not here only to translate.
@@ -288,8 +288,8 @@ Dialogue: 0,0:21:50.68,0:21:52.87,Regular,,0,0,0,,I am your pair.
 Dialogue: 0,0:22:07.07,0:22:10.39,Regular,,0,0,0,,Try to level the ship off{** off?} for a moment! The Simoun are taking off!
 Dialogue: 0,0:22:10.39,0:22:12.93,Regular,,0,0,0,,But Rubor and Caput are both destroyed!
 Dialogue: 0,0:22:12.93,0:22:15.39,Regular,,0,0,0,,It's Chor Tempest that's launching!
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.25,0:24:12.55,Regular,,0,0,0,,At the Grand Temple, we will perform our last Ri Maajon as Chor Tempest.
 Dialogue: 0,0:24:15.43,0:24:16.77,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.51,0:24:18.73,Regular,,0,0,0,,The Hearing.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,The Hearing
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,{\blur0.6}The Hearing

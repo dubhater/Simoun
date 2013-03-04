@@ -45,7 +45,7 @@ Dialogue: 0,0:02:14.23,0:02:15.28,Regular,,0,0,0,,And that is?
 Dialogue: 0,0:02:16.30,0:02:19.28,Regular,,0,0,0,,I can't say. I promised not to.
 Dialogue: 0,0:02:25.18,0:02:27.69,Regular,,0,0,0,,I have to go.
 Dialogue: 0,0:02:27.69,0:02:28.76,Regular,,0,0,0,,So do I.
-Dialogue: 0,0:02:29.79,0:02:35.80,Titles,,90,0,0,,Sibylla
+Dialogue: 0,0:02:29.79,0:02:35.80,Titles,,90,0,0,,{\blur0.6}Sibylla
 Dialogue: 0,0:02:43.30,0:02:47.25,Regular,,0,0,0,,Sibylla Aaeru always does whatever she wants.
 Dialogue: 0,0:02:47.25,0:02:49.38,Regular,,0,0,0,,Sir, are you sure this is okay?
 Dialogue: 0,0:02:49.38,0:02:52.81,Regular,,0,0,0,,Really, I sometimes wonder what those sibyllae are thinking of.
@@ -288,9 +288,9 @@ Dialogue: 0,0:21:54.20,0:21:56.29,Regular,,0,0,0,,We have to get out of here! We
 Dialogue: 0,0:21:57.17,0:22:00.79,Regular,,0,0,0,,We can't just stand here doing nothing at a time like this!
 Dialogue: 0,0:22:22.99,0:22:24.44,Regular,,0,0,0,,Sibylla!
 Dialogue: 0,0:22:24.44,0:22:26.18,Regular,,0,0,0,,Sibyllaaaaa!
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.21,0:24:11.26,Regular,,0,0,0,,A proud sibylla of the Simulacrum Theocracy, and a true young lady,
 Dialogue: 0,0:24:11.26,0:24:14.11,Regular,,0,0,0,,Sibylla Mamiina... is dead.
 Dialogue: 0,0:24:14.11,0:24:15.51,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.30,0:24:17.93,Regular,,0,0,0,,Elegy.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,Elegy
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,{\blur0.6}Elegy

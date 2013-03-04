@@ -99,7 +99,7 @@ Dialogue: 0,0:05:30.51,0:05:31.64,Regular,,0,0,0,,Thanks.
 Dialogue: 0,0:05:36.80,0:05:38.90,Regular,,0,0,0,,Wait up! I'm coming too.
 Dialogue: 0,0:05:38.90,0:05:41.82,Regular,,0,0,0,,So, did you learn much, Morinas?
 Dialogue: 0,0:05:41.82,0:05:45.40,Regular,,0,0,0,,Hopefully this afternoon I'll be able to learn something interesting.
-Dialogue: 0,0:05:47.91,0:05:53.91,Titles,,90,0,0,,Distant War
+Dialogue: 0,0:05:47.91,0:05:53.91,Titles,,90,0,0,,{\blur0.6}Distant War
 Dialogue: 0,0:07:40.21,0:07:41.39,Regular,,0,0,0,,Neviril,
 Dialogue: 0,0:07:41.76,0:07:44.58,Regular,,0,0,0,,I'm glad that you came back from the Spring.
 Dialogue: 0,0:07:45.34,0:07:51.35,Regular,,0,0,0,,May I take it that you have chosen to remain a Simoun sibylla?
@@ -240,8 +240,8 @@ Dialogue: 0,0:21:09.20,0:21:10.34,Regular,,0,0,0,,Are you...?
 Dialogue: 0,0:22:12.79,0:22:18.03,Regular,,0,0,0,,No matter how you try to protect those girls, this is reality.
 Dialogue: 0,0:22:23.97,0:22:26.77,Regular,,0,0,0,,Hang on! Hang on, I'll get you out!
 Dialogue: 0,0:22:26.77,0:22:27.99,Regular,,0,0,0,,Firefighting team, hurry!
-Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,Next Episode
+Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:08.09,0:24:11.34,Regular,,0,0,0,,Limone, don't be such a slowpoke! Let's go!
 Dialogue: 0,0:24:13.93,0:24:15.47,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.18,0:24:17.72,Regular,,0,0,0,,Nearby War.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,Nearby War
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,{\blur0.6}Nearby War

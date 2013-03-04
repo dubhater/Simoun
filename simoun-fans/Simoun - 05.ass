@@ -44,7 +44,7 @@ Dialogue: 0,0:02:48.97,0:02:51.41,Regular,,0,0,0,,That was totally Limone's faul
 Dialogue: 0,0:02:51.41,0:02:54.55,Regular,,0,0,0,,They let her join us because she was supposed to be a great prodigy.
 Dialogue: 0,0:02:54.55,0:02:55.48,Regular,,0,0,0,,Floe...
 Dialogue: 0,0:02:55.48,0:02:58.49,Regular,,0,0,0,,I feel sorry for Aaeru.
-Dialogue: 0,0:03:10.50,0:03:16.50,Titles,,90,0,0,,White Solitude
+Dialogue: 0,0:03:10.50,0:03:16.50,Titles,,90,0,0,,{\blur0.6}White Solitude
 Dialogue: 0,0:03:24.05,0:03:28.80,Regular,,0,0,0,,I had hoped that Chor Tempest would have recovered by now, but they haven't.
 Dialogue: 0,0:03:28.80,0:03:32.02,Regular,,0,0,0,,You've seen what Chor Tempest is like now.
 Dialogue: 0,0:03:32.63,0:03:37.57,Regular,,0,0,0,,You were the only survivor from Chor Dextra. I'd like to hear your thoughts.
@@ -235,8 +235,8 @@ Dialogue: 0,0:21:32.17,0:21:33.62,Regular,,0,0,0,,She did it?
 Dialogue: 0,0:21:34.22,0:21:36.35,Regular,,0,0,0,,All of the enemy tanks are destroyed?
 Dialogue: 0,0:22:14.97,0:22:17.39,Regular,,0,0,0,,It's as I thought: that girl really is a genius.
 Dialogue: 0,0:22:19.01,0:22:21.58,Regular,,0,0,0,,So I wasn't wrong, after all...
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,Episode Preview
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Episode Preview
 Dialogue: 0,0:24:06.21,0:24:11.84,Regular,,0,0,0,,I'm Kaimu, and I'm Sibylla Paraietta's—Para-sama's—pair.
 Dialogue: 0,0:24:14.33,0:24:16.10,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.10,0:24:17.81,Regular,,0,0,0,,Wounds and Pain
-Dialogue: 0,0:24:15.43,0:24:19.97,Titles,,90,0,0,,Wounds and Pain
+Dialogue: 0,0:24:15.43,0:24:19.97,Titles,,90,0,0,,{\blur0.6}Wounds and Pain
