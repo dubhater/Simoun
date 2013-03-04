@@ -56,7 +56,7 @@ Dialogue: 0,0:02:47.00,0:02:49.64,Regular,,0,0,0,,Why use\Nan old-fashioned Ri M
 Dialogue: 0,0:02:52.53,0:02:53.81,Regular,,0,0,0,,Vura!
 Dialogue: 0,0:02:54.34,0:02:58.19,Regular,,0,0,0,,Help yourself to\Nthe leftover candy on my desk!
 Dialogue: 0,0:02:58.84,0:03:01.24,Regular,,0,0,0,,Don't wake me coming back!
-Dialogue: 0,0:03:01.24,0:03:07.20,Titles,,0,0,0,,Over International Waters
+Dialogue: 0,0:03:01.24,0:03:07.20,Titles,,0,0,0,,{\blur0.6}Over International Waters
 Dialogue: 0,0:03:27.54,0:03:31.10,Regular,,0,0,0,,Wow!\NLook how spotless you are now.
 Dialogue: 0,0:03:35.84,0:03:37.82,Regular,,0,0,0,,These kids worked hard.
 Dialogue: 0,0:03:37.82,0:03:41.36,Regular,,0,0,0,,It's quite an antique,\Nso they had a rough time.
@@ -292,9 +292,9 @@ Dialogue: 0,0:23:38.65,0:23:44.22,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.22,0:23:47.66,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.66,0:23:53.33,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.33,0:23:59.70,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:05.71,0:24:08.21,Regular,,0,0,0,,The highland priestess named Anglas...
 Dialogue: 0,0:24:08.21,0:24:12.43,Regular,,0,0,0,,...will be staying with\NChor Tempest for the time being.
 Dialogue: 0,0:24:15.47,0:24:16.95,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.95,0:24:18.32,Regular,,0,0,0,,Prayer.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,70,0,0,,Prayer
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,70,0,0,,{\blur0.6}Prayer

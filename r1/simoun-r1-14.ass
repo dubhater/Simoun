@@ -50,7 +50,7 @@ Dialogue: 0,0:02:32.73,0:02:35.60,Regular,,0,0,0,,I know that times are grim...
 Dialogue: 0,0:02:35.60,0:02:38.42,Regular,,0,0,0,,...but I hope you sibyllae\Nwill enjoy the time off.
 Dialogue: 0,0:02:38.97,0:02:42.16,Regular,,0,0,0,,There's been far\Ntoo much tragedy lately.
 Dialogue: 0,0:02:44.27,0:02:48.18,Regular,,0,0,0,,Yes... And most likely,\Nmore lies ahead.
-Dialogue: 0,0:02:48.18,0:02:54.19,Titles,,90,0,0,,Sacrosanct
+Dialogue: 0,0:02:48.18,0:02:54.19,Titles,,90,0,0,,{\blur0.6}Sacrosanct
 Dialogue: 0,0:03:17.05,0:03:18.92,Regular,,0,0,0,,Oh, someone was here.
 Dialogue: 0,0:03:18.92,0:03:20.34,Regular,,0,0,0,,Sibylla Morinas...
 Dialogue: 0,0:03:21.12,0:03:23.11,Regular,,0,0,0,,I'll leave right away.
@@ -255,9 +255,9 @@ Dialogue: 0,0:23:38.65,0:23:44.17,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.17,0:23:47.57,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.57,0:23:53.27,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.27,0:23:59.61,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.08,0:24:07.86,Regular,,0,0,0,,Shoukoku's upgraded aircraft...
 Dialogue: 0,0:24:07.86,0:24:12.38,Regular,,0,0,0,,...are relentlessly threatening us,\Nand our forces are being scattered.
 Dialogue: 0,0:24:13.34,0:24:15.43,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:15.43,0:24:17.89,Regular,,0,0,0,,One, and Then Another.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,One, and Then Another
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,{\blur0.6}One, and Then Another

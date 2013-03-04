@@ -39,7 +39,7 @@ Dialogue: 0,0:01:34.33,0:01:36.49,Regular,,0,0,0,,That I should dismantle a Simo
 Dialogue: 0,0:01:37.57,0:01:40.03,Regular,,0,0,0,,What's there is nothing but a helix.
 Dialogue: 0,0:01:40.83,0:01:44.04,Regular,,0,0,0,,The only thing we're\Ncapable of understanding is...
 Dialogue: 0,0:01:44.04,0:01:48.04,Regular,,0,0,0,,You can see something!\NWhat... What can you see?
-Dialogue: 0,0:01:52.04,0:01:58.01,Titles,,0,0,0,,One, and Then Another
+Dialogue: 0,0:01:52.04,0:01:58.01,Titles,,0,0,0,,{\blur0.6}One, and Then Another
 Dialogue: 0,0:02:22.87,0:02:24.35,Regular,,0,0,0,,What's that for?
 Dialogue: 0,0:02:24.35,0:02:27.37,Regular,,0,0,0,,Oh, I'm going to use\Nthese to build a cradle.
 Dialogue: 0,0:02:27.37,0:02:29.10,Regular,,0,0,0,,A cradle?
@@ -251,9 +251,9 @@ Dialogue: 0,0:23:38.85,0:23:44.36,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.36,0:23:47.76,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.76,0:23:53.41,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.41,0:23:59.62,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.67,0:24:08.34,Regular,,0,0,0,,The Messis has finally...
 Dialogue: 0,0:24:08.34,0:24:12.01,Regular,,0,0,0,,...become the target of\NShoukoku's mid-sized air fleet.
 Dialogue: 0,0:24:14.05,0:24:16.60,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.60,0:24:18.85,Regular,,0,0,0,,The Emerald Ri Majon.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,The Emerald Ri Majon
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,90,0,0,,{\blur0.6}The Emerald Ri Majon

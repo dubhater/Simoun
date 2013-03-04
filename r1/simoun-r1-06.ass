@@ -39,7 +39,7 @@ Dialogue: 0,0:02:14.10,0:02:16.94,Regular,,0,0,0,,Neviril, don't look! You can't
 Dialogue: 0,0:02:19.49,0:02:20.53,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:02:39.38,0:02:40.43,Regular,,0,0,0,,Amuria!
 Dialogue: 0,0:02:45.90,0:02:47.52,Regular,,0,0,0,,Amuria!
-Dialogue: 0,0:03:09.41,0:03:15.42,Titles,,0,0,0,,Wounds and Pain
+Dialogue: 0,0:03:09.41,0:03:15.42,Titles,,0,0,0,,{\blur0.6}Wounds and Pain
 Dialogue: 0,0:03:22.09,0:03:25.78,Regular,,0,0,0,,Hey, Alty. Chase those birds. Please?
 Dialogue: 0,0:03:25.78,0:03:28.60,Regular,,0,0,0,,We're on duty right now, you know.
 Dialogue: 0,0:03:28.60,0:03:32.65,Regular,,0,0,0,,So what? We won't\Nrun into the enemy here!
@@ -264,9 +264,9 @@ Dialogue: 0,0:23:38.79,0:23:44.34,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.34,0:23:47.80,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.80,0:23:53.44,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.44,0:23:59.56,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.08,0:24:06.67,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.08,0:24:06.67,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:05.88,0:24:07.92,Regular,,0,0,0,,In order to sign a peace treaty...
 Dialogue: 0,0:24:07.92,0:24:11.97,Regular,,0,0,0,,...delegations from the highlands and\Nthe Arcus Prima are about to meet.
 Dialogue: 0,0:24:14.68,0:24:16.66,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.66,0:24:18.35,Regular,,0,0,0,,Over International Waters.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,Over International Waters
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,{\blur0.6}Over International Waters

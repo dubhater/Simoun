@@ -49,7 +49,7 @@ Dialogue: 0,0:02:29.19,0:02:31.09,Regular,,0,0,0,,...it is a bitter sentence.
 Dialogue: 0,0:02:31.09,0:02:34.50,Regular,,0,0,0,,Either way, when it's time\Nto journey to the Spring...
 Dialogue: 0,0:02:34.50,0:02:37.13,Regular,,0,0,0,,...one can no longer fly a Simoun.
 Dialogue: 0,0:02:38.03,0:02:41.99,Regular,,0,0,0,,And now the peace\Nconference is about to begin.
-Dialogue: 0,0:02:43.64,0:02:49.64,Titles,,70,0,0,,Prayer
+Dialogue: 0,0:02:43.64,0:02:49.64,Titles,,70,0,0,,{\blur0.6}Prayer
 Dialogue: 0,0:02:50.44,0:02:54.65,Regular,,0,0,0,,We understand that your priestesses\Nare all fluent in Kyuukoku's language.
 Dialogue: 0,0:02:54.65,0:02:59.15,Regular,,0,0,0,,But for translating purposes,\Nwouldn't just one suffice?
 Dialogue: 0,0:03:03.25,0:03:05.32,Regular,,0,0,0,,We are not mere interpreters.
@@ -299,9 +299,9 @@ Dialogue: 0,0:23:38.73,0:23:44.27,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.27,0:23:47.70,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.70,0:23:53.37,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.37,0:23:59.77,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.28,0:24:08.46,Regular,,0,0,0,,We will soon be performing...
 Dialogue: 0,0:24:08.46,0:24:13.11,Regular,,0,0,0,,...our last Ri Majon as members of\NChor Tempest at the great temple.
 Dialogue: 0,0:24:15.42,0:24:16.85,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:17.62,0:24:19.10,Regular,,0,0,0,,The Hearing.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,The Hearing
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,0,0,0,,{\blur0.6}The Hearing

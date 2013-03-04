@@ -39,7 +39,7 @@ Dialogue: 0,0:01:31.58,0:01:34.21,Regular,,0,0,0,,...with communication cables\N
 Dialogue: 0,0:01:34.21,0:01:36.08,Regular,,0,0,0,,...will descend as low as possible...
 Dialogue: 0,0:01:36.08,0:01:39.90,Regular,,0,0,0,,...and protect the Ruins from attack\Nby the Shoukoku-highland forces.
 Dialogue: 0,0:01:47.58,0:01:49.33,Regular,,0,0,0,,The enemy?
-Dialogue: 0,0:01:49.33,0:01:55.34,Titles,,90,0,0,,The Funeral
+Dialogue: 0,0:01:49.33,0:01:55.34,Titles,,90,0,0,,{\blur0.6}The Funeral
 Dialogue: 0,0:02:01.83,0:02:05.35,Regular,,0,0,0,,This sibylla's spirit is\Nbound by chains of sin.
 Dialogue: 0,0:02:05.35,0:02:10.18,Regular,,0,0,0,,Nevertheless, both the merciful\NTempus Spatium, as well as Kyuukoku...
 Dialogue: 0,0:02:10.18,0:02:12.83,Regular,,0,0,0,,...are prepared to\Nforgive and accept her.
@@ -342,9 +342,9 @@ Dialogue: 0,0:23:38.63,0:23:44.17,Lyrics bottom,,0,0,0,,Soar away into the\Nsky,
 Dialogue: 0,0:23:44.17,0:23:47.61,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.61,0:23:53.27,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.27,0:23:59.50,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.71,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.00,0:24:06.71,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.38,0:24:08.67,Regular,,0,0,0,,Neviril's Simoun is shot down...
 Dialogue: 0,0:24:08.67,0:24:13.09,Regular,,0,0,0,,...and forced to make an emergency\Nlanding on Shoukoku's aerial base.
 Dialogue: 0,0:24:14.06,0:24:15.55,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.39,0:24:17.51,Regular,,0,0,0,,Sibylla.
-Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,Sibylla
+Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,{\blur0.6}Sibylla

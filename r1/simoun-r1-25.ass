@@ -35,7 +35,7 @@ Dialogue: 0,0:01:06.95,0:01:14.22,Lyrics bottom,,0,0,0,,Because even if I try\Nt
 Dialogue: 0,0:01:14.22,0:01:20.95,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
 Dialogue: 0,0:01:20.95,0:01:28.39,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
 Dialogue: 0,0:01:43.34,0:01:44.33,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,Pair
+Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,{\blur0.6}Pair
 Dialogue: 0,0:01:52.58,0:01:54.51,Regular,,0,0,0,,But that's Yun.
 Dialogue: 0,0:01:54.51,0:01:55.73,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:01:55.73,0:01:56.93,Regular,,0,0,0,,No way...
@@ -286,9 +286,9 @@ Dialogue: 0,0:23:38.59,0:23:44.14,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.14,0:23:47.57,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.57,0:23:53.24,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.24,0:23:59.47,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:05.96,0:24:07.30,Regular,,0,0,0,,This is...
 Dialogue: 0,0:24:07.30,0:24:10.51,Regular,,0,0,0,,...the tale of the\Nsibyllae's "tomorrow."
 Dialogue: 0,0:24:12.68,0:24:15.47,Regular,,0,0,0,,Next time, on the final\Nepisode of Simoun...
 Dialogue: 0,0:24:16.29,0:24:18.18,Regular,,0,0,0,,Their Portraits.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,Their Portraits
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,{\blur0.6}Their Portraits

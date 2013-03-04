@@ -100,7 +100,7 @@ Dialogue: 0,0:05:30.55,0:05:31.77,Regular,,0,0,0,,Thank you.
 Dialogue: 0,0:05:36.81,0:05:38.90,Regular,,0,0,0,,Wait. I'll go with you.
 Dialogue: 0,0:05:39.25,0:05:42.02,Regular,,0,0,0,,So was that helpful, Morinas?
 Dialogue: 0,0:05:42.02,0:05:45.40,Regular,,0,0,0,,I wonder if I'll learn\Nsomething new this afternoon.
-Dialogue: 0,0:05:47.91,0:05:53.91,Titles,,0,0,0,,The Distant War
+Dialogue: 0,0:05:47.91,0:05:53.91,Titles,,0,0,0,,{\blur0.6}The Distant War
 Dialogue: 0,0:07:40.23,0:07:41.39,Regular,,0,0,0,,Neviril...
 Dialogue: 0,0:07:41.39,0:07:45.31,Regular,,0,0,0,,I am grateful that you've\Nreturned from the Spring.
 Dialogue: 0,0:07:45.31,0:07:51.42,Regular,,0,0,0,,I assume this means you've chosen\Nto continue on as a Simoun sibylla?
@@ -257,8 +257,8 @@ Dialogue: 0,0:23:38.70,0:23:44.24,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.24,0:23:47.68,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.68,0:23:53.34,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.34,0:23:59.51,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:08.15,0:24:11.34,Regular,,0,0,0,,Rimone! Get a move on! Let's go!
 Dialogue: 0,0:24:13.93,0:24:15.47,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.16,0:24:17.89,Regular,,0,0,0,,The Nearby War.
-Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,The Nearby War
+Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,{\blur0.6}The Nearby War

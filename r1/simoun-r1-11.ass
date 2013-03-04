@@ -59,7 +59,7 @@ Dialogue: 0,0:03:19.30,0:03:22.52,Regular,,0,0,0,,Who knows?\NSomething to do wi
 Dialogue: 0,0:03:30.93,0:03:32.31,Regular,,0,0,0,,We're descending.
 Dialogue: 0,0:03:32.31,0:03:33.77,Regular,,0,0,0,,Have we reached our destination?
 Dialogue: 0,0:03:53.29,0:03:54.38,Regular,,0,0,0,,We've stopped.
-Dialogue: 0,0:04:03.63,0:04:09.64,Titles,,85,0,0,,United Front
+Dialogue: 0,0:04:03.63,0:04:09.64,Titles,,85,0,0,,{\blur0.6}United Front
 Dialogue: 0,0:04:19.61,0:04:23.19,Regular,,0,0,0,,Man, what a piece of junk.\NWhere's the bridge?
 Dialogue: 0,0:04:23.19,0:04:27.86,Regular,,0,0,0,,This is the priestesses' ship?\NI imagined something better.
 Dialogue: 0,0:04:27.86,0:04:29.72,Regular,,0,0,0,,Like a secret garden?
@@ -317,8 +317,8 @@ Dialogue: 0,0:23:38.72,0:23:44.26,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.26,0:23:47.69,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.69,0:23:53.36,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.36,0:23:59.59,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.59,0:24:11.47,Regular,,0,0,0,,Kaim and Alty have taken off on\Na reconnaissance mission as a pair.
 Dialogue: 0,0:24:13.97,0:24:15.43,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.72,0:24:18.10,Regular,,0,0,0,,Sisters.
-Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,Sisters
+Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,{\blur0.6}Sisters

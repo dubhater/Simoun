@@ -47,7 +47,7 @@ Dialogue: 0,0:02:07.43,0:02:10.00,Regular,,0,0,0,,...so I hardly think they'll\N
 Dialogue: 0,0:02:10.00,0:02:12.77,Regular,,0,0,0,,That sibylla's death\Nbought us some time.
 Dialogue: 0,0:02:12.77,0:02:13.82,Regular,,0,0,0,,Am I wrong about that?
 Dialogue: 0,0:02:17.30,0:02:20.78,Regular,,0,0,0,,Remember that Tempus Spatium is\Nwatching over everything you do.
-Dialogue: 0,0:02:24.03,0:02:30.00,Titles,,0,0,0,,Lament
+Dialogue: 0,0:02:24.03,0:02:30.00,Titles,,0,0,0,,{\blur0.6}Lament
 Dialogue: 0,0:02:56.30,0:02:57.36,Regular,,0,0,0,,Dominüra...
 Dialogue: 0,0:02:57.36,0:02:58.38,Regular,,0,0,0,,...and Rimone...
 Dialogue: 0,0:02:58.38,0:03:00.03,Regular,,0,0,0,,I bet they're dead too!
@@ -330,9 +330,9 @@ Dialogue: 0,0:23:38.82,0:23:44.36,Lyrics bottom,,0,0,0,,Soar away into the\Nsky,
 Dialogue: 0,0:23:44.36,0:23:47.80,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.80,0:23:53.46,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.46,0:23:59.69,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.67,0:24:09.69,Regular,,0,0,0,,Bestowed upon us by Tempus Spatium...
 Dialogue: 0,0:24:09.69,0:24:11.80,Regular,,0,0,0,,...the other "if."
 Dialogue: 0,0:24:13.59,0:24:15.55,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:15.55,0:24:17.78,Regular,,0,0,0,,The Door to a New World.
-Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,The Door to a New World
+Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,{\blur0.6}The Door to a New World

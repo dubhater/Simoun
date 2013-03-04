@@ -43,7 +43,7 @@ Dialogue: 0,0:01:45.30,0:01:46.49,Regular,,0,0,0,,...was shot down.
 Dialogue: 0,0:01:47.30,0:01:48.33,Regular,,0,0,0,,What?
 Dialogue: 0,0:01:48.87,0:01:52.04,Regular,,0,0,0,,Seven o'clock! Five ancient\NSimouns approaching fast!
 Dialogue: 0,0:01:52.04,0:01:53.17,Regular,,0,0,0,,What in the world?
-Dialogue: 0,0:02:01.72,0:02:07.73,Titles,,90,0,0,,Sortie
+Dialogue: 0,0:02:01.72,0:02:07.73,Titles,,90,0,0,,{\blur0.6}Sortie
 Dialogue: 0,0:02:08.27,0:02:10.10,Regular,,0,0,0,,Four o'clock! Multiple aircraft sighted!
 Dialogue: 0,0:02:10.10,0:02:11.23,Regular,,0,0,0,,Hurry, confirm that!
 Dialogue: 0,0:02:12.69,0:02:14.96,Regular,,0,0,0,,They appear to be\NShoukoku cruise missiles!
@@ -365,9 +365,9 @@ Dialogue: 0,0:23:38.79,0:23:44.33,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.33,0:23:47.76,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.76,0:23:53.43,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.43,0:23:59.66,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:06.45,0:24:10.51,Regular,,0,0,0,,As alliance soldiers take\Ncontrol of the Arcus Prima...
 Dialogue: 0,0:24:10.51,0:24:13.13,Regular,,0,0,0,,...Chor Tempest is disbanded.
 Dialogue: 0,0:24:14.18,0:24:15.55,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:16.45,0:24:17.95,Regular,,0,0,0,,Eternal Maidens.
-Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,Eternal Maidens
+Dialogue: 0,0:24:15.55,0:24:20.02,Titles,,90,0,0,,{\blur0.6}Eternal Maidens

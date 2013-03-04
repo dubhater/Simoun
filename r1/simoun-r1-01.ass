@@ -48,7 +48,7 @@ Dialogue: 0,0:03:34.88,0:03:36.96,Regular,,0,0,0,,Kyuukoku's secret.
 Dialogue: 0,0:03:36.96,0:03:39.24,Regular,,0,0,0,,The demonic Simoun.
 Dialogue: 0,0:03:39.95,0:03:44.32,Regular,,0,0,0,,No other vessel in Daikuuriku\Nis capable of flying so freely...
 Dialogue: 0,0:03:44.32,0:03:46.33,Regular,,0,0,0,,...throughout the skies.
-Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,Fallen Wings
+Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,{\blur0.6}Fallen Wings
 Dialogue: 0,0:04:19.43,0:04:21.68,Regular,,0,0,0,,It's a routine patrol flight.
 Dialogue: 0,0:04:21.68,0:04:25.66,Regular,,0,0,0,,The governors are observing today,\Nso they're making a show of it.
 Dialogue: 0,0:04:45.19,0:04:46.55,Regular,,0,0,0,,Neviril-sama...
@@ -241,8 +241,8 @@ Dialogue: 0,0:23:38.81,0:23:44.37,Lyrics bottom,,0,0,0,,Soar away into the sky, 
 Dialogue: 0,0:23:44.37,0:23:47.80,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.80,0:23:53.47,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
 Dialogue: 0,0:23:53.47,0:23:59.87,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
-Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,To Be Continued
+Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
 Dialogue: 0,0:24:09.05,0:24:12.47,Regular,,0,0,0,,Simouns can't\Npossibly fall, and yet they have.
 Dialogue: 0,0:24:15.51,0:24:17.62,Regular,,0,0,0,,Next time on Simoun...
 Dialogue: 0,0:24:17.62,0:24:20.02,Regular,,0,0,0,,The Blue Spring.
-Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,The Blue Spring
+Dialogue: 0,0:24:15.51,0:24:20.02,Titles,,0,0,0,,{\blur0.6}The Blue Spring
