@@ -24,30 +24,30 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.68,0:00:09.76,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light...
-Dialogue: 0,0:00:09.76,0:00:20.29,Lyrics bottom,,0,0,0,,...gaze at tomorrow\Nwith unwavering eyes.
-Dialogue: 0,0:00:32.34,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure...
-Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,...but what can I bring\Nwith me to the frayed skies?
-Dialogue: 0,0:00:46.81,0:00:53.90,Lyrics bottom,,0,0,0,,What I've made my own\Nby breaking off flowers in bloom...
-Dialogue: 0,0:00:53.90,0:00:59.48,Lyrics bottom,,0,0,0,,All such sinful things...
+Dialogue: 0,0:00:00.68,0:00:09.76,Lyrics bottom,,0,0,0,,The countless flowers,\Nenveloped in light…
+Dialogue: 0,0:00:09.76,0:00:20.29,Lyrics bottom,,0,0,0,,…gaze at tomorrow\Nwith unwavering eyes.
+Dialogue: 0,0:00:32.34,0:00:39.35,Lyrics bottom,,0,0,0,,Everyone wishes for me to be pure…
+Dialogue: 0,0:00:39.35,0:00:46.81,Lyrics bottom,,0,0,0,,…but what can I bring\Nwith me to the frayed skies?
+Dialogue: 0,0:00:46.81,0:00:53.90,Lyrics bottom,,0,0,0,,What I’ve made my own\Nby breaking off flowers in bloom…
+Dialogue: 0,0:00:53.90,0:00:59.48,Lyrics bottom,,0,0,0,,All such sinful things…
 Dialogue: 0,0:00:59.48,0:01:06.96,Lyrics bottom,,0,0,0,,Why did I stop making\Npromises with the future?
-Dialogue: 0,0:01:06.96,0:01:14.23,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain...
-Dialogue: 0,0:01:14.23,0:01:20.97,Lyrics bottom,,0,0,0,,...a cold wind rustles\Nmy hair... Don't you see?
+Dialogue: 0,0:01:06.96,0:01:14.23,Lyrics bottom,,0,0,0,,Because even if I try\Nto run far from all the pain…
+Dialogue: 0,0:01:14.23,0:01:20.97,Lyrics bottom,,0,0,0,,…a cold wind rustles\Nmy hair… Don’t you see?
 Dialogue: 0,0:01:20.97,0:01:28.40,Lyrics bottom,,0,0,0,,Where can I ever find the answer?
 Dialogue: 0,0:01:34.74,0:01:38.49,Regular,,0,0,0,,I have lived all this time\Nwithout ever making a decision.
 Dialogue: 0,0:01:38.49,0:01:42.24,Regular,,0,0,0,,This is my punishment.
 Dialogue: 0,0:01:42.98,0:01:45.96,Regular,,0,0,0,,I failed to become an eternal maiden.
 Dialogue: 0,0:01:46.85,0:01:50.33,Regular,,0,0,0,,And I failed to make my way to\Nthat other world. I remained here.
 Dialogue: 0,0:01:51.12,0:01:53.71,Regular,,0,0,0,,Never to touch another.
-Dialogue: 0,0:01:53.71,0:01:58.35,Regular,,0,0,0,,Never to feel another's\Nembrace. And still...
+Dialogue: 0,0:01:53.71,0:01:58.35,Regular,,0,0,0,,Never to feel another’s\Nembrace. And still…
 Dialogue: 0,0:01:58.35,0:01:59.72,Regular,,0,0,0,,I remain here.
 Dialogue: 0,0:02:00.40,0:02:01.64,Regular,,0,0,0,,But why?
 Dialogue: 0,0:02:01.64,0:02:03.22,Regular,,0,0,0,,Why did they do that to your body?
-Dialogue: 0,0:02:04.37,0:02:07.53,Regular,,0,0,0,,Because I refused to\Nchoose a permanent gender...
-Dialogue: 0,0:02:08.41,0:02:11.23,Regular,,0,0,0,,...they sentenced me to become\Nthe gatekeeper of the Spring.
-Dialogue: 0,0:02:11.23,0:02:13.52,Regular,,0,0,0,,Because you wouldn't choose?
+Dialogue: 0,0:02:04.37,0:02:07.53,Regular,,0,0,0,,Because I refused to\Nchoose a permanent gender…
+Dialogue: 0,0:02:08.41,0:02:11.23,Regular,,0,0,0,,…they sentenced me to become\Nthe gatekeeper of the Spring.
+Dialogue: 0,0:02:11.23,0:02:13.52,Regular,,0,0,0,,Because you wouldn’t choose?
 Dialogue: 0,0:02:13.52,0:02:17.80,Regular,,0,0,0,,So that no future maiden\Nwould make the same mistake.
-Dialogue: 0,0:02:17.80,0:02:19.45,Regular,,0,0,0,,To stand here for all time...
+Dialogue: 0,0:02:17.80,0:02:19.45,Regular,,0,0,0,,To stand here for all time…
 Dialogue: 0,0:02:20.26,0:02:23.95,Regular,,0,0,0,,That is my penance for\Nrunning away from reality.
 Dialogue: 0,0:02:39.47,0:02:45.47,Titles,,85,0,0,,{\blur0.6}Choices
 Dialogue: 0,0:02:46.71,0:02:50.48,Regular,,0,0,0,,Chor Tempest is to be\Nofficially disbanded.
@@ -58,266 +58,266 @@ Dialogue: 0,0:02:56.40,0:02:58.49,Regular,,0,0,0,,Why are we also being stripped
 Dialogue: 0,0:02:58.49,0:03:02.99,Regular,,0,0,0,,You will be ceding your duties\Nto the Plumbum priestesses.
 Dialogue: 0,0:03:02.99,0:03:04.28,Regular,,0,0,0,,No way!
 Dialogue: 0,0:03:04.28,0:03:05.49,Regular,,0,0,0,,Father!
-Dialogue: 0,0:03:07.29,0:03:11.68,Regular,,0,0,0,,They won't even let us be Simoun\Nsibyllae anymore? Then that means...
-Dialogue: 0,0:03:11.68,0:03:14.71,Regular,,0,0,0,,We'll have to leave the Arcus Prima!
-Dialogue: 0,0:03:14.71,0:03:16.30,Regular,,0,0,0,,Is that what you're saying?
-Dialogue: 0,0:03:18.30,0:03:20.93,Regular,,0,0,0,,Well, forcing them to make a\Ndecision like that so suddenly...
+Dialogue: 0,0:03:07.29,0:03:11.68,Regular,,0,0,0,,They won’t even let us be Simoun\Nsibyllae anymore? Then that means…
+Dialogue: 0,0:03:11.68,0:03:14.71,Regular,,0,0,0,,We’ll have to leave the Arcus Prima!
+Dialogue: 0,0:03:14.71,0:03:16.30,Regular,,0,0,0,,Is that what you’re saying?
+Dialogue: 0,0:03:18.30,0:03:20.93,Regular,,0,0,0,,Well, forcing them to make a\Ndecision like that so suddenly…
 Dialogue: 0,0:03:20.93,0:03:23.13,Regular,,0,0,0,,We can hardly expect them to\Nchoose on such short notice!
 Dialogue: 0,0:03:23.13,0:03:24.72,Regular,,0,0,0,,They need time to prepare.
 Dialogue: 0,0:03:24.72,0:03:26.13,Regular,,0,0,0,,We are out of time.
-Dialogue: 0,0:03:26.13,0:03:27.60,Regular,,0,0,0,,All we're asking for is a short period.
-Dialogue: 0,0:03:28.20,0:03:32.27,Regular,,0,0,0,,Compared to the long history\Nof Simulacrum Kyuukoku...
-Dialogue: 0,0:03:32.27,0:03:34.10,Regular,,0,0,0,,...it would only be a fleeting moment.
-Dialogue: 0,0:03:40.95,0:03:42.61,Regular,,0,0,0,,Sibylla Morinas...
-Dialogue: 0,0:03:42.61,0:03:45.32,Regular,,0,0,0,,You heard what's happening to us, right?
+Dialogue: 0,0:03:26.13,0:03:27.60,Regular,,0,0,0,,All we’re asking for is a short period.
+Dialogue: 0,0:03:28.20,0:03:32.27,Regular,,0,0,0,,Compared to the long history\Nof Simulacrum Kyuukoku…
+Dialogue: 0,0:03:32.27,0:03:34.10,Regular,,0,0,0,,…it would only be a fleeting moment.
+Dialogue: 0,0:03:40.95,0:03:42.61,Regular,,0,0,0,,Sibylla Morinas…
+Dialogue: 0,0:03:42.61,0:03:45.32,Regular,,0,0,0,,You heard what’s happening to us, right?
 Dialogue: 0,0:03:45.32,0:03:46.45,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:03:47.37,0:03:48.45,Regular,,0,0,0,,Are you happy now?
-Dialogue: 0,0:03:50.74,0:03:52.41,Regular,,0,0,0,,Actually...
-Dialogue: 0,0:03:52.41,0:03:55.46,Regular,,0,0,0,,I'm going to be leaving\Nthe Arcus Prima as well.
-Dialogue: 0,0:03:56.96,0:04:00.76,Regular,,0,0,0,,Kyuukoku won't be flying\Nthe Simouns any longer.
+Dialogue: 0,0:03:50.74,0:03:52.41,Regular,,0,0,0,,Actually…
+Dialogue: 0,0:03:52.41,0:03:55.46,Regular,,0,0,0,,I’m going to be leaving\Nthe Arcus Prima as well.
+Dialogue: 0,0:03:56.96,0:04:00.76,Regular,,0,0,0,,Kyuukoku won’t be flying\Nthe Simouns any longer.
 Dialogue: 0,0:04:00.76,0:04:04.72,Regular,,0,0,0,,And to prove it, the entire maintenance\Ncrew is being moved to the highlands.
 Dialogue: 0,0:04:04.72,0:04:06.30,Regular,,0,0,0,,What?
-Dialogue: 0,0:04:06.30,0:04:08.72,Regular,,0,0,0,,It's all the same to us\Nno matter where we end up.
+Dialogue: 0,0:04:06.30,0:04:08.72,Regular,,0,0,0,,It’s all the same to us\Nno matter where we end up.
 Dialogue: 0,0:04:08.72,0:04:12.98,Regular,,0,0,0,,The Simouns are the\Ndivine vessels of the gods.
-Dialogue: 0,0:04:12.98,0:04:14.06,Regular,,0,0,0,,And yet...
-Dialogue: 0,0:04:14.83,0:04:17.36,Regular,,0,0,0,,No matter how close I try to get...
-Dialogue: 0,0:04:17.36,0:04:21.15,Regular,,0,0,0,,No, the truth is that I've\Ndiscovered something about myself.
+Dialogue: 0,0:04:12.98,0:04:14.06,Regular,,0,0,0,,And yet…
+Dialogue: 0,0:04:14.83,0:04:17.36,Regular,,0,0,0,,No matter how close I try to get…
+Dialogue: 0,0:04:17.36,0:04:21.15,Regular,,0,0,0,,No, the truth is that I’ve\Ndiscovered something about myself.
 Dialogue: 0,0:04:21.15,0:04:23.74,Regular,,0,0,0,,I no longer care about the Simouns!
-Dialogue: 0,0:04:23.74,0:04:27.74,Regular,,0,0,0,,As long as I know you're safe,\Nthat's enough to make me happy.
+Dialogue: 0,0:04:23.74,0:04:27.74,Regular,,0,0,0,,As long as I know you’re safe,\Nthat’s enough to make me happy.
 Dialogue: 0,0:04:32.96,0:04:34.83,Regular,,0,0,0,,Go ahead and despise me now.
-Dialogue: 0,0:04:38.50,0:04:40.80,Regular,,0,0,0,,They're getting smaller, aren't they?
-Dialogue: 0,0:04:45.80,0:04:51.06,Regular,,0,0,0,,I wanted to become a man and putter\Naround with you and the Simouns, but...
+Dialogue: 0,0:04:38.50,0:04:40.80,Regular,,0,0,0,,They’re getting smaller, aren’t they?
+Dialogue: 0,0:04:45.80,0:04:51.06,Regular,,0,0,0,,I wanted to become a man and putter\Naround with you and the Simouns, but…
 Dialogue: 0,0:05:11.92,0:05:15.25,Regular,,0,0,0,,Which are you going to choose?
-Dialogue: 0,0:05:15.89,0:05:19.28,Regular,,0,0,0,,I guess you've always\Nwanted to become a man, huh?
-Dialogue: 0,0:05:19.28,0:05:22.46,Regular,,0,0,0,,You probably couldn't care less that\Nwe're being forced to go to the Spring.
-Dialogue: 0,0:05:24.67,0:05:26.47,Regular,,0,0,0,,That's right. You've always...
-Dialogue: 0,0:05:26.47,0:05:27.97,Regular,,0,0,0,,That's so not true!
-Dialogue: 0,0:05:28.97,0:05:30.97,Regular,,0,0,0,,I'm scared too!
+Dialogue: 0,0:05:15.89,0:05:19.28,Regular,,0,0,0,,I guess you’ve always\Nwanted to become a man, huh?
+Dialogue: 0,0:05:19.28,0:05:22.46,Regular,,0,0,0,,You probably couldn’t care less that\Nwe’re being forced to go to the Spring.
+Dialogue: 0,0:05:24.67,0:05:26.47,Regular,,0,0,0,,That’s right. You’ve always…
+Dialogue: 0,0:05:26.47,0:05:27.97,Regular,,0,0,0,,That’s so not true!
+Dialogue: 0,0:05:28.97,0:05:30.97,Regular,,0,0,0,,I’m scared too!
 Dialogue: 0,0:05:30.97,0:05:33.18,Regular,,0,0,0,,It scares me that we\Nhave to grow up now!
-Dialogue: 0,0:05:34.01,0:05:36.06,Regular,,0,0,0,,I want to lean on someone else...
-Dialogue: 0,0:05:36.06,0:05:38.48,Regular,,0,0,0,,I want someone to protect me! But...
-Dialogue: 0,0:05:39.44,0:05:40.48,Regular,,0,0,0,,Alty...
+Dialogue: 0,0:05:34.01,0:05:36.06,Regular,,0,0,0,,I want to lean on someone else…
+Dialogue: 0,0:05:36.06,0:05:38.48,Regular,,0,0,0,,I want someone to protect me! But…
+Dialogue: 0,0:05:39.44,0:05:40.48,Regular,,0,0,0,,Alty…
 Dialogue: 0,0:05:40.48,0:05:42.27,Regular,,0,0,0,,Oh, shut up, you dummy!
 Dialogue: 0,0:05:43.03,0:05:44.23,Regular,,0,0,0,,What a dummy you are, Big Sister!
 Dialogue: 0,0:05:45.29,0:05:46.53,Regular,,0,0,0,,Dummy!
-Dialogue: 0,0:05:47.74,0:05:52.24,Regular,,0,0,0,,Dummy... dummy... dummy... dummy!
+Dialogue: 0,0:05:47.74,0:05:52.24,Regular,,0,0,0,,Dummy… dummy… dummy… dummy!
 Dialogue: 0,0:05:55.25,0:05:59.29,Regular,,0,0,0,,Picking a fight with your sister?\NI mean, how immature is that?
-Dialogue: 0,0:06:02.59,0:06:06.34,Regular,,0,0,0,,You're still just kids. You're\Nboth too young to become adults.
+Dialogue: 0,0:06:02.59,0:06:06.34,Regular,,0,0,0,,You’re still just kids. You’re\Nboth too young to become adults.
 Dialogue: 0,0:06:07.48,0:06:12.10,Regular,,0,0,0,,Hey, Vura, all the Chor Rubor girls\Nalready picked their genders, right?
 Dialogue: 0,0:06:12.68,0:06:15.63,Regular,,0,0,0,,The ones who had a family\Nbusiness to take over became male.
 Dialogue: 0,0:06:15.63,0:06:17.47,Regular,,0,0,0,,The others, well, it was pretty random.
 Dialogue: 0,0:06:17.47,0:06:18.39,Regular,,0,0,0,,Oh?
 Dialogue: 0,0:06:18.39,0:06:19.44,Regular,,0,0,0,,What about you, Floe?
-Dialogue: 0,0:06:20.29,0:06:24.31,Regular,,0,0,0,,Me? Whatever. I don't really\Ncare which I end up being!
-Dialogue: 0,0:06:24.31,0:06:27.19,Regular,,0,0,0,,Of course, if I were in love, I would\Nbe telling a different story, but...
-Dialogue: 0,0:06:27.19,0:06:31.20,Regular,,0,0,0,,Really? But everyone says that\Nyou've got a thing for Aer.
-Dialogue: 0,0:06:31.20,0:06:33.72,Regular,,0,0,0,,Right, and I've told them over\Nand over that it's not true!
-Dialogue: 0,0:06:33.72,0:06:36.54,Regular,,0,0,0,,Oh, for heaven's sake.\NWhat does it matter, anyway?
-Dialogue: 0,0:06:37.24,0:06:38.91,Regular,,0,0,0,,But I don't know...
+Dialogue: 0,0:06:20.29,0:06:24.31,Regular,,0,0,0,,Me? Whatever. I don’t really\Ncare which I end up being!
+Dialogue: 0,0:06:24.31,0:06:27.19,Regular,,0,0,0,,Of course, if I were in love, I would\Nbe telling a different story, but…
+Dialogue: 0,0:06:27.19,0:06:31.20,Regular,,0,0,0,,Really? But everyone says that\Nyou’ve got a thing for Aer.
+Dialogue: 0,0:06:31.20,0:06:33.72,Regular,,0,0,0,,Right, and I’ve told them over\Nand over that it’s not true!
+Dialogue: 0,0:06:33.72,0:06:36.54,Regular,,0,0,0,,Oh, for heaven’s sake.\NWhat does it matter, anyway?
+Dialogue: 0,0:06:37.24,0:06:38.91,Regular,,0,0,0,,But I don’t know…
 Dialogue: 0,0:06:39.78,0:06:41.96,Regular,,0,0,0,,For some reason I feel so lonely.
-Dialogue: 0,0:06:43.45,0:06:45.96,Regular,,0,0,0,,That's what growing up is all about.
-Dialogue: 0,0:06:49.92,0:06:53.97,Regular,,0,0,0,,So if you feel lonely,\Nit means you've grown up?
+Dialogue: 0,0:06:43.45,0:06:45.96,Regular,,0,0,0,,That’s what growing up is all about.
+Dialogue: 0,0:06:49.92,0:06:53.97,Regular,,0,0,0,,So if you feel lonely,\Nit means you’ve grown up?
 Dialogue: 0,0:06:58.20,0:06:59.98,Regular,,0,0,0,,I just remembered something.
 Dialogue: 0,0:07:00.80,0:07:02.44,Regular,,0,0,0,,Alty was such a moron!
-Dialogue: 0,0:07:06.04,0:07:08.79,Regular,,0,0,0,,Darn it, didn't I tell\Nyou not to tag along?
-Dialogue: 0,0:07:08.79,0:07:11.07,Regular,,0,0,0,,You're always slowing me down, Alty!
-Dialogue: 0,0:07:11.74,0:07:13.07,Regular,,0,0,0,,And you're such a dummy, Big Sister!
+Dialogue: 0,0:07:06.04,0:07:08.79,Regular,,0,0,0,,Darn it, didn’t I tell\Nyou not to tag along?
+Dialogue: 0,0:07:08.79,0:07:11.07,Regular,,0,0,0,,You’re always slowing me down, Alty!
+Dialogue: 0,0:07:11.74,0:07:13.07,Regular,,0,0,0,,And you’re such a dummy, Big Sister!
 Dialogue: 0,0:07:13.07,0:07:16.29,Regular,,0,0,0,,Who are you calling a dummy?\NYou clumsy slowpoke!
 Dialogue: 0,0:07:16.29,0:07:17.79,Regular,,0,0,0,,Dummy!
 Dialogue: 0,0:07:17.79,0:07:20.54,Regular,,0,0,0,,Whatever! You can find your\Nown way back then, you wimp!
 Dialogue: 0,0:07:23.09,0:07:24.75,Regular,,0,0,0,,Dummy!
 Dialogue: 0,0:07:27.53,0:07:29.26,Regular,,0,0,0,,Dummy!
-Dialogue: 0,0:07:29.89,0:07:32.51,Regular,,0,0,0,,You're such a dummy, Big Sister!
-Dialogue: 0,0:07:37.90,0:07:39.42,Regular,,0,0,0,,Even if we were in the\Nmiddle of a fight...
-Dialogue: 0,0:07:39.42,0:07:42.94,Regular,,0,0,0,,...she could never come up\Nwith any names to call me.
-Dialogue: 0,0:07:44.94,0:07:47.04,Regular,,0,0,0,,She could never say\Nanything except, "Dummy!"
+Dialogue: 0,0:07:29.89,0:07:32.51,Regular,,0,0,0,,You’re such a dummy, Big Sister!
+Dialogue: 0,0:07:37.90,0:07:39.42,Regular,,0,0,0,,Even if we were in the\Nmiddle of a fight…
+Dialogue: 0,0:07:39.42,0:07:42.94,Regular,,0,0,0,,…she could never come up\Nwith any names to call me.
+Dialogue: 0,0:07:44.94,0:07:47.04,Regular,,0,0,0,,She could never say\Nanything except, “Dummy!”
 Dialogue: 0,0:07:48.40,0:07:51.90,Regular,,0,0,0,,And the thing is she never learned.\NShe just kept following me.
-Dialogue: 0,0:07:52.55,0:07:55.41,Regular,,0,0,0,,I mean, really... What a\Nlittle moron of a sister I have!
-Dialogue: 0,0:07:56.59,0:08:00.08,Regular,,0,0,0,,I wonder when it was\Nthat Alty stopped being...
-Dialogue: 0,0:08:00.89,0:08:02.92,Regular,,0,0,0,,...such a little wimp.
-Dialogue: 0,0:08:02.92,0:08:06.08,Regular,,0,0,0,,I'm going to protect you, Big Sister.
+Dialogue: 0,0:07:52.55,0:07:55.41,Regular,,0,0,0,,I mean, really… What a\Nlittle moron of a sister I have!
+Dialogue: 0,0:07:56.59,0:08:00.08,Regular,,0,0,0,,I wonder when it was\Nthat Alty stopped being…
+Dialogue: 0,0:08:00.89,0:08:02.92,Regular,,0,0,0,,…such a little wimp.
+Dialogue: 0,0:08:02.92,0:08:06.08,Regular,,0,0,0,,I’m going to protect you, Big Sister.
 Dialogue: 0,0:08:06.08,0:08:10.42,Regular,,0,0,0,,She got such an assertive look\Nin her eyes, and she grew so tall.
 Dialogue: 0,0:08:10.42,0:08:14.97,Regular,,0,0,0,,It was like she suddenly became\Nmore of a grownup than me.
-Dialogue: 0,0:08:16.27,0:08:19.52,Regular,,0,0,0,,But because so much was\Ngoing on, I didn't even notice.
+Dialogue: 0,0:08:16.27,0:08:19.52,Regular,,0,0,0,,But because so much was\Ngoing on, I didn’t even notice.
 Dialogue: 0,0:08:19.52,0:08:22.94,Regular,,0,0,0,,To me, Alty was still\Nthe same little wimp.
-Dialogue: 0,0:08:23.88,0:08:27.73,Regular,,0,0,0,,And I've always averted my gaze from\Nher. I just didn't want to believe it.
-Dialogue: 0,0:08:27.73,0:08:30.52,Regular,,0,0,0,,Even so... I...
-Dialogue: 0,0:08:30.52,0:08:31.94,Regular,,0,0,0,,You'll be forgiven.
-Dialogue: 0,0:08:31.94,0:08:35.45,Regular,,0,0,0,,Even if you're no longer a sibylla, that\Ndoesn't mean you can't do certain things.
-Dialogue: 0,0:08:35.45,0:08:36.95,Regular,,0,0,0,,Like forgiving one another...
-Dialogue: 0,0:08:38.20,0:08:39.95,Regular,,0,0,0,,To forgive someone for wronging you...
-Dialogue: 0,0:08:40.66,0:08:42.45,Regular,,0,0,0,,...and to be forgiven in return.
-Dialogue: 0,0:08:42.45,0:08:44.96,Regular,,0,0,0,,If we can manage to do that much...
-Dialogue: 0,0:08:44.96,0:08:49.96,Regular,,0,0,0,,...I think we can still call ourselves\Nsibyllae even after we choose our gender.
-Dialogue: 0,0:08:52.34,0:08:53.38,Regular,,0,0,0,,Listen...
+Dialogue: 0,0:08:23.88,0:08:27.73,Regular,,0,0,0,,And I’ve always averted my gaze from\Nher. I just didn’t want to believe it.
+Dialogue: 0,0:08:27.73,0:08:30.52,Regular,,0,0,0,,Even so… I…
+Dialogue: 0,0:08:30.52,0:08:31.94,Regular,,0,0,0,,You’ll be forgiven.
+Dialogue: 0,0:08:31.94,0:08:35.45,Regular,,0,0,0,,Even if you’re no longer a sibylla, that\Ndoesn’t mean you can’t do certain things.
+Dialogue: 0,0:08:35.45,0:08:36.95,Regular,,0,0,0,,Like forgiving one another…
+Dialogue: 0,0:08:38.20,0:08:39.95,Regular,,0,0,0,,To forgive someone for wronging you…
+Dialogue: 0,0:08:40.66,0:08:42.45,Regular,,0,0,0,,…and to be forgiven in return.
+Dialogue: 0,0:08:42.45,0:08:44.96,Regular,,0,0,0,,If we can manage to do that much…
+Dialogue: 0,0:08:44.96,0:08:49.96,Regular,,0,0,0,,…I think we can still call ourselves\Nsibyllae even after we choose our gender.
+Dialogue: 0,0:08:52.34,0:08:53.38,Regular,,0,0,0,,Listen…
 Dialogue: 0,0:08:53.98,0:08:56.26,Regular,,0,0,0,,I really do like you, Para-sama.
-Dialogue: 0,0:08:57.01,0:08:59.97,Regular,,0,0,0,,My feelings for you won't change\Nwhether I become a man or a woman.
-Dialogue: 0,0:08:59.97,0:09:01.97,Regular,,0,0,0,,I don't think I'll ever\Nstop looking up to you!
+Dialogue: 0,0:08:57.01,0:08:59.97,Regular,,0,0,0,,My feelings for you won’t change\Nwhether I become a man or a woman.
+Dialogue: 0,0:08:59.97,0:09:01.97,Regular,,0,0,0,,I don’t think I’ll ever\Nstop looking up to you!
 Dialogue: 0,0:09:06.19,0:09:07.69,Regular,,0,0,0,,Thank you.
 Dialogue: 0,0:09:13.74,0:09:17.49,Regular,,0,0,0,,They say that the high priestess\Nhas been driven from the Arcus Prima.
-Dialogue: 0,0:09:18.87,0:09:22.25,Regular,,0,0,0,,Aer, we don't have much time. You...
+Dialogue: 0,0:09:18.87,0:09:22.25,Regular,,0,0,0,,Aer, we don’t have much time. You…
 Dialogue: 0,0:09:22.25,0:09:24.45,Regular,,0,0,0,,What do you want me to say?
-Dialogue: 0,0:09:24.45,0:09:27.56,Regular,,0,0,0,,Never mind, don't answer\Nthat. I already know.
-Dialogue: 0,0:09:27.56,0:09:28.63,Regular,,0,0,0,,But...
-Dialogue: 0,0:09:29.33,0:09:30.50,Regular,,0,0,0,,I'm never gonna do it!
+Dialogue: 0,0:09:24.45,0:09:27.56,Regular,,0,0,0,,Never mind, don’t answer\Nthat. I already know.
+Dialogue: 0,0:09:27.56,0:09:28.63,Regular,,0,0,0,,But…
+Dialogue: 0,0:09:29.33,0:09:30.50,Regular,,0,0,0,,I’m never gonna do it!
 Dialogue: 0,0:09:31.17,0:09:32.21,Regular,,0,0,0,,Aer?
-Dialogue: 0,0:09:32.21,0:09:36.47,Regular,,0,0,0,,You just want to see Amuria again. That's\Nwhy you want to go to the other world!
-Dialogue: 0,0:09:36.47,0:09:40.22,Regular,,0,0,0,,I can't do a Ri Majon with you\Nif that's all you care about!
+Dialogue: 0,0:09:32.21,0:09:36.47,Regular,,0,0,0,,You just want to see Amuria again. That’s\Nwhy you want to go to the other world!
+Dialogue: 0,0:09:36.47,0:09:40.22,Regular,,0,0,0,,I can’t do a Ri Majon with you\Nif that’s all you care about!
 Dialogue: 0,0:09:44.23,0:09:47.56,Regular,,0,0,0,,Why did Onasia show that to me?
-Dialogue: 0,0:09:47.56,0:09:49.73,Regular,,0,0,0,,Never to feel another's embrace.
-Dialogue: 0,0:09:51.00,0:09:53.23,Regular,,0,0,0,,And still...
-Dialogue: 0,0:09:53.23,0:09:55.03,Regular,,0,0,0,,...I remain here.
-Dialogue: 0,0:09:55.74,0:10:00.32,Regular,,0,0,0,,Onasia... Is she doomed\Nto stand there forever?
+Dialogue: 0,0:09:47.56,0:09:49.73,Regular,,0,0,0,,Never to feel another’s embrace.
+Dialogue: 0,0:09:51.00,0:09:53.23,Regular,,0,0,0,,And still…
+Dialogue: 0,0:09:53.23,0:09:55.03,Regular,,0,0,0,,…I remain here.
+Dialogue: 0,0:09:55.74,0:10:00.32,Regular,,0,0,0,,Onasia… Is she doomed\Nto stand there forever?
 Dialogue: 0,0:10:01.05,0:10:03.29,Regular,,0,0,0,,Never to know forgiveness?
 Dialogue: 0,0:10:03.29,0:10:05.18,Regular,,0,0,0,,Never to be saved?
 Dialogue: 0,0:10:07.71,0:10:08.75,Regular,,0,0,0,,Yun?
-Dialogue: 0,0:10:10.12,0:10:13.80,Regular,,0,0,0,,I thought that I should take\Nsome of Mamina's things with me.
+Dialogue: 0,0:10:10.12,0:10:13.80,Regular,,0,0,0,,I thought that I should take\Nsome of Mamina’s things with me.
 Dialogue: 0,0:10:13.80,0:10:16.01,Regular,,0,0,0,,Oh. Her trunk is under her bed.
-Dialogue: 0,0:10:19.83,0:10:23.64,Regular,,0,0,0,,When I go home, I'll be\Nseeing Mamina's mother, so...
+Dialogue: 0,0:10:19.83,0:10:23.64,Regular,,0,0,0,,When I go home, I’ll be\Nseeing Mamina’s mother, so…
 Dialogue: 0,0:10:23.64,0:10:25.85,Regular,,0,0,0,,I thought I could give them to her then.
 Dialogue: 0,0:10:27.47,0:10:29.46,Regular,,0,0,0,,Still smells like Mamina!
-Dialogue: 0,0:10:30.31,0:10:32.28,Regular,,0,0,0,,It's not much...
-Dialogue: 0,0:10:32.94,0:10:35.36,Regular,,0,0,0,,...but I hope Mamina's mother\Nwill find comfort in this.
-Dialogue: 0,0:10:35.36,0:10:40.36,Regular,,0,0,0,,I wonder... Is it even possible\Nfor us to save anybody now?
-Dialogue: 0,0:10:44.62,0:10:47.27,Regular,,0,0,0,,I'm sure it will be very difficult.
+Dialogue: 0,0:10:30.31,0:10:32.28,Regular,,0,0,0,,It’s not much…
+Dialogue: 0,0:10:32.94,0:10:35.36,Regular,,0,0,0,,…but I hope Mamina’s mother\Nwill find comfort in this.
+Dialogue: 0,0:10:35.36,0:10:40.36,Regular,,0,0,0,,I wonder… Is it even possible\Nfor us to save anybody now?
+Dialogue: 0,0:10:44.62,0:10:47.27,Regular,,0,0,0,,I’m sure it will be very difficult.
 Dialogue: 0,0:10:47.27,0:10:50.12,Regular,,0,0,0,,We can barely take care\Nof ourselves as it is.
-Dialogue: 0,0:10:50.12,0:10:52.92,Regular,,0,0,0,,But if we try our utmost,\Nthen maybe we can save...
-Dialogue: 0,0:10:52.92,0:10:54.42,Regular,,0,0,0,,...at least one person in this world.
-Dialogue: 0,0:10:54.42,0:10:56.21,Regular,,0,0,0,,One person...
+Dialogue: 0,0:10:50.12,0:10:52.92,Regular,,0,0,0,,But if we try our utmost,\Nthen maybe we can save…
+Dialogue: 0,0:10:52.92,0:10:54.42,Regular,,0,0,0,,…at least one person in this world.
+Dialogue: 0,0:10:54.42,0:10:56.21,Regular,,0,0,0,,One person…
 Dialogue: 0,0:10:57.03,0:10:58.88,Regular,,0,0,0,,Yun, is there someone in your life?
 Dialogue: 0,0:11:00.07,0:11:01.89,Regular,,0,0,0,,That one person?
-Dialogue: 0,0:11:05.88,0:11:07.39,Regular,,0,0,0,,Yun's gone?
-Dialogue: 0,0:11:08.15,0:11:12.10,Regular,,0,0,0,,Yes. I hear the highland soldiers\Nare looking for her, but...
+Dialogue: 0,0:11:05.88,0:11:07.39,Regular,,0,0,0,,Yun’s gone?
+Dialogue: 0,0:11:08.15,0:11:12.10,Regular,,0,0,0,,Yes. I hear the highland soldiers\Nare looking for her, but…
 Dialogue: 0,0:11:12.10,0:11:14.40,Regular,,0,0,0,,Why, Yun?
-Dialogue: 0,0:11:14.95,0:11:17.73,Regular,,0,0,0,,Maybe she decided she\Ndidn't want to grow up.
+Dialogue: 0,0:11:14.95,0:11:17.73,Regular,,0,0,0,,Maybe she decided she\Ndidn’t want to grow up.
 Dialogue: 0,0:11:17.73,0:11:18.90,Regular,,0,0,0,,No, not Yun.
-Dialogue: 0,0:11:18.90,0:11:20.11,Regular,,0,0,0,,She...
-Dialogue: 0,0:11:20.69,0:11:22.91,Regular,,0,0,0,,She must have realized...
+Dialogue: 0,0:11:18.90,0:11:20.11,Regular,,0,0,0,,She…
+Dialogue: 0,0:11:20.69,0:11:22.91,Regular,,0,0,0,,She must have realized…
 Dialogue: 0,0:11:22.91,0:11:23.70,Regular,,0,0,0,,What?
 Dialogue: 0,0:11:23.70,0:11:24.66,Regular,,0,0,0,,Oh, nothing.
 Dialogue: 0,0:11:24.66,0:11:27.16,Regular,,0,0,0,,Oh, whatever! Being\Nsuch a stranger to us!
 Dialogue: 0,0:11:27.16,0:11:29.16,Regular,,0,0,0,,She just got up and left\Nwithout saying a word!
-Dialogue: 0,0:11:29.16,0:11:30.68,Regular,,0,0,0,,I know...
-Dialogue: 0,0:11:30.68,0:11:34.17,Regular,,0,0,0,,...but once Chor Tempest is disbanded,\Nwe'll all be going our separate ways.
+Dialogue: 0,0:11:29.16,0:11:30.68,Regular,,0,0,0,,I know…
+Dialogue: 0,0:11:30.68,0:11:34.17,Regular,,0,0,0,,…but once Chor Tempest is disbanded,\Nwe’ll all be going our separate ways.
 Dialogue: 0,0:11:39.54,0:11:42.18,Regular,,0,0,0,,I have something to tell you all.
-Dialogue: 0,0:11:44.32,0:11:46.30,Regular,,0,0,0,,About another world...
+Dialogue: 0,0:11:44.32,0:11:46.30,Regular,,0,0,0,,About another world…
 Dialogue: 0,0:12:07.37,0:12:11.60,Regular,,0,0,0,,No way! Who knew the Emerald Ri\NMajon could do something like that!
-Dialogue: 0,0:12:12.48,0:12:15.96,Regular,,0,0,0,,Right, but that's precisely\Nwhat's going to save us.
+Dialogue: 0,0:12:12.48,0:12:15.96,Regular,,0,0,0,,Right, but that’s precisely\Nwhat’s going to save us.
 Dialogue: 0,0:12:19.50,0:12:21.97,Regular,,0,0,0,,Each of us is going to\Nchoose a gender soon.
 Dialogue: 0,0:12:22.89,0:12:25.72,Regular,,0,0,0,,And our days on the Arcus\NPrima will come to an end.
-Dialogue: 0,0:12:26.47,0:12:30.56,Regular,,0,0,0,,But those two won't be choosing a\Ngender and will stay the way they are...
-Dialogue: 0,0:12:31.46,0:12:33.23,Regular,,0,0,0,,Not choose a gender...
-Dialogue: 0,0:12:33.23,0:12:35.27,Regular,,0,0,0,,...and stay the way they are?
-Dialogue: 0,0:12:36.27,0:12:38.78,Regular,,0,0,0,,When the rest of us are all grown up...
-Dialogue: 0,0:12:38.78,0:12:42.78,Regular,,0,0,0,,...and the emotions we carry\Ninside us now have faded...
-Dialogue: 0,0:12:42.78,0:12:46.24,Regular,,0,0,0,,Those two will be\Nalive in another era...
-Dialogue: 0,0:12:46.24,0:12:50.99,Regular,,0,0,0,,...somewhere in a sparkling world,\Nlooking just as they do now.
+Dialogue: 0,0:12:26.47,0:12:30.56,Regular,,0,0,0,,But those two won’t be choosing a\Ngender and will stay the way they are…
+Dialogue: 0,0:12:31.46,0:12:33.23,Regular,,0,0,0,,Not choose a gender…
+Dialogue: 0,0:12:33.23,0:12:35.27,Regular,,0,0,0,,…and stay the way they are?
+Dialogue: 0,0:12:36.27,0:12:38.78,Regular,,0,0,0,,When the rest of us are all grown up…
+Dialogue: 0,0:12:38.78,0:12:42.78,Regular,,0,0,0,,…and the emotions we carry\Ninside us now have faded…
+Dialogue: 0,0:12:42.78,0:12:46.24,Regular,,0,0,0,,Those two will be\Nalive in another era…
+Dialogue: 0,0:12:46.24,0:12:50.99,Regular,,0,0,0,,…somewhere in a sparkling world,\Nlooking just as they do now.
 Dialogue: 0,0:12:53.50,0:12:54.75,Regular,,0,0,0,,I need to talk to you.
-Dialogue: 0,0:12:56.25,0:12:58.76,Regular,,0,0,0,,I get it. So those two will always...
+Dialogue: 0,0:12:56.25,0:12:58.76,Regular,,0,0,0,,I get it. So those two will always…
 Dialogue: 0,0:12:58.76,0:12:59.77,Regular,,0,0,0,,Right.
-Dialogue: 0,0:12:59.77,0:13:02.07,Regular,,0,0,0,,Even after we've all become adults...
-Dialogue: 0,0:13:02.07,0:13:05.26,Regular,,0,0,0,,...they'll stay the same\Nfor us for all time, right?
-Dialogue: 0,0:13:05.90,0:13:08.26,Regular,,0,0,0,,The "eternal present"...
-Dialogue: 0,0:13:09.73,0:13:14.52,Regular,,0,0,0,,You don't have to go to the other\Nworld with me if you don't want to.
+Dialogue: 0,0:12:59.77,0:13:02.07,Regular,,0,0,0,,Even after we’ve all become adults…
+Dialogue: 0,0:13:02.07,0:13:05.26,Regular,,0,0,0,,…they’ll stay the same\Nfor us for all time, right?
+Dialogue: 0,0:13:05.90,0:13:08.26,Regular,,0,0,0,,The “eternal present”…
+Dialogue: 0,0:13:09.73,0:13:14.52,Regular,,0,0,0,,You don’t have to go to the other\Nworld with me if you don’t want to.
 Dialogue: 0,0:13:14.52,0:13:17.27,Regular,,0,0,0,,But whatever it is we decide,\Nwe really should tell the others.
-Dialogue: 0,0:13:18.23,0:13:19.94,Regular,,0,0,0,,That we're not going to the Spring...
-Dialogue: 0,0:13:19.94,0:13:22.15,Regular,,0,0,0,,I don't need you to tell me that!
+Dialogue: 0,0:13:18.23,0:13:19.94,Regular,,0,0,0,,That we’re not going to the Spring…
+Dialogue: 0,0:13:19.94,0:13:22.15,Regular,,0,0,0,,I don’t need you to tell me that!
 Dialogue: 0,0:13:25.98,0:13:28.74,Regular,,0,0,0,,I do want to know what\Nhappened to Amuria.
 Dialogue: 0,0:13:29.55,0:13:30.62,Regular,,0,0,0,,I do want to see her again.
-Dialogue: 0,0:13:31.36,0:13:32.95,Regular,,0,0,0,,I can't lie to you about that.
-Dialogue: 0,0:13:33.66,0:13:34.66,Regular,,0,0,0,,But...
-Dialogue: 0,0:13:39.93,0:13:41.84,Regular,,0,0,0,,The one I'm in love with...
-Dialogue: 0,0:13:43.09,0:13:44.13,Regular,,0,0,0,,...is you.
-Dialogue: 0,0:13:47.00,0:13:51.14,Regular,,0,0,0,,The one who lives facing life, rather\Nthan death... It's you whom I love.
-Dialogue: 0,0:13:51.74,0:13:56.14,Regular,,0,0,0,,The one who rescued me from the\Ndarkness... It's you whom I love.
+Dialogue: 0,0:13:31.36,0:13:32.95,Regular,,0,0,0,,I can’t lie to you about that.
+Dialogue: 0,0:13:33.66,0:13:34.66,Regular,,0,0,0,,But…
+Dialogue: 0,0:13:39.93,0:13:41.84,Regular,,0,0,0,,The one I’m in love with…
+Dialogue: 0,0:13:43.09,0:13:44.13,Regular,,0,0,0,,…is you.
+Dialogue: 0,0:13:47.00,0:13:51.14,Regular,,0,0,0,,The one who lives facing life, rather\Nthan death… It’s you whom I love.
+Dialogue: 0,0:13:51.74,0:13:56.14,Regular,,0,0,0,,The one who rescued me from the\Ndarkness… It’s you whom I love.
 Dialogue: 0,0:13:56.75,0:13:59.60,Regular,,0,0,0,,The thought of going to that\Nother world frightens me.
-Dialogue: 0,0:13:59.60,0:14:02.02,Regular,,0,0,0,,But if you and I are\Ntogether, then I'm sure...
+Dialogue: 0,0:13:59.60,0:14:02.02,Regular,,0,0,0,,But if you and I are\Ntogether, then I’m sure…
 Dialogue: 0,0:14:02.02,0:14:03.36,Regular,,0,0,0,,Hold on.
-Dialogue: 0,0:14:04.15,0:14:09.50,Regular,,0,0,0,,It's not that I wanted you to tell\Nme all about your feelings for me!
-Dialogue: 0,0:14:09.50,0:14:11.08,Regular,,0,0,0,,You don't need to give me an answer.
+Dialogue: 0,0:14:04.15,0:14:09.50,Regular,,0,0,0,,It’s not that I wanted you to tell\Nme all about your feelings for me!
+Dialogue: 0,0:14:09.50,0:14:11.08,Regular,,0,0,0,,You don’t need to give me an answer.
 Dialogue: 0,0:14:12.70,0:14:15.20,Regular,,0,0,0,,I just thought that\NI should let you know.
-Dialogue: 0,0:14:15.20,0:14:16.54,Regular,,0,0,0,,No...
-Dialogue: 0,0:14:16.54,0:14:18.75,Regular,,0,0,0,,I wanted to let you know. That's all.
+Dialogue: 0,0:14:15.20,0:14:16.54,Regular,,0,0,0,,No…
+Dialogue: 0,0:14:16.54,0:14:18.75,Regular,,0,0,0,,I wanted to let you know. That’s all.
 Dialogue: 0,0:14:19.84,0:14:21.50,Regular,,0,0,0,,Nothing more.
 Dialogue: 0,0:14:35.09,0:14:37.38,Regular,,0,0,0,,How am I supposed to take\Nthat in all of a sudden?
-Dialogue: 0,0:14:39.29,0:14:40.69,Regular,,0,0,0,,I don't understand!
-Dialogue: 0,0:14:42.49,0:14:45.36,Regular,,0,0,0,,The one I'm in love with... is you.
-Dialogue: 0,0:14:53.07,0:14:54.33,Regular,,0,0,0,,Why is it...
-Dialogue: 0,0:14:55.71,0:14:57.07,Regular,,0,0,0,,...so painful?
-Dialogue: 0,0:15:32.41,0:15:37.08,Regular,,0,0,0,,To save the drifting spirits\Nof my fallen comrades...
-Dialogue: 0,0:15:38.62,0:15:40.96,Regular,,0,0,0,,That's the one thing I've\Nalways had on my mind.
+Dialogue: 0,0:14:39.29,0:14:40.69,Regular,,0,0,0,,I don’t understand!
+Dialogue: 0,0:14:42.49,0:14:45.36,Regular,,0,0,0,,The one I’m in love with… is you.
+Dialogue: 0,0:14:53.07,0:14:54.33,Regular,,0,0,0,,Why is it…
+Dialogue: 0,0:14:55.71,0:14:57.07,Regular,,0,0,0,,…so painful?
+Dialogue: 0,0:15:32.41,0:15:37.08,Regular,,0,0,0,,To save the drifting spirits\Nof my fallen comrades…
+Dialogue: 0,0:15:38.62,0:15:40.96,Regular,,0,0,0,,That’s the one thing I’ve\Nalways had on my mind.
 Dialogue: 0,0:15:41.62,0:15:43.79,Regular,,0,0,0,,But deep down, I always knew the truth.
-Dialogue: 0,0:15:43.79,0:15:46.84,Regular,,0,0,0,,That it's not possible\Nto save the dead...
-Dialogue: 0,0:15:48.59,0:15:49.63,Regular,,0,0,0,,But still...
-Dialogue: 0,0:15:49.63,0:15:51.17,Regular,,0,0,0,,There's one who even I...
-Dialogue: 0,0:15:51.17,0:15:52.09,Regular,,0,0,0,,No...
-Dialogue: 0,0:15:52.91,0:15:57.60,Regular,,0,0,0,,What I realized was that there's one\Nperson who can only be saved by me.
-Dialogue: 0,0:16:04.74,0:16:07.54,Regular,,0,0,0,,For some reason, I'd hoped...
-Dialogue: 0,0:16:08.71,0:16:11.44,Regular,,0,0,0,,...to hear those very words from you.
+Dialogue: 0,0:15:43.79,0:15:46.84,Regular,,0,0,0,,That it’s not possible\Nto save the dead…
+Dialogue: 0,0:15:48.59,0:15:49.63,Regular,,0,0,0,,But still…
+Dialogue: 0,0:15:49.63,0:15:51.17,Regular,,0,0,0,,There’s one who even I…
+Dialogue: 0,0:15:51.17,0:15:52.09,Regular,,0,0,0,,No…
+Dialogue: 0,0:15:52.91,0:15:57.60,Regular,,0,0,0,,What I realized was that there’s one\Nperson who can only be saved by me.
+Dialogue: 0,0:16:04.74,0:16:07.54,Regular,,0,0,0,,For some reason, I’d hoped…
+Dialogue: 0,0:16:08.71,0:16:11.44,Regular,,0,0,0,,…to hear those very words from you.
 Dialogue: 0,0:16:13.88,0:16:16.70,Regular,,0,0,0,,I never chose a gender for myself.
-Dialogue: 0,0:16:17.41,0:16:18.45,Regular,,0,0,0,,But...
-Dialogue: 0,0:16:18.45,0:16:21.75,Regular,,0,0,0,,I was not able to hold\Non to my maiden's soul.
+Dialogue: 0,0:16:17.41,0:16:18.45,Regular,,0,0,0,,But…
+Dialogue: 0,0:16:18.45,0:16:21.75,Regular,,0,0,0,,I was not able to hold\Non to my maiden’s soul.
 Dialogue: 0,0:16:23.19,0:16:26.54,Regular,,0,0,0,,And now, once again,\NI am trying to escape.
-Dialogue: 0,0:16:26.54,0:16:28.96,Regular,,0,0,0,,This time burdening you with\Nall my responsibilities...
+Dialogue: 0,0:16:26.54,0:16:28.96,Regular,,0,0,0,,This time burdening you with\Nall my responsibilities…
 Dialogue: 0,0:16:30.83,0:16:31.92,Regular,,0,0,0,,No.
-Dialogue: 0,0:16:34.51,0:16:36.60,Regular,,0,0,0,,You're beautiful.
-Dialogue: 0,0:17:06.75,0:17:09.07,Regular,,0,0,0,,You're beautiful...
+Dialogue: 0,0:16:34.51,0:16:36.60,Regular,,0,0,0,,You’re beautiful.
+Dialogue: 0,0:17:06.75,0:17:09.07,Regular,,0,0,0,,You’re beautiful…
 Dialogue: 0,0:17:52.68,0:17:54.73,Regular,,0,0,0,,I can hear quite a commotion out there.
-Dialogue: 0,0:17:54.73,0:17:57.22,Regular,,0,0,0,,That voice... it must be Sibylla Floe.
+Dialogue: 0,0:17:54.73,0:17:57.22,Regular,,0,0,0,,That voice… it must be Sibylla Floe.
 Dialogue: 0,0:18:03.49,0:18:05.88,Regular,,0,0,0,,Aer, were you planning\Nto stay in bed all day?
-Dialogue: 0,0:18:05.88,0:18:08.63,Regular,,0,0,0,,It's our last day on the Arcus Prima!
+Dialogue: 0,0:18:05.88,0:18:08.63,Regular,,0,0,0,,It’s our last day on the Arcus Prima!
 Dialogue: 0,0:18:10.94,0:18:12.61,Regular,,0,0,0,,Wait for me, Alty!
 Dialogue: 0,0:18:12.61,0:18:14.15,Regular,,0,0,0,,Not gonna happen!
 Dialogue: 0,0:18:14.15,0:18:15.64,Regular,,0,0,0,,Please wait up!
 Dialogue: 0,0:18:22.20,0:18:23.66,Regular,,0,0,0,,Up here!
-Dialogue: 0,0:18:23.66,0:18:25.20,Regular,,0,0,0,,It's an amazing view!
+Dialogue: 0,0:18:23.66,0:18:25.20,Regular,,0,0,0,,It’s an amazing view!
 Dialogue: 0,0:18:33.72,0:18:35.92,Regular,,0,0,0,,Come on, dance with me, Aer!
-Dialogue: 0,0:18:35.92,0:18:37.92,Regular,,0,0,0,,Huh? Uh, I...
-Dialogue: 0,0:18:45.04,0:18:47.27,Regular,,0,0,0,,Don't tell me that's...
+Dialogue: 0,0:18:35.92,0:18:37.92,Regular,,0,0,0,,Huh? Uh, I…
+Dialogue: 0,0:18:45.04,0:18:47.27,Regular,,0,0,0,,Don’t tell me that’s…
 Dialogue: 0,0:19:26.31,0:19:29.14,Regular,,0,0,0,,Please, let the Messis\Ntransport you to the Spring.
-Dialogue: 0,0:19:30.02,0:19:31.14,Regular,,0,0,0,,Thanks, but it's all right.
-Dialogue: 0,0:19:31.73,0:19:35.98,Regular,,0,0,0,,I've always wanted to ride\Non a helical-motor train.
+Dialogue: 0,0:19:30.02,0:19:31.14,Regular,,0,0,0,,Thanks, but it’s all right.
+Dialogue: 0,0:19:31.73,0:19:35.98,Regular,,0,0,0,,I’ve always wanted to ride\Non a helical-motor train.
 Dialogue: 0,0:19:36.65,0:19:38.48,Regular,,0,0,0,,I understand.
-Dialogue: 0,0:19:39.09,0:19:42.24,Regular,,0,0,0,,May I ask what's going on with\NSibylla Neviril and Sibylla Aer?
+Dialogue: 0,0:19:39.09,0:19:42.24,Regular,,0,0,0,,May I ask what’s going on with\NSibylla Neviril and Sibylla Aer?
 Dialogue: 0,0:19:43.06,0:19:45.95,Regular,,0,0,0,,They have asked for a little more time.
 Dialogue: 0,0:19:47.03,0:19:48.45,Regular,,0,0,0,,Fine.
 Dialogue: 0,0:19:49.66,0:19:50.71,Regular,,0,0,0,,All right then.
 Dialogue: 0,0:19:53.30,0:19:54.65,Regular,,0,0,0,,Farewell.
-Dialogue: 0,0:19:54.65,0:19:57.92,Regular,,0,0,0,,We'll come back to say\Nhello when we're adults!
+Dialogue: 0,0:19:54.65,0:19:57.92,Regular,,0,0,0,,We’ll come back to say\Nhello when we’re adults!
 Dialogue: 0,0:20:36.38,0:20:39.09,Regular,,0,0,0,,The mountains are getting closer!
-Dialogue: 0,0:20:39.62,0:20:41.51,Regular,,0,0,0,,It's almost time for lunch.
+Dialogue: 0,0:20:39.62,0:20:41.51,Regular,,0,0,0,,It’s almost time for lunch.
 Dialogue: 0,0:20:42.38,0:20:43.59,Regular,,0,0,0,,Oh, I almost forgot.
 Dialogue: 0,0:20:44.39,0:20:48.79,Regular,,0,0,0,,I had them pack us something to eat\Nbefore we left. Is anybody hungry?
 Dialogue: 0,0:20:50.81,0:20:51.85,Regular,,0,0,0,,Those look delicious!
 Dialogue: 0,0:20:51.85,0:20:53.60,Regular,,0,0,0,,Me too! Me too!
-Dialogue: 0,0:20:53.60,0:20:54.85,Regular,,0,0,0,,I'd like a vegetable sandwich.
+Dialogue: 0,0:20:53.60,0:20:54.85,Regular,,0,0,0,,I’d like a vegetable sandwich.
 Dialogue: 0,0:20:54.85,0:20:55.85,Regular,,0,0,0,,What about you, Roatre?
 Dialogue: 0,0:20:55.85,0:20:57.81,Regular,,0,0,0,,A meat sandwich for me, please!
 Dialogue: 0,0:20:57.81,0:20:58.86,Regular,,0,0,0,,Same for me, please.
-Dialogue: 0,0:20:58.86,0:21:01.36,Regular,,0,0,0,,Oh boy, I'm starving!
+Dialogue: 0,0:20:58.86,0:21:01.36,Regular,,0,0,0,,Oh boy, I’m starving!
 Dialogue: 0,0:21:02.04,0:21:03.69,Regular,,0,0,0,,This is so good!
-Dialogue: 0,0:21:03.69,0:21:06.76,Regular,,0,0,0,,Okay, this is for Roatre.\NThis one's yours, Paraietta.
+Dialogue: 0,0:21:03.69,0:21:06.76,Regular,,0,0,0,,Okay, this is for Roatre.\NThis one’s yours, Paraietta.
 Dialogue: 0,0:21:06.76,0:21:07.62,Regular,,0,0,0,,Thanks.
-Dialogue: 0,0:21:07.62,0:21:10.08,Regular,,0,0,0,,Man, why didn't you tell us sooner that you had sandwiches?
+Dialogue: 0,0:21:07.62,0:21:10.08,Regular,,0,0,0,,Man, why didn’t you tell us sooner that you had sandwiches?
 Dialogue: 0,0:21:10.95,0:21:12.54,Regular,,0,0,0,,Come on, Floe!
-Dialogue: 0,0:22:22.72,0:22:24.40,Regular,,0,0,0,,But that's...
+Dialogue: 0,0:22:22.72,0:22:24.40,Regular,,0,0,0,,But that’s…
 Dialogue: 0,0:22:25.89,0:22:27.40,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:22:41.07,0:22:47.78,Lyrics bottom,,0,0,0,,It is played by my wounds...\Nthe song of prayer.
+Dialogue: 0,0:22:41.07,0:22:47.78,Lyrics bottom,,0,0,0,,It is played by my wounds…\Nthe song of prayer.
 Dialogue: 0,0:22:47.78,0:22:52.02,Lyrics bottom,,0,0,0,,Let it ring out over\Nthe grieving universe.
-Dialogue: 0,0:22:52.02,0:22:59.09,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon't be afraid.
-Dialogue: 0,0:22:59.09,0:23:06.69,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart's overflowing.
-Dialogue: 0,0:23:15.51,0:23:19.58,Lyrics bottom,,0,0,0,,"I want to get closer to you."\N"I want to feel your pulse."
+Dialogue: 0,0:22:52.02,0:22:59.09,Lyrics bottom,,0,0,0,,Can we change tomorrow?\NDon’t be afraid.
+Dialogue: 0,0:22:59.09,0:23:06.69,Lyrics bottom,,0,0,0,,I want to let you know\Nhow my heart’s overflowing.
+Dialogue: 0,0:23:15.51,0:23:19.58,Lyrics bottom,,0,0,0,,“I want to get closer to you.”\N“I want to feel your pulse.”
 Dialogue: 0,0:23:19.58,0:23:24.75,Lyrics bottom,,0,0,0,,I was too defiant,\Nand I took the long way around.
 Dialogue: 0,0:23:24.75,0:23:28.73,Lyrics bottom,,0,0,0,,The blue moon is swaying silently.
-Dialogue: 0,0:23:28.73,0:23:32.77,Lyrics bottom,,0,0,0,,My true heart's desire is you.
-Dialogue: 0,0:23:32.77,0:23:38.64,Lyrics bottom,,0,0,0,,I can't reach you.\NMy tears of pain trickle down.
+Dialogue: 0,0:23:28.73,0:23:32.77,Lyrics bottom,,0,0,0,,My true heart’s desire is you.
+Dialogue: 0,0:23:32.77,0:23:38.64,Lyrics bottom,,0,0,0,,I can’t reach you.\NMy tears of pain trickle down.
 Dialogue: 0,0:23:38.64,0:23:44.18,Lyrics bottom,,0,0,0,,Soar away into the sky, song of prayer.
 Dialogue: 0,0:23:44.18,0:23:47.61,Lyrics bottom,,0,0,0,,Carrying my love that came too late.
 Dialogue: 0,0:23:47.61,0:23:53.28,Lyrics bottom,,0,0,0,,What can I do to change tomorrow?
-Dialogue: 0,0:23:53.28,0:23:59.51,Lyrics bottom,,0,0,0,,Just hold on to "now" the way it is...
+Dialogue: 0,0:23:53.28,0:23:59.51,Lyrics bottom,,0,0,0,,Just hold on to “now” the way it is…
 Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}To Be Continued
-Dialogue: 0,0:24:05.64,0:24:08.84,Regular,,0,0,0,,The girls embark on their\Njourney towards adulthood...
-Dialogue: 0,0:24:08.84,0:24:12.43,Regular,,0,0,0,,...as Neviril and Aer head\Ntowards the "eternal present."
-Dialogue: 0,0:24:14.05,0:24:15.43,Regular,,0,0,0,,Next time on Simoun...
+Dialogue: 0,0:24:05.64,0:24:08.84,Regular,,0,0,0,,The girls embark on their\Njourney towards adulthood…
+Dialogue: 0,0:24:08.84,0:24:12.43,Regular,,0,0,0,,…as Neviril and Aer head\Ntowards the “eternal present.”
+Dialogue: 0,0:24:14.05,0:24:15.43,Regular,,0,0,0,,Next time on Simoun…
 Dialogue: 0,0:24:16.35,0:24:17.47,Regular,,0,0,0,,Pair.
 Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,{\blur0.6}Pair
