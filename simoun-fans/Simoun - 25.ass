@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 222
-Active Line: 229
+Scroll Position: 0
+Active Line: 1
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-25.mkv
 Keyframes File: ../../scxvid/simoun-25-keyframes.txt
 Audio URI: ../../audio/simoun-25.flac
 YCbCr Matrix: TV.601
-Video Position: 34644
+Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,6 +30,8 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
+Comment: 2,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:43.37,0:01:44.41,Regular,,0,0,0,,Yun!
 Dialogue: 0,0:01:45.04,0:01:51.00,Titles,,90,0,0,,{\blur0.6}Pair
 Dialogue: 0,0:01:52.60,0:01:54.51,Regular,,0,0,0,,Is that… Yun?
@@ -39,7 +41,7 @@ Dialogue: 0,0:01:56.84,0:01:58.05,Regular,,0,0,0,,But Onashia…?
 Dialogue: 0,0:01:58.05,0:02:00.51,Regular,,0,0,0,,What happened to Onashia, Yun?
 Dialogue: 0,0:02:00.51,0:02:03.01,Regular,,0,0,0,,Why are you…?
 Dialogue: 0,0:02:03.85,0:02:05.50,Regular,,0,0,0,,Oh. I understand.
-Dialogue: 0,0:02:05.50,0:02:09.02,Regular,,0,0,0,,This is where you decided to be, isn’t it, Yun?
+Dialogue: 0,0:02:05.50,0:02:09.02,Regular,,0,0,0,,This is where you decided \Nto be, isn’t it, Yun?
 Dialogue: 0,0:02:10.18,0:02:12.33,Regular,,0,0,0,,Rodoreamon, what do you mean?
 Dialogue: 0,0:02:12.84,0:02:14.46,Regular,,0,0,0,,Yun has made her choice.
 Dialogue: 0,0:02:15.28,0:02:17.49,Regular,,0,0,0,,She has chosen her path.
@@ -49,39 +51,39 @@ Dialogue: 0,0:02:31.97,0:02:33.04,Regular,,0,0,0,,Let’s go.
 Dialogue: 0,0:02:37.72,0:02:44.18,Regular,,0,0,0,,I think… perhaps I should have come here earlier with my friends from Rubor.
 Dialogue: 0,0:02:49.20,0:02:51.02,Regular,,0,0,0,,Let’s enter together.
 Dialogue: 0,0:02:52.27,0:02:53.31,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:02:54.17,0:02:58.65,Regular,,0,0,0,,Paraietta, you’ve been through a lot, haven’t you?
+Dialogue: 0,0:02:54.17,0:02:58.65,Regular,,0,0,0,,Paraietta, you’ve been\N through a lot, haven’t you?
 Dialogue: 0,0:02:59.88,0:03:02.54,Regular,,0,0,0,,All of us have.
-Dialogue: 0,0:03:03.49,0:03:06.66,Regular,,0,0,0,,Morinas, did you do everything you wanted to?
+Dialogue: 0,0:03:03.49,0:03:06.66,Regular,,0,0,0,,Morinas, did you do\N everything you wanted to?
 Dialogue: 0,0:03:08.66,0:03:12.50,Regular,,0,0,0,,I wanted to offer a prayer with one of the ancient Simoun.
 Dialogue: 0,0:03:12.50,0:03:15.67,Regular,,0,0,0,,No, I wanted to {\i1}fly{\i0} one.
-Dialogue: 0,0:03:16.04,0:03:21.53,Regular,,0,0,0,,I wanted to sit in the captain’s chair of the {\i1}Arcus Prima{\i0}, just once!
+Dialogue: 0,0:03:16.04,0:03:21.53,Regular,,0,0,0,,I wanted to sit in the captain’s chair\N of the {\i1}Arcus Prima{\i0}, just once!
 Dialogue: 0,0:03:24.61,0:03:25.64,Regular,,0,0,0,,What?
 Dialogue: 0,0:03:25.64,0:03:28.14,Regular,,0,0,0,,Cut it out, you two.
 Dialogue: 0,0:03:28.14,0:03:29.76,Regular,,0,0,0,,But!
 Dialogue: 0,0:03:29.76,0:03:31.14,Regular,,0,0,0,,I…
-Dialogue: 0,0:03:31.14,0:03:36.65,Regular,,0,0,0,,I feel as though… I do not truly know everyone here.
+Dialogue: 0,0:03:31.14,0:03:36.65,Regular,,0,0,0,,I feel as though… I do not\N truly know everyone here.
 Dialogue: 0,0:03:38.61,0:03:39.65,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:03:40.41,0:03:44.85,Regular,,0,0,0,,None of us really know anything about one another.
+Dialogue: 0,0:03:40.41,0:03:44.85,Regular,,0,0,0,,None of us really know\N anything about one another.
 Dialogue: 0,0:03:44.85,0:03:50.87,Regular,,0,0,0,,But in order to understand, we must fall.
 Dialogue: 0,0:03:50.87,0:03:53.17,Regular,,0,0,0,,We must fall.
 Dialogue: 0,0:03:54.01,0:03:55.94,Regular,,0,0,0,,While we scream…
 Dialogue: 0,0:03:55.94,0:03:58.17,Regular,,0,0,0,,Even while we are so afraid that our hearts leap from our mouths.
-Dialogue: 0,0:03:58.17,0:04:02.18,Regular,,0,0,0,,We hold ourselves together and fall… endlessly.
+Dialogue: 0,0:03:58.17,0:04:02.18,Regular,,0,0,0,,We hold ourselves together\N and fall… endlessly.
 Dialogue: 0,0:04:02.95,0:04:04.18,Regular,,0,0,0,,Endlessly.
 Dialogue: 0,0:04:04.95,0:04:06.68,Regular,,0,0,0,,And sometimes…
-Dialogue: 0,0:04:07.44,0:04:13.69,Regular,,0,0,0,,…we get so afraid of the fall that we cling to something along the way.
+Dialogue: 0,0:04:07.44,0:04:13.69,Regular,,0,0,0,,…we get so afraid of the fall that\N we cling to something along the way.
 Dialogue: 0,0:04:14.18,0:04:18.39,Regular,,0,0,0,,But… we have to let go, don’t we?
-Dialogue: 0,0:04:18.39,0:04:22.70,Regular,,0,0,0,,I’ll be there waiting, somewhere in that abyss.
+Dialogue: 0,0:04:18.39,0:04:22.70,Regular,,0,0,0,,I’ll be there waiting,\N somewhere in that abyss.
 Dialogue: 0,0:04:24.43,0:04:25.70,Regular,,0,0,0,,Nee-san…
 Dialogue: 0,0:06:05.46,0:06:08.80,Regular,,0,0,0,,The priestesses of Chor Tempest…
-Dialogue: 0,0:06:08.80,0:06:11.95,Regular,,0,0,0,,No, that title is no longer suitable for them.
+Dialogue: 0,0:06:08.80,0:06:11.95,Regular,,0,0,0,,No, that title is no longer\N suitable for them.
 Dialogue: 0,0:06:12.57,0:06:14.88,Regular,,0,0,0,,But yes, they should be returning soon.
 Dialogue: 0,0:06:15.59,0:06:20.48,Regular,,0,0,0,,I’m looking forward to learning what the priestesses of Chor Tempest have chosen.
 Dialogue: 0,0:06:20.91,0:06:23.38,Regular,,0,0,0,,Yes, I’m looking forward to that, too.
 Dialogue: 0,0:06:24.24,0:06:25.98,Regular,,0,0,0,,And what about those two?
 Dialogue: 0,0:06:27.06,0:06:30.49,Regular,,0,0,0,,I think that they will end up being our final responsibility here.
 Dialogue: 0,0:06:30.49,0:06:31.53,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:06:51.05,0:06:54.72,Regular,,0,0,0,,Back there… Yun was supporting us, wasn’t she?
+Dialogue: 0,0:06:51.05,0:06:54.72,Regular,,0,0,0,,Back there… Yun was\N supporting us, wasn’t she?
 Dialogue: 0,0:06:54.72,0:06:55.76,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:06:55.76,0:06:58.39,Regular,,0,0,0,,It was almost like being in a cradle.
 Dialogue: 0,0:06:58.39,0:07:01.56,Regular,,0,0,0,,All of our feelings, all at once!
@@ -112,19 +114,19 @@ Dialogue: 0,0:09:57.91,0:09:59.53,Regular,,0,0,0,,This will probably be…
 Dialogue: 0,0:09:59.53,0:10:06.08,Regular,,0,0,0,,…the last duty I can perform for the sibyllae of Chor Tempest.
 Dialogue: 0,0:10:07.07,0:10:11.08,Regular,,0,0,0,,I hope that Tempus Spatium will forgive us.
 Dialogue: 0,0:10:11.96,0:10:17.63,Regular,,0,0,0,,I still remember Sibylla Neviril’s words during the hearing.
-Dialogue: 0,0:10:20.43,0:10:25.47,Regular,,0,0,0,,I’m not trying to lay blame for these days of fighting.
-Dialogue: 0,0:10:25.47,0:10:29.81,Regular,,0,0,0,,It has been painful and heartbreaking, and perhaps this is fate.
-Dialogue: 0,0:10:29.81,0:10:32.89,Regular,,0,0,0,,It may even be the will of Tempus Spatium.
-Dialogue: 0,0:10:32.89,0:10:36.21,Regular,,0,0,0,,But right now, I don’t care what it is.
-Dialogue: 0,0:10:36.76,0:10:41.12,Regular,,0,0,0,,Right now, I don’t care about “the will of God.”
-Dialogue: 0,0:10:41.12,0:10:45.01,Regular,,0,0,0,,I just have one question I’d like to ask you all:
-Dialogue: 0,0:10:45.01,0:10:49.75,Regular,,0,0,0,,In spite of that… am I still a Simoun sibylla?
+Dialogue: 0,0:10:20.43,0:10:25.47,Regular,,0,0,0,,I’m not trying to lay blame\N for these days of fighting.
+Dialogue: 0,0:10:25.47,0:10:29.81,Regular,,0,0,0,,It has been painful and heartbreaking,\N and perhaps this is fate.
+Dialogue: 0,0:10:29.81,0:10:32.89,Regular,,0,0,0,,It may even be the will\N of Tempus Spatium.
+Dialogue: 0,0:10:32.89,0:10:36.21,Regular,,0,0,0,,But right now, \NI don’t care what it is.
+Dialogue: 0,0:10:36.76,0:10:41.12,Regular,,0,0,0,,Right now, I don’t care\N about “the will of God.”
+Dialogue: 0,0:10:41.12,0:10:45.01,Regular,,0,0,0,,I just have one question\N I’d like to ask you all:
+Dialogue: 0,0:10:45.01,0:10:49.75,Regular,,0,0,0,,In spite of that… \Nam I still a Simoun sibylla?
 Dialogue: 0,0:10:58.55,0:10:59.77,Regular,,0,0,0,,Guragief.
-Dialogue: 0,0:11:04.78,0:11:08.77,Regular,,0,0,0,,I think you might still be a sibylla, even now.
+Dialogue: 0,0:11:04.78,0:11:08.77,Regular,,0,0,0,,I think you might still\N be a sibylla, even now.
 Dialogue: 0,0:11:14.94,0:11:15.98,Regular,,0,0,0,,Yes?
 Dialogue: 0,0:11:18.50,0:11:20.70,Regular,,0,0,0,,Hey, Paraietta!
 Dialogue: 0,0:11:20.70,0:11:22.03,Regular,,0,0,0,,I’m back.
-Dialogue: 0,0:11:22.67,0:11:24.66,Regular,,0,0,0,,The others are waiting on the observation deck.
+Dialogue: 0,0:11:22.67,0:11:24.66,Regular,,0,0,0,,The others are waiting\N on the observation deck.
 Dialogue: 0,0:11:24.66,0:11:25.70,Regular,,0,0,0,,Okay.
 Dialogue: 0,0:11:28.61,0:11:30.04,Regular,,0,0,0,,Paraietta…
 Dialogue: 0,0:11:30.90,0:11:33.05,Regular,,0,0,0,,I’m back, Neviril.
@@ -140,16 +142,16 @@ Dialogue: 0,0:12:16.67,0:12:18.75,Regular,,0,0,0,,The soldiers are watching!
 Dialogue: 0,0:12:18.75,0:12:20.09,Regular,,0,0,0,,I don’t mind.
 Dialogue: 0,0:12:20.76,0:12:22.59,Regular,,0,0,0,,Does it bother you, Neviril?
 Dialogue: 0,0:12:23.40,0:12:25.59,Regular,,0,0,0,,Well, not really…
-Dialogue: 0,0:12:26.68,0:12:31.10,Regular,,0,0,0,,There are still two priestesses who have not yet entered the Spring.
+Dialogue: 0,0:12:26.68,0:12:31.10,Regular,,0,0,0,,There are still two priestesses \Nwho have not yet entered the Spring.
 Dialogue: 0,0:12:31.10,0:12:35.35,Regular,,0,0,0,,Yes. Sibylla Neviril and Sibylla Aaeru.
-Dialogue: 0,0:12:38.06,0:12:41.86,Regular,,0,0,0,,When do they plan to head for the Spring?
+Dialogue: 0,0:12:38.06,0:12:41.86,Regular,,0,0,0,,When do they plan \Nto head for the Spring?
 Dialogue: 0,0:12:43.19,0:12:44.70,Regular,,0,0,0,,Welcome back, everyone!
 Dialogue: 0,0:12:50.04,0:12:51.41,Regular,,0,0,0,,How was the city?
-Dialogue: 0,0:12:51.41,0:12:54.78,Regular,,0,0,0,,The people there were in high spirits.
+Dialogue: 0,0:12:51.41,0:12:54.78,Regular,,0,0,0,,The people there\N were in high spirits.
 Dialogue: 0,0:12:54.78,0:12:57.17,Regular,,0,0,0,,Yes, I saw lots of smiling faces!
 Dialogue: 0,0:12:57.17,0:12:59.67,Regular,,0,0,0,,Were you bored, Aaeru?
-Dialogue: 0,0:13:01.25,0:13:05.58,Regular,,0,0,0,,Well, I did some Maaju by myself, and drank some tea.
-Dialogue: 0,0:13:05.58,0:13:08.26,Regular,,0,0,0,,You guys didn’t change much, eh? Um…
+Dialogue: 0,0:13:01.25,0:13:05.58,Regular,,0,0,0,,Well, I did some Maaju \Nby myself, and drank some tea.
+Dialogue: 0,0:13:05.58,0:13:08.26,Regular,,0,0,0,,You guys didn’t \Nchange much, eh? Um…
 Dialogue: 0,0:13:09.05,0:13:11.16,Regular,,0,0,0,,I chose to be female.
 Dialogue: 0,0:13:11.16,0:13:12.27,Regular,,0,0,0,,I’m female too.
 Dialogue: 0,0:13:12.27,0:13:14.02,Regular,,0,0,0,,I…
@@ -157,14 +159,14 @@ Dialogue: 0,0:13:15.38,0:13:16.31,Regular,,0,0,0,,Male?
 Dialogue: 0,0:13:16.31,0:13:17.40,Regular,,0,0,0,,Yep!
 Dialogue: 0,0:13:18.31,0:13:20.15,Regular,,0,0,0,,I chose male too.
 Dialogue: 0,0:13:20.15,0:13:21.46,Regular,,0,0,0,,Yeah?
-Dialogue: 0,0:13:26.36,0:13:30.48,Regular,,0,0,0,,They will go as soon as they feel they are ready.
+Dialogue: 0,0:13:26.36,0:13:30.48,Regular,,0,0,0,,They will go as soon as \Nthey feel they are ready.
 Dialogue: 0,0:13:30.48,0:13:31.87,Regular,,0,0,0,,We cannot wait.
-Dialogue: 0,0:13:31.87,0:13:36.37,Regular,,0,0,0,,This is a very important condition in the peace treaty.
-Dialogue: 0,0:13:36.37,0:13:43.30,Regular,,0,0,0,,Yes, but there is no mention of any time limit for that clause.
+Dialogue: 0,0:13:31.87,0:13:36.37,Regular,,0,0,0,,This is a very important \Ncondition in the peace treaty.
+Dialogue: 0,0:13:36.37,0:13:43.30,Regular,,0,0,0,,Yes, but there is no mention \Nof any time limit for that clause.
 Dialogue: 0,0:13:48.09,0:13:49.14,Regular,,0,0,0,,We cannot wait.
 Dialogue: 0,0:13:53.36,0:13:55.81,Regular,,0,0,0,,The reason I did not choose Aaeru…
-Dialogue: 0,0:13:55.81,0:14:00.31,Regular,,0,0,0,,It wasn’t because I didn’t want to betray you again.
-Dialogue: 0,0:14:01.15,0:14:04.82,Regular,,0,0,0,,It was simply an excuse to protect my own feelings.
+Dialogue: 0,0:13:55.81,0:14:00.31,Regular,,0,0,0,,It wasn’t because I didn’t\N want to betray you again.
+Dialogue: 0,0:14:01.15,0:14:04.82,Regular,,0,0,0,,It was simply an excuse \Nto protect my own feelings.
 Dialogue: 0,0:14:06.00,0:14:08.66,Regular,,0,0,0,,I just wanted to be a good girl.
 Dialogue: 0,0:14:09.28,0:14:10.32,Regular,,0,0,0,,It was silly of me, wasn’t it?
 Dialogue: 0,0:14:24.98,0:14:26.82,Regular,,0,0,0,,Wanting to remain a good girl…
@@ -201,13 +203,13 @@ Dialogue: 0,0:16:33.36,0:16:34.63,Regular,,0,0,0,,Let go of me!
 Dialogue: 0,0:16:35.09,0:16:36.14,Regular,,0,0,0,,Aaeru?
 Dialogue: 0,0:16:36.76,0:16:38.12,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:16:38.12,0:16:39.14,Regular,,0,0,0,,Neviril!
-Dialogue: 0,0:16:42.61,0:16:46.19,Regular,,0,0,0,,Sibylla Aurea. Please, wait here for now.
+Dialogue: 0,0:16:42.61,0:16:46.19,Regular,,0,0,0,,Sibylla Aurea. \NPlease, wait here for now.
 Dialogue: 0,0:16:52.95,0:16:54.28,Regular,,0,0,0,,Let go of me, you idiots!
 Dialogue: 0,0:16:55.19,0:16:56.43,Regular,,0,0,0,,Aaeru!
 Dialogue: 0,0:16:56.43,0:16:57.95,Regular,,0,0,0,,Let go!
 Dialogue: 0,0:17:00.54,0:17:01.79,Regular,,0,0,0,,Aaeru!
 Dialogue: 0,0:17:15.05,0:17:16.22,Regular,,0,0,0,,Aaeru…
-Dialogue: 0,0:18:01.20,0:18:04.97,Regular,,0,0,0,,No! Neviril and Aaeru mustn’t go to the Spring!
+Dialogue: 0,0:18:01.20,0:18:04.97,Regular,,0,0,0,,No! Neviril and Aaeru\N mustn’t go to the Spring!
 Dialogue: 0,0:18:04.97,0:18:06.30,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:18:06.30,0:18:07.89,Regular,,0,0,0,,They’re our…!
 Dialogue: 0,0:18:07.89,0:18:08.67,Regular,,0,0,0,,Yeah.
@@ -215,7 +217,7 @@ Dialogue: 0,0:18:08.67,0:18:11.33,Regular,,0,0,0,,Our present is on their should
 Dialogue: 0,0:18:11.33,0:18:15.78,Regular,,0,0,0,,Paraietta, is this really part of the treaty that Simulacrum signed?
 Dialogue: 0,0:18:15.78,0:18:17.90,Regular,,0,0,0,,Yeah! Is this for real?
 Dialogue: 0,0:18:19.35,0:18:20.79,Regular,,0,0,0,,Neviril and Aaeru…
-Dialogue: 0,0:18:21.49,0:18:23.91,Regular,,0,0,0,,I will never let them be taken to the Spring!
+Dialogue: 0,0:18:21.49,0:18:23.91,Regular,,0,0,0,,I will never let them\N be taken to the Spring!
 Dialogue: 0,0:18:25.87,0:18:28.75,Regular,,0,0,0,,The eternal now, eh?
 Dialogue: 0,0:18:30.71,0:18:31.75,Regular,,0,0,0,,Aaeru…
 Dialogue: 0,0:18:33.17,0:18:35.76,Regular,,0,0,0,,I love you.
@@ -227,11 +229,11 @@ Dialogue: 0,0:18:55.76,0:18:56.78,Regular,,0,0,0,,Neviril…
 Dialogue: 0,0:19:25.89,0:19:27.43,Regular,,0,0,0,,Don’t, Alti!
 Dialogue: 0,0:19:50.79,0:19:52.69,Regular,,0,0,0,,What do we do now?
 Dialogue: 0,0:19:53.84,0:19:55.11,Regular,,0,0,0,,Captain!
-Dialogue: 0,0:19:55.73,0:20:00.12,Regular,,0,0,0,,I don’t believe that title belongs to me any longer.
+Dialogue: 0,0:19:55.73,0:20:00.12,Regular,,0,0,0,,I don’t believe that title\N belongs to me any longer.
 Dialogue: 0,0:20:00.76,0:20:01.81,Regular,,0,0,0,,It can’t be!
 Dialogue: 0,0:20:02.59,0:20:08.66,Regular,,0,0,0,,We have asked for permission to give our sibyllae a final farewell before they go to the Spring.
 Dialogue: 0,0:20:08.66,0:20:13.81,Regular,,0,0,0,,It’s the best that the captain of the {\i1}Arcus Prima{\i0} was able to do for them.
-Dialogue: 0,0:20:54.60,0:20:57.69,Regular,,0,0,0,,That’s an unusually barbaric act, coming from you!
+Dialogue: 0,0:20:54.60,0:20:57.69,Regular,,0,0,0,,That’s an unusually \Nbarbaric act, coming from you!
 Dialogue: 0,0:20:57.69,0:20:58.73,Regular,,0,0,0,,Indeed.
 Dialogue: 0,0:21:00.53,0:21:01.57,Regular,,0,0,0,,Aaeru.
 Dialogue: 0,0:21:02.28,0:21:03.32,Regular,,0,0,0,,Right.
@@ -247,7 +249,7 @@ Dialogue: 0,0:21:34.27,0:21:35.31,Regular,,0,0,0,,I said don’t cry!
 Dialogue: 0,0:21:35.85,0:21:36.89,Regular,,0,0,0,,Morinas.
 Dialogue: 0,0:21:37.97,0:21:39.15,Regular,,0,0,0,,We’re counting on you!
 Dialogue: 0,0:21:39.95,0:21:41.11,Regular,,0,0,0,,Rodoreamon.
-Dialogue: 0,0:21:41.81,0:21:44.51,Regular,,0,0,0,,I suppose this is goodbye, Sibylla Aurea.
+Dialogue: 0,0:21:41.81,0:21:44.51,Regular,,0,0,0,,I suppose this is goodbye,\N Sibylla Aurea.
 Dialogue: 0,0:21:44.51,0:21:46.61,Regular,,0,0,0,,Farewell, both of you.
 Dialogue: 0,0:21:47.24,0:21:49.16,Regular,,0,0,0,,You two can do it!
 Dialogue: 0,0:21:49.86,0:21:51.86,Regular,,0,0,0,,Vyura. Kaimu.
@@ -260,7 +262,7 @@ Dialogue: 0,0:22:02.73,0:22:05.92,Regular,,0,0,0,,We’ll meet again… someday.
 Dialogue: 0,0:22:11.76,0:22:13.62,Regular,,0,0,0,,Please take care.
 Dialogue: 0,0:22:13.62,0:22:16.39,Regular,,0,0,0,,Farewell, Eternal Priestesses.
 Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
-Dialogue: 0,0:24:06.00,0:24:10.51,Regular,,0,0,0,,This is the story of what happened to the girls thereafter.
+Dialogue: 0,0:24:06.00,0:24:10.51,Regular,,0,0,0,,This is the story of what happened \Nto the girls thereafter.
 Dialogue: 0,0:24:12.68,0:24:15.47,Regular,,0,0,0,,Next time, on the final Simoun:
 Dialogue: 0,0:24:16.26,0:24:18.53,Regular,,0,0,0,,Their Portrait.
 Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,90,0,0,,{\blur0.6}Their Portrait

@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 240
-Active Line: 251
+Scroll Position: 244
+Active Line: 255
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-26.mkv
 Keyframes File: ../../scxvid/simoun-26-keyframes.txt
 Audio URI: ../../audio/simoun-26.flac
 YCbCr Matrix: TV.601
-Video Position: 29612
+Video Position: 29695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,6 +30,8 @@ Style: Lyrics bottom,Gill Sans Std,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
+Dialogue: 2,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:53.60,0:01:54.63,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:01:57.99,0:02:00.01,Regular,,0,0,0,,Limone, the Elder is calling for you.
 Dialogue: 0,0:02:00.01,0:02:00.99,Regular,,0,0,0,,Okay.
@@ -40,15 +42,15 @@ Dialogue: 0,0:02:35.05,0:02:36.11,Regular,,0,0,0,,Aira.
 Dialogue: 0,0:02:36.11,0:02:37.13,Regular,,0,0,0,,Hanna.
 Dialogue: 0,0:02:37.87,0:02:39.04,Regular,,0,0,0,,Are you sure about this?
 Dialogue: 0,0:02:39.05,0:02:40.32,Regular,,0,0,0,,Of course!
-Dialogue: 0,0:02:40.32,0:02:43.50,Regular,,0,0,0,,We’ve been practicing for this day for so long!
+Dialogue: 0,0:02:40.32,0:02:43.50,Regular,,0,0,0,,We’ve been practicing\N for this day for so long!
 Dialogue: 0,0:02:43.50,0:02:44.97,Regular,,0,0,0,,I’m so glad I was chosen!
-Dialogue: 0,0:02:45.68,0:02:52.75,Regular,,0,0,0,,I’ve always admired you and Dominura… and the Emerald Ri Maajon!
+Dialogue: 0,0:02:45.68,0:02:52.75,Regular,,0,0,0,,I’ve always admired you and Dominura…\N and the Emerald Ri Maajon!
 Dialogue: 0,0:02:53.48,0:02:57.82,Regular,,0,0,0,,Sibylla Dominura and Sibylla Limone.
-Dialogue: 0,0:02:57.82,0:03:03.40,Regular,,0,0,0,,The two of them offered the Emerald Ri Maajon unto us,
-Dialogue: 0,0:03:04.16,0:03:06.49,Regular,,0,0,0,,and our young girls have taken flight.
+Dialogue: 0,0:02:57.82,0:03:03.40,Regular,,0,0,0,,The two of them offered\N the Emerald Ri Maajon unto us,
+Dialogue: 0,0:03:04.16,0:03:06.49,Regular,,0,0,0,,and our young girls\N have taken flight.
 Dialogue: 0,0:03:07.75,0:03:10.27,Regular,,0,0,0,,Flowers which had never grown before have begun to bloom,
-Dialogue: 0,0:03:10.27,0:03:13.77,Regular,,0,0,0,,and our blighted crops now bear fruit.
-Dialogue: 0,0:03:13.77,0:03:18.01,Regular,,0,0,0,,Today, another two girls will begin their journey.
+Dialogue: 0,0:03:10.27,0:03:13.77,Regular,,0,0,0,,and our blighted \Ncrops now bear fruit.
+Dialogue: 0,0:03:13.77,0:03:18.01,Regular,,0,0,0,,Today, another two girls \Nwill begin their journey.
 Dialogue: 0,0:03:18.01,0:03:22.76,Regular,,0,0,0,,Perhaps they too will bring to us even greater happiness!
 Dialogue: 0,0:03:45.28,0:03:51.29,Titles,,90,0,0,,{\blur0.6}Their Portrait
 Dialogue: 0,0:04:00.30,0:04:04.75,Regular,,0,0,0,,Hurry it up! How long are you planning to keep our client waiting?
@@ -64,7 +66,7 @@ Dialogue: 0,0:04:25.90,0:04:28.18,Regular,,0,0,0,,You’ve got to take it easy.
 Dialogue: 0,0:04:28.18,0:04:29.03,Regular,,0,0,0,,Hmm?
 Dialogue: 0,0:04:29.03,0:04:30.08,Regular,,0,0,0,,Daddy!
 Dialogue: 0,0:04:30.08,0:04:31.33,Regular,,0,0,0,,Oh ho! What is it?
-Dialogue: 0,0:04:31.33,0:04:35.83,Regular,,0,0,0,,Mommy, you know, she said “what does Daddy want to have for dinner?”
+Dialogue: 0,0:04:31.33,0:04:35.83,Regular,,0,0,0,,Mommy, you know, she said \N“what does Daddy want to have for dinner?”
 Dialogue: 0,0:04:36.72,0:04:39.14,Regular,,0,0,0,,Hmm, I don’t know. Everything Mommy makes is delicious!
 Dialogue: 0,0:04:39.14,0:04:41.80,Regular,,0,0,0,,She said you can’t say “anything is fine!”
 Dialogue: 0,0:04:41.80,0:04:44.40,Regular,,0,0,0,,Oh, really? Now that’s a problem, isn’t it?
@@ -73,27 +75,27 @@ Dialogue: 0,0:04:52.46,0:04:55.81,Regular,,0,0,0,,I don’t want Wapourif to be 
 Dialogue: 0,0:04:55.81,0:05:00.04,Regular,,0,0,0,,They say if you keep moving your body, the baby just pops right out like BAM!
 Dialogue: 0,0:05:00.04,0:05:01.57,Regular,,0,0,0,,R-Really?
 Dialogue: 0,0:05:03.30,0:05:04.31,Regular,,0,0,0,,Thanks.
-Dialogue: 0,0:05:04.31,0:05:07.61,Regular,,0,0,0,,So what should we have for lunch, Daddy?
+Dialogue: 0,0:05:04.31,0:05:07.61,Regular,,0,0,0,,So what should we \Nhave for lunch, Daddy?
 Dialogue: 0,0:05:07.61,0:05:09.78,Regular,,0,0,0,,Hmm, let’s see now…
 Dialogue: 0,0:05:12.04,0:05:13.38,Regular,,0,0,0,,Morinas!
 Dialogue: 0,0:05:13.38,0:05:14.98,Regular,,0,0,0,,Hey, good work.
-Dialogue: 0,0:05:14.98,0:05:18.32,Regular,,0,0,0,,Wait a sec, didn’t you just finish your night shift?
+Dialogue: 0,0:05:14.98,0:05:18.32,Regular,,0,0,0,,Wait a sec, didn’t you just\N finish your night shift?
 Dialogue: 0,0:05:18.32,0:05:19.72,Regular,,0,0,0,,We don’t have much choice.
 Dialogue: 0,0:05:19.72,0:05:23.22,Regular,,0,0,0,,Plumbum and Argentum are already at each other’s throats.
 Dialogue: 0,0:05:23.22,0:05:27.72,Regular,,0,0,0,,Who knows when the treaty’s going to be dissolved and we’ll be shipped out?
 Dialogue: 0,0:05:28.51,0:05:30.55,Regular,,0,0,0,,Another war, eh?
 Dialogue: 0,0:05:30.55,0:05:32.81,Regular,,0,0,0,,— Erif! Let’s go.\N— Right.
 Dialogue: 0,0:05:33.27,0:05:34.31,Regular,,0,0,0,,Later!
-Dialogue: 0,0:05:59.42,0:06:01.54,Regular,,0,0,0,,They really saved our butts back there.
+Dialogue: 0,0:05:59.42,0:06:01.54,Regular,,0,0,0,,They really saved \Nour butts back there.
 Dialogue: 0,0:06:01.54,0:06:02.59,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:06:03.61,0:06:04.94,Regular,,0,0,0,,Floe was crying.
 Dialogue: 0,0:06:05.67,0:06:06.72,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:06:07.34,0:06:09.68,Regular,,0,0,0,,You think it’s gonna work?
 Dialogue: 0,0:06:09.68,0:06:11.35,Regular,,0,0,0,,The Emerald Ri Maajon?
 Dialogue: 0,0:06:12.68,0:06:13.72,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:06:27.24,0:06:30.47,Regular,,0,0,0,,You have stolen a Simoun, and allowed the sibyllae to escape.
+Dialogue: 0,0:06:27.24,0:06:30.47,Regular,,0,0,0,,You have stolen a Simoun,\N and allowed the sibyllae to escape.
 Dialogue: 0,0:06:30.47,0:06:32.99,Regular,,0,0,0,,Do you realize the gravity of this crime?
-Dialogue: 0,0:06:36.58,0:06:39.71,Regular,,0,0,0,,If they should rise up against our country—
+Dialogue: 0,0:06:36.58,0:06:39.71,Regular,,0,0,0,,If they should rise up \Nagainst our country—
 Dialogue: 0,0:06:39.71,0:06:40.75,Regular,,0,0,0,,No.
 Dialogue: 0,0:06:40.75,0:06:44.66,Regular,,0,0,0,,They will merely be carried away…
 Dialogue: 0,0:06:45.92,0:06:47.63,Regular,,0,0,0,,…to the Land of Hope.
@@ -105,41 +107,41 @@ Dialogue: 0,0:07:11.86,0:07:13.75,Regular,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:07:17.16,0:07:18.98,Regular,,0,0,0,,Such energetic children!
 Dialogue: 0,0:07:18.98,0:07:21.46,Regular,,0,0,0,,Yes. I can barely keep up with them!
 Dialogue: 0,0:07:21.46,0:07:24.56,Regular,,0,0,0,,Paraietta, I’m very sorry.
-Dialogue: 0,0:07:24.56,0:07:26.70,Regular,,0,0,0,,I’ve tried to negotiate with the delegates, but…
-Dialogue: 0,0:07:26.70,0:07:28.24,Regular,,0,0,0,,I don’t think that there’s much more I can do.
-Dialogue: 0,0:07:28.24,0:07:34.43,Regular,,0,0,0,,Rodoreamon, this place exists because of your help. I’m very grateful.
+Dialogue: 0,0:07:24.56,0:07:26.70,Regular,,0,0,0,,I’ve tried to negotiate \Nwith the delegates, but…
+Dialogue: 0,0:07:26.70,0:07:28.24,Regular,,0,0,0,,I don’t think that there’s\N much more I can do.
+Dialogue: 0,0:07:28.24,0:07:34.43,Regular,,0,0,0,,Rodoreamon, this place exists \Nbecause of your help. I’m very grateful.
 Dialogue: 0,0:07:34.43,0:07:37.92,Regular,,0,0,0,,Please, no. I will find another way.
 Dialogue: 0,0:07:37.92,0:07:44.19,Regular,,0,0,0,,Once the war begins in earnest, it will only create more victims like these children.
 Dialogue: 0,0:07:45.47,0:07:47.44,Regular,,0,0,0,,But they’re not victims.
-Dialogue: 0,0:07:48.32,0:07:51.28,Regular,,0,0,0,,Yes, the war has taken things from them.
-Dialogue: 0,0:07:51.28,0:07:54.95,Regular,,0,0,0,,But they still have so much to live for!
+Dialogue: 0,0:07:48.32,0:07:51.28,Regular,,0,0,0,,Yes, the war has taken\N things from them.
+Dialogue: 0,0:07:51.28,0:07:54.95,Regular,,0,0,0,,But they still have \Nso much to live for!
 Dialogue: 0,0:07:54.95,0:07:56.94,Regular,,0,0,0,,They are the seeds of hope.
-Dialogue: 0,0:07:57.81,0:08:01.58,Regular,,0,0,0,,Their footsteps will help to create the Land of Hope.
+Dialogue: 0,0:07:57.81,0:08:01.58,Regular,,0,0,0,,Their footsteps will help\N to create the Land of Hope.
 Dialogue: 0,0:08:02.45,0:08:03.78,Regular,,0,0,0,,“Hope.”
 Dialogue: 0,0:08:11.63,0:08:13.03,Regular,,0,0,0,,“The Land of Hope.”
-Dialogue: 0,0:08:14.18,0:08:19.43,Regular,,0,0,0,,Long ago, I was a priestess. Those words bring back memories…
+Dialogue: 0,0:08:14.18,0:08:19.43,Regular,,0,0,0,,Long ago, I was a priestess. \NThose words bring back memories…
 Dialogue: 0,0:08:19.95,0:08:22.42,Regular,,0,0,0,,I thought it was only a legend.
 Dialogue: 0,0:08:25.94,0:08:29.65,Regular,,0,0,0,,However, even if the legend is true,
 Dialogue: 0,0:08:31.44,0:08:36.20,Regular,,0,0,0,,what meaning is there in performing the Emerald Ri Maajon now?
 Dialogue: 0,0:08:36.20,0:08:40.62,Regular,,0,0,0,,It’s pointless to speak of any “meaning.”
 Dialogue: 0,0:08:40.62,0:08:41.79,Regular,,0,0,0,,Anubituf?
-Dialogue: 0,0:08:43.18,0:08:47.16,Regular,,0,0,0,,If we cared to look, we might find a meaning,
+Dialogue: 0,0:08:43.18,0:08:47.16,Regular,,0,0,0,,If we cared to look,\N we might find a meaning,
 Dialogue: 0,0:08:47.16,0:08:51.80,Regular,,0,0,0,,but even if we did, those girls would not have chosen it for themselves.
 Dialogue: 0,0:08:57.74,0:08:58.76,Regular,,0,0,0,,What did he say?
 Dialogue: 0,0:08:59.35,0:09:00.51,Regular,,0,0,0,,To take our Simoun…
 Dialogue: 0,0:09:02.40,0:09:06.65,Regular,,0,0,0,,And pursue the Sibylla Aurea’s Simoun!
-Dialogue: 0,0:09:06.65,0:09:09.52,Regular,,0,0,0,,This is madness! Do you mean to shoot them down?
+Dialogue: 0,0:09:06.65,0:09:09.52,Regular,,0,0,0,,This is madness! Do you mean\N to shoot them down?
 Dialogue: 0,0:09:34.80,0:09:35.88,Regular,,0,0,0,,Chief!
-Dialogue: 0,0:09:35.88,0:09:40.54,Regular,,0,0,0,,There is nothing more that we can do for them.
+Dialogue: 0,0:09:35.88,0:09:40.54,Regular,,0,0,0,,There is nothing more\N that we can do for them.
 Dialogue: 0,0:09:40.54,0:09:43.10,Regular,,0,0,0,,— We will return to our duties.\N— Yes, sir!
 Dialogue: 0,0:09:51.61,0:09:52.86,Regular,,0,0,0,,It will be all right, Floe.
 Dialogue: 0,0:09:53.73,0:09:55.12,Regular,,0,0,0,,It will be all right.
 Dialogue: 0,0:09:55.12,0:09:56.98,Regular,,0,0,0,,They cannot do anything to them, even if they leave right now.
 Dialogue: 0,0:09:56.98,0:09:58.86,Regular,,0,0,0,,But…! But…!
-Dialogue: 0,0:10:00.00,0:10:02.97,Regular,,0,0,0,,I’m sure that Aaeru and Neviril will make it.
+Dialogue: 0,0:10:00.00,0:10:02.97,Regular,,0,0,0,,I’m sure that Aaeru \Nand Neviril will make it.
 Dialogue: 0,0:10:03.54,0:10:04.58,Regular,,0,0,0,,Everything will be all right.
 Dialogue: 0,0:10:05.29,0:10:07.23,Regular,,0,0,0,,Here, your nose is running.
-Dialogue: 0,0:10:09.17,0:10:12.59,Regular,,0,0,0,,Jeez, since when were you such a crybaby, Floe?
+Dialogue: 0,0:10:09.17,0:10:12.59,Regular,,0,0,0,,Jeez, since when were \Nyou such a crybaby, Floe?
 Dialogue: 0,0:10:12.59,0:10:15.01,Regular,,0,0,0,,But…! But…!
 Dialogue: 0,0:10:15.01,0:10:17.80,Regular,,0,0,0,,Floe, don’t worry.
 Dialogue: 0,0:10:17.80,0:10:18.84,Regular,,0,0,0,,Don’t cry.
@@ -158,10 +160,10 @@ Dialogue: 0,0:10:54.09,0:10:56.09,Regular,,0,0,0,,Nee-san, was that…?
 Dialogue: 0,0:10:57.05,0:10:58.09,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:11:03.35,0:11:04.85,Regular,,0,0,0,,Nee-san! Hurry! Hurry!
 Dialogue: 0,0:11:04.85,0:11:07.68,Regular,,0,0,0,,Dad’s—! Alti! Get that!
-Dialogue: 0,0:11:08.56,0:11:12.06,Regular,,0,0,0,,Aw man! All that time we spent on laundry…
+Dialogue: 0,0:11:08.56,0:11:12.06,Regular,,0,0,0,,Aw man! All that time\N we spent on laundry…
 Dialogue: 0,0:11:12.06,0:11:13.48,Regular,,0,0,0,,What weird weather.
-Dialogue: 0,0:11:13.48,0:11:15.19,Regular,,0,0,0,,Guess we’re just gonna have to wash it again, huh?
-Dialogue: 0,0:11:15.83,0:11:17.98,Regular,,0,0,0,,Nee-san, all you ever do is just sit and watch!
+Dialogue: 0,0:11:13.48,0:11:15.19,Regular,,0,0,0,,Guess we’re just gonna \Nhave to wash it again, huh?
+Dialogue: 0,0:11:15.83,0:11:17.98,Regular,,0,0,0,,Nee-san, all you ever do \Nis just sit and watch!
 Dialogue: 0,0:11:17.98,0:11:19.94,Regular,,0,0,0,,That’s my job!
 Dialogue: 0,0:11:19.94,0:11:20.98,Regular,,0,0,0,,Dummy.
 Dialogue: 0,0:11:49.49,0:11:50.98,Regular,,0,0,0,,Dominura…
@@ -170,12 +172,12 @@ Dialogue: 0,0:12:15.46,0:12:18.50,Regular,,0,0,0,,My fever has gone down. Thank 
 Dialogue: 0,0:12:18.50,0:12:19.55,Regular,,0,0,0,,I’m glad.
 Dialogue: 0,0:12:20.30,0:12:21.86,Regular,,0,0,0,,Did something happen?
 Dialogue: 0,0:12:21.86,0:12:23.66,Regular,,0,0,0,,After all this time…
-Dialogue: 0,0:12:24.80,0:12:26.89,Regular,,0,0,0,,…I think I finally understand how you felt.
+Dialogue: 0,0:12:24.80,0:12:26.89,Regular,,0,0,0,,…I think I finally\N understand how you felt.
 Comment: 0,0:12:26.59,0:12:27.14,Regular,,0,0,0,,
 Dialogue: 0,0:12:28.30,0:12:30.72,Regular,,0,0,0,,Those girls are going to fly away…
 Dialogue: 0,0:12:31.56,0:12:33.73,Regular,,0,0,0,,…into an uncertain sky.
-Dialogue: 0,0:12:34.66,0:12:37.73,Regular,,0,0,0,,They’re flying towards an elusive hope.
-Dialogue: 0,0:12:37.73,0:12:40.99,Regular,,0,0,0,,I forced everyone to learn the Emerald Ri Maajon.
+Dialogue: 0,0:12:34.66,0:12:37.73,Regular,,0,0,0,,They’re flying towards \Nan elusive hope.
+Dialogue: 0,0:12:37.73,0:12:40.99,Regular,,0,0,0,,I forced everyone to learn \Nthe Emerald Ri Maajon.
 Dialogue: 0,0:12:41.86,0:12:43.84,Regular,,0,0,0,,but I don’t even fly myself.
 Dialogue: 0,0:12:44.57,0:12:45.61,Regular,,0,0,0,,I…
 Dialogue: 0,0:12:47.13,0:12:48.16,Regular,,0,0,0,,Limone.
@@ -190,7 +192,7 @@ Dialogue: 0,0:13:23.54,0:13:24.61,Regular,,0,0,0,,Simoun!
 Dialogue: 0,0:13:25.12,0:13:26.82,Regular,,0,0,0,,They’re coming after us!
 Dialogue: 0,0:13:26.82,0:13:28.16,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:13:28.16,0:13:29.06,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:13:29.06,0:13:30.89,Regular,,0,0,0,,We’ve gotta hurry! They’re gonna catch us!
+Dialogue: 0,0:13:29.06,0:13:30.89,Regular,,0,0,0,,We’ve gotta hurry! \NThey’re gonna catch us!
 Dialogue: 0,0:13:30.89,0:13:31.91,Regular,,0,0,0,,Wait!
 Comment: 0,0:13:31.82,0:13:32.58,Regular,,0,0,0,,Huh?
 Dialogue: 0,0:13:35.58,0:13:37.48,Regular,,0,0,0,,They’re gonna do a Ri Maajon!
@@ -202,7 +204,7 @@ Dialogue: 0,0:13:46.50,0:13:48.80,Regular,,0,0,0,,The Morning Calm Ri Maajon.
 Dialogue: 0,0:13:49.90,0:13:51.05,Regular,,0,0,0,,The Morning Calm?
 Dialogue: 0,0:13:52.32,0:13:54.35,Regular,,0,0,0,,I read about it once, in an old book.
 Dialogue: 0,0:13:55.07,0:13:57.85,Regular,,0,0,0,,It is performed to bid farewell to a comrade about to depart on a journey.
-Dialogue: 0,0:13:57.85,0:14:01.11,Regular,,0,0,0,,Farewell to a comrade departing on a journey…
+Dialogue: 0,0:13:57.85,0:14:01.11,Regular,,0,0,0,,Farewell to a comrade\N departing on a journey…
 Dialogue: 0,0:14:11.12,0:14:12.47,Regular,,0,0,0,,That’s…
 Dialogue: 0,0:14:13.20,0:14:14.83,Regular,,0,0,0,,The Morning Calm Ri Maajon?
 Dialogue: 0,0:14:22.63,0:14:25.84,Regular,,0,0,0,,This reminds me of my youth…
@@ -213,7 +215,7 @@ Dialogue: 0,0:14:56.89,0:14:58.08,Regular,,0,0,0,,We shall.
 Dialogue: 0,0:15:07.63,0:15:09.63,Regular,,0,0,0,,Let us go forth, Aaeru.
 Dialogue: 0,0:15:09.63,0:15:11.64,Regular,,0,0,0,,To the place where we can be free.
 Dialogue: 0,0:15:12.77,0:15:15.68,Regular,,0,0,0,,Yeah. Let’s go, Neviril!
-Dialogue: 0,0:15:24.36,0:15:27.02,Regular,,0,0,0,,I’m sorry for calling you out here, Limone.
+Dialogue: 0,0:15:24.36,0:15:27.02,Regular,,0,0,0,,I’m sorry for calling\N you out here, Limone.
 Dialogue: 0,0:15:27.73,0:15:28.86,Regular,,0,0,0,,What is it?
 Dialogue: 0,0:15:29.64,0:15:33.07,Regular,,0,0,0,,Well… I want you to be my pair.
 Dialogue: 0,0:15:34.70,0:15:37.15,Regular,,0,0,0,,I’ve already told you no.
@@ -241,33 +243,33 @@ Dialogue: 0,0:17:16.51,0:17:19.42,Regular,,0,0,0,,Okay, Vyura. Anyway, come in.
 Dialogue: 0,0:17:19.42,0:17:20.51,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:17:25.52,0:17:27.19,Regular,,0,0,0,,You got one, too?
 Dialogue: 0,0:17:27.19,0:17:28.03,Regular,,0,0,0,,Yeah.
-Dialogue: 0,0:17:28.69,0:17:31.52,Regular,,0,0,0,,Sheesh, and the war hasn’t even started yet.
+Dialogue: 0,0:17:28.69,0:17:31.52,Regular,,0,0,0,,Sheesh, and the war\N hasn’t even started yet.
 Dialogue: 0,0:17:31.52,0:17:36.53,Regular,,0,0,0,,I guess former sibyllae get to be sent out first, at times like this.
 Dialogue: 0,0:17:36.53,0:17:37.57,Regular,,0,0,0,,Which side?
 Dialogue: 0,0:17:38.28,0:17:42.98,Regular,,0,0,0,,I was born on the other side of the border. It’ll be Argentum for me.
 Dialogue: 0,0:17:44.04,0:17:45.58,Regular,,0,0,0,,So we’re gonna be enemies, huh?
 Dialogue: 0,0:17:45.58,0:17:46.54,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:17:48.04,0:17:52.51,Regular,,0,0,0,,Well, whatever. Here, take some of these vegetables that I grew! They’re a new variety.
-Dialogue: 0,0:17:52.51,0:17:54.60,Regular,,0,0,0,,I’m aiming to hit the jackpot with these.
-Dialogue: 0,0:17:54.60,0:17:58.38,Regular,,0,0,0,,I can’t die till I get myself a cute bride!
-Dialogue: 0,0:17:59.60,0:18:02.68,Regular,,0,0,0,,Becoming male hasn’t changed you one bit, Floef!
-Dialogue: 0,0:18:03.51,0:18:06.02,Regular,,0,0,0,,Hard to say, right? You can call me Floe too.
+Dialogue: 0,0:17:52.51,0:17:54.60,Regular,,0,0,0,,I’m aiming to hit \Nthe jackpot with these.
+Dialogue: 0,0:17:54.60,0:17:58.38,Regular,,0,0,0,,I can’t die till I get\N myself a cute bride!
+Dialogue: 0,0:17:59.60,0:18:02.68,Regular,,0,0,0,,Becoming male hasn’t \Nchanged you one bit, Floef!
+Dialogue: 0,0:18:03.51,0:18:06.02,Regular,,0,0,0,,Hard to say, right? \NYou can call me Floe too.
 Dialogue: 0,0:18:15.20,0:18:17.30,Regular,,0,0,0,,The {\i1}Arcus Prima{\i0}?
 Dialogue: 0,0:18:17.30,0:18:23.03,Regular,,0,0,0,,Yeah. I just thought I might as well live in a place where I can see her.
 Dialogue: 0,0:18:23.03,0:18:25.25,Regular,,0,0,0,,A sunken luxury liner?
-Dialogue: 0,0:18:26.03,0:18:27.75,Regular,,0,0,0,,She does have a kind of elegance about her.
+Dialogue: 0,0:18:26.03,0:18:27.75,Regular,,0,0,0,,She does have a kind of \Nelegance about her.
 Dialogue: 0,0:18:28.79,0:18:29.81,Regular,,0,0,0,,Well, later!
 Dialogue: 0,0:18:29.81,0:18:33.54,Regular,,0,0,0,,Yeah, see you later… well, I guess that’s an ominous thing to say.
-Dialogue: 0,0:18:33.54,0:18:36.21,Regular,,0,0,0,,I really don’t want to see you on the battlefield.
+Dialogue: 0,0:18:33.54,0:18:36.21,Regular,,0,0,0,,I really don’t want to see \Nyou on the battlefield.
 Dialogue: 0,0:18:37.05,0:18:39.09,Regular,,0,0,0,,Okay. “Farewell,” then?
 Dialogue: 0,0:18:39.09,0:18:41.36,Regular,,0,0,0,,Yeah. Farewell.
 Dialogue: 0,0:18:41.87,0:18:42.89,Regular,,0,0,0,,Farewell.
-Dialogue: 0,0:19:04.58,0:19:09.67,Regular,,0,0,0,,I wonder why we were all so insistent about it?
-Dialogue: 0,0:19:10.53,0:19:14.09,Regular,,0,0,0,,About sending Aaeru and Neviril to another world.
+Dialogue: 0,0:19:04.58,0:19:09.67,Regular,,0,0,0,,I wonder why we were all \Nso insistent about it?
+Dialogue: 0,0:19:10.53,0:19:14.09,Regular,,0,0,0,,About sending Aaeru and \NNeviril to another world.
 Dialogue: 0,0:19:14.88,0:19:20.09,Regular,,0,0,0,,Was it because we wanted to fight against the flow of time?
-Dialogue: 0,0:19:20.72,0:19:23.01,Regular,,0,0,0,,We were frightened about becoming adults.
-Dialogue: 0,0:19:23.01,0:19:25.10,Regular,,0,0,0,,We wanted to stay as we were, as girls…
-Dialogue: 0,0:19:25.10,0:19:28.40,Regular,,0,0,0,,Was it because we projected those thoughts onto them?
+Dialogue: 0,0:19:20.72,0:19:23.01,Regular,,0,0,0,,We were frightened\N about becoming adults.
+Dialogue: 0,0:19:23.01,0:19:25.10,Regular,,0,0,0,,We wanted to stay \Nas we were, as girls…
+Dialogue: 0,0:19:25.10,0:19:28.40,Regular,,0,0,0,,Was it because we projected \Nthose thoughts onto them?
 Dialogue: 0,0:19:29.26,0:19:31.60,Regular,,0,0,0,,No, I don’t think that’s it.
 Dialogue: 0,0:19:31.60,0:19:35.11,Regular,,0,0,0,,We just wanted to carve out our names.
 Dialogue: 0,0:19:35.82,0:19:39.61,Regular,,0,0,0,,To show that we were really here.
@@ -282,3 +284,5 @@ Dialogue: 0,0:20:13.90,0:20:17.01,Regular,,0,0,0,,Our Eternal Maidens.
 Dialogue: 0,0:20:31.85,0:20:33.55,Regular,,0,0,0,,What a lovely breeze.
 Dialogue: 0,0:20:33.55,0:20:34.58,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:20:35.05,0:20:36.49,Regular,,0,0,0,,It is a nice breeze.
+Dialogue: 0,0:20:36.49,0:20:38.49,Regular,,0,0,0,,
+Dialogue: 0,0:20:38.49,0:20:40.49,Regular,,0,0,0,,
