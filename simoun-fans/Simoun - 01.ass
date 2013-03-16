@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 193
-Active Line: 197
+Scroll Position: 186
+Active Line: 187
 Video Zoom Percent: 1
 Video File: ../../raws/simoun-01.mkv
 Keyframes File: ../../scxvid/simoun-01-keyframes.txt
 Audio URI: ../../audio/simoun-01.flac
 YCbCr Matrix: TV.601
-Video Position: 34941
+Video Position: 31320
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Comment: 0,0:01:45.11,0:01:48.60,Titles,,0,0,0,,{\blur0.6}The Argentum Archipela
 Dialogue: 0,0:02:21.40,0:02:26.37,Regular,,0,0,0,,Our Archipelago has the best science and technology on Daikuuriku.
 Dialogue: 0,0:02:26.95,0:02:31.58,Regular,,0,0,0,,However, we have been unable to develop an airship that can fly above the clouds.
 Dialogue: 0,0:02:31.58,0:02:36.44,Regular,,0,0,0,,A single lightning strike would incinerate one in an instant.
-Dialogue: 0,0:02:37.42,0:02:43.74,Regular,,0,0,0,,Despite the risk, we have no choice but to fly far across the raging sea.
+Dialogue: 0,0:02:37.42,0:02:43.74,Regular,,0,0,0,,Despite the risk, we have no choice but to fly… far across the raging sea.
 Dialogue: 0,0:03:04.70,0:03:10.38,Regular,,0,0,0,,The Holy Land is a quiet and beautiful country that hides a secret.
 Dialogue: 0,0:03:10.38,0:03:16.80,Regular,,0,0,0,,Our country has tried repeatedly to invade theirs to learn it.
 Dialogue: 0,0:03:16.80,0:03:19.67,Regular,,0,0,0,,But every time we’ve tried,\Nthey’ve stopped us.
@@ -45,7 +45,7 @@ Dialogue: 0,0:03:39.90,0:03:45.15,Regular,,0,0,0,,Nothing else on Daikuuriku\Nca
 Dialogue: 0,0:03:44.32,0:03:50.29,Titles,,0,0,0,,{\blur0.6}Fallen Wings
 Comment: 0,0:03:50.62,0:03:53.30,Titles,,0,0,0,,{\blur0.6}The Holy Land of Simulacrum
 Dialogue: 0,0:04:19.40,0:04:21.56,Regular,,0,0,0,,It’s only a routine deterrence patrol.
-Dialogue: 0,0:04:21.56,0:04:25.66,Regular,,0,0,0,,But everyone in the government is here for an inspection, so we’re showing off a little.
+Dialogue: 0,0:04:21.56,0:04:25.66,Regular,,0,0,0,,But everyone in the government is here \Nfor an inspection, so we’re showing off a little.
 Dialogue: 0,0:04:45.17,0:04:46.51,Regular,,0,0,0,,Neviril-sama!
 Dialogue: 0,0:04:46.51,0:04:48.71,Regular,,0,0,0,,You should address her\Nas “Sibylla Aurea!”
 Dialogue: 0,0:04:48.71,0:04:51.08,Regular,,0,0,0,,You can almost see\Nthe golden glow around her.
@@ -75,9 +75,9 @@ Dialogue: 0,0:07:19.25,0:07:23.33,Regular,,0,0,0,,We try to create a perfect Ri 
 Dialogue: 0,0:07:24.23,0:07:27.26,Regular,,0,0,0,,We have to get stronger.
 Dialogue: 0,0:07:27.26,0:07:30.26,Regular,,0,0,0,,A lot stronger.
 Dialogue: 0,0:07:31.38,0:07:34.01,Regular,,0,0,0,,Stronger? Why?
-Dialogue: 0,0:07:40.89,0:07:43.54,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:07:40.89,0:07:43.54,Regular,,0,0,0,,Neviril! Can you hear that?
 Dialogue: 0,0:07:51.99,0:07:53.03,Regular,,0,0,0,,Isn’t that…?
-Dialogue: 0,0:08:20.14,0:08:23.52,Regular,,0,0,0,,This is Neviril of Chor Tempest. Are you okay?
+Dialogue: 0,0:08:20.14,0:08:23.52,Regular,,0,0,0,,This is Neviril, from Chor Tempest. Are you okay?
 Dialogue: 0,0:08:23.52,0:08:26.17,Regular,,0,0,0,,Shot down?\NWhose Simoun was shot down?
 Dialogue: 0,0:08:28.07,0:08:29.25,Regular,,0,0,0,,They {\i1}all{\i0} were!
 Dialogue: 0,0:08:30.73,0:08:32.51,Regular,,0,0,0,,Chor Caput has been wiped out.
@@ -105,8 +105,8 @@ Dialogue: 0,0:10:08.75,0:10:10.80,Regular,,0,0,0,,There must be some mistake.
 Dialogue: 0,0:10:10.80,0:10:12.90,Regular,,0,0,0,,Everyone knows that\Na Simoun can’t be shot down.
 Dialogue: 0,0:10:14.25,0:10:16.95,Regular,,0,0,0,,All we have to do is fly around and the enemy flees in terror…
 Dialogue: 0,0:10:17.92,0:10:19.72,Regular,,0,0,0,,…from these beautiful butterflies.
-Dialogue: 0,0:10:20.04,0:10:23.28,Regular,,0,0,0,,Neviril, let’s try\Nthe Emerald Ri Maajon.
-Dialogue: 0,0:10:23.28,0:10:27.71,Regular,,0,0,0,,That again? That’s one of the old Ri Maajons that hasn’t been analyzed!
+Dialogue: 0,0:10:19.72,0:10:23.28,Regular,,0,0,0,,Neviril, let’s try\Nthe Emerald Ri Maajon.
+Dialogue: 0,0:10:23.28,0:10:27.71,Regular,,0,0,0,,That again? That’s one of the old\N Ri Maajons that hasn’t been analyzed!
 Dialogue: 0,0:10:28.35,0:10:32.62,Regular,,0,0,0,,According to legend, the sibyllae who successfully completed the Emerald Ri Maajon
 Dialogue: 0,0:10:32.62,0:10:35.73,Regular,,0,0,0,,were taken to serve at the right hand of Tempus Spatium.
 Dialogue: 0,0:10:35.73,0:10:38.90,Regular,,0,0,0,,If we succeed at it, we can too!
@@ -120,7 +120,7 @@ Dialogue: 0,0:11:48.56,0:11:49.98,Regular,,0,0,0,,Falcon Ri Maajon.
 Dialogue: 0,0:12:09.33,0:12:13.83,Regular,,0,0,0,,They invaded our country,\Nand they’re not leaving!
 Dialogue: 0,0:12:17.21,0:12:20.76,Regular,,0,0,0,,That’s just normal flight.\NIt’s not like the Simoun at all.
 Dialogue: 0,0:12:22.17,0:12:26.14,Regular,,0,0,0,,The Simoun draw patterns in the sky with the shining trails they leave in their wake.
-Dialogue: 0,0:12:27.14,0:12:28.62,Regular,,0,0,0,,They call it “Ri Maajon.”
+Dialogue: 0,0:12:26.85,0:12:28.68,Regular,,0,0,0,,They call it “Ri Maajon.”
 Dialogue: 0,0:12:29.47,0:12:33.50,Regular,,0,0,0,,No one knows why\Nit holds such power.
 Dialogue: 0,0:12:34.39,0:12:40.05,Regular,,0,0,0,,If we could learn the secret, it would greatly advance our country’s technology.
 Dialogue: 0,0:12:40.86,0:12:45.42,Regular,,0,0,0,,But the Holy Land has kept the secrets of the Simoun closely guarded for a long time.
@@ -133,7 +133,7 @@ Dialogue: 0,0:13:12.84,0:13:14.23,Regular,,0,0,0,,Therefore, they can be shot do
 Dialogue: 0,0:13:14.23,0:13:15.52,Regular,,0,0,0,,We can bring them down!
 Dialogue: 0,0:13:16.81,0:13:19.40,Regular,,0,0,0,,Someday the secret of the\NRi Maajon will be revealed,
 Dialogue: 0,0:13:20.06,0:13:24.47,Regular,,0,0,0,,and the Holy Land’s monopoly of the Simoun technology will come to an end.
-Dialogue: 0,0:13:25.99,0:13:28.00,Regular,,0,0,0,,Oh, who cares how many\Nof them there are?
+Dialogue: 0,0:13:25.99,0:13:28.00,Regular,,0,0,0,,Oh, who cares how many there are?
 Dialogue: 0,0:13:28.00,0:13:31.20,Regular,,0,0,0,,We’ll get rid of them all!\NShark Ri Maajon!
 Dialogue: 0,0:13:43.92,0:13:45.63,Regular,,0,0,0,,Iron Ri Maajon, all six of us!
 Dialogue: 0,0:13:45.63,0:13:46.84,Regular,,0,0,0,,Understood!
@@ -145,7 +145,7 @@ Dialogue: 0,0:14:23.88,0:14:26.92,Regular,,0,0,0,,No, Amuria. We don’t\Nknow w
 Dialogue: 0,0:14:27.67,0:14:29.23,Regular,,0,0,0,,I want to get stronger.
 Dialogue: 0,0:14:29.23,0:14:31.14,Regular,,0,0,0,,We need to get stronger, Neviril!
 Dialogue: 0,0:14:31.54,0:14:33.33,Regular,,0,0,0,,I don’t want things to be like this!
-Dialogue: 0,0:14:33.33,0:14:35.71,Regular,,0,0,0,,Look at all of these people\Ntrying to interfere with us!
+Dialogue: 0,0:14:33.33,0:14:35.71,Regular,,0,0,0,,Look at all these people\Ntrying to interfere with us!
 Dialogue: 0,0:14:35.71,0:14:38.19,Regular,,0,0,0,,They’re trying to take\Nour wings from us!
 Dialogue: 0,0:14:38.19,0:14:40.65,Regular,,0,0,0,,That’s why we have to fight them!
 Dialogue: 0,0:14:44.73,0:14:45.78,Regular,,0,0,0,,Amuria!
@@ -156,14 +156,13 @@ Dialogue: 0,0:15:08.55,0:15:11.72,Regular,,0,0,0,,Let’s go… to the place\Nwh
 Dialogue: 0,0:15:51.13,0:15:54.55,Regular,,0,0,0,,Neviril! We’re going to be much stronger!
 Dialogue: 0,0:15:54.55,0:15:55.60,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:16:03.81,0:16:06.40,Regular,,0,0,0,,She was so beautiful…
-Dialogue: 0,0:16:07.15,0:16:08.78,Regular,,0,0,0,,Neviril! Don’t look at them!
-Dialogue: 0,0:16:08.78,0:16:10.36,Regular,,0,0,0,,If you look them in the eye, you won’t be able to kill them!
+Dialogue: 0,0:16:07.15,0:16:10.36,Regular,,0,0,0,,Neviril, don’t look! If you see their eyes,\N you won’t be able to kill them!
 Dialogue: 0,0:16:14.11,0:16:15.53,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:16:18.58,0:16:21.45,Regular,,0,0,0,,The Emerald Ri Maajon… failed.
 Dialogue: 0,0:16:22.29,0:16:23.96,Regular,,0,0,0,,What is {\i1}that{\i0}?
 Dialogue: 0,0:16:39.60,0:16:40.89,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:16:41.40,0:16:44.60,Regular,,0,0,0,,It’s the wrath of Tempus Spatium!
-Dialogue: 0,0:16:46.02,0:16:47.79,Regular,,0,0,0,,Simoun are just machines!
+Dialogue: 0,0:16:46.02,0:16:47.79,Regular,,0,0,0,,The Simoun are just machines!
 Dialogue: 0,0:16:48.31,0:16:49.82,Regular,,0,0,0,,They’re not “the chariots of the gods!”
 Dialogue: 0,0:16:50.42,0:16:54.13,Regular,,0,0,0,,Our country {\i1}will{\i0} learn\Nthese demons’ secrets!
 Dialogue: 0,0:16:55.57,0:17:00.52,Regular,,0,0,0,,But… what if… they really are…?
@@ -183,7 +182,7 @@ Dialogue: 0,0:18:46.47,0:18:50.01,Regular,,0,0,0,,I want to be as gallant\Nas yo
 Dialogue: 0,0:18:50.01,0:18:53.12,Regular,,0,0,0,,Your wish for the Spring isn’t something to be shared with others.
 Dialogue: 0,0:18:53.12,0:18:53.94,Regular,,0,0,0,,Go on, then.
 Dialogue: 0,0:19:05.91,0:19:09.29,Regular,,0,0,0,,Are you going to sit here and watch her door all day, senpai?
-Dialogue: 0,0:19:10.50,0:19:14.25,Regular,,0,0,0,,There’s nothing that I can do to heal that sibylla’s pain…
+Dialogue: 0,0:19:10.50,0:19:14.25,Regular,,0,0,0,,There’s nothing I can do\N to heal that sibylla’s pain…
 Dialogue: 0,0:19:15.30,0:19:18.20,Regular,,0,0,0,,…except to grieve alongside her.
 Dialogue: 0,0:19:31.52,0:19:32.63,Regular,,0,0,0,,A cadet?
 Dialogue: 0,0:19:33.65,0:19:36.02,Regular,,0,0,0,,This is the sibyllae’s area. Get out!
@@ -195,7 +194,7 @@ Dialogue: 0,0:19:56.98,0:19:59.67,Regular,,0,0,0,,and more are leaving\Nto go to
 Dialogue: 0,0:19:59.67,0:20:02.54,Regular,,0,0,0,,They’re no longer\Nthe elite, are they?
 Dialogue: 0,0:20:02.54,0:20:03.84,Regular,,0,0,0,,Dux!
 Dialogue: 0,0:20:04.34,0:20:08.10,Regular,,0,0,0,,What’s wrong, Sibylla Floe, Sibylla Limone?
-Dialogue: 0,0:20:08.10,0:20:11.85,Regular,,0,0,0,,The thing is, this kid—wait,\Nshe’s a sybilla? But…!
+Dialogue: 0,0:20:08.10,0:20:11.85,Regular,,0,0,0,,The thing is, this kid— wait,\Nshe’s a sybilla? But…!
 Dialogue: 0,0:20:11.85,0:20:16.06,Regular,,0,0,0,,She may be young, but she has special permission to join Chor Tempest.
 Dialogue: 0,0:20:21.28,0:20:25.63,Regular,,0,0,0,,Isn’t it a little strange for a cadet that young to become a sibylla?
 Dialogue: 0,0:20:25.63,0:20:29.77,Regular,,0,0,0,,If we aren’t willing to go even that far, we won’t be able to protect the Simoun.
@@ -211,17 +210,17 @@ Dialogue: 0,0:21:17.84,0:21:19.63,Regular,,0,0,0,,We’re going to send out Chor
 Dialogue: 0,0:21:20.09,0:21:22.33,Regular,,0,0,0,,I don’t think that’s possible.
 Dialogue: 0,0:21:22.33,0:21:25.02,Regular,,0,0,0,,I’m pretty sure Neviril won’t want to.
 Dialogue: 0,0:21:25.02,0:21:26.63,Regular,,0,0,0,,I think so too.
-Dialogue: 0,0:21:27.30,0:21:28.33,Regular,,0,0,0,,Neviril?
+Dialogue: 0,0:21:27.30,0:21:28.55,Regular,,0,0,0,,Neviril?
 Dialogue: 0,0:21:29.22,0:21:31.31,Regular,,0,0,0,,For that matter,\NParaietta isn’t here, either.
-Dialogue: 0,0:21:31.70,0:21:33.81,Regular,,0,0,0,,We’re in no state to fly right now.
+Dialogue: 0,0:21:31.31,0:21:33.81,Regular,,0,0,0,,We’re in no condition to fly right now.
 Dialogue: 0,0:21:33.81,0:21:35.39,Regular,,0,0,0,,I’m scared.
 Dialogue: 0,0:21:35.98,0:21:39.46,Regular,,0,0,0,,We don’t have anything\Nbut the Simoun to fight with.
-Dialogue: 0,0:21:39.46,0:21:42.88,Regular,,0,0,0,,But would Tempus Spatium forgive us if we did such a thing?
-Dialogue: 0,0:21:43.57,0:21:44.99,Regular,,0,0,0,,I can fly.
-Dialogue: 0,0:21:46.28,0:21:47.32,Regular,,0,0,0,,I’ll go!
+Dialogue: 0,0:21:39.46,0:21:42.94,Regular,,0,0,0,,But would Tempus Spatium forgive us if we did such a thing?
+Dialogue: 0,0:21:43.57,0:21:45.36,Regular,,0,0,0,,I can fly.
+Dialogue: 0,0:21:46.28,0:21:47.32,Regular,,0,0,0,,I’m going!
 Dialogue: 0,0:21:48.03,0:21:50.41,Regular,,0,0,0,,Wait! Sibylla Aaeru!
 Dialogue: 0,0:21:52.03,0:21:53.95,Regular,,0,0,0,,There’s no way she’s a priestess.
-Dialogue: 0,0:22:11.93,0:22:14.62,Regular,,0,0,0,,That’s one of the\Npractice Simile, isn’t it?
+Dialogue: 0,0:22:11.93,0:22:14.62,Regular,,0,0,0,,That’s a practice Simile, isn’t it?
 Dialogue: 0,0:22:14.62,0:22:17.02,Regular,,0,0,0,,She can’t perform\NRi Maajons with that!
 Dialogue: 0,0:22:27.15,0:22:33.06,Regular,,0,0,0,,You guys can stay behind and pray.\NI came here to fight!
 Dialogue: 0,0:24:05.00,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
