@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 216
+Active Line: 225
 Video Zoom Percent: 0.75
 Video File: ../../raws/simoun-04.mkv
 Keyframes File: ../../scxvid/simoun-04-keyframes.txt
 Audio URI: ../../audio/simoun-04.flac
 YCbCr Matrix: TV.601
-Video Position: 0
+Video Position: 32028
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,8 +37,7 @@ Dialogue: 0,0:02:18.25,0:02:21.70,Regular,,0,0,0,,…and that concludes\Nthe pat
 Dialogue: 0,0:02:24.88,0:02:26.47,Regular,,0,0,0,,Chor Tempest?
 Dialogue: 0,0:02:26.47,0:02:28.96,Regular,,0,0,0,,Did they have\Npermission to take off?
 Dialogue: 0,0:02:32.56,0:02:34.16,Regular,,0,0,0,,We’re going to keep flying?
-Dialogue: 0,0:02:34.16,0:02:36.40,Regular,,0,0,0,,Weren’t you the one who said that if we didn’t fly a Simoun together,
-Dialogue: 0,0:02:36.40,0:02:38.73,Regular,,0,0,0,,we wouldn’t know whether\Nwe were compatible or not?
+Dialogue: 0,0:02:34.16,0:02:38.73,Regular,,0,0,0,,Didn't you say we had to fly a Simoun together\N to find out if we were compatible?
 Dialogue: 0,0:02:38.73,0:02:40.35,Regular,,0,0,0,,This is plenty!
 Dialogue: 0,0:02:40.35,0:02:42.90,Regular,,0,0,0,,You’re amazing, Aaeru.
 Dialogue: 0,0:02:42.90,0:02:44.35,Regular,,0,0,0,,So can’t we—
@@ -51,11 +50,11 @@ Dialogue: 0,0:03:15.79,0:03:18.58,Regular,,0,0,0,,Morinas, concentrate!
 Dialogue: 0,0:03:18.58,0:03:19.86,Regular,,0,0,0,,I know!
 Dialogue: 0,0:03:19.86,0:03:21.47,Regular,,0,0,0,,Wait, wait…
 Dialogue: 0,0:04:07.10,0:04:13.85,Regular,,0,0,0,,I thought I ordered Chor Tempest to stand down until the rest of the new recruits arrive, Sibylla Aaeru.
-Dialogue: 0,0:04:15.04,0:04:17.58,Regular,,0,0,0,,If we don’t practice while we can, we won’t be ready for the real thing.
+Dialogue: 0,0:04:14.69,0:04:17.58,Regular,,0,0,0,,If we don’t practice while we can,\N we won’t be ready for the real thing.
 Dialogue: 0,0:04:17.58,0:04:18.61,Regular,,0,0,0,,Then we’ll really be in trouble.
-Dialogue: 0,0:04:18.61,0:04:23.20,Regular,,0,0,0,,Then use a Simile—and get permission first!
-Dialogue: 0,0:04:25.13,0:04:27.28,Regular,,0,0,0,,Aaeru! Morinas!
-Dialogue: 0,0:04:33.68,0:04:35.17,Regular,,0,0,0,,Why were you offering\Nprayers without permission?
+Dialogue: 0,0:04:18.61,0:04:23.20,Regular,,0,0,0,,Then use a Simile… after you get permission!
+Dialogue: 0,0:04:25.13,0:04:27.78,Regular,,0,0,0,,Aaeru! Morinas!
+Dialogue: 0,0:04:33.46,0:04:35.17,Regular,,0,0,0,,Why were you offering\Nprayers without permission?
 Dialogue: 0,0:04:35.55,0:04:37.22,Regular,,0,0,0,,That was no prayer.
 Dialogue: 0,0:04:37.22,0:04:38.67,Regular,,0,0,0,,We were training for battle.
 Dialogue: 0,0:04:41.56,0:04:43.42,Regular,,0,0,0,,Why are you yelling at us, Paraietta?
@@ -65,7 +64,7 @@ Dialogue: 0,0:04:52.52,0:04:54.95,Regular,,0,0,0,,Until she recovers,\NI am acti
 Dialogue: 0,0:04:54.95,0:04:55.87,Regular,,0,0,0,,Oh?
 Dialogue: 0,0:04:55.87,0:05:02.36,Regular,,0,0,0,,Do Paraietta and the Sibylla Aurea have {\i1}that{\i0} kind of special relationship?
 Dialogue: 0,0:05:20.35,0:05:22.63,Regular,,0,0,0,,Aaeru! You forgot something!
-Dialogue: 0,0:05:26.36,0:05:31.07,Regular,,0,0,0,,A kiss of gratitude, to thank Tempus Spatium after a Simoun flight.
+Dialogue: 0,0:05:26.36,0:05:31.07,Regular,,0,0,0,,A kiss of gratitude, to thank \NTempus Spatium after a Simoun flight.
 Dialogue: 0,0:05:31.07,0:05:33.20,Regular,,0,0,0,,I don’t care about stuff like that.
 Dialogue: 0,0:05:33.20,0:05:36.06,Regular,,0,0,0,,You don’t like doing it with me?
 Dialogue: 0,0:05:41.58,0:05:44.14,Regular,,0,0,0,,Wapourif… I’m sorry.
@@ -115,13 +114,13 @@ Dialogue: 0,0:08:40.72,0:08:43.76,Regular,,0,0,0,,Look, since Chor Tempest\Nhas 
 Dialogue: 0,0:08:43.76,0:08:46.27,Regular,,0,0,0,,our choir has been\Nsplit into two shifts,
 Dialogue: 0,0:08:46.27,0:08:48.77,Regular,,0,0,0,,and we’ve been flying\Npatrols around the clock.
 Dialogue: 0,0:08:48.77,0:08:52.48,Regular,,0,0,0,,We’re in no position to slack off\Nand play around like you.
-Dialogue: 0,0:08:52.48,0:08:53.96,Regular,,0,0,0,,Just let me sleep.
+Dialogue: 0,0:08:52.48,0:08:53.72,Regular,,0,0,0,,Just let me sleep.
 Dialogue: 0,0:09:05.24,0:09:09.06,Regular,,0,0,0,,I could show you the kind of flying that would satisfy even you.
 Dialogue: 0,0:09:09.48,0:09:10.52,Regular,,0,0,0,,Maybe you could.
-Dialogue: 0,0:09:10.82,0:09:11.86,Regular,,0,0,0,,C’mon, then!
+Dialogue: 0,0:09:10.52,0:09:11.86,Regular,,0,0,0,,C’mon, then!
 Dialogue: 0,0:09:27.10,0:09:29.54,Regular,,0,0,0,,If we go now, then everyone\Nshould be in the cafeteria.
 Dialogue: 0,0:09:29.54,0:09:30.71,Regular,,0,0,0,,But…
-Dialogue: 0,0:09:31.48,0:09:32.56,Regular,,0,0,0,,It’s be fine.
+Dialogue: 0,0:09:31.48,0:09:32.56,Regular,,0,0,0,,It’ll be fine.
 Dialogue: 0,0:09:32.56,0:09:34.72,Regular,,0,0,0,,If it’s dinner you’re worried about,\NI brought plenty.
 Dialogue: 0,0:09:34.72,0:09:36.72,Regular,,0,0,0,,That’s not the problem!
 Dialogue: 0,0:09:37.22,0:09:39.30,Regular,,0,0,0,,What a pain.
@@ -133,20 +132,20 @@ Dialogue: 0,0:10:02.63,0:10:04.49,Regular,,0,0,0,,Which ones do you like?
 Dialogue: 0,0:10:04.49,0:10:06.26,Regular,,0,0,0,,I don’t know…
 Dialogue: 0,0:10:06.26,0:10:08.43,Regular,,0,0,0,,There’s got to be something, right?
 Dialogue: 0,0:10:08.43,0:10:11.75,Regular,,0,0,0,,The Silver Ri Maajon, I guess…
-Dialogue: 0,0:10:11.75,0:10:15.90,Regular,,0,0,0,,Yeah, that’s a good one!
-Dialogue: 0,0:10:15.90,0:10:19.55,Regular,,0,0,0,,But since we’re going to all this trouble anyway,\Nlet’s go find the enemy before we do it.
+Dialogue: 0,0:10:11.75,0:10:15.59,Regular,,0,0,0,,Yeah, that’s a good one!
+Dialogue: 0,0:10:15.59,0:10:19.55,Regular,,0,0,0,,But since we’re going to all this trouble anyway,\Nlet’s go find the enemy before we do it.
 Dialogue: 0,0:10:20.09,0:10:22.10,Regular,,0,0,0,,You’re planning to get into a fight?
-Dialogue: 0,0:10:22.10,0:10:29.48,Regular,,0,0,0,,If we do, they can’t keep our choir off duty forever, right?
+Dialogue: 0,0:10:22.10,0:10:29.48,Regular,,0,0,0,,If we do, they can’t keep \Nour choir off duty forever, right?
 Dialogue: 0,0:10:30.04,0:10:31.89,Regular,,0,0,0,,You think so?
 Dialogue: 0,0:10:32.94,0:10:33.98,Regular,,0,0,0,,Aaeru!
 Dialogue: 0,0:10:46.16,0:10:47.41,Regular,,0,0,0,,Isn’t that…
 Dialogue: 0,0:10:48.04,0:10:49.08,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:10:53.68,0:10:55.09,Regular,,0,0,0,,It’s a Simoun.
-Dialogue: 0,0:10:55.09,0:11:01.09,Regular,,0,0,0,,The ones on patrol right now are the reservists from Chor Caput, right?
-Dialogue: 0,0:11:01.09,0:11:02.90,Regular,,0,0,0,,What would they\Nbe doing down there?
+Dialogue: 0,0:10:55.09,0:11:00.72,Regular,,0,0,0,,The ones on patrol right now are the reservists from Chor Caput, right?
+Dialogue: 0,0:11:00.72,0:11:02.90,Regular,,0,0,0,,What would they\Nbe doing down there?
 Dialogue: 0,0:11:02.90,0:11:05.35,Regular,,0,0,0,,They might have been\Nattacked by the enemy.
-Dialogue: 0,0:11:05.35,0:11:07.73,Regular,,0,0,0,,Then they’ll have\Ninformation about the enemy.
-Dialogue: 0,0:11:07.73,0:11:10.19,Regular,,0,0,0,,Let’s make sure that\Nthe area is secure first.
+Dialogue: 0,0:11:05.35,0:11:07.73,Regular,,0,0,0,,Then they’ll have information\N about the enemy.
+Dialogue: 0,0:11:07.73,0:11:10.19,Regular,,0,0,0,,First, let’s make sure \Nthat the area is secure.
 Dialogue: 0,0:11:14.00,0:11:15.46,Regular,,0,0,0,,There’s only one of them!
 Dialogue: 0,0:11:15.46,0:11:17.00,Regular,,0,0,0,,Fortune is smiling on me.
 Dialogue: 0,0:11:17.00,0:11:19.03,Regular,,0,0,0,,This will be my final—
@@ -154,14 +153,14 @@ Dialogue: 0,0:11:40.48,0:11:42.18,Regular,,0,0,0,,It was Aaeru after all!
 Dialogue: 0,0:11:42.18,0:11:44.59,Regular,,0,0,0,,And this time she took\NLimone with her!
 Dialogue: 0,0:11:44.59,0:11:46.15,Regular,,0,0,0,,Limone?
 Dialogue: 0,0:11:46.15,0:11:47.72,Regular,,0,0,0,,But she’s my pair…
-Dialogue: 0,0:11:47.72,0:11:50.93,Regular,,0,0,0,,I got dumped, too.
+Dialogue: 0,0:11:47.72,0:11:49.81,Regular,,0,0,0,,I got dumped, too.
 Dialogue: 0,0:11:50.93,0:11:53.60,Regular,,0,0,0,,It’s not really about being dumped…
 Dialogue: 0,0:11:54.29,0:11:56.00,Regular,,0,0,0,,Flying without permission again?
 Dialogue: 0,0:11:56.00,0:11:58.07,Regular,,0,0,0,,Must be nice to be in a choir\Nwith so much free time.
 Dialogue: 0,0:11:58.55,0:12:01.00,Regular,,0,0,0,,Chor Tempest is going to\Nget dissolved for this.
 Dialogue: 0,0:12:01.00,0:12:02.76,Regular,,0,0,0,,Looks like we’re going to get busier.
 Dialogue: 0,0:12:02.76,0:12:04.88,Regular,,0,0,0,,Shouldn’t we report this to the dux?
-Dialogue: 0,0:12:04.88,0:12:07.66,Regular,,0,0,0,,If we don’t bring them back, we’ll all be held responsible.
+Dialogue: 0,0:12:04.88,0:12:08.08,Regular,,0,0,0,,If we don’t bring them back, we’ll all be held responsible.
 Dialogue: 0,0:12:08.08,0:12:10.20,Regular,,0,0,0,,Why don’t we just leave them be?
 Dialogue: 0,0:12:12.39,0:12:14.87,Regular,,0,0,0,,If they want to fly, then let them.
 Dialogue: 0,0:12:16.14,0:12:18.52,Regular,,0,0,0,,They’re sure to be back\Nby morning, right?
@@ -173,8 +172,8 @@ Dialogue: 0,0:12:55.56,0:12:57.21,Regular,,0,0,0,,A fake?
 Dialogue: 0,0:13:00.59,0:13:01.76,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:13:02.71,0:13:03.76,Regular,,0,0,0,,Aaeru!
 Dialogue: 0,0:13:04.21,0:13:05.43,Regular,,0,0,0,,You bastard…!
-Dialogue: 0,0:13:13.16,0:13:16.19,Regular,,0,0,0,,That’s right, we’re Simoun sibyllae.
-Dialogue: 0,0:13:26.61,0:13:31.16,Regular,,0,0,0,,The pollution is eating into our bodies.
+Dialogue: 0,0:13:12.68,0:13:16.19,Regular,,0,0,0,,That’s right, we’re Simoun sibyllae.
+Dialogue: 0,0:13:26.61,0:13:31.66,Regular,,0,0,0,,The pollution is eating into our bodies.
 Dialogue: 0,0:13:32.34,0:13:34.93,Regular,,0,0,0,,We need new technologies.
 Dialogue: 0,0:13:34.93,0:13:38.14,Regular,,0,0,0,,The secret of the Simoun,\Nkept hidden by the Theocracy…
 Dialogue: 0,0:13:38.14,0:13:40.14,Regular,,0,0,0,,If we can obtain that…
@@ -183,7 +182,7 @@ Dialogue: 0,0:14:01.54,0:14:02.96,Regular,,0,0,0,,I’ve done it!
 Dialogue: 0,0:14:02.96,0:14:05.28,Regular,,0,0,0,,I’ve captured a Simoun!
 Dialogue: 0,0:14:05.28,0:14:07.94,Regular,,0,0,0,,I’m not just going to\Nretire from the military…
 Dialogue: 0,0:14:09.55,0:14:11.95,Regular,,0,0,0,,Glory to the Archipelago!
-Dialogue: 0,0:14:19.67,0:14:20.71,Regular,,0,0,0,,I’m telling you, it won’t work!
+Dialogue: 0,0:14:19.54,0:14:20.71,Regular,,0,0,0,,I’m telling you, it won’t work!
 Dialogue: 0,0:14:21.43,0:14:26.26,Regular,,0,0,0,,You Islanders don’t have the divine protection of Tempus Spatium!
 Dialogue: 0,0:14:26.26,0:14:30.61,Regular,,0,0,0,,The only ones who can pilot a Simoun are priestesses who haven’t gone to the Spring!
 Dialogue: 0,0:14:30.61,0:14:35.22,Regular,,0,0,0,,Those like us, who haven’t chosen whether to be male or female!
@@ -204,7 +203,7 @@ Dialogue: 0,0:15:59.73,0:16:03.37,Regular,,0,0,0,,If you can’t decide,\NOnashi
 Dialogue: 0,0:16:03.37,0:16:05.71,Regular,,0,0,0,,It’s even worse if\Nsomeone decides for me!
 Dialogue: 0,0:16:05.71,0:16:07.16,Regular,,0,0,0,,No! No way! Absolutely not!
 Dialogue: 0,0:16:07.16,0:16:09.69,Regular,,0,0,0,,I can’t afford to make\Nany mistakes right now!
-Dialogue: 0,0:16:10.67,0:16:13.28,Regular,,0,0,0,,I have to become the best\NSimoun sibylla of them all,
+Dialogue: 0,0:16:10.49,0:16:13.28,Regular,,0,0,0,,I have to become the best\NSimoun sibylla of them all,
 Dialogue: 0,0:16:14.21,0:16:16.36,Regular,,0,0,0,,because as long as I fly a Simoun,
 Dialogue: 0,0:16:16.36,0:16:18.24,Regular,,0,0,0,,I won’t have to go to the Spring.
 Dialogue: 0,0:16:22.97,0:16:25.63,Regular,,0,0,0,,Hey, young ladies,
@@ -223,39 +222,40 @@ Dialogue: 0,0:17:59.40,0:18:02.26,Regular,,0,0,0,,What the hell is wrong with yo
 Dialogue: 0,0:18:08.52,0:18:11.37,Regular,,0,0,0,,I’m sorry, ladies…
 Dialogue: 0,0:18:11.37,0:18:13.29,Regular,,0,0,0,,I can’t give this back.
 Dialogue: 0,0:18:13.29,0:18:14.83,Regular,,0,0,0,,It’s mine.
-Dialogue: 0,0:18:14.83,0:18:20.30,Regular,,0,0,0,,If I can just get this home, it will mean…
+Dialogue: 0,0:18:14.83,0:18:17.20,Regular,,0,0,0,,If I can just get this home, it will mean…
+Dialogue: 0,0:18:17.20,0:18:20.30,Regular,,0,0,0,,the dawn of a new age… for my country…
 Dialogue: 0,0:18:20.30,0:18:22.87,Regular,,0,0,0,,The skies… will clear…
 Dialogue: 0,0:18:24.55,0:18:27.87,Regular,,0,0,0,,I have to… no matter what…
 Dialogue: 0,0:18:36.40,0:18:39.69,Regular,,0,0,0,,I told you, you can’t make the Simoun fly.
-Dialogue: 0,0:18:39.69,0:18:44.60,Regular,,0,0,0,,His Islander friends might come to pick him up, using their aircraft…
+Dialogue: 0,0:18:39.69,0:18:44.60,Regular,,0,0,0,,His Islander friends might come \Nto pick him up, using their aircraft…
 Dialogue: 0,0:18:46.66,0:18:50.98,Regular,,0,0,0,,I won’t hand the Simoun\Nover to them, ever.
-Dialogue: 0,0:19:23.61,0:19:25.54,Regular,,0,0,0,,Help me get him out.
-Dialogue: 0,0:19:25.54,0:19:26.81,Regular,,0,0,0,,We need to hurry back.
+Dialogue: 0,0:19:23.61,0:19:25.31,Regular,,0,0,0,,Help me get him out.
+Dialogue: 0,0:19:25.31,0:19:26.81,Regular,,0,0,0,,We need to hurry back.
 Dialogue: 0,0:19:34.29,0:19:36.15,Regular,,0,0,0,,He’s gotten really stiff…
 Dialogue: 0,0:19:36.15,0:19:38.36,Regular,,0,0,0,,Let go, let go, let go!
 Dialogue: 0,0:19:40.09,0:19:42.11,Regular,,0,0,0,,Stop it! You’re going to break something!
-Dialogue: 0,0:19:46.70,0:19:50.12,Regular,,0,0,0,,Someone will probably\Ncome looking for us.
-Dialogue: 0,0:19:50.12,0:19:51.76,Regular,,0,0,0,,When they get here,\Nthey’ll be able to—
+Dialogue: 0,0:19:46.70,0:19:49.91,Regular,,0,0,0,,Someone will probably\Ncome looking for us.
+Dialogue: 0,0:19:49.91,0:19:51.76,Regular,,0,0,0,,When they get here,\Nthey’ll be able to—
 Dialogue: 0,0:19:51.76,0:19:52.67,Regular,,0,0,0,,No.
-Dialogue: 0,0:19:53.25,0:19:55.86,Regular,,0,0,0,,We don’t know when\Nthe enemy will show up.
-Dialogue: 0,0:19:55.86,0:19:57.90,Regular,,0,0,0,,We’ve got to get back\Nin the air as soon as we can!
+Dialogue: 0,0:19:53.25,0:19:55.63,Regular,,0,0,0,,We don’t know when\Nthe enemy will show up.
+Dialogue: 0,0:19:55.63,0:19:57.90,Regular,,0,0,0,,We’ve got to get back\Nin the air as soon as we can!
 Dialogue: 0,0:19:57.90,0:20:02.18,Regular,,0,0,0,,Besides, there’s no way I can report that I let myself get captured.
 Dialogue: 0,0:20:04.74,0:20:07.51,Regular,,0,0,0,,If I cut his hands off the controls…
 Dialogue: 0,0:20:09.99,0:20:12.06,Regular,,0,0,0,,There’s nothing else we can do, is there?
 Dialogue: 0,0:20:13.33,0:20:15.52,Regular,,0,0,0,,It can’t be helped.
-Dialogue: 0,0:20:16.46,0:20:18.02,Regular,,0,0,0,,Limone, go wait over there, okay?
+Dialogue: 0,0:20:16.19,0:20:18.02,Regular,,0,0,0,,Limone, go wait over there, okay?
 Dialogue: 0,0:20:19.63,0:20:22.03,Regular,,0,0,0,,Hurry! Get out of here!
 Dialogue: 0,0:21:03.13,0:21:05.88,Regular,,0,0,0,,Limone! Limone!
 Dialogue: 0,0:21:05.88,0:21:07.95,Regular,,0,0,0,,Help me move him, Limone!
-Dialogue: 0,0:21:08.44,0:21:09.68,Regular,,0,0,0,,Are you still awake?
-Dialogue: 0,0:21:09.68,0:21:12.70,Regular,,0,0,0,,Limone! Limone!
-Dialogue: 0,0:21:50.05,0:21:52.49,Regular,,0,0,0,,I’ve screwed things up\Nfor you again, haven’t I?
-Dialogue: 0,0:21:53.51,0:21:56.04,Regular,,0,0,0,,We’ll do the cleanup ourselves,\Nto apologize to you.
+Dialogue: 0,0:21:07.95,0:21:09.68,Regular,,0,0,0,,Are you still awake?
+Dialogue: 0,0:21:09.68,0:21:12.54,Regular,,0,0,0,,Limone! Limone!
+Dialogue: 0,0:21:49.53,0:21:52.49,Regular,,0,0,0,,I’ve screwed things up\Nfor you again, haven’t I?
+Dialogue: 0,0:21:53.51,0:21:56.04,Regular,,0,0,0,,We’ll clean it up ourselves,\Nto apologize to you.
 Dialogue: 0,0:21:56.04,0:21:59.23,Regular,,0,0,0,,You don’t have to\Ndo that, Sibylla Aaeru.
-Dialogue: 0,0:21:59.23,0:22:01.23,Regular,,0,0,0,,That’s okay—we want to do it!
+Dialogue: 0,0:21:59.23,0:22:01.23,Regular,,0,0,0,,That’s okay. We want to do it!
 Dialogue: 0,0:22:01.23,0:22:03.00,Regular,,0,0,0,,Limone, let’s get started.
-Dialogue: 0,0:22:11.14,0:22:15.80,Regular,,0,0,0,,I see that they’re cleaning off\Nthe Simoun by themselves.
-Dialogue: 0,0:22:15.80,0:22:18.85,Regular,,0,0,0,,It looks like they’re starting to see themselves as priestesses.
+Dialogue: 0,0:22:11.14,0:22:15.80,Regular,,0,0,0,,I see that they’re cleaning\Nthe Simoun themselves.
+Dialogue: 0,0:22:15.80,0:22:18.85,Regular,,0,0,0,,It looks like they’re starting \Nto see themselves as priestesses.
 Dialogue: 0,0:22:19.40,0:22:20.44,Regular,,0,0,0,,Maybe…
 Dialogue: 0,0:22:25.88,0:22:29.99,Regular,,0,0,0,,I’m sorry for getting you so dirty.
 Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
