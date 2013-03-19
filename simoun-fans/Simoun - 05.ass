@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 196
+Active Line: 205
 Video Zoom Percent: 0.75
 Video File: ../../raws/simoun-05.mkv
 Keyframes File: ../../scxvid/simoun-05-keyframes.txt
 Audio URI: ../../audio/simoun-05.flac
 YCbCr Matrix: TV.601
-Video Position: 0
+Video Position: 31997
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,11 +47,11 @@ Dialogue: 0,0:02:51.41,0:02:54.55,Regular,,0,0,0,,They let her join us because s
 Dialogue: 0,0:02:54.55,0:02:55.48,Regular,,0,0,0,,Floe…
 Dialogue: 0,0:02:55.48,0:02:58.49,Regular,,0,0,0,,I feel sorry for Aaeru.
 Dialogue: 0,0:03:10.50,0:03:16.50,Titles,,90,0,0,,{\blur0.6}White Solitude
-Dialogue: 0,0:03:24.05,0:03:28.80,Regular,,0,0,0,,I had hoped that Chor Tempest would have recovered by now, but they haven’t.
+Dialogue: 0,0:03:24.05,0:03:28.80,Regular,,0,0,0,,I hoped that Chor Tempest would recover by now, but they haven’t.
 Dialogue: 0,0:03:28.80,0:03:32.02,Regular,,0,0,0,,You’ve seen what\NChor Tempest is like now.
 Dialogue: 0,0:03:32.63,0:03:37.57,Regular,,0,0,0,,You were the only survivor from Chor Dextra.\NI’d like to hear your thoughts.
 Dialogue: 0,0:03:39.06,0:03:42.71,Regular,,0,0,0,,The situation certainly\Ndoesn’t look good.
-Dialogue: 0,0:03:42.71,0:03:47.58,Regular,,0,0,0,,I can see that they’re a far cry from the elite choir that they once were.
+Dialogue: 0,0:03:42.71,0:03:47.58,Regular,,0,0,0,,I can see that they’re a far cry from the elite choir they once were.
 Dialogue: 0,0:03:47.58,0:03:51.53,Regular,,0,0,0,,In their current state, they can barely handle daytime shifts.
 Dialogue: 0,0:03:51.53,0:03:54.87,Regular,,0,0,0,,It doesn’t look like we’ll be able to return them to night duty for a while.
 Dialogue: 0,0:03:54.87,0:03:57.47,Regular,,0,0,0,,We need them back\Nat full strength right away.
@@ -59,9 +59,9 @@ Dialogue: 0,0:03:57.47,0:04:00.13,Regular,,0,0,0,,That’s why we called you her
 Dialogue: 0,0:04:00.13,0:04:03.11,Regular,,0,0,0,,Can you do it, Sibylla Dominura?
 Dialogue: 0,0:04:04.21,0:04:06.60,Regular,,0,0,0,,That’s why I came here.
 Dialogue: 0,0:04:07.29,0:04:09.89,Regular,,0,0,0,,Hurry up and run checks\Non the helical motors!
-Dialogue: 0,0:04:10.42,0:04:12.28,Regular,,0,0,0,,And don’t forget to clean\Nthe Simoun gems as well!
+Dialogue: 0,0:04:10.42,0:04:12.89,Regular,,0,0,0,,And don’t forget to clean\Nthe Simoun gems as well!
 Dialogue: 0,0:04:16.43,0:04:18.90,Regular,,0,0,0,,Hey! Limone, what were you doing?
-Dialogue: 0,0:04:19.49,0:04:23.65,Regular,,0,0,0,,Don’t screw Aaeru up like that! If you’re not going to do it right, you should quit.
+Dialogue: 0,0:04:18.90,0:04:23.65,Regular,,0,0,0,,Don’t screw Aaeru up like that! If you’re not going to do it right, you should quit.
 Dialogue: 0,0:04:24.94,0:04:28.16,Regular,,0,0,0,,I… was told that I had to be here.
 Dialogue: 0,0:04:28.62,0:04:29.66,Regular,,0,0,0,,Why, you…
 Dialogue: 0,0:04:31.66,0:04:32.91,Regular,,0,0,0,,Isn’t that…
@@ -74,9 +74,9 @@ Dialogue: 0,0:05:14.05,0:05:17.15,Regular,,0,0,0,,The Central Command recognized
 Dialogue: 0,0:05:17.15,0:05:21.84,Regular,,0,0,0,,you were accepted as\Nthe youngest Sibylla in history,
 Dialogue: 0,0:05:21.84,0:05:24.23,Regular,,0,0,0,,and assigned to Chor Tempest.
 Dialogue: 0,0:05:24.79,0:05:26.77,Regular,,0,0,0,,But you have zero\Nexperience in real combat.
-Dialogue: 0,0:05:28.33,0:05:30.97,Regular,,0,0,0,,A few days ago, you went out on an unauthorized flight. Why?
+Dialogue: 0,0:05:28.01,0:05:30.97,Regular,,0,0,0,,A few days ago, you went out on an unauthorized flight. Why?
 Dialogue: 0,0:05:31.76,0:05:32.81,Regular,,0,0,0,,Why are you asking?
-Dialogue: 0,0:05:34.01,0:05:35.81,Regular,,0,0,0,,Because I’ve taken an interest in you.
+Dialogue: 0,0:05:33.89,0:05:35.81,Regular,,0,0,0,,Because I’ve taken an interest in you.
 Dialogue: 0,0:05:38.51,0:05:42.47,Regular,,0,0,0,,Needless to say, you have\Nan outstanding record.
 Dialogue: 0,0:05:42.47,0:05:48.04,Regular,,0,0,0,,The way Chor Tempest has\Nended up… doesn’t it bother you?
 Dialogue: 0,0:05:48.85,0:05:52.83,Regular,,0,0,0,,I’ll bet you never thought being a Sibylla would be like this!
@@ -85,7 +85,7 @@ Dialogue: 0,0:05:55.45,0:05:58.46,Regular,,0,0,0,,I want to help you.
 Dialogue: 0,0:06:00.46,0:06:02.89,Regular,,0,0,0,,It won’t be anything bad.
 Dialogue: 0,0:06:02.89,0:06:05.23,Regular,,0,0,0,,All you have to do is\Nlisten to what I tell you.
 Dialogue: 0,0:06:06.12,0:06:08.97,Regular,,0,0,0,,If you do, you can go back\Nto how things used to be.
-Dialogue: 0,0:06:09.92,0:06:12.61,Regular,,0,0,0,,You can reclaim the heights that a prodigy like you deserves.
+Dialogue: 0,0:06:09.92,0:06:13.47,Regular,,0,0,0,,You can reclaim the heights that a prodigy like you deserves.
 Dialogue: 0,0:06:14.42,0:06:20.37,Regular,,0,0,0,,Dominura seems to be using Limone to try to revive Chor Tempest.
 Dialogue: 0,0:06:20.89,0:06:23.86,Regular,,0,0,0,,Ah, well… taking care\Nof the choirs is your job.
 Dialogue: 0,0:06:23.86,0:06:25.61,Regular,,0,0,0,,I don’t understand that part.
@@ -94,13 +94,13 @@ Dialogue: 0,0:06:26.99,0:06:29.03,Regular,,0,0,0,,Let’s just say…
 Dialogue: 0,0:06:29.03,0:06:36.16,Regular,,0,0,0,,What those kids think is far beyond any adult’s understanding.
 Dialogue: 0,0:06:36.73,0:06:40.55,Regular,,0,0,0,,You’re talking about trying to understand the youngest of them.
 Dialogue: 0,0:06:41.45,0:06:44.21,Regular,,0,0,0,,Are you seriously telling me\Nthat you can do that?
-Dialogue: 0,0:06:45.37,0:06:48.05,Regular,,0,0,0,,Guragief, let me tell you one thing:
+Dialogue: 0,0:06:45.37,0:06:48.05,Regular,,0,0,0,,Guragief, let me tell you one thing.
 Dialogue: 0,0:06:48.05,0:06:49.23,Regular,,0,0,0,,What is it?
 Dialogue: 0,0:06:51.33,0:06:54.72,Regular,,0,0,0,,What we’re doing out here… it’s war.
 Dialogue: 0,0:06:55.84,0:06:58.49,Regular,,0,0,0,,Even those kids understand that.
 Dialogue: 0,0:07:02.43,0:07:03.58,Regular,,0,0,0,,Yeah?
-Dialogue: 0,0:07:04.51,0:07:05.83,Regular,,0,0,0,,Who’s there?
-Dialogue: 0,0:07:34.00,0:07:37.22,Regular,,0,0,0,,Hey, this is a surprise! I didn’t expect you to come visit me.
+Dialogue: 0,0:07:04.51,0:07:06.28,Regular,,0,0,0,,Who’s there?
+Dialogue: 0,0:07:33.68,0:07:37.22,Regular,,0,0,0,,Hey, this is a surprise! I didn’t expect you to come visit me.
 Dialogue: 0,0:07:38.92,0:07:40.16,Regular,,0,0,0,,Um…
 Dialogue: 0,0:07:41.09,0:07:46.11,Regular,,0,0,0,,If we were to break up as a pair, how would that make you feel?
 Dialogue: 0,0:07:46.11,0:07:47.10,Regular,,0,0,0,,No problem!
@@ -109,54 +109,54 @@ Dialogue: 0,0:07:47.73,0:07:52.20,Regular,,0,0,0,,If that’s what you want,\Nit
 Dialogue: 0,0:07:53.35,0:07:55.25,Regular,,0,0,0,,But I don’t really…
 Dialogue: 0,0:07:55.90,0:07:58.24,Regular,,0,0,0,,Was that all you\Nwanted to ask me?
 Dialogue: 0,0:07:59.90,0:08:02.60,Regular,,0,0,0,,If I cut his hands off the controls…
-Dialogue: 0,0:08:05.12,0:08:06.29,Regular,,0,0,0,,There’s nothing else\Nwe can do, is there?
+Dialogue: 0,0:08:04.71,0:08:06.29,Regular,,0,0,0,,There’s nothing else\Nwe can do, is there?
 Dialogue: 0,0:08:06.75,0:08:08.21,Regular,,0,0,0,,It can’t be helped.
 Dialogue: 0,0:08:10.08,0:08:11.55,Regular,,0,0,0,,Limone, go wait over there, okay?
 Dialogue: 0,0:08:13.17,0:08:15.55,Regular,,0,0,0,,Hurry! Get out of here!
 Dialogue: 0,0:08:20.67,0:08:24.60,Regular,,0,0,0,,Coming here wasn’t because\Nof any decision I made.
 Dialogue: 0,0:08:24.60,0:08:28.50,Regular,,0,0,0,,I was just doing what\Nother people told me to,
 Dialogue: 0,0:08:29.01,0:08:31.95,Regular,,0,0,0,,and before I knew it, I was here.
-Dialogue: 0,0:08:31.95,0:08:33.36,Regular,,0,0,0,,So…
-Dialogue: 0,0:08:33.36,0:08:35.40,Regular,,0,0,0,,I was hoping that you\Ncould tell me what to do.
+Dialogue: 0,0:08:31.95,0:08:33.15,Regular,,0,0,0,,So…
+Dialogue: 0,0:08:33.15,0:08:35.40,Regular,,0,0,0,,I was hoping that you\Ncould tell me what to do.
 Dialogue: 0,0:08:35.40,0:08:38.12,Regular,,0,0,0,,What would you do if you\Nwere told to kill somebody?
 Dialogue: 0,0:08:39.07,0:08:41.63,Regular,,0,0,0,,Um, I don’t really know.
 Dialogue: 0,0:08:42.28,0:08:45.62,Regular,,0,0,0,,I’m not going to tell you what to do.
 Dialogue: 0,0:08:46.83,0:08:50.00,Regular,,0,0,0,,I’m here because I’m trying\Nto {\i1}avoid{\i0} making a decision.
 Dialogue: 0,0:08:50.45,0:08:54.17,Regular,,0,0,0,,If you’re afraid of fighting,\Nit’s okay to quit being a Sibylla.
-Dialogue: 0,0:08:54.87,0:08:58.80,Regular,,0,0,0,,If you’re not going to keep flying the Simoun, they aren’t going to let you stay here.
+Dialogue: 0,0:08:54.87,0:08:59.64,Regular,,0,0,0,,If you’re not going to keep flying the Simoun, they aren’t going to let you stay here.
 Dialogue: 0,0:09:02.92,0:09:07.15,Regular,,0,0,0,,If you really don’t have a reason to stay here,\Nyou can always leave, can’t you?
 Dialogue: 0,0:09:21.28,0:09:23.01,Regular,,0,0,0,,What should I do?
 Dialogue: 0,0:09:30.53,0:09:33.44,Regular,,0,0,0,,Limone, you are so wonderful!
 Dialogue: 0,0:09:33.95,0:09:37.19,Regular,,0,0,0,,I know you’re going to be a splendid Simoun Sibylla someday.
-Dialogue: 0,0:09:41.39,0:09:43.18,Regular,,0,0,0,,Limone, you need to be more considerate toward your teammates.
-Dialogue: 0,0:09:43.79,0:09:47.94,Regular,,0,0,0,,There isn’t anyone who\Ncan follow you like this.
+Dialogue: 0,0:09:41.39,0:09:43.93,Regular,,0,0,0,,Limone, you need to be more considerate toward your teammates.
+Dialogue: 0,0:09:43.93,0:09:47.94,Regular,,0,0,0,,There isn’t anyone who\Ncan follow you like this.
 Dialogue: 0,0:09:49.18,0:09:50.65,Regular,,0,0,0,,You’re just a kid!
-Dialogue: 0,0:09:51.10,0:09:53.66,Regular,,0,0,0,,Don’t butt in just\Nbecause you can fly a little!
+Dialogue: 0,0:09:51.10,0:09:53.86,Regular,,0,0,0,,Don’t butt in just\Nbecause you can fly a little!
 Dialogue: 0,0:09:59.48,0:10:01.46,Regular,,0,0,0,,I just…
 Dialogue: 0,0:10:11.58,0:10:15.69,Regular,,0,0,0,,Sibylla Aurea, why don’t you\Nfly the Simoun any more?
 Dialogue: 0,0:10:17.37,0:10:18.65,Regular,,0,0,0,,Are you scared?
 Dialogue: 0,0:10:19.21,0:10:20.69,Regular,,0,0,0,,That’s not it.
 Dialogue: 0,0:10:21.25,0:10:23.06,Regular,,0,0,0,,It’s just that…
-Dialogue: 0,0:10:23.06,0:10:24.45,Regular,,0,0,0,,Well, right now, I…
+Dialogue: 0,0:10:23.06,0:10:24.60,Regular,,0,0,0,,Well, right now, I…
 Dialogue: 0,0:10:27.17,0:10:32.06,Regular,,0,0,0,,Sibylla Aurea, what in the world\Nare we supposed to be?
 Dialogue: 0,0:10:33.76,0:10:35.07,Regular,,0,0,0,,You’re…
-Dialogue: 0,0:10:36.23,0:10:40.07,Regular,,0,0,0,,I’m sure that you know what to do. Please, you must tell me!
+Dialogue: 0,0:10:36.23,0:10:40.07,Regular,,0,0,0,,I’m sure you know what to do.\N Please, you must tell me!
 Dialogue: 0,0:10:46.40,0:10:50.08,Regular,,0,0,0,,Right now… I don’t have\Nany strength to offer you.
 Dialogue: 0,0:10:54.54,0:10:55.59,Regular,,0,0,0,,Limone!
-Dialogue: 0,0:11:13.60,0:11:14.94,Regular,,0,0,0,,After all this time…
+Dialogue: 0,0:11:13.60,0:11:15.44,Regular,,0,0,0,,After all this time…
 Dialogue: 0,0:11:51.43,0:11:55.37,Regular,,0,0,0,,After all this time,\NI haven’t changed a bit.
-Dialogue: 0,0:12:13.86,0:12:15.52,Regular,,0,0,0,,A reconnaissance mission?
+Dialogue: 0,0:12:13.46,0:12:15.52,Regular,,0,0,0,,A reconnaissance mission?
 Dialogue: 0,0:12:15.52,0:12:20.17,Regular,,0,0,0,,There have been reports of possible large-scale military activities in the north.
 Dialogue: 0,0:12:20.17,0:12:22.47,Regular,,0,0,0,,The north? From the Plumbum Highlands?
-Dialogue: 0,0:12:23.01,0:12:27.97,Regular,,0,0,0,,They’re more interested in how well Limone and Dominura are suited for each other.
+Dialogue: 0,0:12:22.47,0:12:27.97,Regular,,0,0,0,,They’re more interested in how well Limone and Dominura are suited for each other.
 Dialogue: 0,0:12:28.75,0:12:31.48,Regular,,0,0,0,,Alti and Floe are going with them as well.
 Dialogue: 0,0:12:32.84,0:12:35.48,Regular,,0,0,0,,Did they become a pair?
-Dialogue: 0,0:12:35.88,0:12:37.89,Regular,,0,0,0,,I’ve heard that Dominura decided that.
+Dialogue: 0,0:12:35.48,0:12:37.89,Regular,,0,0,0,,I’ve heard that Dominura decided that.
 Dialogue: 0,0:12:37.89,0:12:40.21,Regular,,0,0,0,,What kind of woman is she, I wonder?
 Dialogue: 0,0:12:44.94,0:12:46.02,Regular,,0,0,0,,Wait, Limone!
 Comment: 0,0:12:46.02,0:12:47.00,Regular,,0,0,0,,Huh?
 Dialogue: 0,0:12:48.19,0:12:49.24,Regular,,0,0,0,,You go over here.
-Dialogue: 0,0:12:53.90,0:12:55.56,Regular,,0,0,0,,Me? The auriga?
+Dialogue: 0,0:12:53.90,0:12:55.56,Regular,,0,0,0,,Me, the auriga?
 Dialogue: 0,0:12:55.56,0:12:56.49,Regular,,0,0,0,,Absolutely.
 Dialogue: 0,0:12:56.49,0:12:58.62,Regular,,0,0,0,,This seat should be yours.
 Dialogue: 0,0:12:58.62,0:12:59.89,Regular,,0,0,0,,But…
@@ -167,7 +167,7 @@ Dialogue: 0,0:13:07.79,0:13:09.65,Regular,,0,0,0,,As I said, it’s for your own
 Dialogue: 0,0:13:11.38,0:13:13.05,Regular,,0,0,0,,Ever since that incident,
 Dialogue: 0,0:13:13.05,0:13:15.93,Regular,,0,0,0,,you have been unconsciously\Nsuppressing your talent.
 Dialogue: 0,0:13:15.93,0:13:17.71,Regular,,0,0,0,,I want you to set it free.
-Dialogue: 0,0:13:17.71,0:13:21.75,Regular,,0,0,0,,Didn’t I tell you that I know\Nyou better than anyone?
+Dialogue: 0,0:13:17.71,0:13:21.75,Regular,,0,0,0,,Didn’t I tell you that I know\Nyou better than anyone?{I don't think she did.}
 Dialogue: 0,0:13:22.60,0:13:24.11,Regular,,0,0,0,,Just let me handle it.
 Dialogue: 0,0:13:25.14,0:13:27.63,Regular,,0,0,0,,Everything will be all right.
 Dialogue: 0,0:13:51.71,0:13:53.05,Regular,,0,0,0,,Huh?
@@ -177,27 +177,27 @@ Dialogue: 0,0:14:06.82,0:14:09.95,Regular,,0,0,0,,How is it? Are you getting a f
 Dialogue: 0,0:14:19.70,0:14:22.28,Regular,,0,0,0,,We’ll be over the target soon.
 Dialogue: 0,0:14:22.28,0:14:25.12,Regular,,0,0,0,,Keep the communicator attached,\Nand start the patrol.
 Dialogue: 0,0:14:25.12,0:14:26.17,Regular,,0,0,0,,Understood.
-Dialogue: 0,0:14:39.84,0:14:41.95,Regular,,0,0,0,,Hey, Limone, tell me something…
-Dialogue: 0,0:14:43.35,0:14:45.60,Regular,,0,0,0,,Can you really handle being an auriga?
-Dialogue: 0,0:14:45.60,0:14:47.85,Regular,,0,0,0,,Or are you just doing as you’re told again?
+Dialogue: 0,0:14:39.84,0:14:41.95,Regular,,0,0,0,,Hey, Limone,\N tell me something…
+Dialogue: 0,0:14:43.35,0:14:45.60,Regular,,0,0,0,,Can you really handle \Nbeing an auriga?
+Dialogue: 0,0:14:45.60,0:14:47.85,Regular,,0,0,0,,Or are you just doing\N as you’re told again?
 Dialogue: 0,0:14:47.85,0:14:50.95,Regular,,0,0,0,,Cut the chatter, please,\Nand focus on the mission.
 Dialogue: 0,0:14:50.95,0:14:54.57,Regular,,0,0,0,,And don’t ever ask Limone\Na question like that again!
 Dialogue: 0,0:14:54.57,0:14:55.88,Regular,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:15:04.71,0:15:05.59,Regular,,0,0,0,,Huh?
 Dialogue: 0,0:15:05.59,0:15:07.09,Regular,,0,0,0,,It’s snowing!
-Dialogue: 0,0:15:13.26,0:15:15.10,Regular,,0,0,0,,It must be getting\Npretty cold out there.
+Dialogue: 0,0:15:13.14,0:15:15.10,Regular,,0,0,0,,It must be getting\Npretty cold out there.
 Dialogue: 0,0:15:22.98,0:15:24.61,Regular,,0,0,0,,All clear to starboard.
 Dialogue: 0,0:15:26.31,0:15:28.61,Regular,,0,0,0,,All clear dead ahead, as well.
 Dialogue: 0,0:15:47.41,0:15:49.26,Regular,,0,0,0,,Enemy tanks! Three o’clock low!
 Dialogue: 0,0:16:06.02,0:16:07.48,Regular,,0,0,0,,Wow, there are a lot of them!
 Dialogue: 0,0:16:21.00,0:16:23.64,Regular,,0,0,0,,We’re going in, too, Limone!
 Dialogue: 0,0:16:23.64,0:16:25.00,Regular,,0,0,0,,Limone!
-Dialogue: 0,0:16:31.50,0:16:32.69,Regular,,0,0,0,,Limone!
-Dialogue: 0,0:16:37.09,0:16:38.85,Regular,,0,0,0,,Stop it, Limone!
-Dialogue: 0,0:16:38.85,0:16:40.89,Regular,,0,0,0,,Doing the Silver Ri Maajon all of a sudden is too dangerous!
+Dialogue: 0,0:16:31.50,0:16:33.01,Regular,,0,0,0,,Limone!
+Dialogue: 0,0:16:36.51,0:16:38.47,Regular,,0,0,0,,Stop it, Limone!
+Dialogue: 0,0:16:38.47,0:16:40.89,Regular,,0,0,0,,Doing the Silver Ri Maajon \Nall of a sudden is too dangerous!
 Dialogue: 0,0:16:40.89,0:16:42.63,Regular,,0,0,0,,No, I can do it.
 Dialogue: 0,0:16:42.63,0:16:45.90,Regular,,0,0,0,,That’s impossible! Listen to me!
-Dialogue: 0,0:16:51.73,0:16:52.92,Regular,,0,0,0,,I can do it.
+Dialogue: 0,0:16:51.73,0:16:53.40,Regular,,0,0,0,,I can do it.
 Dialogue: 0,0:16:58.19,0:16:59.91,Regular,,0,0,0,,This is so easy!
 Dialogue: 0,0:17:16.00,0:17:19.22,Regular,,0,0,0,,Is she still holding on to what happened to her as a cadet?
 Dialogue: 0,0:17:27.64,0:17:29.94,Regular,,0,0,0,,This snow is terrible.
@@ -213,9 +213,9 @@ Dialogue: 0,0:18:20.61,0:18:24.84,Regular,,0,0,0,,This is a reconnaissance missi
 Dialogue: 0,0:18:26.75,0:18:28.97,Regular,,0,0,0,,Limone, answer me!
 Dialogue: 0,0:18:35.71,0:18:36.76,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:18:38.92,0:18:39.97,Regular,,0,0,0,,Aaeru!
-Dialogue: 0,0:18:50.44,0:18:51.48,Regular,,0,0,0,,What are you doing here?
+Dialogue: 0,0:18:50.31,0:18:51.48,Regular,,0,0,0,,What are you doing here?
 Dialogue: 0,0:18:52.39,0:18:54.27,Regular,,0,0,0,,You’re late, so we came to fetch you.
-Dialogue: 0,0:18:54.72,0:18:55.98,Regular,,0,0,0,,What’s the situation?
+Dialogue: 0,0:18:54.27,0:18:55.98,Regular,,0,0,0,,What’s the situation?
 Dialogue: 0,0:18:55.98,0:18:57.78,Regular,,0,0,0,,We’re withdrawing immediately.
 Dialogue: 0,0:18:57.78,0:18:59.03,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:19:01.86,0:19:03.55,Regular,,0,0,0,,What are you going to do, Limone?
@@ -225,17 +225,17 @@ Dialogue: 0,0:19:11.67,0:19:13.63,Regular,,0,0,0,,You need to figure it out for 
 Dialogue: 0,0:19:17.00,0:19:19.73,Regular,,0,0,0,,Are you just doing\Nwhat you’re told again?
 Dialogue: 0,0:19:32.52,0:19:33.77,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:19:39.23,0:19:40.53,Regular,,0,0,0,,Silver Ri Maajon!
-Dialogue: 0,0:19:40.95,0:19:42.03,Regular,,0,0,0,,Limone!
+Dialogue: 0,0:19:40.53,0:19:42.03,Regular,,0,0,0,,Limone!
 Dialogue: 0,0:19:42.72,0:19:44.37,Regular,,0,0,0,,Aaeru, let’s do it together.
 Dialogue: 0,0:19:44.37,0:19:46.83,Regular,,0,0,0,,Roger that. We’ll take them all out at once!
 Dialogue: 0,0:19:46.83,0:19:51.37,Regular,,0,0,0,,That’s suicide! Hardly anyone can do that Ri Maajon, and in these conditions…!
 Dialogue: 0,0:19:51.92,0:19:53.37,Regular,,0,0,0,,Silver Ri Maajon!
 Dialogue: 0,0:20:07.89,0:20:09.89,Regular,,0,0,0,,It’s impossible! Stop it!
 Dialogue: 0,0:20:37.21,0:20:40.42,Regular,,0,0,0,,That’s right! What I’ve\Nwanted to do all along…
-Dialogue: 0,0:20:44.68,0:20:47.60,Regular,,0,0,0,,is to make the most\Nperfect Ri Maajons!
-Dialogue: 0,0:21:32.17,0:21:33.62,Regular,,0,0,0,,She did it?
-Dialogue: 0,0:21:34.22,0:21:36.35,Regular,,0,0,0,,All of the enemy tanks are destroyed?
-Dialogue: 0,0:22:14.97,0:22:17.39,Regular,,0,0,0,,It’s as I thought:\Nthat girl really is a genius.
+Dialogue: 0,0:20:44.68,0:20:47.60,Regular,,0,0,0,,…is to make the most\Nperfect Ri Maajons!
+Dialogue: 0,0:21:32.17,0:21:33.93,Regular,,0,0,0,,She did it?
+Dialogue: 0,0:21:33.93,0:21:36.35,Regular,,0,0,0,,All the enemy tanks are destroyed?
+Dialogue: 0,0:22:14.52,0:22:17.39,Regular,,0,0,0,,It’s as I thought:\Nthat girl really is a genius.
 Dialogue: 0,0:22:19.01,0:22:21.58,Regular,,0,0,0,,So I wasn’t wrong, after all…
 Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.21,0:24:11.84,Regular,,0,0,0,,I’m Kaimu, and I’m Sibylla Paraietta’s—Para-sama’s—pair.
