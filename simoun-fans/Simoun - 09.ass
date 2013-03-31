@@ -12,15 +12,15 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 238
+Active Line: 247
 Video Zoom Percent: 0.75
 Video File: ../../raws/simoun-09.mkv
 Keyframes File: ../../scxvid/simoun-09-keyframes.txt
 Audio URI: ../../audio/simoun-09.flac
 YCbCr Matrix: TV.601
 Audio URI: ../../[Simoun-Fans] Simoun 01 - 26 [x264]/[Simoun-Fans]_Simoun_-_09_[x264][AAC][E66ECA16].mkv
-Video Position: 0
+Video Position: 34913
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,20 +43,18 @@ Dialogue: 0,0:02:10.57,0:02:12.48,Regular,,0,0,0,,I am your pair.
 Dialogue: 0,0:02:13.00,0:02:15.61,Regular,,0,0,0,,Everyone, to the port hangar! Hurry!
 Dialogue: 0,0:02:15.61,0:02:16.94,Regular,,0,0,0,,— Hurry!\N— Got it!
 Dialogue: 0,0:02:25.18,0:02:27.25,Regular,,0,0,0,,Mamiina, let’s go!
-Dialogue: 0,0:02:27.25,0:02:30.40,Regular,,0,0,0,,Our Simoun is waiting.
-Dialogue: 0,0:02:30.40,0:02:32.71,Regular,,0,0,0,,That’s what we’re here for, isn’t it?
-Dialogue: 0,0:02:38.76,0:02:44.76,Titles,,0,0,0,,{\blur0.6}The Hearing
-Dialogue: 0,0:02:47.43,0:02:49.31,Regular,,0,0,0,,They took my sister hostage.
-Dialogue: 0,0:02:49.31,0:02:51.44,Regular,,0,0,0,,I’ll make them suffer for that!
+Dialogue: 0,0:02:27.25,0:02:29.92,Regular,,0,0,0,,Our Simoun is waiting.
+Dialogue: 0,0:02:29.92,0:02:32.71,Regular,,0,0,0,,That’s what we’re here for, isn’t it?
+Dialogue: 0,0:02:38.76,0:02:44.76,Titles,,85,0,0,,{\blur0.6}The Hearing
+Dialogue: 0,0:02:47.43,0:02:51.44,Regular,,0,0,0,,They took my sister hostage. \NI’ll make them suffer for that!
 Dialogue: 0,0:02:54.25,0:02:58.03,Regular,,0,0,0,,I can’t bear to see everyone’s \Nfeelings torn apart again!
 Dialogue: 0,0:02:59.50,0:03:01.03,Regular,,0,0,0,,Are you scared?
 Dialogue: 0,0:03:01.03,0:03:03.28,Regular,,0,0,0,,I’m not scared at all!
-Dialogue: 0,0:03:03.28,0:03:05.34,Regular,,0,0,0,,Well, {\i1}I’m{\i0} scared.
+Dialogue: 0,0:03:03.28,0:03:06.08,Regular,,0,0,0,,Well, {\i1}I’m{\i0} scared.
 Dialogue: 0,0:03:09.97,0:03:11.12,Regular,,0,0,0,,C’mon, let’s hurry.
-Dialogue: 0,0:03:14.27,0:03:16.96,Regular,,0,0,0,,The one way Neviril \Nand I are the same…
-Dialogue: 0,0:03:16.96,0:03:18.26,Regular,,0,0,0,,What could it be?
-Dialogue: 0,0:03:18.26,0:03:19.44,Regular,,0,0,0,,Oh well, it doesn’t matter.
-Dialogue: 0,0:03:19.44,0:03:22.34,Regular,,0,0,0,,Whatever it is, \Nfrom now on I’m Neviril’s pair!
+Dialogue: 0,0:03:14.27,0:03:16.84,Regular,,0,0,0,,The one way Neviril \Nand I are the same…
+Dialogue: 0,0:03:16.84,0:03:18.26,Regular,,0,0,0,,What could it be?
+Dialogue: 0,0:03:18.26,0:03:22.34,Regular,,0,0,0,,Oh well, it doesn’t matter. From now on I’m Neviril’s pair!
 Dialogue: 0,0:03:24.81,0:03:28.14,Regular,,0,0,0,,Try to level the ship off{** off?} for a moment!\N The Simoun are taking off!
 Dialogue: 0,0:03:28.14,0:03:30.64,Regular,,0,0,0,,But Rubor and Caput \Nwere both destroyed!
 Dialogue: 0,0:03:30.64,0:03:33.10,Regular,,0,0,0,,It’s Chor Tempest that’s launching!
@@ -70,24 +68,24 @@ Dialogue: 0,0:03:55.88,0:03:57.63,Regular,,0,0,0,,Looks like they’ve fixed it.
 Dialogue: 0,0:03:57.63,0:03:58.59,Regular,,0,0,0,,Let’s go.
 Dialogue: 0,0:04:02.67,0:04:05.34,Regular,,0,0,0,,You’re the Sibylla Aurea’s \Nauriga now. Be worthy of it!
 Dialogue: 0,0:04:05.34,0:04:06.55,Regular,,0,0,0,,Sure!
-Dialogue: 0,0:04:30.61,0:04:32.98,Regular,,0,0,0,,Darn it, our guns \Naren’t hitting them at all!
+Dialogue: 0,0:04:29.62,0:04:32.98,Regular,,0,0,0,,Darn it, our guns \Naren’t hitting them at all!
 Dialogue: 0,0:04:32.98,0:04:35.75,Regular,,0,0,0,,With that kind of aiming, \Nof course they aren’t!
-Dialogue: 0,0:04:36.13,0:04:37.94,Regular,,0,0,0,,We’re going in, Yun!
-Dialogue: 0,0:04:37.94,0:04:38.96,Regular,,0,0,0,,To your left!
+Dialogue: 0,0:04:35.75,0:04:37.94,Regular,,0,0,0,,We’re going in, Yun!
+Dialogue: 0,0:04:37.94,0:04:39.25,Regular,,0,0,0,,To your left!
 Dialogue: 0,0:04:40.04,0:04:41.21,Regular,,0,0,0,,Neviril is…
 Dialogue: 0,0:05:02.78,0:05:04.45,Regular,,0,0,0,,Protect the {\i1}Arcus Prima{\i0}!
 Dialogue: 0,0:05:05.07,0:05:06.74,Regular,,0,0,0,,Diamond Ri Maajon!
 Dialogue: 0,0:05:32.43,0:05:34.89,Regular,,0,0,0,,The Diamond Ri Maajon…
 Dialogue: 0,0:05:34.89,0:05:39.19,Regular,,0,0,0,,With the Diamond Ri Maajon up, \Nthe enemy can’t hurt us.
 Dialogue: 0,0:05:39.19,0:05:44.65,Regular,,0,0,0,,Yes, out of all the defensive Ri Maajons,\N this one is particularly effective.
-Dialogue: 0,0:05:45.06,0:05:49.20,Regular,,0,0,0,,The ship’s helical motors \Nare barely functioning.
+Dialogue: 0,0:05:44.65,0:05:49.20,Regular,,0,0,0,,The ship’s helical motors \Nare barely functioning.
 Dialogue: 0,0:05:49.20,0:05:52.41,Regular,,0,0,0,,Will we have to let them tow us back?
 Dialogue: 0,0:05:52.93,0:05:54.65,Regular,,0,0,0,,Leave it to them.
 Dialogue: 0,0:05:54.65,0:05:56.67,Regular,,0,0,0,,Chor Tempest will come through!
 Dialogue: 0,0:06:00.75,0:06:03.04,Regular,,0,0,0,,Keep the Diamond Ri Maajon going,
-Dialogue: 0,0:06:03.04,0:06:05.67,Regular,,0,0,0,,and withdraw from the enemy warship’s bombardment range.
+Dialogue: 0,0:06:03.04,0:06:05.67,Regular,,0,0,0,,and withdraw from the enemy {war}ship’s {bombardment }range.
 Dialogue: 0,0:06:05.67,0:06:07.67,Regular,,0,0,0,,Right, got it!
-Dialogue: 0,0:06:44.96,0:06:50.97,Regular,,0,0,0,,The hearing is set for this afternoon, as soon as we arrive.
+Dialogue: 0,0:06:44.96,0:06:50.97,Regular,,0,0,0,,The hearing is set for this afternoon, \Nas soon as we arrive.
 Dialogue: 0,0:06:51.60,0:06:55.36,Regular,,0,0,0,,We don’t have much time to prepare.
 Dialogue: 0,0:06:55.36,0:06:57.52,Regular,,0,0,0,,While we have the opportunity,
 Dialogue: 0,0:06:57.52,0:07:00.98,Regular,,0,0,0,,I’d like to go over the situation with you one more time, Sibylla Neviril.
@@ -98,7 +96,7 @@ Dialogue: 0,0:07:52.12,0:07:53.61,Regular,,0,0,0,,Stand up, Aaeru.
 Dialogue: 0,0:07:54.67,0:07:56.66,Regular,,0,0,0,,I am your pair.
 Dialogue: 0,0:08:18.35,0:08:21.31,Regular,,0,0,0,,I wonder if Neviril’s gonna come back.
 Dialogue: 0,0:08:21.93,0:08:27.61,Regular,,0,0,0,,Even if she did, \Nwhat good would it do?
-Dialogue: 0,0:08:28.09,0:08:29.57,Regular,,0,0,0,,Why, you…!
+Dialogue: 0,0:08:27.61,0:08:29.57,Regular,,0,0,0,,Why, you…!
 Dialogue: 0,0:08:31.83,0:08:34.00,Regular,,0,0,0,,We finally got twelve people together.
 Dialogue: 0,0:08:34.75,0:08:38.33,Regular,,0,0,0,,I had hoped we would finally all be able to fly together again.
 Dialogue: 0,0:08:38.33,0:08:42.33,Regular,,0,0,0,,That doesn’t mean anyone \Nstill blames you, Mamiina.
@@ -111,9 +109,9 @@ Dialogue: 0,0:09:00.52,0:09:03.41,Regular,,0,0,0,,Just that we can all \Nbe pres
 Dialogue: 0,0:09:03.41,0:09:05.79,Regular,,0,0,0,,Oh, so this is where you guys are!
 Dialogue: 0,0:09:05.79,0:09:07.31,Regular,,0,0,0,,We’ve been looking for you.
 Dialogue: 0,0:09:08.30,0:09:13.32,Regular,,0,0,0,,Sibyllae of Chor Tempest, \Nthe ceremony is about to begin.
-Dialogue: 0,0:09:13.74,0:09:16.53,Regular,,0,0,0,,Please make your preparations.
+Dialogue: 0,0:09:13.32,0:09:16.53,Regular,,0,0,0,,Please make your preparations.
 Dialogue: 0,0:09:22.72,0:09:27.17,Regular,,0,0,0,,It is regrettable that the task proved to be beyond your abilities.
-Dialogue: 0,0:09:27.58,0:09:29.28,Regular,,0,0,0,,Please give me more time.
+Dialogue: 0,0:09:27.17,0:09:29.28,Regular,,0,0,0,,Please give me more time.
 Dialogue: 0,0:09:29.28,0:09:33.05,Regular,,0,0,0,,Chor Tempest still has great potential.
 Dialogue: 0,0:09:33.05,0:09:34.17,Regular,,0,0,0,,Oh? In what way?
 Dialogue: 0,0:09:34.79,0:09:40.61,Regular,,0,0,0,,Neviril has returned, and the new recruits, Limone and Aaeru…
@@ -122,7 +120,7 @@ Dialogue: 0,0:09:45.68,0:09:49.54,Regular,,0,0,0,,Limone is that pet sibylla of 
 Dialogue: 0,0:09:49.54,0:09:54.38,Regular,,0,0,0,,Two other sibyllae, \NSibylla Mamiina and Sibylla Yun,
 Dialogue: 0,0:09:54.38,0:09:58.15,Regular,,0,0,0,,were transferred to Chor Tempest under Halconf’s sponsorship.
 Dialogue: 0,0:09:58.15,0:09:59.44,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:09:59.44,0:10:05.50,Regular,,0,0,0,,No matter what you tell us, they’re about to decide everything in there.
+Dialogue: 0,0:09:59.44,0:10:06.20,Regular,,0,0,0,,No matter what you tell us, they’re about to decide everything in there.
 Dialogue: 0,0:10:07.84,0:10:13.73,Regular,,0,0,0,,Under the circumstances, wouldn’t it be better to simply proceed to Plan B as quickly as possible?
 Dialogue: 0,0:10:13.73,0:10:19.57,Regular,,0,0,0,,But aren’t they the ones who let those Highlander agents aboard the {\i1}Arcus Prima{\i0}?
 Dialogue: 0,0:10:19.57,0:10:21.09,Regular,,0,0,0,,Dominura!
@@ -138,7 +136,7 @@ Dialogue: 0,0:11:26.60,0:11:27.99,Regular,,0,0,0,,This is unacceptable.
 Dialogue: 0,0:11:27.99,0:11:32.11,Regular,,0,0,0,,But what about {\i1}our{\i0} responsibility?
 Dialogue: 0,0:11:32.11,0:11:36.50,Regular,,0,0,0,,We never saw that the peace conference was a ruse,\Nand we allowed dangerous enemy agents to get aboard.
 Dialogue: 0,0:11:36.96,0:11:41.68,Regular,,0,0,0,,It was Chor Tempest that rescued the {\i1}Arcus Prima{\i0} from the trap.
-Dialogue: 0,0:11:42.76,0:11:48.06,Regular,,0,0,0,,If it hadn’t been for them, \NI wouldn’t be standing here today.
+Dialogue: 0,0:11:42.76,0:11:48.47,Regular,,0,0,0,,If it hadn’t been for them, \NI wouldn’t be standing here today.
 Dialogue: 0,0:11:48.89,0:11:49.98,Regular,,0,0,0,,We—
 Dialogue: 0,0:11:49.98,0:11:52.43,Regular,,0,0,0,,Wait, Sibylla Neviril.
 Dialogue: 0,0:11:52.43,0:11:54.17,Regular,,0,0,0,,You have not been given\N permission to speak.
@@ -155,9 +153,9 @@ Dialogue: 0,0:12:58.03,0:13:01.80,Regular,,0,0,0,,We hear the voices of the Simo
 Dialogue: 0,0:13:02.42,0:13:06.65,Regular,,0,0,0,,Soldiers from neighbouring countries have been invading our Holy Land of Simulacrum,
 Dialogue: 0,0:13:07.34,0:13:09.10,Regular,,0,0,0,,and we have killed \Na great many of them.
 Dialogue: 0,0:13:13.64,0:13:15.19,Regular,,0,0,0,,Go on.
-Dialogue: 0,0:13:16.02,0:13:19.17,Regular,,0,0,0,,“Slaughtered” them, you might say.
-Dialogue: 0,0:13:19.69,0:13:23.69,Regular,,0,0,0,,When we first encountered the air fleet from the Archipelago, in that battle…
-Dialogue: 0,0:13:24.11,0:13:25.78,Regular,,0,0,0,,That was not a “battle!”
+Dialogue: 0,0:13:16.02,0:13:19.17,Regular,,0,0,0,,{\i1}Slaughtered{\i0} them, you might say.
+Dialogue: 0,0:13:19.69,0:13:23.69,Regular,,0,0,0,,When we first encountered the air fleet from the Archipelago, in that battle—
+Dialogue: 0,0:13:23.69,0:13:25.78,Regular,,0,0,0,,That was not a “battle!”
 Dialogue: 0,0:13:25.78,0:13:29.07,Regular,,0,0,0,,For a sibylla to speak such words—
 Dialogue: 0,0:13:29.70,0:13:33.20,Regular,,0,0,0,,…we lost three of our beloved companions.
 Dialogue: 0,0:13:33.77,0:13:39.10,Regular,,0,0,0,,From Chor Caput, \Neleven sibyllae gave their lives.
@@ -168,42 +166,41 @@ Dialogue: 0,0:13:53.09,0:13:58.69,Regular,,0,0,0,,As fellow priestesses, what ar
 Dialogue: 0,0:13:59.35,0:14:01.73,Regular,,0,0,0,,Right now, what we’re doing\N is fighting the war.
 Dialogue: 0,0:14:02.28,0:14:04.00,Regular,,0,0,0,,That’s enough.
 Dialogue: 0,0:14:04.00,0:14:06.00,Regular,,0,0,0,,That’s enough, Neviril.
-Dialogue: 0,0:14:07.90,0:14:14.91,Regular,,0,0,0,,{\an8}Now we must say a painful farewell\N to friends whom we remember so fondly.
-Dialogue: 0,0:14:16.75,0:14:23.07,Regular,,0,0,0,,They… were our travelling companions.\N Our comrades in battle.
-Dialogue: 0,0:14:24.03,0:14:26.03,Regular,,0,0,0,,Even though we are at war,
-Dialogue: 0,0:14:26.46,0:14:29.76,Regular,,0,0,0,,their leaving on this journey was sudden and unexpected.
+Dialogue: 0,0:14:07.90,0:14:15.75,Regular,,0,0,0,,{\an8}Now we must say a painful farewell\N to friends whom we remember so fondly.
+Dialogue: 0,0:14:16.75,0:14:23.07,Regular,,0,0,0,,{\an8}They were our travelling companions.\N Our comrades in battle.
+Dialogue: 0,0:14:24.03,0:14:26.30,Regular,,0,0,0,,{\an8}Even though we are at war,
+Dialogue: 0,0:14:26.30,0:14:29.76,Regular,,0,0,0,,{\an8}their leaving on this journey was sudden and unexpected.
 Dialogue: 0,0:14:27.73,0:14:31.09,Regular,,0,0,0,,This is our real job, isn’t it?
 Dialogue: 0,0:14:31.71,0:14:35.93,Regular,,0,0,0,,Offering perfect Ri Maajons\N to Tempus Spatium?
-Dialogue: 0,0:14:31.09,0:14:41.44,Regular,,0,0,0,,Their departure leaves a great hole in our hearts that we cannot fill.
+Dialogue: 0,0:14:31.09,0:14:41.44,Regular,,0,0,0,,{\an8}Their departure leaves a great hole in our hearts that we cannot fill.
 Dialogue: 0,0:14:36.60,0:14:39.47,Regular,,0,0,0,,We’ve returned to our \Ntrue duties, haven’t we?
 Dialogue: 0,0:14:39.47,0:14:41.44,Regular,,0,0,0,,But somehow, \Nit doesn’t feel the same.
 Dialogue: 0,0:14:41.97,0:14:45.99,Regular,,0,0,0,,Huh? You mean you {\i1}wanted{\i0} to do funeral ceremonies for the dead?
 Dialogue: 0,0:14:45.99,0:14:47.11,Regular,,0,0,0,,Give me a break!
-Dialogue: 0,0:14:44.99,0:14:51.11,Regular,,0,0,0,,And perhaps it should never be filled.
+Dialogue: 0,0:14:44.99,0:14:51.11,Regular,,0,0,0,,{\an8}And perhaps it should never be filled.
 Dialogue: 0,0:14:47.11,0:14:48.84,Regular,,0,0,0,,Aaeru!
-Dialogue: 0,0:14:48.84,0:14:51.11,Regular,,0,0,0,,That wasn’t what I meant at all!
+Dialogue: 0,0:14:48.84,0:14:51.11,Regular,,0,0,0,,That's not what I meant at all!
 Dialogue: 0,0:14:51.78,0:14:55.37,Regular,,0,0,0,,This is our last Ri Maajon\N as Chor Tempest.
-Dialogue: 0,0:14:53.68,0:14:56.34,Regular,,0,0,0,,Despite our sadness and \Nloneliness at losing them,
+Dialogue: 0,0:14:53.68,0:14:56.34,Regular,,0,0,0,,{\an8}Despite our sadness and \Nloneliness at losing them,
 Dialogue: 0,0:14:56.29,0:14:57.62,Regular,,0,0,0,,Don’t forget that.
-Dialogue: 0,0:14:56.76,0:15:02.60,Regular,,0,0,0,,It is our duty to carry on.
-Dialogue: 0,0:14:58.00,0:15:01.88,Regular,,0,0,0,,Do we even have the right \Nto do their funeral ceremony?
-Dialogue: 0,0:15:02.50,0:15:03.59,Regular,,0,0,0,,It’s not a matter of right.
-Dialogue: 0,0:15:03.59,0:15:04.63,Regular,,0,0,0,,It’s our duty.
+Dialogue: 0,0:14:56.76,0:15:02.50,Regular,,0,0,0,,{\an8}it is our duty to carry on.
+Dialogue: 0,0:14:57.62,0:15:01.88,Regular,,0,0,0,,Do we even have the right \Nto do their funeral ceremony?
+Dialogue: 0,0:15:02.50,0:15:04.63,Regular,,0,0,0,,It’s not a matter of right. It’s our duty.
 Dialogue: 0,0:15:05.25,0:15:07.46,Regular,,0,0,0,,I just want to get it over with.
 Dialogue: 0,0:15:08.07,0:15:09.09,Regular,,0,0,0,,That’s all.
 Dialogue: 0,0:15:12.22,0:15:13.76,Regular,,0,0,0,,Sibylla Paraietta,
-Dialogue: 0,0:15:14.22,0:15:19.27,Regular,,0,0,0,,please offer the memorial ceremony for these comrades who have sacrificed their lives for their countrymen.
+Dialogue: 0,0:15:13.76,0:15:19.27,Regular,,0,0,0,,please offer the memorial ceremony for these comrades who have sacrificed their lives for their countrymen.
 Dialogue: 0,0:15:19.27,0:15:20.31,Regular,,0,0,0,,Yes, sir!
 Dialogue: 0,0:15:21.06,0:15:23.31,Regular,,0,0,0,,We offer the Ri Maajon of the Fields.
-Dialogue: 0,0:15:23.86,0:15:28.59,Regular,,0,0,0,,I’m not trying to lay blame \Nfor these days of fighting.
+Dialogue: 0,0:15:23.31,0:15:28.59,Regular,,0,0,0,,I’m not trying to lay blame \Nfor these days of fighting.
 Dialogue: 0,0:15:28.59,0:15:32.78,Regular,,0,0,0,,It has been painful and heartbreaking, \Nand perhaps this is fate.
-Dialogue: 0,0:15:33.29,0:15:36.79,Regular,,0,0,0,,It may even be the will\N of Tempus Spatium.
-Dialogue: 0,0:15:36.79,0:15:40.40,Regular,,0,0,0,,But right now, \NI don’t care what it is.
+Dialogue: 0,0:15:32.78,0:15:36.79,Regular,,0,0,0,,It may even be the will\N of Tempus Spatium.
+Dialogue: 0,0:15:36.79,0:15:40.40,Regular,,0,0,0,,Right now, though,\NI don’t care what it is.
 Dialogue: 0,0:15:40.40,0:15:44.42,Regular,,0,0,0,,Right now, I don’t care \Nabout “the will of God.”
 Dialogue: 0,0:15:47.84,0:15:51.99,Regular,,0,0,0,,I just have one question \NI’d like to ask you all:
-Dialogue: 0,0:15:52.74,0:15:57.26,Regular,,0,0,0,,In spite of that… \Nam I still a Simoun sibylla?
+Dialogue: 0,0:15:52.74,0:15:57.81,Regular,,0,0,0,,In spite of that… \Nam I still a Simoun sibylla?
 Dialogue: 0,0:15:59.85,0:16:05.36,Regular,,0,0,0,,Sibylla Neviril, \Ndespite your misgivings,
-Dialogue: 0,0:16:05.36,0:16:10.28,Regular,,0,0,0,,you will remain a Simoun sibylla for as long as you wish it.
+Dialogue: 0,0:16:05.36,0:16:10.28,Regular,,0,0,0,,you will remain a Simoun sibylla \Nfor as long as you wish it.
 Dialogue: 0,0:16:11.35,0:16:12.49,Regular,,0,0,0,,Yes, ma’am.
 Dialogue: 0,0:16:21.83,0:16:23.16,Regular,,0,0,0,,Wait!
 Dialogue: 0,0:16:23.16,0:16:26.42,Regular,,0,0,0,,The things you have \Nsaid are inexcusable!
@@ -212,14 +209,14 @@ Dialogue: 0,0:16:29.60,0:16:32.33,Regular,,0,0,0,,We cannot simply allow that to
 Dialogue: 0,0:16:32.33,0:16:33.55,Regular,,0,0,0,,Wait a minute, please!
 Dialogue: 0,0:16:36.52,0:16:39.31,Regular,,0,0,0,,Everyone, I have something to say.
 Dialogue: 0,0:16:43.35,0:16:45.56,Regular,,0,0,0,,You’re from Chor Rubor, aren’t you?
-Dialogue: 0,0:16:46.81,0:16:48.06,Regular,,0,0,0,,My name is Vyura.
+Dialogue: 0,0:16:46.65,0:16:48.06,Regular,,0,0,0,,My name is Vyura.
 Dialogue: 0,0:16:48.85,0:16:50.07,Regular,,0,0,0,,I asked her to come.
-Dialogue: 0,0:16:50.07,0:16:52.82,Regular,,0,0,0,,Guragief! To abuse your \Nposition on this way…
+Dialogue: 0,0:16:50.07,0:16:52.82,Regular,,0,0,0,,Guragief! To abuse your \Nposition in this way…
 Dialogue: 0,0:16:53.56,0:16:55.28,Regular,,0,0,0,,What do you wish to say?
 Dialogue: 0,0:16:55.99,0:16:59.03,Regular,,0,0,0,,Sibylla Vyura, please speak to us.
 Dialogue: 0,0:16:59.62,0:17:01.04,Regular,,0,0,0,,Onashia…!
 Dialogue: 0,0:17:04.04,0:17:05.08,Regular,,0,0,0,,Yes, ma’am.
-Dialogue: 0,0:17:05.96,0:17:10.13,Regular,,0,0,0,,All of the other Simoun sibyllae love and respect Chor Tempest.
+Dialogue: 0,0:17:05.96,0:17:10.13,Regular,,0,0,0,,All the other Simoun sibyllae love and respect Chor Tempest.
 Dialogue: 0,0:17:10.13,0:17:11.50,Regular,,0,0,0,,We’re proud of them.
 Dialogue: 0,0:17:11.50,0:17:13.13,Regular,,0,0,0,,They are the best choir of all.
 Dialogue: 0,0:17:13.99,0:17:16.89,Regular,,0,0,0,,In the name of all Simoun sibyllae,
@@ -227,17 +224,17 @@ Dialogue: 0,0:17:16.89,0:17:20.47,Regular,,0,0,0,,I request that Chor Tempest\N 
 Dialogue: 0,0:17:21.10,0:17:25.51,Regular,,0,0,0,,Do you mean the Chor Tempest \Nwho act as priestesses,
 Dialogue: 0,0:17:25.51,0:17:29.98,Regular,,0,0,0,,or the Chor Tempest who \N“fight” in “battle” as a unit?
 Dialogue: 0,0:17:30.86,0:17:35.87,Regular,,0,0,0,,Which Chor Tempest is it \Nthat you want us to keep?
-Dialogue: 0,0:17:35.87,0:17:41.99,Regular,,0,0,0,,They are twelve sibyllae who form pairs and draw Ri Maajons in the sky.
+Dialogue: 0,0:17:35.87,0:17:41.99,Regular,,0,0,0,,They are twelve sibyllae who form pairs\N and draw Ri Maajons in the sky.
 Dialogue: 0,0:17:42.54,0:17:45.79,Regular,,0,0,0,,There can be only one Chor Tempest.
-Dialogue: 0,0:18:15.53,0:18:16.61,Regular,,0,0,0,,Three o’clock level!
+Dialogue: 0,0:18:15.28,0:18:16.61,Regular,,0,0,0,,Three o’clock level!
 Dialogue: 0,0:18:17.61,0:18:18.99,Regular,,0,0,0,,It’s the enemy.
 Dialogue: 0,0:18:18.99,0:18:20.53,Regular,,0,0,0,,Para-sama, over there!
 Dialogue: 0,0:18:20.53,0:18:21.78,Regular,,0,0,0,,I see them.
 Dialogue: 0,0:18:23.54,0:18:24.62,Regular,,0,0,0,,What are they?
-Dialogue: 0,0:18:25.37,0:18:26.50,Regular,,0,0,0,,I’ve never seen anything like them.
+Dialogue: 0,0:18:24.62,0:18:26.50,Regular,,0,0,0,,I’ve never seen anything like them.
 Dialogue: 0,0:18:29.46,0:18:33.10,Regular,,0,0,0,,Are they some kind of \Nnew artillery shell? Then—
-Dialogue: 0,0:18:33.10,0:18:35.85,Regular,,0,0,0,,Those aren’t shells!
-Dialogue: 0,0:18:35.85,0:18:37.84,Regular,,0,0,0,,They’re heading straight\N for the Grand Temple.
+Dialogue: 0,0:18:33.10,0:18:35.51,Regular,,0,0,0,,Those aren’t shells!
+Dialogue: 0,0:18:35.51,0:18:37.84,Regular,,0,0,0,,They’re heading straight\N for the Grand Temple.
 Dialogue: 0,0:19:04.95,0:19:06.65,Regular,,0,0,0,,Let’s go, Limone!
 Dialogue: 0,0:19:06.65,0:19:08.62,Regular,,0,0,0,,We’ll destroy them with a Ri Maajon.
 Dialogue: 0,0:19:13.46,0:19:16.84,Regular,,0,0,0,,Damn them all, \Nevery single one of them!
@@ -246,9 +243,9 @@ Dialogue: 0,0:19:18.97,0:19:20.59,Regular,,0,0,0,,“Us?”
 Dialogue: 0,0:19:21.13,0:19:22.80,Regular,,0,0,0,,So it comes to this after all.
 Dialogue: 0,0:19:23.51,0:19:25.51,Regular,,0,0,0,,We’re still doing a Ri Maajon. \NThat hasn’t changed at all!
 Dialogue: 0,0:19:42.99,0:19:44.49,Regular,,0,0,0,,Mamiina! Over there!
-Dialogue: 0,0:19:47.50,0:19:49.20,Regular,,0,0,0,,There’s so many of them!
+Dialogue: 0,0:19:47.29,0:19:49.20,Regular,,0,0,0,,There are so many of them!
 Dialogue: 0,0:19:50.01,0:19:53.21,Regular,,0,0,0,,With that many of them, \Nonly the Iron Ri Maajon will work.
-Dialogue: 0,0:19:53.67,0:19:58.72,Regular,,0,0,0,,That’s impossible! We need all six Simoun to do the Iron Ri Maajon!
+Dialogue: 0,0:19:53.21,0:19:59.21,Regular,,0,0,0,,That’s impossible! We need all six Simoun to do the Iron Ri Maajon!
 Dialogue: 0,0:20:02.55,0:20:04.14,Regular,,0,0,0,,The Iron Ri Maajon?
 Dialogue: 0,0:20:38.38,0:20:39.42,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:20:42.30,0:20:43.80,Regular,,0,0,0,,What a lovely breeze.
@@ -268,12 +265,12 @@ Dialogue: 0,0:21:16.70,0:21:19.29,Regular,,0,0,0,,What could have happened at He
 Dialogue: 0,0:21:20.51,0:21:22.21,Regular,,0,0,0,,Well, something sure happened, eh?
 Dialogue: 0,0:21:22.93,0:21:24.80,Regular,,0,0,0,,Neviril! Vyura!
 Dialogue: 0,0:21:34.06,0:21:39.69,Regular,,0,0,0,,With Chor Tempest’s survival decided,\N the {\i1}Arcus Prima{\i0} should be repaired right away.
-Dialogue: 0,0:21:40.24,0:21:43.74,Regular,,0,0,0,,I just wanted you to move on with your life.
-Dialogue: 0,0:21:43.74,0:21:45.45,Regular,,0,0,0,,You embarrassed a lot of \Ncouncil members back there.
+Dialogue: 0,0:21:40.24,0:21:43.32,Regular,,0,0,0,,I just wanted you to move on with your life.
+Dialogue: 0,0:21:43.32,0:21:45.45,Regular,,0,0,0,,You embarrassed a lot of \Nthe council members there.
 Dialogue: 0,0:21:46.19,0:21:49.74,Regular,,0,0,0,,They won’t just let Chor Tempest \Ncarry on as it did before.
 Dialogue: 0,0:21:57.46,0:22:04.30,Regular,,0,0,0,,While the {\i1}Arcus Prima{\i0} is being repaired, \NChor Tempest will be stationed aboard the {\i1}Messis{\i0}.
 Dialogue: 0,0:22:04.30,0:22:07.97,Regular,,0,0,0,,You will fly patrols and reconnaissance missions near the border.
-Dialogue: 0,0:22:09.48,0:22:11.01,Regular,,0,0,0,,Wait… you mean we’re \Ngoing to fly on {\i1}that{\i0} thing?
+Dialogue: 0,0:22:07.97,0:22:11.01,Regular,,0,0,0,,Wait… you mean we’re \Ngoing to fly on {\i1}that{\i0} thing?
 Dialogue: 0,0:22:11.01,0:22:12.47,Regular,,0,0,0,,Isn’t it a little…?
 Dialogue: 0,0:22:12.47,0:22:16.42,Regular,,0,0,0,,Don’t get greedy. We’re lucky they’re letting Chor Tempest survive at all.
 Dialogue: 0,0:22:16.42,0:22:18.03,Regular,,0,0,0,,That’s right!
@@ -281,6 +278,6 @@ Dialogue: 0,0:22:18.03,0:22:19.98,Regular,,0,0,0,,It’s great. Even the ship.
 Dialogue: 0,0:22:20.94,0:22:23.48,Regular,,0,0,0,,I’m not complaining at all!
 Dialogue: 0,0:24:04.96,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:05.92,0:24:11.97,Regular,,0,0,0,,Chor Tempest boards the old warship {\i1}Messis{\i0} and heads for the borderlands.
-Dialogue: 0,0:24:14.34,0:24:15.97,Regular,,0,0,0,,Next time, on Simoun:
+Dialogue: 0,0:24:14.34,0:24:16.18,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.05,0:24:18.43,Regular,,0,0,0,,Birds in a Cage.
 Dialogue: 0,0:24:15.47,0:24:19.97,Titles,,0,0,0,,{\blur0.6}Birds in a Cage
