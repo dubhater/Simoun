@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 169
+Active Line: 179
 Video File: ../../raws/simoun-13.mkv
 Keyframes File: ../../scxvid/simoun-13-keyframes.txt
 Audio URI: ../../audio/simoun-13.flac
 YCbCr Matrix: TV.601
 Video Zoom Percent: 0.625
-Video Position: 0
+Video Position: 25551
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,13 +38,13 @@ Dialogue: 0,0:01:32.70,0:01:34.84,Regular,,0,0,0,,I’m Para-sama’s pair!
 Dialogue: 0,0:01:34.84,0:01:36.78,Regular,,0,0,0,,To put me with Alti at this point…
 Dialogue: 0,0:01:36.78,0:01:40.57,Regular,,0,0,0,,This is all for the sake of regaining\N Chor Tempest’s honour.
 Dialogue: 0,0:01:45.00,0:01:46.29,Regular,,0,0,0,,Neviril, look!
-Dialogue: 0,0:01:46.82,0:01:48.08,Regular,,0,0,0,,What? It’s…
-Dialogue: 0,0:01:48.08,0:01:51.04,Regular,,0,0,0,,Why is their prayer having no effect on the Simoun Gem?
+Dialogue: 0,0:01:46.82,0:01:48.08,Regular,,0,0,0,,That’s…
+Dialogue: 0,0:01:48.08,0:01:51.04,Regular,,0,0,0,,Why is their prayer having \Nno effect on the Simoun Gem?
 Dialogue: 0,0:01:51.04,0:01:52.09,Regular,,0,0,0,,Kaimu!
 Dialogue: 0,0:01:52.84,0:01:53.84,Regular,,0,0,0,,Nee-san!
-Dialogue: 0,0:01:54.34,0:01:55.34,Regular,,0,0,0,,Don’t call me that!
+Dialogue: 0,0:01:53.84,0:01:55.34,Regular,,0,0,0,,Don’t call me that!
 Dialogue: 0,0:01:55.34,0:01:57.34,Regular,,0,0,0,,Do {\i1}not{\i0} call me that!
-Dialogue: 0,0:01:57.34,0:02:03.35,Titles,,0,0,0,,{\blur0.6}Reason
+Dialogue: 0,0:01:57.34,0:02:03.35,Titles,,90,0,0,,{\blur0.6}Reason
 Dialogue: 0,0:02:21.98,0:02:23.03,Regular,,0,0,0,,Prayer?
 Dialogue: 0,0:02:23.03,0:02:27.93,Regular,,0,0,0,,Yes, the chariots of the gods are activated by the prayers of the Simoun sibyllae.
 Dialogue: 0,0:02:27.93,0:02:31.79,Regular,,0,0,0,,Two priestesses unite their hearts in praise of Tempus Spatium.
@@ -52,7 +52,7 @@ Dialogue: 0,0:02:35.30,0:02:40.51,Regular,,0,0,0,,To reject one’s pair \Nis to
 Dialogue: 0,0:02:44.30,0:02:48.52,Regular,,0,0,0,,This is unbelievable.\N I’ve never heard of such a thing.
 Dialogue: 0,0:02:49.03,0:02:50.82,Regular,,0,0,0,,All of this is guesswork.
 Dialogue: 0,0:02:50.82,0:02:57.03,Regular,,0,0,0,,But thanks to the two of you, we’ve discovered a hidden aspect of the Simoun.
-Dialogue: 0,0:02:57.40,0:03:01.03,Regular,,0,0,0,,You’ve done well, although you probably don’t appreciate my saying so.
+Dialogue: 0,0:02:57.03,0:03:01.03,Regular,,0,0,0,,You’ve done well, although you probably don’t appreciate my saying so.
 Dialogue: 0,0:03:03.00,0:03:09.04,Regular,,0,0,0,,So that means… that I probably won’t be able to pair… with Nee-san any more.
 Dialogue: 0,0:03:12.54,0:03:14.50,Regular,,0,0,0,,You understand, don’t you?
 Dialogue: 0,0:03:27.94,0:03:30.06,Regular,,0,0,0,,The enemy hasn’t shown up.
@@ -61,39 +61,40 @@ Dialogue: 0,0:03:39.58,0:03:42.45,Regular,,0,0,0,,So would you rather be fightin
 Dialogue: 0,0:03:42.45,0:03:44.37,Regular,,0,0,0,,I didn’t say that!
 Dialogue: 0,0:03:44.37,0:03:46.62,Regular,,0,0,0,,I just meant that \Nthere’s nothing to do.
 Dialogue: 0,0:03:46.62,0:03:50.58,Regular,,0,0,0,,You should consider your words carefully,\Nor else keep them to yourself.
-Dialogue: 0,0:03:51.09,0:03:57.30,Regular,,0,0,0,,Ahhhhhh! I’m just {\i1}soooo{\i0} bored!
+Dialogue: 0,0:03:53.58,0:03:57.30,Regular,,0,0,0,,Ahhhhhh! I’m just {\i1}soooo{\i0} bored!
 Dialogue: 0,0:04:03.72,0:04:09.22,Regular,,0,0,0,,Rodoreamon can get really scary when she’s mad. I’m gonna stay out of this.
 Dialogue: 0,0:04:17.64,0:04:19.22,Regular,,0,0,0,,What are you thinking about?
 Dialogue: 0,0:04:19.90,0:04:21.90,Regular,,0,0,0,,Something other than you.
-Dialogue: 0,0:04:23.62,0:04:24.66,Regular,,0,0,0,,I see.
-Dialogue: 0,0:04:25.46,0:04:27.16,Regular,,0,0,0,,The Emerald Ri Maajon?
+Dialogue: 0,0:04:23.62,0:04:25.11,Regular,,0,0,0,,I see.
+Dialogue: 0,0:04:25.11,0:04:27.16,Regular,,0,0,0,,The Emerald Ri Maajon?
 Dialogue: 0,0:04:27.16,0:04:31.16,Regular,,0,0,0,,Yeah, it’s the greatest Ri Maajon that a Simoun can perform.
-Dialogue: 0,0:04:31.65,0:04:34.76,Regular,,0,0,0,,It’s said it can bring about \Nthe ultimate miracle.
-Dialogue: 0,0:04:34.76,0:04:36.17,Regular,,0,0,0,,The ultimate…
+Dialogue: 0,0:04:31.16,0:04:34.76,Regular,,0,0,0,,It’s said it can bring about \Nthe ultimate miracle.
+Dialogue: 0,0:04:34.76,0:04:36.17,Regular,,0,0,0,,Ultimate…
 Dialogue: 0,0:04:38.63,0:04:41.94,Regular,,0,0,0,,You were imitating the\N Emerald Ri Maajon on purpose.
-Dialogue: 0,0:04:41.94,0:04:44.55,Regular,,0,0,0,,Just how do you think Neviril \Nwould feel if she saw that?
+Dialogue: 0,0:04:41.94,0:04:44.76,Regular,,0,0,0,,Just how do you think Neviril \Nwould feel if she saw that?
 Dialogue: 0,0:04:45.56,0:04:48.39,Regular,,0,0,0,,Huh? Did I do some kind of Ri Maajon?
 Dialogue: 0,0:04:48.39,0:04:52.72,Regular,,0,0,0,,Oh, so {\i1}that’s{\i0} what that was about!
 Dialogue: 0,0:04:53.43,0:04:54.48,Regular,,0,0,0,,Aaeru?
-Dialogue: 0,0:04:55.69,0:04:56.72,Regular,,0,0,0,,Aaeru?
-Dialogue: 0,0:04:56.72,0:04:59.48,Regular,,0,0,0,,Tell me, what would happen?
+Dialogue: 0,0:04:55.69,0:04:56.94,Regular,,0,0,0,,Aaeru?
+Dialogue: 0,0:04:56.94,0:04:59.48,Regular,,0,0,0,,Tell me, what would happen?
 Dialogue: 0,0:04:59.48,0:05:03.00,Regular,,0,0,0,,Sorry. I’m afraid I’ve never seen it.
 Dialogue: 0,0:05:03.00,0:05:05.82,Regular,,0,0,0,,Wapourif, didn’t Neviril and Amuria—
 Dialogue: 0,0:05:15.60,0:05:20.41,Regular,,0,0,0,,Neviril and Amuria did \Nthe Emerald Ri Maajon?
 Dialogue: 0,0:05:20.41,0:05:21.90,Regular,,0,0,0,,Well…
 Dialogue: 0,0:05:21.90,0:05:24.59,Regular,,0,0,0,,I get it! They tried but\N they couldn’t do it.
+Dialogue: 0,0:05:26.93,0:05:28.09,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:05:28.09,0:05:31.28,Regular,,0,0,0,,I see. So she and Amuria…
 Dialogue: 0,0:05:49.60,0:05:52.12,Regular,,0,0,0,,Wow, you’re so thorough.
 Dialogue: 0,0:05:52.12,0:05:57.40,Regular,,0,0,0,,Tempus Spatium likes cleanliness and shuns places that are dirty.
 Dialogue: 0,0:05:58.60,0:06:04.66,Regular,,0,0,0,,My mother always said that a dirty kitchen or bathroom brings misfortune.
 Dialogue: 0,0:06:04.66,0:06:08.89,Regular,,0,0,0,,You’re amazing, Mamiina! \NYou know a lot that I don’t.
 Dialogue: 0,0:06:08.89,0:06:11.14,Regular,,0,0,0,,Maybe it suits me.
-Dialogue: 0,0:06:11.64,0:06:14.68,Regular,,0,0,0,,Cooking and cleaning like this, I mean.
-Dialogue: 0,0:06:16.50,0:06:18.64,Regular,,0,0,0,,Being here has felt like a dream.
+Dialogue: 0,0:06:11.14,0:06:14.68,Regular,,0,0,0,,Cooking and cleaning like this, I mean.
+Dialogue: 0,0:06:16.14,0:06:18.64,Regular,,0,0,0,,Being here has felt like a dream.
 Dialogue: 0,0:06:19.70,0:06:23.50,Regular,,0,0,0,,Ah, it’s stuck and it won’t come off. If only we could get citrus fruit…
 Dialogue: 0,0:06:23.50,0:06:24.90,Regular,,0,0,0,,Citrus fruit?
 Dialogue: 0,0:06:24.90,0:06:26.36,Regular,,0,0,0,,The acid in the juice\N would dissolve the stain.
-Dialogue: 0,0:06:26.93,0:06:29.61,Regular,,0,0,0,,You really {\i1}are{\i0} amazing!
+Dialogue: 0,0:06:26.36,0:06:29.61,Regular,,0,0,0,,You really {\i1}are{\i0} amazing!
 Dialogue: 0,0:06:50.59,0:06:51.64,Regular,,0,0,0,,This is delicious!
 Dialogue: 0,0:07:03.61,0:07:04.65,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:07:06.15,0:07:08.65,Regular,,0,0,0,,Do the Emerald Ri Maajon with me!
@@ -102,12 +103,12 @@ Dialogue: 0,0:07:17.91,0:07:20.62,Regular,,0,0,0,,I get it! You and Amuria faile
 Dialogue: 0,0:07:23.66,0:07:27.09,Regular,,0,0,0,,But with me, I bet you can do it. Come on, Neviril, let’s try the Em—
 Dialogue: 0,0:07:27.09,0:07:28.02,Regular,,0,0,0,,Stop it!
 Dialogue: 0,0:07:36.60,0:07:37.64,Regular,,0,0,0,,Wait.
-Dialogue: 0,0:07:38.06,0:07:39.14,Regular,,0,0,0,,I’ll go get a mop.
+Dialogue: 0,0:07:37.64,0:07:39.14,Regular,,0,0,0,,I’ll go get a mop.
 Dialogue: 0,0:07:43.27,0:07:44.40,Regular,,0,0,0,,Neviril, are you okay?
-Dialogue: 0,0:07:44.92,0:07:46.31,Regular,,0,0,0,,Drop it, Aaeru.
-Dialogue: 0,0:07:46.31,0:07:47.24,Regular,,0,0,0,,Why?
+Dialogue: 0,0:07:44.40,0:07:46.15,Regular,,0,0,0,,Drop it, Aaeru.
+Dialogue: 0,0:07:46.15,0:07:47.24,Regular,,0,0,0,,Why?
 Dialogue: 0,0:07:47.24,0:07:48.54,Regular,,0,0,0,,That topic is…
-Dialogue: 0,0:07:51.70,0:07:53.91,Regular,,0,0,0,,What, because it makes her\N remember Amuria’s death?
+Dialogue: 0,0:07:51.40,0:07:53.91,Regular,,0,0,0,,Because it makes her\N remember Amuria’s death?
 Dialogue: 0,0:08:05.38,0:08:06.42,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:08:14.60,0:08:16.18,Regular,,0,0,0,,That was in spectacularly bad taste.
 Dialogue: 0,0:08:17.64,0:08:19.42,Regular,,0,0,0,,Poor Neviril.
@@ -116,7 +117,7 @@ Dialogue: 0,0:08:28.90,0:08:31.28,Regular,,0,0,0,,What? I didn’t—
 Dialogue: 0,0:08:31.28,0:08:32.32,Regular,,0,0,0,,C’mere.
 Dialogue: 0,0:08:37.84,0:08:38.91,Regular,,0,0,0,,Aaeru…
 Dialogue: 0,0:08:52.56,0:08:54.98,Regular,,0,0,0,,Why’d you drag me \Nall the way down here?
-Dialogue: 0,0:08:54.98,0:08:58.85,Regular,,0,0,0,,Sheesh! So tell me, do you {\i1}like{\i0} Neviril?
+Dialogue: 0,0:08:54.98,0:08:58.85,Regular,,0,0,0,,Sheesh! Tell me, do you {\i1}like{\i0} Neviril?
 Dialogue: 0,0:08:58.85,0:09:00.10,Regular,,0,0,0,,Sure, I like her.
 Dialogue: 0,0:09:00.62,0:09:02.08,Regular,,0,0,0,,That’s not what I mean.
 Dialogue: 0,0:09:02.08,0:09:03.36,Regular,,0,0,0,,Huh?
@@ -125,24 +126,28 @@ Dialogue: 0,0:09:08.56,0:09:12.24,Regular,,0,0,0,,Are you filled with love and d
 Dialogue: 0,0:09:12.24,0:09:13.61,Regular,,0,0,0,,Sure, I want Neviril!
 Dialogue: 0,0:09:15.22,0:09:18.66,Regular,,0,0,0,,I can fly higher with her\N than with anyone else.
 Dialogue: 0,0:09:20.62,0:09:22.12,Regular,,0,0,0,,Aaeru!
-Dialogue: 0,0:09:26.20,0:09:27.23,Regular,,0,0,0,,How did that feel?
+Dialogue: 0,0:09:25.91,0:09:27.23,Regular,,0,0,0,,How did that feel?
 Dialogue: 0,0:09:27.23,0:09:28.32,Regular,,0,0,0,,How did what feel?
 Dialogue: 0,0:09:28.32,0:09:29.80,Regular,,0,0,0,,What I just did!
 Dialogue: 0,0:09:29.80,0:09:32.38,Regular,,0,0,0,,Well, we’re not about to fly into battle, so it’s kind of weird.
-Dialogue: 0,0:09:34.10,0:09:37.04,Regular,,0,0,0,,If you really {\i1}liked{\i0} someone, \Nyou’d feel differently.
+Dialogue: 0,0:09:33.63,0:09:37.43,Regular,,0,0,0,,If you really {\i1}liked{\i0} someone, \Nyou’d feel differently.
 Dialogue: 0,0:09:38.64,0:09:42.40,Regular,,0,0,0,,Neviril {\i1}like{\i0}-liked Amuria that way. Get it?
 Dialogue: 0,0:09:42.40,0:09:45.76,Regular,,0,0,0,,What does that have to do \Nwith the Emerald Ri Maajon?
-Dialogue: 0,0:09:47.10,0:09:48.81,Regular,,0,0,0,,It’s a lot better if you \N{\i1}like{\i0} each other, okay?
+Dialogue: 0,0:09:46.69,0:09:48.81,Regular,,0,0,0,,It’s a lot better if you \N{\i1}like{\i0} each other, okay?
+Dialogue: 0,0:09:55.28,0:09:56.32,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:09:59.20,0:10:00.24,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:10:02.20,0:10:03.44,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:10:06.29,0:10:07.33,Regular,,0,0,0,,Neviril…
 Dialogue: 0,0:10:10.14,0:10:11.34,Regular,,0,0,0,,Neviril.
-Dialogue: 0,0:10:17.14,0:10:19.59,Regular,,0,0,0,,It’ll be all right… \Nif you do that with me.
+Dialogue: 0,0:10:16.92,0:10:19.59,Regular,,0,0,0,,It’ll be all right… \Nif you do that with me.
 Dialogue: 0,0:10:21.62,0:10:23.30,Regular,,0,0,0,,We can do it, if we’re together.
 Dialogue: 0,0:10:43.10,0:10:44.62,Regular,,0,0,0,,The Emerald Ri Maajon!
 Dialogue: 0,0:10:49.24,0:10:54.76,Regular,,0,0,0,,Because… because it makes her remember Amuria’s death.
 Dialogue: 0,0:10:57.06,0:10:59.80,Regular,,0,0,0,,Nooooooooo!
-Dialogue: 0,0:10:59.80,0:11:08.00,Regular,,0,0,0,,Neviril, what’s going on? Neviril!
-Dialogue: 0,0:11:41.26,0:11:42.30,Regular,,0,0,0,,I’ll open the window.
+Dialogue: 0,0:10:59.80,0:11:02.97,Regular,,0,0,0,,Neviril, what’s going on? Neviril!
+Dialogue: 0,0:11:03.88,0:11:04.93,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:11:05.94,0:11:07.28,Regular,,0,0,0,,Neviril!
+Dialogue: 0,0:11:41.05,0:11:42.30,Regular,,0,0,0,,I’ll open the window.
 Dialogue: 0,0:11:45.30,0:11:50.66,Regular,,0,0,0,,It’s dusty in here, but this must be better than sharing a room with Aaeru—with the others.
 Dialogue: 0,0:11:51.90,0:11:53.96,Regular,,0,0,0,,Yes, thanks.
 Dialogue: 0,0:11:56.54,0:11:59.12,Regular,,0,0,0,,Get some rest, then.
@@ -150,16 +155,16 @@ Dialogue: 0,0:12:23.70,0:12:25.76,Regular,,0,0,0,,The Emerald Ri Maajon…
 Dialogue: 0,0:12:27.00,0:12:29.22,Regular,,0,0,0,,It must be really great.
 Dialogue: 0,0:12:29.22,0:12:30.49,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:12:30.49,0:12:33.44,Regular,,0,0,0,,I want to try it too.
-Dialogue: 0,0:12:33.92,0:12:35.44,Regular,,0,0,0,,With Dominura?
+Dialogue: 0,0:12:33.44,0:12:35.44,Regular,,0,0,0,,With Dominura?
 Dialogue: 0,0:12:36.60,0:12:38.88,Regular,,0,0,0,,It doesn’t matter\N who my partner is…
 Dialogue: 0,0:12:39.70,0:12:41.64,Regular,,0,0,0,,Do you {\i1}like{\i0} Dominura?
 Dialogue: 0,0:12:43.32,0:12:44.45,Regular,,0,0,0,,I don’t know.
-Dialogue: 0,0:12:46.95,0:12:50.70,Regular,,0,0,0,,They say if you really {\i1}like{\i0} somebody, you want to kiss her even when you’re not flying a Simoun.
-Dialogue: 0,0:12:52.72,0:12:55.68,Regular,,0,0,0,,Apparently, a lot of things are better if you {\i1}like{\i0} your pair.
+Dialogue: 0,0:12:46.45,0:12:50.70,Regular,,0,0,0,,They say if you really {\i1}like{\i0} somebody, you want to kiss her even when you’re not flying a Simoun.
+Dialogue: 0,0:12:52.72,0:12:55.68,Regular,,0,0,0,,Apparently, a lot of things \Nare better if you {\i1}like{\i0} your pair.
 Dialogue: 0,0:12:55.68,0:12:57.09,Regular,,0,0,0,,A lot?
 Dialogue: 0,0:12:57.09,0:12:59.16,Regular,,0,0,0,,Yep. A lot.
 Dialogue: 0,0:13:11.38,0:13:13.43,Regular,,0,0,0,,What did Central Command say?
-Dialogue: 0,0:13:13.43,0:13:16.94,Regular,,0,0,0,,They said that unless the enemy shows signs of activity, we should just watch them for now.
+Dialogue: 0,0:13:13.43,0:13:16.94,Regular,,0,0,0,,{They said that }Unless the enemy shows signs of activity,\Nwe should just watch them for now.
 Dialogue: 0,0:13:16.94,0:13:20.98,Regular,,0,0,0,,That enemy base ship was almost impossible to find.\NDo they think we should just leave it alone?
 Dialogue: 0,0:13:20.98,0:13:26.95,Regular,,0,0,0,,They’ve apparently been distracted by unexpected problems with the {\i1}Arcus Prima{\i0}.
 Dialogue: 0,0:13:26.95,0:13:34.84,Regular,,0,0,0,,As I thought, they’re missing the forest for the trees. \NIf things go on this way, our Holy Land will…
@@ -168,7 +173,7 @@ Dialogue: 0,0:13:41.55,0:13:45.92,Regular,,0,0,0,,It may be out of line for a ma
 Dialogue: 0,0:13:45.92,0:13:47.98,Regular,,0,0,0,,Yes, it certainly is.
 Dialogue: 0,0:14:00.00,0:14:03.58,Regular,,0,0,0,,Limone, what is it? \NIs something wrong?
 Dialogue: 0,0:14:04.94,0:14:05.99,Regular,,0,0,0,,Yes?
-Dialogue: 0,0:14:10.40,0:14:11.49,Regular,,0,0,0,,How did that feel?
+Dialogue: 0,0:14:10.20,0:14:11.49,Regular,,0,0,0,,How did that feel?
 Dialogue: 0,0:14:13.49,0:14:16.00,Regular,,0,0,0,,Did you feel that you {\i1}liked{\i0} me?
 Dialogue: 0,0:14:24.86,0:14:26.08,Regular,,0,0,0,,Run along.
 Dialogue: 0,0:14:41.78,0:14:44.96,Regular,,0,0,0,,Amuria… is dead.
@@ -178,17 +183,17 @@ Dialogue: 0,0:14:50.82,0:14:51.80,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:14:54.24,0:14:55.54,Regular,,0,0,0,,I finally found you!
 Dialogue: 0,0:14:59.46,0:15:00.52,Regular,,0,0,0,,W-Why?
 Dialogue: 0,0:15:01.52,0:15:03.04,Regular,,0,0,0,,Whew!
-Dialogue: 0,0:15:03.04,0:15:04.34,Regular,,0,0,0,,What are you…?
-Dialogue: 0,0:15:04.92,0:15:06.05,Regular,,0,0,0,,Are you sick?
-Dialogue: 0,0:15:14.44,0:15:15.82,Regular,,0,0,0,,C’mon, look at me.
+Dialogue: 0,0:15:03.04,0:15:04.67,Regular,,0,0,0,,What are you…?
+Dialogue: 0,0:15:04.67,0:15:06.05,Regular,,0,0,0,,Are you sick?
+Dialogue: 0,0:15:14.44,0:15:16.14,Regular,,0,0,0,,C’mon, look at me.
 Dialogue: 0,0:15:18.72,0:15:24.68,Regular,,0,0,0,,You can’t feel the wind in here. It’s so stuffy and full of old junk.
 Dialogue: 0,0:15:24.68,0:15:28.58,Regular,,0,0,0,,There’s nothing here but\N a bunch of useless memories.
-Dialogue: 0,0:15:32.53,0:15:33.57,Regular,,0,0,0,,Let’s go outside.
+Dialogue: 0,0:15:32.41,0:15:33.57,Regular,,0,0,0,,Let’s go outside.
 Dialogue: 0,0:15:35.58,0:15:39.33,Regular,,0,0,0,,Come on, let’s open\N the door together, Neviril.
-Dialogue: 0,0:15:42.25,0:15:43.29,Regular,,0,0,0,,Neviril.
+Dialogue: 0,0:15:42.08,0:15:43.29,Regular,,0,0,0,,Neviril.
 Dialogue: 0,0:15:58.82,0:16:00.08,Regular,,0,0,0,,What are you doing?!
 Dialogue: 0,0:16:06.34,0:16:08.07,Regular,,0,0,0,,Hey, that hurts!
-Dialogue: 0,0:16:08.42,0:16:11.24,Regular,,0,0,0,,Neviril is tired. Get out of here!
+Dialogue: 0,0:16:08.07,0:16:11.24,Regular,,0,0,0,,Neviril is tired. Get out of here!
 Dialogue: 0,0:16:11.24,0:16:12.53,Regular,,0,0,0,,What? But…
 Dialogue: 0,0:16:12.53,0:16:13.57,Regular,,0,0,0,,Get out!
 Dialogue: 0,0:16:26.88,0:16:31.92,Regular,,0,0,0,,Neviril, I don’t think Aaeru\N means any harm, but—
@@ -204,23 +209,23 @@ Dialogue: 0,0:17:26.44,0:17:28.48,Regular,,0,0,0,,Amuria was strong.
 Dialogue: 0,0:17:29.48,0:17:33.90,Regular,,0,0,0,,She was always aiming higher, and never doubted herself.
 Dialogue: 0,0:17:33.90,0:17:38.91,Regular,,0,0,0,,Yes, I thought the war \Nwas too much for me but…
 Dialogue: 0,0:17:40.18,0:17:45.12,Regular,,0,0,0,,When Amuria was with us, it felt as though we were invincible,
-Dialogue: 0,0:17:46.04,0:17:49.78,Regular,,0,0,0,,so I was afraid to admit\N that she was gone.
+Dialogue: 0,0:17:45.66,0:17:49.78,Regular,,0,0,0,,so I was afraid to admit\N that she was gone.
 Dialogue: 0,0:17:49.78,0:17:54.64,Regular,,0,0,0,,No, even now I don’t want to. But—
 Dialogue: 0,0:18:04.02,0:18:05.14,Regular,,0,0,0,,What happened to my…?
 Dialogue: 0,0:18:06.18,0:18:08.06,Regular,,0,0,0,,You caught me.
-Dialogue: 0,0:18:09.78,0:18:10.96,Regular,,0,0,0,,What’s up?
-Dialogue: 0,0:18:13.64,0:18:15.30,Regular,,0,0,0,,What is {\i1}that{\i0}?
+Dialogue: 0,0:18:09.69,0:18:10.96,Regular,,0,0,0,,What’s up?
+Dialogue: 0,0:18:13.64,0:18:15.65,Regular,,0,0,0,,What is {\i1}that{\i0}?
 Dialogue: 0,0:18:22.56,0:18:25.25,Regular,,0,0,0,,What sort of creature \Nis {\i1}that{\i0} supposed to be?
 Dialogue: 0,0:18:25.25,0:18:26.28,Regular,,0,0,0,,Oh, that’s funny!
 Dialogue: 0,0:18:26.28,0:18:31.17,Regular,,0,0,0,,Come on! I sewed it as well as I could!\N I know it’s a bit ugly, but…
 Dialogue: 0,0:18:31.17,0:18:33.63,Regular,,0,0,0,,Its face is all misshapen.
 Dialogue: 0,0:18:35.00,0:18:37.67,Regular,,0,0,0,,It’s fine. This is adorable!
-Dialogue: 0,0:18:37.98,0:18:41.39,Regular,,0,0,0,,It’s certainly unique… just like its maker.
+Dialogue: 0,0:18:37.67,0:18:41.39,Regular,,0,0,0,,It’s certainly unique… just like its maker.
 Dialogue: 0,0:18:41.39,0:18:42.89,Regular,,0,0,0,,Hey!
 Dialogue: 0,0:19:00.88,0:19:03.76,Regular,,0,0,0,,I didn’t mean to hurt Neviril.
 Dialogue: 0,0:19:04.42,0:19:08.96,Regular,,0,0,0,,I just thought that we could do anything if we were together.
 Dialogue: 0,0:19:08.96,0:19:10.92,Regular,,0,0,0,,How can you be so confident?
-Dialogue: 0,0:19:13.44,0:19:16.42,Regular,,0,0,0,,Haven’t you ever felt despair?
+Dialogue: 0,0:19:12.92,0:19:16.42,Regular,,0,0,0,,Haven’t you ever felt despair?
 Dialogue: 0,0:19:18.82,0:19:20.93,Regular,,0,0,0,,If I told you, \Nwhat difference would it make?
 Dialogue: 0,0:19:26.25,0:19:30.44,Regular,,0,0,0,,Maybe it was a mistake \Nto entrust Neviril to you.
 Dialogue: 0,0:19:41.28,0:19:44.10,Regular,,0,0,0,,We can’t wait for the brass any longer.
@@ -230,8 +235,8 @@ Dialogue: 0,0:19:52.60,0:19:54.21,Regular,,0,0,0,,Wait, those two are…
 Dialogue: 0,0:19:54.21,0:19:59.70,Regular,,0,0,0,,The two of them are the best pair in Chor Tempest at the moment. Is there a problem?
 Dialogue: 0,0:19:59.70,0:20:00.84,Regular,,0,0,0,,But…!
 Dialogue: 0,0:20:02.32,0:20:05.90,Regular,,0,0,0,,Dominura, I can’t pair\N with Aaeru right now.
-Dialogue: 0,0:20:07.32,0:20:10.02,Regular,,0,0,0,,Yesterday, you said the Simoun are—
-Dialogue: 0,0:20:10.02,0:20:11.06,Regular,,0,0,0,,Yes, and that is why.
+Dialogue: 0,0:20:07.32,0:20:09.56,Regular,,0,0,0,,Yesterday, you said\Nthe Simoun are—
+Dialogue: 0,0:20:09.56,0:20:11.06,Regular,,0,0,0,,Yes, and that is why.
 Dialogue: 0,0:20:13.14,0:20:16.60,Regular,,0,0,0,,People’s feelings aren’t toys!\N How can you just assume—
 Dialogue: 0,0:20:16.60,0:20:17.90,Regular,,0,0,0,,Neviril.
 Dialogue: 0,0:20:19.14,0:20:21.62,Regular,,0,0,0,,I want to fly.
@@ -239,13 +244,12 @@ Dialogue: 0,0:20:25.20,0:20:29.16,Regular,,0,0,0,,Neviril, I guess you don’t w
 Dialogue: 0,0:20:31.86,0:20:36.58,Regular,,0,0,0,,Neviril, please consider the interests of the nation above all else.
 Dialogue: 0,0:20:36.58,0:20:40.30,Regular,,0,0,0,,We are Simoun sibyllae.
 Dialogue: 0,0:21:10.84,0:21:12.02,Regular,,0,0,0,,Are you worried?
-Dialogue: 0,0:21:19.86,0:21:21.16,Regular,,0,0,0,,This is pointless.
-Dialogue: 0,0:21:21.16,0:21:22.21,Regular,,0,0,0,,It’s not pointless.
+Dialogue: 0,0:21:19.86,0:21:22.21,Regular,,0,0,0,,— This is pointless.\N— It’s not pointless.
 Dialogue: 0,0:21:23.62,0:21:27.47,Regular,,0,0,0,,Not pointless at all.\N We can fly. We can!
-Dialogue: 0,0:21:43.26,0:21:44.74,Regular,,0,0,0,,Their prayer seems \Nto have been heard.
-Dialogue: 0,0:21:45.24,0:21:47.74,Regular,,0,0,0,,I guess feelings\N don’t matter after all.
+Dialogue: 0,0:21:43.03,0:21:44.74,Regular,,0,0,0,,Their prayer seems \Nto have been heard.
+Dialogue: 0,0:21:44.74,0:21:47.74,Regular,,0,0,0,,I guess feelings\N don’t matter after all.
 Dialogue: 0,0:21:47.74,0:21:53.92,Regular,,0,0,0,,They do matter. \NWe must conclude that Neviril…
-Dialogue: 0,0:21:53.92,0:21:55.20,Regular,,0,0,0,,Neviril…
+Dialogue: 0,0:21:53.92,0:21:55.75,Regular,,0,0,0,,Neviril…
 Dialogue: 0,0:22:04.02,0:22:05.26,Regular,,0,0,0,,Why?
 Dialogue: 0,0:22:07.76,0:22:11.97,Regular,,0,0,0,,I was right. You do want me!
 Dialogue: 0,0:22:15.44,0:22:17.48,Regular,,0,0,0,,You can fly with me.
