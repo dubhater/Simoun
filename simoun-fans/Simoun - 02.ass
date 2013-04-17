@@ -246,7 +246,7 @@ Dialogue: 0,0:22:06.72,0:22:08.05,Regular,,0,0,0,,Go higher.
 Dialogue: 0,0:22:09.06,0:22:10.89,Regular,,0,0,0,,Higher than our ship?
 Dialogue: 0,0:22:11.43,0:22:14.64,Regular,,0,0,0,,Higher. Please.
 Dialogue: 0,0:22:18.52,0:22:19.98,Regular,,0,0,0,,Okay!
-Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.59,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:07.56,0:24:11.55,Regular,,0,0,0,,Massive long-range artillery shells come flying from the Archipelago.
 Dialogue: 0,0:24:14.59,0:24:16.55,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.55,0:24:18.51,Regular,,0,0,0,,Distant War.

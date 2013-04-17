@@ -347,7 +347,7 @@ Dialogue: 0,0:21:55.08,0:21:56.83,Regular,,0,0,0,,All hands, salute!
 Dialogue: 0,0:22:17.56,0:22:21.02,Regular,,0,0,0,,Despite Chor Tempest’s actions,
 Dialogue: 0,0:22:21.02,0:22:25.57,Regular,,0,0,0,,Central Command concluded that the war was a lost cause…
 Dialogue: 0,0:22:25.57,0:22:33.66,Regular,,0,0,0,,…and accepted the peace treaty offered by Plumbum and Argentum a few days later.
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.67,0:24:10.51,Regular,,0,0,0,,As Alliance soldiers take control\N of the {\i1}Arcus Prima{\i0},
 Dialogue: 0,0:24:10.51,0:24:13.13,Regular,,0,0,0,,Chor Tempest is disbanded.
 Dialogue: 0,0:24:14.18,0:24:15.55,Regular,,0,0,0,,Next time, on Simoun:

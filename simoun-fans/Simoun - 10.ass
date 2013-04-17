@@ -309,7 +309,7 @@ Dialogue: 0,0:21:49.91,0:21:52.91,Regular,,0,0,0,,With so many enemies… Iron R
 Dialogue: 0,0:22:12.14,0:22:13.64,Regular,,0,0,0,,That meat we had…
 Dialogue: 0,0:22:14.68,0:22:16.64,Regular,,0,0,0,,It was delicious!
 Dialogue: 0,0:22:19.52,0:22:20.65,Regular,,0,0,0,,It was mouse.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.63,0:24:11.22,Regular,,0,0,0,,It’s our job to take some \Nsoldiers up close to a town.
 Dialogue: 0,0:24:14.89,0:24:16.40,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.40,0:24:18.03,Regular,,0,0,0,,United Front.

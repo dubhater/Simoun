@@ -264,7 +264,7 @@ Dialogue: 0,0:22:14.13,0:22:16.41,Regular,,0,0,0,,What they’re born to do…
 Dialogue: 0,0:22:20.76,0:22:23.52,Regular,,0,0,0,,If they’re just resting\Ntheir wings, then that’s fine.
 Dialogue: 0,0:22:26.89,0:22:30.94,Regular,,0,0,0,,But a bird that’s too badly hurt to fly…
 Dialogue: 0,0:22:30.94,0:22:33.05,Regular,,0,0,0,,…won’t be able to go on living.
-Dialogue: 0,0:24:05.08,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:05.08,0:24:06.67,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:05.88,0:24:11.97,Regular,,0,0,0,,In order to sign a ceasefire agreement,\NHighlander diplomats come aboard the {\i1}Arcus Prima{\i0}.
 Dialogue: 0,0:24:14.68,0:24:16.55,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.55,0:24:18.63,Regular,,0,0,0,,Over International Waters

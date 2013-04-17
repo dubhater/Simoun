@@ -240,7 +240,7 @@ Dialogue: 0,0:21:44.71,0:21:47.49,Regular,,0,0,0,,The reflection in your eyes…
 Dialogue: 0,0:21:48.55,0:21:52.46,Regular,,0,0,0,,…is an image of yourself,\N never growing older.
 Dialogue: 0,0:21:55.37,0:21:56.79,Regular,,0,0,0,,Not me.
 Dialogue: 0,0:22:33.19,0:22:34.91,Regular,,0,0,0,,It tastes just like hers.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.63,0:24:11.92,Regular,,0,0,0,,Aaeru’s words make\N Neviril fall to pieces.
 Dialogue: 0,0:24:14.33,0:24:15.43,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.01,0:24:18.64,Regular,,0,0,0,,Reason.

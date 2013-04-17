@@ -261,7 +261,7 @@ Dialogue: 0,0:22:00.80,0:22:01.88,Regular,,0,0,0,,Farewell.
 Dialogue: 0,0:22:02.88,0:22:05.92,Regular,,0,0,0,,We’ll meet again… someday.
 Dialogue: 0,0:22:11.76,0:22:13.62,Regular,,0,0,0,,Please take care.
 Dialogue: 0,0:22:13.62,0:22:16.39,Regular,,0,0,0,,Farewell, Eternal Priestesses.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.00,0:24:11.59,Regular,,0,0,0,,This is the story of what happened \Nto the girls thereafter.
 Dialogue: 0,0:24:12.68,0:24:16.26,Regular,,0,0,0,,Next time, on the final Simoun:
 Dialogue: 0,0:24:16.26,0:24:18.53,Regular,,0,0,0,,Their Portrait.

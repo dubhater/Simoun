@@ -303,7 +303,7 @@ Dialogue: 0,0:22:11.44,0:22:13.60,Regular,,0,0,0,,We have managed to survive…
 Dialogue: 0,0:22:14.62,0:22:19.73,Regular,,0,0,0,,…thanks to the {\i1}Arcus Prima{\i0} and the returning Simoun from Chor Tempest.
 Dialogue: 0,0:22:22.07,0:22:27.99,Regular,,0,0,0,,However, as for Sibylla Dominura and Sibylla Limone’s Simoun…
 Dialogue: 0,0:22:27.99,0:22:32.06,Regular,,0,0,0,,…we were unable to find any trace of it.
-Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:05.00,0:24:06.67,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.67,0:24:12.34,Regular,,0,0,0,,Chor Tempest are sent to a forbidden place,\N and they learn its secrets.
 Dialogue: 0,0:24:13.38,0:24:15.51,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:16.64,0:24:17.85,Regular,,0,0,0,,The Ruins.

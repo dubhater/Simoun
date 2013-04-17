@@ -224,7 +224,7 @@ Dialogue: 0,0:21:31.60,0:21:33.43,Regular,,0,0,0,,{What happened?\N }What’s ha
 Dialogue: 0,0:21:33.43,0:21:36.56,Regular,,0,0,0,,She’s fine. Sibyllae, please, stand aside…
 Dialogue: 0,0:21:36.56,0:21:38.94,Regular,,0,0,0,,Please, everybody, step out of the way.
 Dialogue: 0,0:22:21.60,0:22:27.40,Regular,,0,0,0,,Huh? I thought I heard\N someone crying just now.
-Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,0,0,0,,{\blur0.6}Next Episode
+Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.09,0:24:11.42,Regular,,0,0,0,,The Archipelago’s new fighters are everywhere, and our forces are being pushed back.
 Dialogue: 0,0:24:13.34,0:24:15.43,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:15.43,0:24:17.81,Regular,,0,0,0,,One By One.
