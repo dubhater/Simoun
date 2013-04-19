@@ -8,33 +8,34 @@ Keyframes File: ../../scxvid/simoun-extras5-keyframes.txt
 Audio URI: ../../audio/extras5.wav
 Video File: ../../raws/simoun-extras5.mkv
 WarpStyle: 0
-Scroll Position: 0
-Active Line: 2
+Scroll Position: 133
+Active Line: 138
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.35878
-Video Position: 496
+Video Position: 25888
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,2,90,90,50,1
+Style: Signs,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,8,90,90,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.63,0:00:06.97,Regular,,0,0,0,,{\i1}Hello, starting today I'll serve as your{\i0}\N{\i1}emcee. I am a French-born Simoun.{\i0}
 Dialogue: 0,0:00:08.27,0:00:11.28,Regular,,0,0,0,,{\i1}Hey, who{\i0}\N{\i1}are you, anyway?{\i0}
-Dialogue: 0,0:00:08.27,0:00:12.24,Regular,,0,0,0,,{\i1}Emcee: Simoun{\i0}
+Dialogue: 0,0:00:08.27,0:00:12.24,Signs,,0,0,0,,{\i1}Emcee: Simoun{\i0}
 Dialogue: 0,0:00:11.28,0:00:14.78,Regular,,0,0,0,,{\i1}Today's guests, please call{\i0}\N{\i1}out the title of this show.{\i0}
 Dialogue: 0,0:00:14.78,0:00:17.61,Regular,,0,0,0,,Huh? What?
 Dialogue: 0,0:00:18.18,0:00:19.17,Regular,,0,0,0,,Monthly!
 Dialogue: 0,0:00:19.28,0:00:20.58,Regular,,0,0,0,,ADR!
 Dialogue: 0,0:00:20.72,0:00:23.19,Regular,,0,0,0,,Bulletin!
-Dialogue: 0,0:00:21.52,0:00:27.22,Regular,,0,0,0,,{\i1}Monthly! ADR Bulletin Special{\i0}
+Dialogue: 0,0:00:21.52,0:00:27.22,Signs,,0,0,0,,{\i1}Monthly! ADR Bulletin Special{\i0}
 Dialogue: 0,0:00:27.43,0:00:30.75,Regular,,0,0,0,,All right, I'm Mamiko Noto,\Nand I play Rimone.
-Dialogue: 0,0:00:27.66,0:00:30.26,Regular,,0,0,0,,{\i1}Rimone: Mamiko Noto{\i0}
+Dialogue: 0,0:00:27.66,0:00:30.26,Signs,,0,0,0,,{\i1}Rimone: Mamiko Noto{\i0}
 Dialogue: 0,0:00:30.86,0:00:34.03,Regular,,0,0,0,,Hello, I'm Yukana,\Nand I play Domin_u_ra.
-Dialogue: 0,0:00:31.10,0:00:34.03,Regular,,0,0,0,,{\i1}Domin_u_ra: Yukana{\i0}
+Dialogue: 0,0:00:31.10,0:00:34.03,Signs,,0,0,0,,{\i1}Domin_u_ra: Yukana{\i0}
 Dialogue: 0,0:00:34.57,0:00:36.16,Regular,,0,0,0,,Right?
 Dialogue: 0,0:00:36.27,0:00:37.24,Regular,,0,0,0,,Monthly...
 Dialogue: 0,0:00:37.34,0:00:39.93,Regular,,0,0,0,,That's the third time you said that!
@@ -53,7 +54,7 @@ Dialogue: 0,0:01:13.04,0:01:16.67,Regular,,0,0,0,,Hey, why are you\Npresenting t
 Dialogue: 0,0:01:17.41,0:01:19.44,Regular,,0,0,0,,No-holds-barred!?
 Dialogue: 0,0:01:18.41,0:01:19.44,Regular,,0,0,0,,A Brutal...
 Dialogue: 0,0:01:19.55,0:01:22.12,Regular,,0,0,0,,Live Talk Show!
-Dialogue: 0,0:01:19.81,0:01:25.02,Regular,,0,0,0,,{\i1}No-Holds-Barred!?{\i0}\N{\i1}A Brutal, Live Talk Show{\i0}
+Dialogue: 0,0:01:19.81,0:01:25.02,Signs,,0,0,0,,{\i1}No-Holds-Barred!?{\i0}\N{\i1}A Brutal, Live Talk Show{\i0}
 Dialogue: 0,0:01:26.35,0:01:27.32,Regular,,0,0,0,,Right.
 Dialogue: 0,0:01:29.56,0:01:31.62,Regular,,0,0,0,,Now that's really laid-back...
 Dialogue: 0,0:01:31.72,0:01:33.38,Regular,,0,0,0,,Super laid-back...
@@ -63,7 +64,7 @@ Dialogue: 0,0:01:39.77,0:01:42.86,Regular,,0,0,0,,You think so? I guess you're r
 Dialogue: 0,0:01:42.97,0:01:46.56,Regular,,0,0,0,,Of the whole Simoun cast,\Nwe're the most laid-back!
 Dialogue: 0,0:01:46.67,0:01:49.47,Regular,,0,0,0,,You think so too, Yukana-san?
 Dialogue: 0,0:01:51.21,0:01:54.98,Regular,,0,0,0,,Please tell us what you've\Nfallen in love with recently.
-Dialogue: 0,0:01:54.58,0:02:01.05,Regular,,0,0,0,,{\i1}Please tell us what you've{\i0}\N{\i1}fallen in love with recently.{\i0}
+Dialogue: 0,0:01:54.58,0:02:01.05,Signs,,0,0,0,,{\i1}Please tell us what you've{\i0}\N{\i1}fallen in love with recently.{\i0}
 Dialogue: 0,0:01:54.98,0:01:57.32,Regular,,0,0,0,,What we've fallen\Nin love with recently?
 Dialogue: 0,0:01:57.32,0:01:59.08,Regular,,0,0,0,,Vegetable juice!
 Dialogue: 0,0:02:01.65,0:02:03.38,Regular,,0,0,0,,Vegetable juice is your love?
@@ -85,7 +86,7 @@ Dialogue: 0,0:02:50.40,0:02:51.43,Regular,,0,0,0,,Next one?
 Dialogue: 0,0:02:51.54,0:02:53.80,Regular,,0,0,0,,All right, then this one!
 Dialogue: 0,0:02:53.97,0:02:55.24,Regular,,0,0,0,,Um...
 Dialogue: 0,0:02:55.38,0:02:59.71,Regular,,0,0,0,,If there was a Ri M_a_jon you'd like\Nto invent, what would you name it?
-Dialogue: 0,0:02:59.81,0:03:04.74,Regular,,0,0,0,,{\i1}If there was a Ri M_a_jon you'd like{\i0}\N{\i1}to invent, what would you name it?{\i0}
+Dialogue: 0,0:02:59.81,0:03:04.74,Signs,,0,0,0,,{\i1}If there was a Ri M_a_jon you'd like{\i0}\N{\i1}to invent, what would you name it?{\i0}
 Dialogue: 0,0:03:00.45,0:03:03.02,Regular,,0,0,0,,A name for a Ri M_a_jon?
 Dialogue: 0,0:03:05.02,0:03:06.64,Regular,,0,0,0,,How about after a flower?
 Dialogue: 0,0:03:06.75,0:03:08.28,Regular,,0,0,0,,Oh, how lovely...
@@ -101,7 +102,7 @@ Dialogue: 0,0:03:24.00,0:03:27.67,Regular,,0,0,0,,That's keeping with the image\
 Dialogue: 0,0:03:27.77,0:03:29.54,Regular,,0,0,0,,Flowers and such...
 Dialogue: 0,0:03:33.81,0:03:38.11,Regular,,0,0,0,,{\i1}Hey, you!{\i0}\N{\i1}Move this show along, will you?{\i0}
 Dialogue: 0,0:03:39.15,0:03:41.75,Regular,,0,0,0,,Why Oh Why? Simoun!
-Dialogue: 0,0:03:40.32,0:03:43.58,Regular,,0,0,0,,{\i1}Why Oh Why!? Simoun{\i0}
+Dialogue: 0,0:03:40.32,0:03:43.58,Signs,,0,0,0,,{\i1}Why Oh Why!? Simoun{\i0}
 Dialogue: 0,0:03:46.06,0:03:49.69,Regular,,0,0,0,,Okay, now it's time for a quiz.
 Dialogue: 0,0:03:49.80,0:03:54.46,Regular,,0,0,0,,Simoun-sama,\Nplease read out the questions.
 Dialogue: 0,0:03:56.30,0:04:00.30,Regular,,0,0,0,,{\i1}Just what is "Tempus Spatium"?{\i0}
@@ -120,7 +121,8 @@ Dialogue: 0,0:04:22.93,0:04:24.12,Regular,,0,0,0,,Domin_u_ra...
 Dialogue: 0,0:04:24.23,0:04:28.96,Regular,,0,0,0,,Um, h-how should I put it?\NOur one and only... absolute god.
 Dialogue: 0,0:04:29.34,0:04:32.96,Regular,,0,0,0,,{\i1}Well, of course{\i0}\N{\i1}she'd get that one right.{\i0}
 Dialogue: 0,0:04:33.27,0:04:34.24,Regular,,0,0,0,,Correct!
-Dialogue: 0,0:04:37.11,0:04:41.44,Regular,,0,0,0,,{\i1}What is Tempus Spatium?{\i0}\NThe god worshipped by\Nthe people of Simulacrum Kyuukoku.
+Dialogue: 0,0:04:37.11,0:04:41.44,Signs,,0,0,0,,{\i1}What is Tempus Spatium?{\i0}
+Dialogue: 0,0:04:37.11,0:04:41.44,Regular,,0,0,0,,The god worshipped by\Nthe people of Simulacrum Kyuukoku.
 Dialogue: 0,0:04:41.55,0:04:45.51,Regular,,0,0,0,,Tempus Spatium's court protects\Nthe "Spring," its religious center...
 Dialogue: 0,0:04:45.62,0:04:50.02,Regular,,0,0,0,,...which is served across\Nthe nation by the great temple.
 Dialogue: 0,0:04:50.16,0:04:53.18,Regular,,0,0,0,,Oh, then that means that the Spring...
@@ -159,5 +161,5 @@ Dialogue: 0,0:06:57.25,0:07:02.12,Regular,,0,0,0,,So for the two of us,\NI think
 Dialogue: 0,0:07:02.79,0:07:05.45,Regular,,0,0,0,,I really hope you all enjoyed our chat.
 Dialogue: 0,0:07:05.56,0:07:09.86,Regular,,0,0,0,,And that ends our\NMonthly ADR Bulletin.
 Dialogue: 0,0:07:10.86,0:07:12.36,Regular,,0,0,0,,Bye-bye...
-Dialogue: 0,0:07:11.80,0:07:17.63,Regular,,0,0,0,,{\i1}Don't miss the next episode!{\i0}
+Dialogue: 0,0:07:11.80,0:07:17.63,Signs,,0,0,0,,{\i1}Don't miss the next episode!{\i0}
 Dialogue: 0,0:07:13.33,0:07:15.94,Regular,,0,0,0,,Good night... Good night...
