@@ -8,25 +8,27 @@ Keyframes File: ../../scxvid/simoun-extras1-keyframes.txt
 Audio URI: ../../audio/extras1.mka
 Video File: ../../raws/simoun-extras1.mkv
 WarpStyle: 0
-Scroll Position: 312
-Active Line: 318
-Video Zoom Percent: 1
+Scroll Position: 315
+Active Line: 322
+Video Zoom Percent: 0.875
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.35878
 Video Position: 65993
+Last Style Storage: Default
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,2,90,90,50,1
+Style: Signs,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,8,90,90,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.70,0:00:07.37,Regular,,0,0,0,,It's time for the Sibylla Aurea Battle.
-Dialogue: 0,0:00:06.04,0:00:11.34,Regular,,0,0,0,,{\i1}Monthly! ADR Bulletin Special{\i0}\N{\i1}Pair Versus Pair Competition!!{\i0}
+Dialogue: 0,0:00:06.04,0:00:11.34,Signs,,0,0,0,,{\i1}Monthly! ADR Bulletin Special{\i0}\N{\i1}Pair Versus Pair Competition!!{\i0}
 Dialogue: 0,0:00:10.08,0:00:11.34,Regular,,0,0,0,,We're going...
 Dialogue: 0,0:00:11.44,0:00:16.54,Regular,,0,0,0,,...to determine which pair is worthy\Nof being called "Golden Priestesses"...
-Dialogue: 0,0:00:12.08,0:00:16.54,Regular,,0,0,0,,Mamina\NRIKA MORINAGA
+Dialogue: 0,0:00:12.08,0:00:16.54,Signs,,0,0,0,,Mamina\NRIKA MORINAGA
 Dialogue: 0,0:00:16.78,0:00:21.24,Regular,,0,0,0,,...and you'll be\Ncompeting in teams of two.
 Dialogue: 0,0:00:21.65,0:00:25.11,Regular,,0,0,0,,After the last round, the pair,\Nor team, with the most points...
 Dialogue: 0,0:00:25.46,0:00:29.99,Regular,,0,0,0,,...will receive an extremely\Nvaluable prize! Do your best, everyone!
@@ -93,7 +95,7 @@ Dialogue: 0,0:03:35.92,0:03:37.01,Regular,,0,0,0,,I see.
 Dialogue: 0,0:03:37.12,0:03:40.35,Regular,,0,0,0,,The answers are\Ntotally different, so no-go.
 Dialogue: 0,0:03:41.55,0:03:46.62,Regular,,0,0,0,,Okay, next up... Ami-chan\Nand Michiko-san, the Mangoes!
 Dialogue: 0,0:03:46.73,0:03:50.68,Regular,,0,0,0,,Why don't you show us at\Nthe same time? Ready, set, go.
-Dialogue: 0,0:03:50.80,0:03:55.06,Regular,,0,0,0,,{\i1}Shopping alone (running first errand){\i0}\N{\i1}Going shopping by yourself{\i0}
+Dialogue: 0,0:03:50.80,0:03:55.06,Signs,,0,0,0,,{\i1}Shopping alone (running first errand){\i0}\N{\i1}Going shopping by yourself{\i0}
 Dialogue: 0,0:03:55.17,0:03:58.16,Regular,,0,0,0,,Running your first errand too, right?
 Dialogue: 0,0:03:58.27,0:03:59.57,Regular,,0,0,0,,Amazing!
 Dialogue: 0,0:03:59.64,0:04:01.80,Regular,,0,0,0,,Unbelievable!
@@ -101,14 +103,15 @@ Dialogue: 0,0:04:06.58,0:04:09.14,Regular,,0,0,0,,We're definitely a good match,
 Dialogue: 0,0:04:09.38,0:04:13.55,Regular,,0,0,0,,Next up, Mamiko-san and\NMeguko-chan, the Monotones.
 Dialogue: 0,0:04:13.65,0:04:15.68,Regular,,0,0,0,,Ready, set, go.
 Dialogue: 0,0:04:16.16,0:04:17.12,Regular,,0,0,0,,Go!
-Dialogue: 0,0:04:17.22,0:04:20.66,Regular,,0,0,0,,{\i1}20 years old Alcohol{\i0}
+Dialogue: 0,0:04:17.22,0:04:20.66,Signs,,0,0,0,,{\i1}20 years old Alcohol{\i0}
 Dialogue: 0,0:04:22.36,0:04:26.59,Regular,,0,0,0,,That's "you can turn\N20 after you drink alcohol"?
 Dialogue: 0,0:04:27.57,0:04:31.13,Regular,,0,0,0,,You can drink alcohol\Nafter you turn 20!
 Dialogue: 0,0:04:36.44,0:04:39.60,Regular,,0,0,0,,Okay, um, nothing doing!
 Dialogue: 0,0:04:39.85,0:04:43.15,Regular,,0,0,0,,No good, no good.\NWrong answer, wrong answer.
 Dialogue: 0,0:04:43.15,0:04:46.28,Regular,,0,0,0,,Okay, next.\NIt's Michiru-chan and Megu-nee!
 Dialogue: 0,0:04:46.42,0:04:49.48,Regular,,0,0,0,,Go, green team. Ready, set, go.
-Dialogue: 0,0:04:49.59,0:04:53.12,Regular,,0,0,0,,{\i1}First Kiss (Smack!) Alcohol{\i0}\NGo.
+Dialogue: 0,0:04:49.59,0:04:53.12,Signs,,0,0,0,,{\i1}First Kiss (Smack!) Alcohol{\i0}
+Dialogue: 0,0:04:49.59,0:04:53.12,Regular,,0,0,0,,Go.
 Dialogue: 0,0:04:54.16,0:04:56.23,Regular,,0,0,0,,We should pair up.
 Dialogue: 0,0:04:55.26,0:04:56.23,Regular,,0,0,0,,You can't!
 Dialogue: 0,0:04:56.30,0:04:59.82,Regular,,0,0,0,,I knew we'd agree on something...\NAnd it had to be this!
@@ -129,7 +132,7 @@ Dialogue: 0,0:05:41.21,0:05:43.11,Regular,,0,0,0,,You wrote a lot.
 Dialogue: 0,0:05:43.21,0:05:45.77,Regular,,0,0,0,,Ready? All right, then...
 Dialogue: 0,0:05:45.88,0:05:48.28,Regular,,0,0,0,,Let's start with the Lilies again.
 Dialogue: 0,0:05:48.38,0:05:51.35,Regular,,0,0,0,,Show us your answers.\NReady, set, go.
-Dialogue: 0,0:05:51.45,0:05:56.55,Regular,,0,0,0,,{\i1}Never bending her will to the very end!{\i0}\N{\i1}Her purity{\i0}
+Dialogue: 0,0:05:51.45,0:05:56.55,Signs,,0,0,0,,{\i1}Never bending her will to the very end!{\i0}\N{\i1}Her purity{\i0}
 Dialogue: 0,0:05:57.12,0:05:58.45,Regular,,0,0,0,,Wrong!
 Dialogue: 0,0:05:58.56,0:05:59.72,Regular,,0,0,0,,No good...
 Dialogue: 0,0:05:59.83,0:06:01.85,Regular,,0,0,0,,Okay, next. The Mangoes...
@@ -153,7 +156,8 @@ Dialogue: 0,0:06:45.47,0:06:49.34,Regular,,0,0,0,,So we should write\Nthe opposi
 Dialogue: 0,0:06:52.78,0:06:55.21,Regular,,0,0,0,,That's another "no-good" answer.
 Dialogue: 0,0:06:55.31,0:06:58.41,Regular,,0,0,0,,All right, Team Green next.
 Dialogue: 0,0:06:58.52,0:07:01.08,Regular,,0,0,0,,Okay, ready, set, go.
-Dialogue: 0,0:07:01.15,0:07:04.92,Regular,,0,0,0,,{\i1}Neviril-sama Being in love{\i0}\NWhat kind of answer is that? You\Nokay?
+Dialogue: 0,0:07:01.15,0:07:04.92,Signs,,0,0,0,,{\i1}Neviril-sama Being in love{\i0}
+Dialogue: 0,0:07:01.15,0:07:04.92,Regular,,0,0,0,,What kind of answer is that? You\Nokay?
 Dialogue: 0,0:07:05.66,0:07:09.32,Regular,,0,0,0,,I tried every which way\Nto come up with a teen's answer.
 Dialogue: 0,0:07:09.43,0:07:11.23,Regular,,0,0,0,,An answer that evokes youth!
 Dialogue: 0,0:07:11.33,0:07:13.99,Regular,,0,0,0,,What's up with that answer?\NNeviril-sama?
@@ -277,7 +281,8 @@ Dialogue: 0,0:14:12.02,0:14:17.18,Regular,,0,0,0,,When they did the first sessio
 Dialogue: 0,0:14:18.92,0:14:20.69,Regular,,0,0,0,,The staff was cracking up.
 Dialogue: 0,0:14:20.79,0:14:26.25,Regular,,0,0,0,,Because usually, having a girl's voice\Ncoming out of an old guy's mouth...
 Dialogue: 0,0:14:26.36,0:14:30.70,Regular,,0,0,0,,It never happened in anime till now.\NIt shouldn't ever happen.
-Dialogue: 0,0:14:31.37,0:14:35.20,Regular,,0,0,0,,{\i1}Government Official{\i0}\N{\i1}Voiced by Megumi Toyoguchi{\i0}\NYour daughter is\Nan outstanding pilot, as expected.
+Dialogue: 0,0:14:31.37,0:14:35.20,Signs,,0,0,0,,{\i1}Government Official{\i0}\N{\i1}Voiced by Megumi Toyoguchi{\i0}
+Dialogue: 0,0:14:31.37,0:14:35.20,Regular,,0,0,0,,Your daughter is\Nan outstanding pilot, as expected.
 Dialogue: 0,0:14:35.41,0:14:38.31,Regular,,0,0,0,,If we signed up for old guys,\Nwe'd say, "This one!"
 Dialogue: 0,0:14:38.41,0:14:40.88,Regular,,0,0,0,,Like the somewhat chubby one.
 Dialogue: 0,0:14:41.58,0:14:46.31,Regular,,0,0,0,,I wish they'd credit us\Nfor the old guys we played.
@@ -321,7 +326,8 @@ Dialogue: 0,0:17:00.49,0:17:04.01,Regular,,0,0,0,,The green in your clothes\Nis 
 Dialogue: 0,0:17:04.39,0:17:06.52,Regular,,0,0,0,,You didn't get any points.
 Dialogue: 0,0:17:07.63,0:17:10.92,Regular,,0,0,0,,Anyway, let me\Nannounce the winning team!
 Dialogue: 0,0:17:11.03,0:17:13.96,Regular,,0,0,0,,The winners are the Mangoes!
-Dialogue: 0,0:17:14.13,0:17:18.09,Regular,,0,0,0,,{\i1}Winners{\i0}\N{\i1}The Mangoes{\i0}\NYay!
+Dialogue: 0,0:17:14.13,0:17:18.09,Regular,,0,0,0,,{\i1}Winners{\i0}\N{\i1}The Mangoes{\i0}
+Dialogue: 0,0:17:14.13,0:17:18.09,Regular,,0,0,0,,Yay!
 Dialogue: 0,0:17:18.37,0:17:20.86,Regular,,0,0,0,,Yes, you put up a good fight...
 Dialogue: 0,0:17:20.97,0:17:22.10,Regular,,0,0,0,,As expected.
 Dialogue: 0,0:17:22.21,0:17:24.40,Regular,,0,0,0,,...and you performed well.
