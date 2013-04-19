@@ -8,21 +8,22 @@ Keyframes File: ../../scxvid/simoun-extras4-keyframes.txt
 Audio URI: ../../audio/extras4.wav
 Video File: ../../raws/simoun-extras4.mkv
 WarpStyle: 0
-Scroll Position: 0
-Active Line: 0
+Scroll Position: 228
+Active Line: 238
 Video Zoom Percent: 0.625
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.80672
-Video Position: 152
+Video Position: 23823
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,2,90,90,40,1
+Style: Signs,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,3,0,8,90,90,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.31,0:00:11.27,Regular,,0,0,0,,{\i1}Junji and Asako's{\i0}\N{\i1}Know-Your-Simoun Lecture{\i0}
+Dialogue: 0,0:00:06.31,0:00:11.27,Signs,,0,0,0,,{\i1}Junji and Asako's{\i0}\N{\i1}Know-Your-Simoun Lecture{\i0}
 Dialogue: 0,0:00:13.35,0:00:17.41,Regular,,0,0,0,,So anyway,\NI'm Junji Nishimura. Nice to meet you.
 Dialogue: 0,0:00:17.52,0:00:21.01,Regular,,0,0,0,,I'm the character designer,\Nanimation supervisor...
 Dialogue: 0,0:00:21.12,0:00:23.99,Regular,,0,0,0,,...and light comic\Nrelief director, Asako Nishida.
@@ -260,5 +261,5 @@ Dialogue: 0,0:16:20.04,0:16:22.91,Regular,,0,0,0,,And this is the harmony here.
 Dialogue: 0,0:16:24.65,0:16:27.71,Regular,,0,0,0,,This priestess named Anglas...
 Dialogue: 0,0:16:27.89,0:16:32.05,Regular,,0,0,0,,Later on in the show, another\NPlumbum highland priestess...
 Dialogue: 0,0:16:32.16,0:16:34.26,Regular,,0,0,0,,Whoa, hey! It's over!
-Dialogue: 0,0:16:33.73,0:16:38.39,Regular,,0,0,0,,{\i1}Featuring: Junji Nishimura{\i0}\N{\i1}Asako Nishida{\i0}
+Dialogue: 0,0:16:33.73,0:16:38.39,Signs,,0,0,0,,{\i1}Featuring: Junji Nishimura{\i0}\N{\i1}Asako Nishida{\i0}
 Dialogue: 0,0:16:34.26,0:16:36.40,Regular,,0,0,0,,Way too short!
