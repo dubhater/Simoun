@@ -8,17 +8,18 @@ Keyframes File: ../../scxvid/simoun-extras7-keyframes.txt
 Audio URI: ../../audio/extras7.wav
 Video File: ../../raws/simoun-extras7.mkv
 WarpStyle: 0
-Scroll Position: 186
-Active Line: 187
+Scroll Position: 233
+Active Line: 239
 Video Zoom Percent: 1
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.35878
-Video Position: 23776
+Video Position: 29586
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Regular,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,2,90,90,50,1
+Style: Signs,Fansub,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,91,0,0,1,3,0,8,90,90,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -29,7 +30,7 @@ Dialogue: 0,0:00:08.27,0:00:11.27,Regular,,0,0,0,,Please call out the title of t
 Dialogue: 0,0:00:11.78,0:00:13.27,Regular,,0,0,0,,Monthly...
 Dialogue: 0,0:00:13.35,0:00:15.11,Regular,,0,0,0,,ADR...
 Dialogue: 0,0:00:15.18,0:00:16.70,Regular,,0,0,0,,Bulletin!
-Dialogue: 0,0:00:16.78,0:00:19.88,Regular,,0,0,0,,{\i1}Simoun{\i0}\N{\i1}Monthly! ADR Bulletin Special{\i0}
+Dialogue: 0,0:00:16.78,0:00:19.88,Signs,,0,0,0,,{\i1}Simoun{\i0}\N{\i1}Monthly! ADR Bulletin Special{\i0}
 Dialogue: 0,0:00:20.42,0:00:23.88,Regular,,0,0,0,,Hello! I'm Mikako Takahashi,\Nand I play Roatreamon.
 Dialogue: 0,0:00:24.19,0:00:25.16,Regular,,0,0,0,,Yay!
 Dialogue: 0,0:00:25.86,0:00:29.09,Regular,,0,0,0,,How do you do. I'm Rika Morinaga,\Nthe voice of Mamina.
@@ -60,7 +61,7 @@ Dialogue: 0,0:01:18.28,0:01:19.65,Regular,,0,0,0,,Okay!
 Dialogue: 0,0:01:18.81,0:01:20.08,Regular,,0,0,0,,...shall we begin?
 Dialogue: 0,0:01:19.68,0:01:20.78,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:01:20.11,0:01:22.21,Regular,,0,0,0,,Right. Here's the question!
-Dialogue: 0,0:01:22.55,0:01:27.54,Regular,,0,0,0,,{\i1}You've changed somehow,{\i0}\N{\i1}playing your current character...{\i0}
+Dialogue: 0,0:01:22.55,0:01:27.54,Signs,,0,0,0,,{\i1}You've changed somehow,{\i0}\N{\i1}playing your current character...{\i0}
 Dialogue: 0,0:01:27.62,0:01:28.92,Regular,,0,0,0,,Ready, set...
 Dialogue: 0,0:01:28.99,0:01:29.96,Regular,,0,0,0,,True!
 Dialogue: 0,0:01:30.06,0:01:30.68,Regular,,0,0,0,,Huh?
@@ -110,8 +111,8 @@ Dialogue: 0,0:02:58.58,0:02:59.60,Regular,,0,0,0,,Right.
 Dialogue: 0,0:03:00.18,0:03:01.84,Regular,,0,0,0,,I'm convinced.
 Dialogue: 0,0:03:01.05,0:03:01.84,Regular,,0,0,0,,Yep.
 Dialogue: 0,0:03:01.95,0:03:05.18,Regular,,0,0,0,,All right, let's move on to\Nthe next question. Drum roll...
-Dialogue: 0,0:03:05.25,0:03:07.72,Regular,,0,0,0,,{\i1}You're 17 and you{\i0}\N{\i1}must go to the Spring.{\i0}
-Dialogue: 0,0:03:07.79,0:03:10.26,Regular,,0,0,0,,{\i1}Would you choose to{\i0}\N{\i1}become female after all?{\i0}
+Dialogue: 0,0:03:05.25,0:03:07.72,Signs,,0,0,0,,{\i1}You're 17 and you{\i0}\N{\i1}must go to the Spring.{\i0}
+Dialogue: 0,0:03:07.79,0:03:10.26,Signs,,0,0,0,,{\i1}Would you choose to{\i0}\N{\i1}become female after all?{\i0}
 Dialogue: 0,0:03:10.32,0:03:11.55,Regular,,0,0,0,,Ready, set...
 Dialogue: 0,0:03:11.62,0:03:12.65,Regular,,0,0,0,,True!
 Dialogue: 0,0:03:15.20,0:03:16.39,Regular,,0,0,0,,This is interesting!
@@ -174,8 +175,8 @@ Dialogue: 0,0:05:07.27,0:05:09.07,Regular,,0,0,0,,You mean the swirly thing?
 Dialogue: 0,0:05:09.14,0:05:09.97,Regular,,0,0,0,,The swirl...
 Dialogue: 0,0:05:10.04,0:05:11.07,Regular,,0,0,0,,That's not it?
 Dialogue: 0,0:05:11.28,0:05:14.08,Regular,,0,0,0,,Oh well, that's close enough.
-Dialogue: 0,0:05:14.15,0:05:16.51,Regular,,0,0,0,,{\i1}What is the Helical Motor?{\i0}\N{\i1}"An ancient system developed...{\i0}
-Dialogue: 0,0:05:16.62,0:05:19.24,Regular,,0,0,0,,{\i1}...in order to utilize the power{\i0}\N{\i1}of the deity Tempus Spatium."{\i0}
+Dialogue: 0,0:05:14.15,0:05:16.51,Signs,,0,0,0,,{\i1}What is the Helical Motor?{\i0}\N{\i1}"An ancient system developed...{\i0}
+Dialogue: 0,0:05:16.62,0:05:19.24,Signs,,0,0,0,,{\i1}...in order to utilize the power{\i0}\N{\i1}of the deity Tempus Spatium."{\i0}
 Dialogue: 0,0:05:19.32,0:05:21.58,Regular,,0,0,0,,Even if you read the answer,\Nit doesn't really register.
 Dialogue: 0,0:05:21.65,0:05:22.64,Regular,,0,0,0,,It doesn't register at all for me!
 Dialogue: 0,0:05:22.72,0:05:24.48,Regular,,0,0,0,,And we've already been\Nthrough a lot of ADR sessions!
@@ -261,4 +262,4 @@ Dialogue: 0,0:08:06.89,0:08:07.65,Regular,,0,0,0,,Right!
 Dialogue: 0,0:08:07.72,0:08:09.98,Regular,,0,0,0,,So, anyway, there are still a lot\Nof Simoun episodes coming up...
 Dialogue: 0,0:08:10.06,0:08:12.49,Regular,,0,0,0,,...so please keep watching Simoun!
 Dialogue: 0,0:08:12.56,0:08:13.52,Regular,,0,0,0,,Please continue to watch!
-Dialogue: 0,0:08:13.59,0:08:17.86,Regular,,0,0,0,,{\i1}Don't miss the next episode!!{\i0}
+Dialogue: 0,0:08:13.59,0:08:17.86,Signs,,0,0,0,,{\i1}Don't miss the next episode!!{\i0}
