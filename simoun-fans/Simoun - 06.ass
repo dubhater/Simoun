@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 210
-Active Line: 219
+Scroll Position: 229
+Active Line: 238
 Video Zoom Percent: 0.75
 Video File: ../../raws/simoun-06.mkv
 Keyframes File: ../../scxvid/simoun-06-keyframes.txt
 Audio URI: ../../audio/simoun-06.flac
 YCbCr Matrix: TV.601
-Video Position: 31109
+Video Position: 34898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,27 +40,27 @@ Dialogue: 0,0:02:45.92,0:02:47.52,Regular,,0,0,0,,Amuria!
 Dialogue: 0,0:03:09.41,0:03:15.42,Titles,,90,0,0,,{\blur0.6}Wounds and Pain
 Dialogue: 0,0:03:22.09,0:03:25.84,Regular,,0,0,0,,Hey, Alti, let’s follow\Nthose birds! Come on!
 Dialogue: 0,0:03:25.84,0:03:28.60,Regular,,0,0,0,,We’re in the middle\Nof a mission right now.
-Dialogue: 0,0:03:28.96,0:03:30.67,Regular,,0,0,0,,Oh, who cares about that?
+Dialogue: 0,0:03:28.60,0:03:30.67,Regular,,0,0,0,,Oh, who cares about that?
 Dialogue: 0,0:03:30.67,0:03:32.65,Regular,,0,0,0,,It’s not like the enemy’s around, anyway.
 Dialogue: 0,0:03:33.29,0:03:35.89,Regular,,0,0,0,,We’re only out here\Nbecause they’re paranoid.
 Dialogue: 0,0:03:35.89,0:03:39.00,Regular,,0,0,0,,I suppose…
-Dialogue: 0,0:03:42.39,0:03:44.65,Regular,,0,0,0,,They’ve been flying for\Na long time, haven’t they?
+Dialogue: 0,0:03:41.95,0:03:44.65,Regular,,0,0,0,,They’ve been flying for\Na long time, haven’t they?
 Dialogue: 0,0:03:44.65,0:03:46.15,Regular,,0,0,0,,I wonder how far they’re going?
 Dialogue: 0,0:03:46.15,0:03:48.40,Regular,,0,0,0,,It’s not like they’ve been\Nflying the whole time.
 Dialogue: 0,0:03:48.40,0:03:50.32,Regular,,0,0,0,,They rest their wings\Nwhen they get tired,
 Dialogue: 0,0:03:50.32,0:03:53.55,Regular,,0,0,0,,and they have to eat sometime, right?
-Dialogue: 0,0:03:57.20,0:03:59.08,Regular,,0,0,0,,What on earth are they doing?
+Dialogue: 0,0:03:56.71,0:03:59.08,Regular,,0,0,0,,What on earth are they doing?
 Dialogue: 0,0:03:59.08,0:04:00.92,Regular,,0,0,0,,We’re in the middle of a mission!
 Dialogue: 0,0:04:09.09,0:04:12.18,Regular,,0,0,0,,It seems like everyone’s\Nbeen really distracted lately.
-Dialogue: 0,0:04:12.62,0:04:13.81,Regular,,0,0,0,,Yeah, I know.
+Dialogue: 0,0:04:12.19,0:04:13.81,Regular,,0,0,0,,Yeah, I know.
 Dialogue: 0,0:04:13.81,0:04:18.35,Regular,,0,0,0,,Even though we finally managed to get put back on duty, everyone’s still a little out of it.
-Dialogue: 0,0:04:18.35,0:04:22.54,Regular,,0,0,0,,Even Aaeru isn’t flying right now.
+Dialogue: 0,0:04:18.35,0:04:22.20,Regular,,0,0,0,,Even Aaeru isn’t flying right now.
 Dialogue: 0,0:04:24.94,0:04:25.98,Regular,,0,0,0,,Para-sama?
 Dialogue: 0,0:04:25.98,0:04:27.09,Regular,,0,0,0,,Hm?
 Dialogue: 0,0:04:27.09,0:04:30.24,Regular,,0,0,0,,How’s the Sibylla Aurea\Nbeen doing lately?
 Dialogue: 0,0:04:32.15,0:04:33.75,Regular,,0,0,0,,The same, huh…
 Dialogue: 0,0:04:33.75,0:04:35.00,Regular,,0,0,0,,Does that worry you?
-Dialogue: 0,0:04:35.45,0:04:36.81,Regular,,0,0,0,,Not really.
+Dialogue: 0,0:04:35.00,0:04:36.50,Regular,,0,0,0,,Not really.
 Dialogue: 0,0:04:37.53,0:04:40.54,Regular,,0,0,0,,I just don’t like the feeling of being somehow incomplete.
 Dialogue: 0,0:04:40.54,0:04:44.01,Regular,,0,0,0,,And I’m starting to get used\Nto the others being gone.
 Dialogue: 0,0:04:45.62,0:04:51.02,Regular,,0,0,0,,I guess we can’t go back to being the old Chor Tempest after all, can we?
@@ -72,33 +72,33 @@ Dialogue: 0,0:05:11.98,0:05:12.90,Regular,,0,0,0,,You have to!
 Dialogue: 0,0:05:12.90,0:05:14.70,Regular,,0,0,0,,You’re still small, so you need to build up your stamina—
 Dialogue: 0,0:05:14.70,0:05:16.38,Regular,,0,0,0,,I’m hungry.
 Dialogue: 0,0:05:16.38,0:05:17.58,Regular,,0,0,0,,What? Limone!
-Dialogue: 0,0:05:17.95,0:05:20.39,Regular,,0,0,0,,You come back here this instant!
+Dialogue: 0,0:05:17.58,0:05:20.39,Regular,,0,0,0,,You come back here this instant!
 Dialogue: 0,0:05:20.39,0:05:21.50,Regular,,0,0,0,,Why…
 Dialogue: 0,0:05:21.50,0:05:23.92,Regular,,0,0,0,,Why don’t we all sit down\Nand eat together first?
 Dialogue: 0,0:05:36.63,0:05:38.94,Regular,,0,0,0,,Is something wrong,\NSibylla Paraietta?
-Dialogue: 0,0:05:39.60,0:05:42.54,Regular,,0,0,0,,Isn’t this… the Sibylla Aurea’s?
+Dialogue: 0,0:05:39.60,0:05:42.28,Regular,,0,0,0,,Isn’t this… the Sibylla Aurea’s?
 Dialogue: 0,0:05:43.06,0:05:45.13,Regular,,0,0,0,,She’s still being repaired.
 Dialogue: 0,0:05:45.13,0:05:48.52,Regular,,0,0,0,,We’ve had to rebuild her\Nalmost from the ground up,
 Dialogue: 0,0:05:48.52,0:05:51.45,Regular,,0,0,0,,and it’s been hard to get\Nall the parts we’ve needed.
-Dialogue: 0,0:05:55.65,0:05:58.33,Regular,,0,0,0,,Your wounds still\Nhaven’t healed, have they?
+Dialogue: 0,0:05:55.00,0:05:58.33,Regular,,0,0,0,,Your wounds still\Nhaven’t healed, have they?
 Dialogue: 0,0:06:00.37,0:06:02.71,Regular,,0,0,0,,It’s been a long time\Nsince you’ve flown.
 Dialogue: 0,0:06:21.43,0:06:23.65,Regular,,0,0,0,,Neviril! Hey, Neviril!
-Dialogue: 0,0:06:23.65,0:06:27.92,Regular,,0,0,0,,Instead of hiding in there all the time, pull yourself together and get out here!
+Dialogue: 0,0:06:23.65,0:06:28.65,Regular,,0,0,0,,Instead of hiding in there all the time, pull yourself together and get out here!
 Dialogue: 0,0:06:29.85,0:06:31.81,Regular,,0,0,0,,Because you haven’t come back,
 Dialogue: 0,0:06:31.81,0:06:34.66,Regular,,0,0,0,,Chor Tempest only gets sent\Non pointless missions!
-Dialogue: 0,0:06:35.09,0:06:37.44,Regular,,0,0,0,,We can’t go on like this!
+Dialogue: 0,0:06:34.66,0:06:37.44,Regular,,0,0,0,,We can’t go on like this!
 Dialogue: 0,0:06:37.44,0:06:41.43,Regular,,0,0,0,,And we can’t fly\Nif we’re stuck in here!
 Dialogue: 0,0:06:43.91,0:06:45.67,Regular,,0,0,0,,Do you hear me, Neviril?
 Dialogue: 0,0:06:47.12,0:06:48.77,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:06:55.67,0:06:58.06,Regular,,0,0,0,,Why, that pig-headed…
 Dialogue: 0,0:07:13.52,0:07:16.37,Regular,,0,0,0,,I swear, what a childish thing to do.
-Dialogue: 0,0:07:26.79,0:07:29.48,Regular,,0,0,0,,I suppose I’m in no position to talk…
+Dialogue: 0,0:07:26.79,0:07:30.09,Regular,,0,0,0,,I suppose I’m in no position to talk…
 Dialogue: 0,0:07:40.13,0:07:41.94,Regular,,0,0,0,,I’m sorry.
 Dialogue: 0,0:07:41.94,0:07:45.01,Regular,,0,0,0,,You really didn’t need to do that.
 Dialogue: 0,0:07:45.01,0:07:46.77,Regular,,0,0,0,,No, it’s all right.
-Dialogue: 0,0:07:47.33,0:07:50.53,Regular,,0,0,0,,Really, Aaeru is such a troublesome girl.
+Dialogue: 0,0:07:46.77,0:07:50.53,Regular,,0,0,0,,Really, Aaeru is such a troublesome girl.
 Dialogue: 0,0:07:50.53,0:07:53.28,Regular,,0,0,0,,She must be getting on your nerves.\N Should I make her stop?
-Dialogue: 0,0:07:56.90,0:08:01.09,Regular,,0,0,0,,However, that might\Nrequire drastic measures.
+Dialogue: 0,0:07:56.28,0:08:01.09,Regular,,0,0,0,,However, that might\Nrequire drastic measures.
 Dialogue: 0,0:08:08.12,0:08:09.72,Regular,,0,0,0,,Neviril.
 Dialogue: 0,0:08:09.72,0:08:12.51,Regular,,0,0,0,,Don’t you think it’s time\Nyou made a decision?
 Dialogue: 0,0:08:13.18,0:08:14.21,Regular,,0,0,0,,About what?
@@ -135,19 +135,19 @@ Dialogue: 0,0:11:31.96,0:11:33.70,Regular,,0,0,0,,I do understand.
 Dialogue: 0,0:11:33.70,0:11:36.55,Regular,,0,0,0,,Isn’t she basically just\Nacting like a spoiled child?
 Dialogue: 0,0:11:39.41,0:11:40.71,Regular,,0,0,0,,That’s not it.
 Dialogue: 0,0:11:40.71,0:11:42.55,Regular,,0,0,0,,Then what is it?
-Dialogue: 0,0:11:51.97,0:11:56.33,Regular,,0,0,0,,I mean, I know losing Amuria\Nhas been hard for her,
+Dialogue: 0,0:11:51.44,0:11:56.33,Regular,,0,0,0,,I mean, I know losing Amuria\Nhas been hard for her,
 Dialogue: 0,0:11:56.33,0:11:59.76,Regular,,0,0,0,,but she’s not the only one\Nwho misses her, you know?
 Dialogue: 0,0:11:59.76,0:12:04.45,Regular,,0,0,0,,Shutting herself away like that is just a big pain for everyone around her.
 Dialogue: 0,0:12:04.45,0:12:05.45,Regular,,0,0,0,,Kaimu.
 Dialogue: 0,0:12:09.24,0:12:11.46,Regular,,0,0,0,,I’m sorry. I went too far.
-Dialogue: 0,0:12:13.25,0:12:14.64,Regular,,0,0,0,,Para-sama?
+Dialogue: 0,0:12:13.25,0:12:15.04,Regular,,0,0,0,,Para-sama?
 Dialogue: 0,0:12:15.67,0:12:17.66,Regular,,0,0,0,,What happened to your nails?
 Dialogue: 0,0:12:17.66,0:12:20.29,Regular,,0,0,0,,Oh, I was just doing a little cleaning.
 Dialogue: 0,0:12:20.29,0:12:23.30,Regular,,0,0,0,,You can’t just leave them like that!
 Dialogue: 0,0:12:23.30,0:12:26.22,Regular,,0,0,0,,I know! Wait a minute, okay?{\NI’ll be right back.}{Pulling out of your ass a whole sentence, seriously?}
-Dialogue: 0,0:12:26.68,0:12:28.22,Regular,,0,0,0,,O-Okay.
-Dialogue: 0,0:12:33.80,0:12:36.96,Regular,,0,0,0,,Well, it looks like\Nthey’re starting to sparkle.
-Dialogue: 0,0:12:36.96,0:12:37.93,Regular,,0,0,0,,Aren’t they?
+Dialogue: 0,0:12:26.22,0:12:28.22,Regular,,0,0,0,,O-Okay.
+Dialogue: 0,0:12:33.31,0:12:36.86,Regular,,0,0,0,,Well, it looks like\Nthey’re starting to sparkle.
+Dialogue: 0,0:12:36.86,0:12:37.93,Regular,,0,0,0,,Aren’t they?
 Dialogue: 0,0:12:37.93,0:12:41.14,Regular,,0,0,0,,Since you have such beautiful nails, you have to take good care of them.
 Dialogue: 0,0:12:41.14,0:12:43.36,Regular,,0,0,0,,Tempus Spatium-sama\Nwill scold you if you don’t.
 Dialogue: 0,0:12:48.23,0:12:49.82,Regular,,0,0,0,,You look like you’re having fun.
@@ -162,17 +162,17 @@ Dialogue: 0,0:13:24.86,0:13:26.20,Regular,,0,0,0,,I’m sorry.
 Dialogue: 0,0:13:29.11,0:13:31.24,Regular,,0,0,0,,Hey, Para-sama…
 Dialogue: 0,0:13:32.07,0:13:34.45,Regular,,0,0,0,,Are {\i1}you{\i0} lonely?
 Dialogue: 0,0:13:35.49,0:13:38.85,Regular,,0,0,0,,Does my face give it away?
-Dialogue: 0,0:13:38.85,0:13:40.29,Regular,,0,0,0,,That’s not it.
+Dialogue: 0,0:13:38.85,0:13:40.96,Regular,,0,0,0,,That’s not it.
 Dialogue: 0,0:13:42.20,0:13:44.51,Regular,,0,0,0,,It’s just that… I’m lonely, too.
 Dialogue: 0,0:13:48.42,0:13:50.03,Regular,,0,0,0,,Para-sama…
 Dialogue: 0,0:13:57.10,0:13:59.33,Regular,,0,0,0,,My, isn’t it hot in here?
-Dialogue: 0,0:13:59.85,0:14:02.54,Regular,,0,0,0,,Then shall we go someplace cooler?
+Dialogue: 0,0:13:59.85,0:14:02.32,Regular,,0,0,0,,Then shall we go someplace cooler?
 Dialogue: 0,0:14:10.40,0:14:13.40,Regular,,0,0,0,,Still no change from our princess?
 Dialogue: 0,0:14:13.40,0:14:15.34,Regular,,0,0,0,,Unfortunately not.
-Dialogue: 0,0:14:16.65,0:14:19.10,Regular,,0,0,0,,Well, this certainly\Nbrings back memories.
+Dialogue: 0,0:14:16.25,0:14:19.10,Regular,,0,0,0,,Well, this certainly\Nbrings back memories.
 Dialogue: 0,0:14:19.10,0:14:21.25,Regular,,0,0,0,,Does she remind you of anyone?
 Dialogue: 0,0:14:23.45,0:14:28.82,Regular,,0,0,0,,It’s hardly uncommon for a sibylla to have doubts about flying.
-Dialogue: 0,0:14:30.21,0:14:34.34,Regular,,0,0,0,,I reached out to you\Nback then, as I recall.
+Dialogue: 0,0:14:29.80,0:14:34.34,Regular,,0,0,0,,I reached out to you\Nback then, as I recall.
 Dialogue: 0,0:14:34.34,0:14:36.45,Regular,,0,0,0,,I haven’t forgotten.
 Comment: 0,0:14:37.27,0:14:42.27,Regular,,0,0,0,,Zooooom! Da-da-da-da-da-da! Zoooom!
 Comment: 0,0:14:42.27,0:14:45.98,Regular,,0,0,0,,Zooooom! KABOOM! Da-da-da-da-da-da-da!
@@ -190,13 +190,13 @@ Dialogue: 0,0:15:06.54,0:15:08.75,Regular,,0,0,0,,You’re incredible, Para-sama
 Comment: 0,0:15:08.75,0:15:10.66,Regular,,0,0,0,,Da-da-da!  Da-da-da-da-da!
 Dialogue: 0,0:15:10.66,0:15:13.25,Regular,,0,0,0,,Here come more of them,\Nthrough the clouds!
 Dialogue: 0,0:15:13.25,0:15:14.89,Regular,,0,0,0,,Stingray Ri Maajon!
-Dialogue: 0,0:15:22.15,0:15:23.49,Regular,,0,0,0,,Kaimu…
+Dialogue: 0,0:15:22.02,0:15:23.27,Regular,,0,0,0,,Kaimu…
 Dialogue: 0,0:15:24.01,0:15:26.73,Regular,,0,0,0,,Hey, Para-sama…
 Dialogue: 0,0:15:27.89,0:15:30.74,Regular,,0,0,0,,Let’s do a Ri Maajon.
-Dialogue: 0,0:15:46.45,0:15:48.08,Regular,,0,0,0,,It’s funny.
-Dialogue: 0,0:15:48.08,0:15:49.46,Regular,,0,0,0,,We do this all the time, but…
+Dialogue: 0,0:15:46.45,0:15:47.80,Regular,,0,0,0,,It’s funny.
+Dialogue: 0,0:15:47.80,0:15:49.46,Regular,,0,0,0,,We do this all the time, but…
 Dialogue: 0,0:16:05.60,0:16:07.87,Regular,,0,0,0,,Oh, no, we have to shut it off, or…
-Dialogue: 0,0:16:12.28,0:16:13.32,Regular,,0,0,0,,Kaimu!
+Dialogue: 0,0:16:12.28,0:16:13.53,Regular,,0,0,0,,Kaimu!
 Dialogue: 0,0:16:30.08,0:16:31.56,Regular,,0,0,0,,Nee-san…
 Dialogue: 0,0:16:32.13,0:16:33.26,Regular,,0,0,0,,Kaimu-nee-san…
 Dialogue: 0,0:17:05.41,0:17:07.17,Regular,,0,0,0,,We were always together.
@@ -224,7 +224,7 @@ Dialogue: 0,0:18:59.52,0:19:01.73,Regular,,0,0,0,,Neviril! Neviril!
 Dialogue: 0,0:19:01.73,0:19:04.19,Regular,,0,0,0,,Just listen to me for a minute!
 Dialogue: 0,0:19:04.19,0:19:05.83,Regular,,0,0,0,,Neviril?
 Dialogue: 0,0:19:05.83,0:19:07.33,Regular,,0,0,0,,Neviril!
-Dialogue: 0,0:19:11.82,0:19:15.38,Regular,,0,0,0,,That does it. Stubborn or not, \NI’m going to drag you out myself!
+Dialogue: 0,0:19:11.33,0:19:15.38,Regular,,0,0,0,,That does it. Stubborn or not, \NI’m going to drag you out myself!
 Dialogue: 0,0:19:17.54,0:19:18.92,Regular,,0,0,0,,Paraietta?
 Dialogue: 0,0:19:18.92,0:19:21.38,Regular,,0,0,0,,Aaeru, we need to talk.
 Dialogue: 0,0:19:22.04,0:19:23.23,Regular,,0,0,0,,Huh?
@@ -248,7 +248,7 @@ Dialogue: 0,0:21:01.73,0:21:02.81,Regular,,0,0,0,,What the…?
 Dialogue: 0,0:21:02.81,0:21:03.99,Regular,,0,0,0,,Over here!
 Dialogue: 0,0:21:10.74,0:21:12.03,Regular,,0,0,0,,Gotcha!
 Dialogue: 0,0:21:12.03,0:21:13.30,Regular,,0,0,0,,What!?
-Dialogue: 0,0:21:21.25,0:21:22.60,Regular,,0,0,0,,Had enough?
+Dialogue: 0,0:21:21.25,0:21:23.26,Regular,,0,0,0,,Had enough?
 Dialogue: 0,0:21:37.48,0:21:40.27,Regular,,0,0,0,,Aaeru, you have to become Neviril’s pair!
 Dialogue: 0,0:21:43.99,0:21:45.79,Regular,,0,0,0,,You don’t need to tell {\i1}me{\i0} that!
 Dialogue: 0,0:21:53.53,0:21:54.95,Regular,,0,0,0,,Hey, Floe?
@@ -260,7 +260,7 @@ Dialogue: 0,0:22:02.16,0:22:05.21,Regular,,0,0,0,,You said they couldn’t\Nkeep
 Dialogue: 0,0:22:05.21,0:22:07.79,Regular,,0,0,0,,They’ll start flying again, of course.
 Dialogue: 0,0:22:07.79,0:22:08.80,Regular,,0,0,0,,Is that so?
 Dialogue: 0,0:22:08.80,0:22:14.13,Regular,,0,0,0,,Yeah. Flying through the sky is what they’re born to do, after all.
-Dialogue: 0,0:22:14.13,0:22:16.41,Regular,,0,0,0,,What they’re born to do…
+Dialogue: 0,0:22:14.13,0:22:16.27,Regular,,0,0,0,,What they’re born to do…
 Dialogue: 0,0:22:20.76,0:22:23.52,Regular,,0,0,0,,If they’re just resting\Ntheir wings, then that’s fine.
 Dialogue: 0,0:22:26.89,0:22:30.94,Regular,,0,0,0,,But a bird that’s too badly hurt to fly…
 Dialogue: 0,0:22:30.94,0:22:33.05,Regular,,0,0,0,,…won’t be able to go on living.
