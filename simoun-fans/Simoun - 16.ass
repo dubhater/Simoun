@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 263
-Active Line: 274
+Scroll Position: 266
+Active Line: 277
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-16.mkv
 Keyframes File: ../../scxvid/simoun-16-keyframes.txt
 Audio URI: ../../audio/simoun-16.flac
 YCbCr Matrix: TV.601
-Video Position: 34686
+Video Position: 34898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +52,7 @@ Dialogue: 0,0:02:59.19,0:03:01.20,Regular,,0,0,0,,Rodoreamon?
 Dialogue: 0,0:03:02.49,0:03:04.66,Regular,,0,0,0,,Or the seamstress, maybe?
 Dialogue: 0,0:03:09.57,0:03:11.81,Regular,,0,0,0,,How can you be laughing \Nat a time like this?
 Dialogue: 0,0:03:11.81,0:03:13.71,Regular,,0,0,0,,Busted!
-Dialogue: 0,0:03:19.47,0:03:21.22,Regular,,0,0,0,,A-Aircraft silhouettes sighted!
+Dialogue: 0,0:03:18.92,0:03:21.22,Regular,,0,0,0,,A-Aircraft silhouettes sighted!
 Dialogue: 0,0:03:21.22,0:03:23.01,Regular,,0,0,0,,Umm… umm…
 Dialogue: 0,0:03:23.01,0:03:23.93,Regular,,0,0,0,,Nine o’clock!
 Dialogue: 0,0:03:23.93,0:03:26.68,Regular,,0,0,0,,Silhouettes! Not Simoun!
@@ -88,12 +88,12 @@ Dialogue: 0,0:05:14.96,0:05:16.29,Regular,,0,0,0,,Limone?
 Dialogue: 0,0:05:16.29,0:05:20.13,Regular,,0,0,0,,I kinda brought Rodoreamon’s \Nstuffed toy along.
 Dialogue: 0,0:05:52.58,0:05:54.10,Regular,,0,0,0,,Let go the anchors!
 Dialogue: 0,0:05:54.10,0:05:55.33,Regular,,0,0,0,,Aye, sir!
-Dialogue: 0,0:06:54.18,0:06:57.56,Regular,,0,0,0,,Captain, we made it… somehow.
-Dialogue: 0,0:06:57.56,0:06:59.35,Regular,,0,0,0,,It looks like it.
+Dialogue: 0,0:06:54.18,0:06:57.39,Regular,,0,0,0,,Captain, we made it… somehow.
+Dialogue: 0,0:06:57.39,0:06:59.35,Regular,,0,0,0,,It looks like it.
 Dialogue: 0,0:07:00.10,0:07:03.56,Regular,,0,0,0,,I was right: it {\i1}was{\i0} a trick.
 Dialogue: 0,0:07:07.78,0:07:09.53,Regular,,0,0,0,,Finally, they’re gone. Aaeru!
 Dialogue: 0,0:07:09.53,0:07:10.57,Regular,,0,0,0,,Not yet.
-Dialogue: 0,0:07:17.45,0:07:20.62,Regular,,0,0,0,,They just pretend to leave,\N then they circle back for another look.
+Dialogue: 0,0:07:16.83,0:07:20.62,Regular,,0,0,0,,They just pretend to leave,\N then they circle back for another look.
 Dialogue: 0,0:07:22.83,0:07:24.42,Regular,,0,0,0,,So, shall we get going?
 Dialogue: 0,0:07:25.63,0:07:26.67,Regular,,0,0,0,,Okay?
 Dialogue: 0,0:07:27.42,0:07:31.63,Regular,,0,0,0,,I… don’t know anything\N about surviving out here.
@@ -127,7 +127,7 @@ Dialogue: 0,0:09:28.54,0:09:30.67,Regular,,0,0,0,,Don’t worry, Limone.
 Dialogue: 0,0:09:31.96,0:09:35.26,Regular,,0,0,0,,They still haven’t found\N our exact position.
 Dialogue: 0,0:09:35.26,0:09:36.80,Regular,,0,0,0,,Sibylla Dominura…
 Dialogue: 0,0:09:37.43,0:09:39.76,Regular,,0,0,0,,I assume you know this already.
-Dialogue: 0,0:09:40.76,0:09:42.51,Regular,,0,0,0,,The sun is going to rise soon.
+Dialogue: 0,0:09:40.76,0:09:42.52,Regular,,0,0,0,,The sun is going to rise soon.
 Dialogue: 0,0:09:43.47,0:09:47.56,Regular,,0,0,0,,The next attack will be able \Nto find us quite easily.
 Dialogue: 0,0:09:47.56,0:09:51.77,Regular,,0,0,0,,Then what options do we have?
 Dialogue: 0,0:09:51.77,0:09:55.19,Regular,,0,0,0,,One is to wait for the other \Nfour Simoun to return,
@@ -156,7 +156,7 @@ Dialogue: 0,0:10:57.77,0:10:59.59,Regular,,0,0,0,,Limone is my pair.
 Dialogue: 0,0:11:00.32,0:11:01.34,Regular,,0,0,0,,Dominura!
 Dialogue: 0,0:11:02.13,0:11:05.31,Regular,,0,0,0,,And I am Limone’s pair.
 Dialogue: 0,0:11:12.60,0:11:14.19,Regular,,0,0,0,,Why?
-Dialogue: 0,0:11:18.40,0:11:21.62,Regular,,0,0,0,,What is wrong with you people?
+Dialogue: 0,0:11:18.61,0:11:21.62,Regular,,0,0,0,,What is wrong with you people?
 Dialogue: 0,0:11:21.62,0:11:23.95,Regular,,0,0,0,,How can you be so callous?
 Dialogue: 0,0:11:25.78,0:11:29.07,Regular,,0,0,0,,Our friends are in danger!
 Dialogue: 0,0:11:29.07,0:11:32.61,Regular,,0,0,0,,I will not abandon my comrades!
@@ -174,7 +174,7 @@ Dialogue: 0,0:12:09.21,0:12:13.59,Regular,,0,0,0,,But I have something \Nto do f
 Dialogue: 0,0:12:14.72,0:12:17.98,Regular,,0,0,0,,As for you, with your \Nemotions so riled up,
 Dialogue: 0,0:12:17.98,0:12:22.01,Regular,,0,0,0,,it’s doubtful that you and Aaeru \Ncould make your Simoun fly, Paraietta.
 Dialogue: 0,0:12:46.24,0:12:47.49,Regular,,0,0,0,,Sibylla Dominura?
-Dialogue: 0,0:12:48.20,0:12:50.40,Regular,,0,0,0,,Oh? I’m not alone.
+Dialogue: 0,0:12:48.28,0:12:50.40,Regular,,0,0,0,,Oh? I’m not alone.
 Dialogue: 0,0:12:55.72,0:13:01.00,Regular,,0,0,0,,Someone who has nothing to believe in\N has no firm ground to stand on.
 Dialogue: 0,0:13:01.00,0:13:05.76,Regular,,0,0,0,,To me, the Holy Land and Tempus Spatium have been that belief.
 Dialogue: 0,0:13:13.02,0:13:14.02,Regular,,0,0,0,,What are you—
@@ -191,7 +191,7 @@ Dialogue: 0,0:13:53.22,0:13:55.81,Regular,,0,0,0,,Unidentified aircraft at eight
 Dialogue: 0,0:13:55.81,0:13:57.80,Regular,,0,0,0,,They’re earlier than we expected!
 Dialogue: 0,0:13:57.80,0:13:59.87,Regular,,0,0,0,,We don’t have time to escape.
 Dialogue: 0,0:14:00.73,0:14:04.99,Regular,,0,0,0,,The {\i1}Messis{\i0} will hold position\N and counterattack!
-Dialogue: 0,0:14:07.81,0:14:08.95,Regular,,0,0,0,,Aaeru, let’s go!
+Dialogue: 0,0:14:07.24,0:14:08.95,Regular,,0,0,0,,Aaeru, let’s go!
 Dialogue: 0,0:14:08.95,0:14:10.89,Regular,,0,0,0,,Will it work?
 Dialogue: 0,0:14:10.89,0:14:12.95,Regular,,0,0,0,,I want you.
 Dialogue: 0,0:14:13.71,0:14:17.46,Regular,,0,0,0,,Without you, I cannot save Neviril.
@@ -202,10 +202,10 @@ Dialogue: 0,0:14:32.72,0:14:35.10,Regular,,0,0,0,,I forgot to put it back!
 Dialogue: 0,0:14:50.45,0:14:52.21,Regular,,0,0,0,,Over there!
 Dialogue: 0,0:14:52.21,0:14:53.96,Regular,,0,0,0,,Look how high they are!
 Dialogue: 0,0:14:53.96,0:14:56.83,Regular,,0,0,0,,That’s almost like the Simoun!
-Dialogue: 0,0:15:11.31,0:15:13.09,Regular,,0,0,0,,Dominura! Limone!
+Dialogue: 0,0:15:11.31,0:15:13.10,Regular,,0,0,0,,Dominura! Limone!
 Dialogue: 0,0:15:14.17,0:15:15.72,Regular,,0,0,0,,Aaeru! Let’s go!
 Dialogue: 0,0:15:15.72,0:15:17.10,Regular,,0,0,0,,Falcon Ri Maajon!
-Dialogue: 0,0:15:26.19,0:15:27.26,Regular,,0,0,0,,Aaeru!
+Dialogue: 0,0:15:25.61,0:15:27.26,Regular,,0,0,0,,Aaeru!
 Dialogue: 0,0:15:27.26,0:15:29.11,Regular,,0,0,0,,Falcon Ri Maajon, again!
 Dialogue: 0,0:15:29.11,0:15:32.32,Regular,,0,0,0,,Yeah, I’ll do it as many times as necessary!
 Dialogue: 0,0:15:36.87,0:15:37.91,Regular,,0,0,0,,Limone!
@@ -219,7 +219,7 @@ Dialogue: 0,0:16:17.89,0:16:20.95,Regular,,0,0,0,,They’ve improved a lot in a 
 Dialogue: 0,0:16:22.04,0:16:25.96,Regular,,0,0,0,,They still can’t compare with the Simoun,\N but with those numbers…!
 Dialogue: 0,0:16:25.96,0:16:28.17,Regular,,0,0,0,,Fish Ri Maajon!
 Dialogue: 0,0:16:32.49,0:16:35.18,Regular,,0,0,0,,I can’t do it! They keep interrupting!
-Dialogue: 0,0:16:38.99,0:16:40.10,Regular,,0,0,0,,The {\i1}Messis{\i0}?
+Dialogue: 0,0:16:38.43,0:16:40.10,Regular,,0,0,0,,The {\i1}Messis{\i0}?
 Dialogue: 0,0:16:45.87,0:16:47.31,Regular,,0,0,0,,The Emerald Ri Maajon!
 Dialogue: 0,0:16:48.60,0:16:51.22,Regular,,0,0,0,,Now… now is the time!
 Dialogue: 0,0:16:54.21,0:16:55.78,Regular,,0,0,0,,But y’know…
@@ -233,7 +233,7 @@ Dialogue: 0,0:17:12.21,0:17:14.30,Regular,,0,0,0,,It was terrible.
 Dialogue: 0,0:17:16.68,0:17:21.14,Regular,,0,0,0,,It destroyed everything I believed in, \Neverything I held dear to my heart.
 Dialogue: 0,0:17:22.72,0:17:25.10,Regular,,0,0,0,,But… that’s not what I’m afraid of.
 Comment: 0,0:17:25.10,0:17:26.14,Regular,,0,0,0,,What?
-Dialogue: 0,0:17:26.14,0:17:29.77,Regular,,0,0,0,,What I glimpsed beyond the horror…
+Dialogue: 0,0:17:26.14,0:17:29.57,Regular,,0,0,0,,What I glimpsed beyond the horror…
 Dialogue: 0,0:17:30.52,0:17:32.32,Regular,,0,0,0,,That’s what I am afraid of.
 Dialogue: 0,0:17:32.32,0:17:33.90,Regular,,0,0,0,,What was it?
 Dialogue: 0,0:17:34.71,0:17:36.56,Regular,,0,0,0,,I can’t really put it into words.
@@ -242,7 +242,7 @@ Dialogue: 0,0:17:39.74,0:17:40.78,Regular,,0,0,0,,Hope.
 Dialogue: 0,0:17:43.63,0:17:47.87,Regular,,0,0,0,,They’re fighting for the {\i1}Messis{\i0}!
 Dialogue: 0,0:17:48.97,0:17:50.28,Regular,,0,0,0,,For us!
 Dialogue: 0,0:17:51.88,0:17:52.92,Regular,,0,0,0,,Captain!
-Dialogue: 0,0:17:55.07,0:17:57.76,Regular,,0,0,0,,We won’t let the sibyllae’s\N prayers go to waste!
+Dialogue: 0,0:17:55.13,0:17:57.76,Regular,,0,0,0,,We won’t let the sibyllae’s\N prayers go to waste!
 Dialogue: 0,0:17:58.94,0:18:02.35,Regular,,0,0,0,,We’ll lure the enemy towards us\N and let the priestesses escape!
 Dialogue: 0,0:18:03.06,0:18:04.10,Regular,,0,0,0,,Aye, sir!
 Dialogue: 0,0:18:11.06,0:18:12.57,Regular,,0,0,0,,What the—?
@@ -264,13 +264,13 @@ Dialogue: 0,0:18:59.91,0:19:01.82,Regular,,0,0,0,,Over there, look!
 Dialogue: 0,0:19:04.24,0:19:05.29,Regular,,0,0,0,,That’s—!
 Dialogue: 0,0:19:06.04,0:19:08.04,Regular,,0,0,0,,The Emerald… Ri Maajon?
 Dialogue: 0,0:19:19.80,0:19:20.84,Regular,,0,0,0,,What are they—
-Dialogue: 0,0:19:21.40,0:19:22.98,Regular,,0,0,0,,Stop it, Dominura!
+Dialogue: 0,0:19:20.84,0:19:22.98,Regular,,0,0,0,,Stop it, Dominura!
 Dialogue: 0,0:19:22.98,0:19:26.05,Regular,,0,0,0,,Limone! Stop it!
 Dialogue: 0,0:19:26.05,0:19:27.81,Regular,,0,0,0,,That’s the Emerald…
 Dialogue: 0,0:19:30.98,0:19:32.48,Regular,,0,0,0,,Why?
-Dialogue: 0,0:19:33.03,0:19:36.19,Regular,,0,0,0,,What the…? Who the heck is doing the Emerald Ri Maajon?
-Dialogue: 0,0:19:37.27,0:19:40.69,Regular,,0,0,0,,I can’t believe I’m seeing this again!
-Dialogue: 0,0:19:41.22,0:19:42.45,Regular,,0,0,0,,We have to hurry back!
+Dialogue: 0,0:19:32.48,0:19:36.19,Regular,,0,0,0,,What the…? Who the heck is doing the Emerald Ri Maajon?
+Dialogue: 0,0:19:37.27,0:19:40.99,Regular,,0,0,0,,I can’t believe I’m seeing this again!
+Dialogue: 0,0:19:40.99,0:19:42.45,Regular,,0,0,0,,We have to hurry back!
 Dialogue: 0,0:19:43.11,0:19:44.86,Regular,,0,0,0,,Yes, that’s…!
 Dialogue: 0,0:19:44.86,0:19:46.45,Regular,,0,0,0,,No! They’ll die!
 Dialogue: 0,0:19:47.99,0:19:50.16,Regular,,0,0,0,,Stop. Please.
@@ -286,7 +286,7 @@ Dialogue: 0,0:20:20.94,0:20:23.32,Regular,,0,0,0,,Yes, always!
 Dialogue: 0,0:20:55.24,0:20:57.52,Regular,,0,0,0,,It didn’t change a thing!
 Dialogue: 0,0:21:00.78,0:21:03.51,Regular,,0,0,0,,Wait, where are Dominura and Limone?
 Dialogue: 0,0:21:03.51,0:21:04.82,Regular,,0,0,0,,They’re gone.
-Dialogue: 0,0:21:08.68,0:21:10.24,Regular,,0,0,0,,Damn, they’re persistent!
+Dialogue: 0,0:21:08.12,0:21:10.24,Regular,,0,0,0,,Damn, they’re persistent!
 Dialogue: 0,0:21:19.63,0:21:20.92,Regular,,0,0,0,,Neviril!
 Dialogue: 0,0:21:20.92,0:21:23.10,Regular,,0,0,0,,Captain! It’s the Simoun!
 Dialogue: 0,0:21:23.10,0:21:25.26,Regular,,0,0,0,,Yes! They’re all okay!
@@ -295,7 +295,7 @@ Dialogue: 0,0:21:33.77,0:21:36.85,Regular,,0,0,0,,What the…? What’s going on
 Dialogue: 0,0:21:37.40,0:21:38.77,Regular,,0,0,0,,Ca-Captain!
 Dialogue: 0,0:21:39.38,0:21:40.73,Regular,,0,0,0,,Look up there!
 Dialogue: 0,0:21:40.73,0:21:42.82,Regular,,0,0,0,,It’s the {\i1}Arcus Prima{\i0}!
-Dialogue: 0,0:21:51.42,0:21:54.70,Regular,,0,0,0,,It looks like we’re \Njust in the nick of time.
+Dialogue: 0,0:21:50.70,0:21:54.70,Regular,,0,0,0,,It looks like we’re \Njust in the nick of time.
 Dialogue: 0,0:21:54.70,0:21:58.47,Regular,,0,0,0,,Sorry to keep you waiting, sibyllae!
 Dialogue: 0,0:22:00.67,0:22:01.71,Regular,,0,0,0,,Everyone!
 Dialogue: 0,0:22:07.55,0:22:11.44,Regular,,0,0,0,,My name is Wauf,\N and I’m the captain of the {\i1}Messis{\i0}.
