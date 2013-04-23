@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 195
-Active Line: 203
+Scroll Position: 205
+Active Line: 214
 Video Zoom Percent: 0.75
 Video File: ../../raws/simoun-12.mkv
 Keyframes File: ../../scxvid/simoun-12-keyframes.txt
 Audio URI: ../../audio/simoun-12.flac
 YCbCr Matrix: TV.601
-Video Position: 30804
+Video Position: 34896
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +44,7 @@ Dialogue: 0,0:01:59.97,0:02:03.90,Regular,,0,0,0,,This is all for the sake of re
 Dialogue: 0,0:02:04.89,0:02:07.43,Regular,,0,0,0,,From now on, no more disgraceful conduct will be permitted.
 Dialogue: 0,0:02:11.94,0:02:17.95,Titles,,90,0,0,,{\blur0.6}Sisters
 Dialogue: 0,0:02:18.80,0:02:19.95,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:02:20.50,0:02:23.70,Regular,,0,0,0,,Are you picking out \Nall of your onions?
+Dialogue: 0,0:02:19.95,0:02:23.70,Regular,,0,0,0,,Are you picking out \Nall of your onions?
 Dialogue: 0,0:02:25.24,0:02:26.45,Regular,,0,0,0,,Leave me alone.
 Dialogue: 0,0:02:27.84,0:02:30.46,Regular,,0,0,0,,Yun, I didn’t know \Nyou could be so cute!
 Dialogue: 0,0:02:32.33,0:02:34.96,Regular,,0,0,0,,So I guess it wasn’t \Nanything special, then?
@@ -66,8 +66,8 @@ Dialogue: 0,0:03:59.80,0:04:03.58,Regular,,0,0,0,,Nee-san didn’t say that\N ju
 Dialogue: 0,0:04:03.58,0:04:04.59,Regular,,0,0,0,,It’s just…
 Dialogue: 0,0:04:04.59,0:04:05.55,Regular,,0,0,0,,It’s okay.
 Dialogue: 0,0:04:07.05,0:04:10.60,Regular,,0,0,0,,Anyway, she’s got a point.
-Dialogue: 0,0:04:12.33,0:04:16.08,Regular,,0,0,0,,My chest was going all “waaah!”
-Dialogue: 0,0:04:17.36,0:04:19.86,Regular,,0,0,0,,I thought my heart would stop.
+Dialogue: 0,0:04:12.33,0:04:16.56,Regular,,0,0,0,,My chest was going all “waaah!”
+Dialogue: 0,0:04:17.52,0:04:19.86,Regular,,0,0,0,,I thought my heart would stop.
 Dialogue: 0,0:04:20.90,0:04:21.99,Regular,,0,0,0,,But…
 Dialogue: 0,0:04:24.74,0:04:26.37,Regular,,0,0,0,,But it didn’t.
 Dialogue: 0,0:04:28.06,0:04:29.41,Regular,,0,0,0,,It’s just that…
@@ -109,7 +109,7 @@ Dialogue: 0,0:07:12.70,0:07:15.28,Regular,,0,0,0,,You can come and sleep\N in my
 Dialogue: 0,0:07:15.28,0:07:17.08,Regular,,0,0,0,,Nope. I’m fine.
 Dialogue: 0,0:07:17.08,0:07:20.13,Regular,,0,0,0,,Don’t push yourself.\N You’re still little, so—
 Dialogue: 0,0:07:20.13,0:07:22.25,Regular,,0,0,0,,{\i1}You’re{\i0} the one who’s scared.
-Dialogue: 0,0:07:23.17,0:07:24.84,Regular,,0,0,0,,I… I am not!
+Dialogue: 0,0:07:23.17,0:07:25.21,Regular,,0,0,0,,I… I am not!
 Dialogue: 0,0:09:00.26,0:09:01.35,Regular,,0,0,0,,What’s the matter?
 Dialogue: 0,0:09:01.96,0:09:03.63,Regular,,0,0,0,,Mm.
 Dialogue: 0,0:09:55.07,0:09:59.07,Regular,,0,0,0,,This is the first time that \Nwe’ve flown together, isn’t it?
@@ -133,7 +133,7 @@ Dialogue: 0,0:11:17.07,0:11:18.57,Regular,,0,0,0,,Don’t call me that!
 Dialogue: 0,0:11:20.45,0:11:21.41,Regular,,0,0,0,,Nee-san!
 Dialogue: 0,0:11:21.41,0:11:23.41,Regular,,0,0,0,,Do {\i1}not{\i0} call me that!
 Dialogue: 0,0:11:31.89,0:11:33.04,Regular,,0,0,0,,I knew it.
-Dialogue: 0,0:11:36.13,0:11:37.80,Regular,,0,0,0,,Everything really {\i1}is{\i0} your fault.
+Dialogue: 0,0:11:35.67,0:11:37.80,Regular,,0,0,0,,Everything really {\i1}is{\i0} your fault.
 Dialogue: 0,0:11:38.51,0:11:41.68,Regular,,0,0,0,,Alti, you’re the one \Nwho screwed everything up.
 Dialogue: 0,0:11:42.43,0:11:45.39,Regular,,0,0,0,,Yes, everything!
 Dialogue: 0,0:11:45.39,0:11:47.39,Regular,,0,0,0,,It was {\i1}all{\i0} your fault!
@@ -148,8 +148,8 @@ Dialogue: 0,0:13:04.01,0:13:06.46,Regular,,0,0,0,,No. It’s too dangerous.
 Dialogue: 0,0:13:06.46,0:13:08.36,Regular,,0,0,0,,And there’s something wrong \Nwith one of our Simoun.
 Dialogue: 0,0:13:08.36,0:13:10.20,Regular,,0,0,0,,We should go back to the {\i1}Messis{\i0} and…
 Dialogue: 0,0:13:10.20,0:13:11.52,Regular,,0,0,0,,This was ridiculous from the beginning.
-Dialogue: 0,0:13:12.06,0:13:14.02,Regular,,0,0,0,,Even Dominura should understand…
-Dialogue: 0,0:13:14.55,0:13:16.44,Regular,,0,0,0,,Just because we’re sisters…
+Dialogue: 0,0:13:11.52,0:13:14.02,Regular,,0,0,0,,Even Dominura should understand…
+Dialogue: 0,0:13:14.02,0:13:16.44,Regular,,0,0,0,,Just because we’re sisters…
 Dialogue: 0,0:13:22.64,0:13:24.78,Regular,,0,0,0,,I… will go.
 Dialogue: 0,0:13:24.78,0:13:26.49,Regular,,0,0,0,,Alti?
 Dialogue: 0,0:13:27.15,0:13:30.81,Regular,,0,0,0,,Nee-san and I… we can make it work.
@@ -159,17 +159,17 @@ Dialogue: 0,0:13:36.78,0:13:39.27,Regular,,0,0,0,,Aaeru and Kaimu will wait with
 Dialogue: 0,0:13:39.97,0:13:42.90,Regular,,0,0,0,,We’ll approach cautiously and get inside.
 Dialogue: 0,0:13:42.90,0:13:44.26,Regular,,0,0,0,,If anything happens…
 Dialogue: 0,0:13:45.29,0:13:46.47,Regular,,0,0,0,,Yes.
-Dialogue: 0,0:14:24.45,0:14:25.51,Regular,,0,0,0,,There’s no one here.
+Dialogue: 0,0:14:24.30,0:14:25.51,Regular,,0,0,0,,There’s no one here.
 Dialogue: 0,0:14:26.30,0:14:27.34,Regular,,0,0,0,,Indeed.
 Dialogue: 0,0:14:28.22,0:14:29.26,Regular,,0,0,0,,What’s that?
-Dialogue: 0,0:14:33.25,0:14:37.45,Regular,,0,0,0,,A broken searchlight, and no guard.
+Dialogue: 0,0:14:32.80,0:14:37.45,Regular,,0,0,0,,A broken searchlight, and no guard.
 Dialogue: 0,0:14:37.45,0:14:41.10,Regular,,0,0,0,,People like this are \Ncausing us so much pain?
 Dialogue: 0,0:14:42.35,0:14:43.52,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:14:43.52,0:14:47.28,Regular,,0,0,0,,They’re using {\i1}this{\i0} to go up against the chariots of the gods.
 Dialogue: 0,0:14:48.40,0:14:51.53,Regular,,0,0,0,,Doesn’t it matter to them \Nthat they’re outmatched?
 Dialogue: 0,0:14:51.53,0:14:53.74,Regular,,0,0,0,,Aren’t they afraid of dying?
 Dialogue: 0,0:14:53.74,0:14:57.29,Regular,,0,0,0,,I don’t think there’s anyone \Nwho doesn’t fear death.
-Dialogue: 0,0:14:57.29,0:14:59.62,Regular,,0,0,0,,So, they’re strong, then.
+Dialogue: 0,0:14:57.29,0:14:59.75,Regular,,0,0,0,,So, they’re strong, then.
 Dialogue: 0,0:15:00.99,0:15:02.75,Regular,,0,0,0,,I envy them.
 Dialogue: 0,0:15:04.87,0:15:06.30,Regular,,0,0,0,,Alti.
 Dialogue: 0,0:15:11.98,0:15:15.51,Regular,,0,0,0,,You don’t need \Nto be strong by yourself.
@@ -206,19 +206,19 @@ Dialogue: 0,0:17:18.76,0:17:20.97,Regular,,0,0,0,,Wait, Kaimu! Kaimu!
 Dialogue: 0,0:17:27.06,0:17:31.71,Regular,,0,0,0,,When we were little,\N I was always crying.
 Dialogue: 0,0:17:32.69,0:17:37.82,Regular,,0,0,0,,But every time, \NNee-san would hold me.
 Dialogue: 0,0:17:43.12,0:17:44.45,Regular,,0,0,0,,And I felt stronger.
-Dialogue: 0,0:17:50.11,0:17:54.18,Regular,,0,0,0,,It’s not that night that\N I want to get back to,
+Dialogue: 0,0:17:49.71,0:17:54.18,Regular,,0,0,0,,It’s not that night that\N I want to get back to,
 Dialogue: 0,0:17:54.18,0:17:56.05,Regular,,0,0,0,,it’s those warm afternoons.
 Dialogue: 0,0:17:58.43,0:18:03.56,Regular,,0,0,0,,What I want is not the hands that\N gave me sensations I’d never felt before,
 Dialogue: 0,0:18:05.21,0:18:08.44,Regular,,0,0,0,,but rather the gentle hand\N that held mine as we walked.
 Dialogue: 0,0:18:11.36,0:18:13.69,Regular,,0,0,0,,But Nee-san…
 Dialogue: 0,0:18:15.57,0:18:17.53,Regular,,0,0,0,,Someday I’ll become a man.
 Dialogue: 0,0:18:18.37,0:18:24.74,Regular,,0,0,0,,Then it will be my turn to hold Nee-san in my arms, as tightly as I can.
-Dialogue: 0,0:18:31.63,0:18:32.67,Regular,,0,0,0,,Nee-san…
-Dialogue: 0,0:18:56.38,0:18:57.53,Regular,,0,0,0,,Nee-san!
+Dialogue: 0,0:18:31.17,0:18:32.67,Regular,,0,0,0,,Nee-san…
+Dialogue: 0,0:18:56.38,0:18:57.65,Regular,,0,0,0,,Nee-san!
 Dialogue: 0,0:19:04.92,0:19:06.41,Regular,,0,0,0,,Nee-san! Jump!
 Dialogue: 0,0:19:11.62,0:19:13.87,Regular,,0,0,0,,Nee-san! What is it?
 Dialogue: 0,0:19:13.87,0:19:17.13,Regular,,0,0,0,,Don’t worry, you’ll land in my arms!
-Dialogue: 0,0:19:25.92,0:19:27.68,Regular,,0,0,0,,Nee-san!
+Dialogue: 0,0:19:25.39,0:19:27.68,Regular,,0,0,0,,Nee-san!
 Dialogue: 0,0:19:28.89,0:19:33.40,Regular,,0,0,0,,It’s not… my… fault…
 Dialogue: 0,0:19:51.41,0:19:55.15,Regular,,0,0,0,,Kaimu, when we get there,\N go straight to Aaeru’s sagitta seat.
 Dialogue: 0,0:19:55.15,0:19:56.92,Regular,,0,0,0,,Kaimu! Do you understand?
@@ -242,6 +242,6 @@ Dialogue: 0,0:21:55.37,0:21:56.79,Regular,,0,0,0,,Not me.
 Dialogue: 0,0:22:33.19,0:22:34.91,Regular,,0,0,0,,It tastes just like hers.
 Dialogue: 0,0:24:04.92,0:24:06.63,Titles,,85,0,0,,{\blur0.6}Next Episode
 Dialogue: 0,0:24:06.63,0:24:11.92,Regular,,0,0,0,,Aaeru’s words make\N Neviril fall to pieces.
-Dialogue: 0,0:24:14.33,0:24:15.43,Regular,,0,0,0,,Next time, on Simoun:
+Dialogue: 0,0:24:14.55,0:24:16.10,Regular,,0,0,0,,Next time, on Simoun:
 Dialogue: 0,0:24:17.01,0:24:18.64,Regular,,0,0,0,,Reason.
 Dialogue: 0,0:24:15.43,0:24:19.93,Titles,,90,0,0,,{\blur0.6}Reason
