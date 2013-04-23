@@ -34,7 +34,7 @@ Comment: 1,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 25
 Comment: 2,0:00:00.00,0:25:00.00,Regular,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:31.94,0:01:36.49,Regular,,0,0,0,,You said it yourself that day: \N“Take apart a Simoun.”
 Dialogue: 0,0:01:37.49,0:01:40.03,Regular,,0,0,0,,The only thing {that’s }in there is a helix.
-Dialogue: 0,0:01:40.74,0:01:43.39,Regular,,0,0,0,,All we can understand about it is…
+Dialogue: 0,0:01:40.74,0:01:44.04,Regular,,0,0,0,,All we can understand about it is…
 Dialogue: 0,0:01:44.04,0:01:48.04,Regular,,0,0,0,,You {\i1}do{\i0} see something! \NWhat? What do you see?
 Dialogue: 0,0:01:52.04,0:01:58.01,Titles,,90,0,0,,{\blur0.6}One By One
 Dialogue: 0,0:02:22.79,0:02:24.20,Regular,,0,0,0,,What are those for?
@@ -51,8 +51,8 @@ Dialogue: 0,0:03:02.32,0:03:06.54,Regular,,0,0,0,,Out of all of us,\N you’re t
 Dialogue: 0,0:03:15.04,0:03:17.30,Regular,,0,0,0,,It’s Aaeru!
 Dialogue: 0,0:03:29.60,0:03:32.95,Regular,,0,0,0,,Neviril, did anything happen?
 Dialogue: 0,0:03:32.95,0:03:35.41,Regular,,0,0,0,,No, nothing.
-Dialogue: 0,0:03:35.41,0:03:38.21,Regular,,0,0,0,,We were unable to find\N the enemy base ship.
-Dialogue: 0,0:03:38.75,0:03:40.36,Regular,,0,0,0,,I don’t know why \Nthey’ve gone, but…
+Dialogue: 0,0:03:35.41,0:03:38.53,Regular,,0,0,0,,We were unable to find\N the enemy base ship.
+Dialogue: 0,0:03:38.53,0:03:40.36,Regular,,0,0,0,,I don’t know why \Nthey’ve gone, but…
 Dialogue: 0,0:03:40.36,0:03:42.32,Regular,,0,0,0,,Nothing else happened?
 Dialogue: 0,0:03:42.32,0:03:43.48,Regular,,0,0,0,,No.
 Dialogue: 0,0:03:45.53,0:03:46.58,Regular,,0,0,0,,What?
@@ -90,7 +90,7 @@ Dialogue: 0,0:06:43.90,0:06:46.51,Regular,,0,0,0,,I can’t believe Aaeru \Njust
 Dialogue: 0,0:06:46.51,0:06:48.99,Regular,,0,0,0,,Yes, I was quite taken aback{ by that}.
 Dialogue: 0,0:06:48.99,0:06:52.51,Regular,,0,0,0,,{Yeah, }In the past she would have dragged her off by the hand, right?
 Dialogue: 0,0:06:52.51,0:06:54.72,Regular,,0,0,0,,Bleah! I don’t want \Nto see Aaeru like this!
-Dialogue: 0,0:06:57.54,0:06:58.82,Regular,,0,0,0,,Aaeru, you know…
+Dialogue: 0,0:06:56.97,0:06:58.82,Regular,,0,0,0,,Aaeru, you know…
 Dialogue: 0,0:06:58.82,0:07:01.60,Regular,,0,0,0,,She’s cool because she’s so\N positive that it’s overbearing!
 Dialogue: 0,0:07:01.60,0:07:04.98,Regular,,0,0,0,,Being so weirdly considerate… \Nit’s totally not like her.
 Dialogue: 0,0:07:07.69,0:07:08.74,Regular,,0,0,0,,Are you jealous?
@@ -127,7 +127,7 @@ Dialogue: 0,0:09:20.12,0:09:22.24,Regular,,0,0,0,,She was never looking at {\i1}
 Dialogue: 0,0:09:24.00,0:09:25.08,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:09:25.83,0:09:29.11,Regular,,0,0,0,,Aaeru made me see the truth.
 Dialogue: 0,0:09:29.11,0:09:31.25,Regular,,0,0,0,,To both of them I am just…
-Dialogue: 0,0:09:40.39,0:09:43.81,Regular,,0,0,0,,Just a tool. A tool to take them “higher.”
+Dialogue: 0,0:09:39.80,0:09:43.81,Regular,,0,0,0,,Just a tool. A tool to take them “higher.”
 Dialogue: 0,0:09:44.43,0:09:45.68,Regular,,0,0,0,,Neviril…
 Dialogue: 0,0:09:51.02,0:09:54.90,Regular,,0,0,0,,I think… I’ve made a big mistake.
 Dialogue: 0,0:09:59.57,0:10:00.78,Regular,,0,0,0,,If I were with you—
@@ -148,7 +148,7 @@ Dialogue: 0,0:10:51.00,0:10:52.08,Regular,,0,0,0,,Again?
 Dialogue: 0,0:10:53.18,0:10:54.36,Regular,,0,0,0,,I’ll go, too.
 Dialogue: 0,0:10:54.36,0:10:55.55,Regular,,0,0,0,,No, you mustn’t!
 Dialogue: 0,0:10:55.55,0:10:56.51,Regular,,0,0,0,,But—
-Dialogue: 0,0:10:57.12,0:10:58.51,Regular,,0,0,0,,Neviril.
+Dialogue: 0,0:10:57.26,0:10:58.51,Regular,,0,0,0,,Neviril.
 Dialogue: 0,0:11:03.51,0:11:05.56,Regular,,0,0,0,,I’ll go!
 Dialogue: 0,0:11:05.56,0:11:07.93,Regular,,0,0,0,,The air around here really stinks.
 Dialogue: 0,0:11:07.93,0:11:09.27,Regular,,0,0,0,,The air?
@@ -220,7 +220,7 @@ Dialogue: 0,0:17:55.38,0:17:56.72,Regular,,0,0,0,,What?
 Dialogue: 0,0:17:56.72,0:17:58.70,Regular,,0,0,0,,You and I will go on\N a reconnaissance mission.
 Dialogue: 0,0:17:58.70,0:18:00.43,Regular,,0,0,0,,— And from now on—\N— No.
 Dialogue: 0,0:18:00.43,0:18:01.97,Regular,,0,0,0,,I’ll be the one to go.
-Dialogue: 0,0:18:03.97,0:18:04.99,Regular,,0,0,0,,Neviril?
+Dialogue: 0,0:18:03.47,0:18:04.99,Regular,,0,0,0,,Neviril?
 Dialogue: 0,0:18:04.99,0:18:07.25,Regular,,0,0,0,,Morinas, you’re with me.
 Dialogue: 0,0:18:07.25,0:18:09.25,Regular,,0,0,0,,Huh? Me?
 Dialogue: 0,0:18:09.25,0:18:11.11,Regular,,0,0,0,,Neviril, no! You’re still—
