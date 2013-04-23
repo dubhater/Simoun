@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 224
-Active Line: 233
+Scroll Position: 226
+Active Line: 237
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-17.mkv
 Keyframes File: ../../scxvid/simoun-17-keyframes.txt
 Audio URI: ../../audio/simoun-17.flac
 YCbCr Matrix: TV.601
-Video Position: 34646
+Video Position: 34899
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 0,0:04:17.31,0:04:20.40,Regular,,0,0,0,,Everything we’ve gone\N thro
 Dialogue: 0,0:04:20.40,0:04:23.78,Regular,,0,0,0,,Everything has happened \Nbecause of my selfishness.
 Dialogue: 0,0:04:23.78,0:04:27.53,Regular,,0,0,0,,Trying to forget Amuria \Nand the Emerald Ri Maajon?
 Dialogue: 0,0:04:28.77,0:04:31.54,Regular,,0,0,0,,What foolishness is this, Neviril?
-Dialogue: 0,0:04:50.40,0:04:55.56,Regular,,0,0,0,,There are so many things \Nyou mustn’t forget, Neviril!
+Dialogue: 0,0:04:49.76,0:04:55.56,Regular,,0,0,0,,There are so many things \Nyou mustn’t forget, Neviril!
 Dialogue: 0,0:05:17.94,0:05:19.91,Regular,,0,0,0,,Dominura and Limone…
 Dialogue: 0,0:05:21.13,0:05:23.26,Regular,,0,0,0,,They’re gone, aren’t they?
 Dialogue: 0,0:05:25.21,0:05:29.26,Regular,,0,0,0,,The Emerald Ri Maajon failed, eh?
@@ -80,7 +80,7 @@ Dialogue: 0,0:05:39.52,0:05:42.73,Regular,,0,0,0,,Thinking that might \Nmake it 
 Dialogue: 0,0:05:42.73,0:05:47.54,Regular,,0,0,0,,However, the important thing is not the reason, but the result.
 Dialogue: 0,0:05:48.31,0:05:51.78,Regular,,0,0,0,,We’ve lost more \Nof our precious friends.
 Dialogue: 0,0:06:01.67,0:06:04.30,Regular,,0,0,0,,So, we’re finally back \Non the {\i1}Arcus Prima{\i0}.
-Dialogue: 0,0:06:04.99,0:06:07.93,Regular,,0,0,0,,I don’t see how you can be\N so happy about it, Floe.
+Dialogue: 0,0:06:05.05,0:06:07.93,Regular,,0,0,0,,I don’t see how you can be\N so happy about it, Floe.
 Dialogue: 0,0:06:08.80,0:06:11.64,Regular,,0,0,0,,What? Are you saying you’re not, Alti?
 Dialogue: 0,0:06:11.64,0:06:12.98,Regular,,0,0,0,,I am happy!
 Dialogue: 0,0:06:14.34,0:06:16.10,Regular,,0,0,0,,I am, but…
@@ -92,7 +92,7 @@ Dialogue: 0,0:06:46.07,0:06:48.22,Regular,,0,0,0,,Welcome aboard the {\i1}Arcus 
 Dialogue: 0,0:06:48.92,0:06:54.05,Regular,,0,0,0,,As for the many things that have happened to you, I deeply—
 Dialogue: 0,0:06:54.05,0:06:55.07,Regular,,0,0,0,,Listen!
 Dialogue: 0,0:06:55.07,0:07:00.56,Regular,,0,0,0,,Twelve Simoun from Chor Rubor and \NChor Caput were destroyed in the bombing.
-Dialogue: 0,0:07:01.16,0:07:03.59,Regular,,0,0,0,,Central Command hasn’t been able \Nto find replacements for them!
+Dialogue: 0,0:07:00.56,0:07:03.59,Regular,,0,0,0,,Central Command hasn’t been able \Nto find replacements for them!
 Dialogue: 0,0:07:03.59,0:07:10.07,Regular,,0,0,0,,Right now, the only choir aboard the {\i1}Arcus Prima{\i0} is yours, Chor Tempest.
 Dialogue: 0,0:07:10.07,0:07:14.58,Regular,,0,0,0,,Your Eminence, what about the members of Chor Rubor and Chor Caput?
 Dialogue: 0,0:07:14.58,0:07:17.75,Regular,,0,0,0,,Most of their sibyllae \Nhave gone to the Spring.
@@ -120,7 +120,7 @@ Dialogue: 0,0:08:32.68,0:08:37.81,Regular,,0,0,0,,The Ruins are the holiest site
 Dialogue: 0,0:08:37.81,0:08:39.80,Regular,,0,0,0,,They are a forbidden place.
 Dialogue: 0,0:08:39.80,0:08:48.04,Regular,,0,0,0,,We {\i1}must{\i0} reach the Ruins before the forces of the Alliance, without fail!
 Dialogue: 0,0:08:54.84,0:08:56.05,Regular,,0,0,0,,Is this…
-Dialogue: 0,0:08:59.52,0:09:02.77,Regular,,0,0,0,,Yes, what is it, Sibylla Floe?
+Dialogue: 0,0:08:58.93,0:09:02.77,Regular,,0,0,0,,Yes, what is it, Sibylla Floe?
 Dialogue: 0,0:09:03.56,0:09:05.81,Regular,,0,0,0,,Is this mission mandatory?
 Dialogue: 0,0:09:08.11,0:09:13.88,Regular,,0,0,0,,You are the only ones in the entire Theocracy who can accomplish—
 Dialogue: 0,0:09:13.88,0:09:15.82,Regular,,0,0,0,,This is not a request.
@@ -157,7 +157,7 @@ Dialogue: 0,0:12:34.52,0:12:35.98,Regular,,0,0,0,,Yeah!
 Dialogue: 0,0:12:40.86,0:12:43.07,Regular,,0,0,0,,— Neviril?\N— What?
 Dialogue: 0,0:12:43.07,0:12:44.75,Regular,,0,0,0,,Um… nothing…
 Dialogue: 0,0:12:44.75,0:12:46.32,Regular,,0,0,0,,Para-sama! Hurry!
-Dialogue: 0,0:13:14.77,0:13:17.10,Regular,,0,0,0,,This must be hard on you.
+Dialogue: 0,0:13:14.77,0:13:16.98,Regular,,0,0,0,,This must be hard on you.
 Dialogue: 0,0:13:17.74,0:13:18.77,Regular,,0,0,0,,Well…
 Dialogue: 0,0:13:19.49,0:13:22.44,Regular,,0,0,0,,There are others \Nfor whom this is harder.
 Dialogue: 0,0:14:01.27,0:14:02.82,Regular,,0,0,0,,Wait, that’s…!
@@ -179,7 +179,7 @@ Dialogue: 0,0:15:23.90,0:15:25.36,Regular,,0,0,0,,Those are Simoun!
 Dialogue: 0,0:15:27.36,0:15:30.21,Regular,,0,0,0,,I’ve never seen anything\N like that before.
 Dialogue: 0,0:15:30.21,0:15:31.36,Regular,,0,0,0,,No.
 Dialogue: 0,0:15:31.36,0:15:33.37,Regular,,0,0,0,,What should we do, Para-sama?
-Dialogue: 0,0:15:33.82,0:15:34.87,Regular,,0,0,0,,Well…
+Comment: 0,0:15:33.82,0:15:34.87,Regular,,0,0,0,,Well…
 Dialogue: 0,0:15:35.49,0:15:36.49,Regular,,0,0,0,,Para-sama!
 Dialogue: 0,0:15:36.49,0:15:37.37,Regular,,0,0,0,,Follow them!
 Dialogue: 0,0:15:37.37,0:15:38.24,Regular,,0,0,0,,Yes!
@@ -228,7 +228,7 @@ Dialogue: 0,0:19:04.45,0:19:06.62,Regular,,0,0,0,,We finally got one, eh?
 Dialogue: 0,0:19:16.55,0:19:18.13,Regular,,0,0,0,,Onashia…
 Dialogue: 0,0:19:19.42,0:19:21.13,Regular,,0,0,0,,Onashia?
 Dialogue: 0,0:19:22.37,0:19:28.14,Regular,,0,0,0,,Welcome, Sibylla Neviril, Sibylla Aaeru.
-Dialogue: 0,0:19:28.70,0:19:29.73,Regular,,0,0,0,,Why?
+Dialogue: 0,0:19:28.14,0:19:29.52,Regular,,0,0,0,,Why?
 Dialogue: 0,0:19:30.47,0:19:32.40,Regular,,0,0,0,,Why is Onashia here?
 Dialogue: 0,0:19:33.11,0:19:35.23,Regular,,0,0,0,,Sibylla Neviril,
 Dialogue: 0,0:19:35.23,0:19:37.71,Regular,,0,0,0,,I am everywhere.
@@ -248,10 +248,10 @@ Dialogue: 0,0:20:25.61,0:20:29.66,Regular,,0,0,0,,and gave the people \Nunending
 Dialogue: 0,0:20:37.08,0:20:38.13,Regular,,0,0,0,,Yun?
 Dialogue: 0,0:20:43.84,0:20:44.89,Regular,,0,0,0,,A Simoun?
 Dialogue: 0,0:20:57.93,0:20:58.98,Regular,,0,0,0,,Yun!
-Dialogue: 0,0:21:00.11,0:21:01.15,Regular,,0,0,0,,What’s wrong, Yun?
+Dialogue: 0,0:21:00.19,0:21:01.36,Regular,,0,0,0,,What’s wrong, Yun?
 Dialogue: 0,0:21:02.57,0:21:04.19,Regular,,0,0,0,,This place!
 Dialogue: 0,0:21:04.19,0:21:07.57,Regular,,0,0,0,,What is going on in this place?
-Dialogue: 0,0:21:11.74,0:21:13.62,Regular,,0,0,0,,Yun!
+Dialogue: 0,0:21:11.74,0:21:13.62,Regular,,0,0,0,,Yun! Yun!
 Dialogue: 0,0:21:14.31,0:21:18.79,Regular,,0,0,0,,Here in this place, \Nall of time and space…
 Dialogue: 0,0:21:20.41,0:21:24.09,Regular,,0,0,0,,…all of it is released\N from the spell.
 Dialogue: 0,0:21:37.85,0:21:39.51,Regular,,0,0,0,,Wait up, Yun!
