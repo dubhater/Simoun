@@ -12,14 +12,14 @@ Timer: 100.0000
 Last Style Storage: Default
 Video Aspect Ratio: c1.7931
 Video Zoom: 6
-Scroll Position: 246
-Active Line: 256
+Scroll Position: 248
+Active Line: 259
 Video Zoom Percent: 0.625
 Video File: ../../raws/simoun-18.mkv
 Keyframes File: ../../scxvid/simoun-18-keyframes.txt
 Audio URI: ../../audio/simoun-18.flac
 YCbCr Matrix: TV.601
-Video Position: 34673
+Video Position: 34899
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +62,7 @@ Dialogue: 0,0:04:36.21,0:04:37.25,Regular,,0,0,0,,Yeah.
 Dialogue: 0,0:04:43.05,0:04:45.13,Regular,,0,0,0,,Huh? What?
 Dialogue: 0,0:04:47.80,0:04:49.05,Regular,,0,0,0,,The Spring?
 Dialogue: 0,0:04:53.18,0:04:58.72,Regular,,0,0,0,,The Spring was inside the Ruins, and Onashia was there as well.
-Dialogue: 0,0:05:00.33,0:05:04.53,Regular,,0,0,0,,This place… this place {\i1}is{\i0} the Spring!
+Dialogue: 0,0:05:00.44,0:05:04.53,Regular,,0,0,0,,This place… this place {\i1}is{\i0} the Spring!
 Dialogue: 0,0:05:04.53,0:05:06.45,Regular,,0,0,0,,It’s just like Grandpa said!
 Dialogue: 0,0:05:12.29,0:05:18.32,Regular,,0,0,0,,And Angulas, whom we thought had been blown up\N in the explosion, was inside the ancient Simoun.
 Dialogue: 0,0:05:18.32,0:05:21.43,Regular,,0,0,0,,I think Angulas went somewhere.
@@ -217,8 +217,8 @@ Dialogue: 0,0:16:16.74,0:16:20.53,Regular,,0,0,0,,With the whereabouts of Sibyll
 Dialogue: 0,0:16:20.53,0:16:23.74,Regular,,0,0,0,,we feel it necessary \Nto reorganize the current pairs.
 Dialogue: 0,0:16:24.45,0:16:26.09,Regular,,0,0,0,,Sibylla Paraietta,
 Dialogue: 0,0:16:26.09,0:16:27.46,Regular,,0,0,0,,Sibylla Kaimu.
-Dialogue: 0,0:16:29.50,0:16:30.89,Regular,,0,0,0,,Sibylla Alti,
-Dialogue: 0,0:16:30.89,0:16:31.92,Regular,,0,0,0,,Sibylla Floe.
+Dialogue: 0,0:16:28.92,0:16:30.71,Regular,,0,0,0,,Sibylla Alti,
+Dialogue: 0,0:16:30.71,0:16:31.92,Regular,,0,0,0,,Sibylla Floe.
 Dialogue: 0,0:16:31.92,0:16:33.64,Regular,,0,0,0,,Sibylla Rodoreamon,
 Dialogue: 0,0:16:33.64,0:16:34.93,Regular,,0,0,0,,Sibylla Morinas.
 Dialogue: 0,0:16:34.93,0:16:37.43,Regular,,0,0,0,,Sibylla Neviril,
@@ -230,13 +230,13 @@ Dialogue: 0,0:16:48.77,0:16:51.65,Regular,,0,0,0,,What?! Why the hell\N do I hav
 Dialogue: 0,0:16:53.65,0:16:56.29,Regular,,0,0,0,,{\i1}She{\i0} is my pair.
 Dialogue: 0,0:16:56.29,0:16:59.16,Regular,,0,0,0,,I demand a satisfactory explanation.
 Dialogue: 0,0:17:01.95,0:17:03.54,Regular,,0,0,0,,Neviril…
-Dialogue: 0,0:17:04.20,0:17:07.08,Regular,,0,0,0,,Please, do not cause \Nmore trouble for me.
+Dialogue: 0,0:17:04.29,0:17:07.08,Regular,,0,0,0,,Please, do not cause \Nmore trouble for me.
 Dialogue: 0,0:17:24.41,0:17:26.56,Regular,,0,0,0,,Having trouble sleeping, Neviril?
 Dialogue: 0,0:17:26.56,0:17:28.38,Regular,,0,0,0,,Yes.
 Dialogue: 0,0:17:28.38,0:17:31.37,Regular,,0,0,0,,Your Maaju this afternoon\N was remarkable.
 Dialogue: 0,0:17:32.20,0:17:33.32,Regular,,0,0,0,,Thank you.
 Dialogue: 0,0:17:37.96,0:17:40.20,Regular,,0,0,0,,Will you dance with me?{\N Just one song?}
-Dialogue: 0,0:17:40.74,0:17:43.24,Regular,,0,0,0,,I’m sorry, but right now I…
+Dialogue: 0,0:17:40.20,0:17:43.12,Regular,,0,0,0,,I’m sorry, but right now I…
 Dialogue: 0,0:17:47.71,0:17:49.21,Regular,,0,0,0,,What?
 Dialogue: 0,0:18:05.43,0:18:09.09,Regular,,0,0,0,,I never expected to see you\N stand up for Aaeru.
 Dialogue: 0,0:18:09.09,0:18:11.56,Regular,,0,0,0,,It’s not like I’ve opened my heart to her.
